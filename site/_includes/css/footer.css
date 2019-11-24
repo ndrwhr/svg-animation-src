@@ -1,0 +1,17 @@
+.footer {
+  display: flex;
+  justify-content: center;
+  align-items: center;
+  padding: 5vw 5vw 0;
+}
+
+.footer ul {
+  list-style: none;
+  display: flex;
+  justify-content: center;
+  align-items: center;
+}
+
+.footer ul li:not(:last-child) {
+  margin-right: 2vw;
+}

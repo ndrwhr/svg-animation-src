@@ -1,0 +1,21 @@
+.home svg:not(:hover) * {
+  animation-play-state: paused !important;
+}
+
+.home__section-header {
+  font-size: calc(1vw + 2rem);
+  font-weight: normal;
+  margin-bottom: 3vw;
+}
+
+.home__section-header a {
+  text-decoration: none;
+}
+
+.home__section-header a:hover {
+  text-decoration: underline;
+}
+
+.home__section {
+  margin-bottom: 10vw;
+}

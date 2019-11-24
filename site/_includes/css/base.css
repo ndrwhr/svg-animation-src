@@ -1,0 +1,44 @@
+* {
+  margin: 0;
+  padding: 0;
+  box-sizing: border-box;
+}
+
+a,
+a:visited {
+  color: inherit;
+}
+
+html {
+  font-size: 62.5%;
+}
+
+body {
+  font-family: 'Inconsolata';
+  font-size: 2rem;
+  color: black;
+  background: white;
+}
+
+h1,
+h2 {
+  text-transform: uppercase;
+  margin-bottom: 3vw;
+}
+
+p {
+  margin-bottom: 3vw;
+  line-height: 1.75;
+}
+
+ul {
+  margin: 0 0 3vw 2vw;
+}
+
+li {
+  margin-bottom: 0.75em;
+}
+
+.no-wrap {
+  white-space: nowrap;
+}

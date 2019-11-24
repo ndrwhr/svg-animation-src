@@ -1,0 +1,29 @@
+---
+stylesheets:
+  - "css/single.css"
+---
+{% set css %}
+{% include "css/base.css" %}
+{% include "css/site.css" %}
+{% for sheet in stylesheets %}
+  {% include sheet %}
+{% endfor %}
+{% endset %}
+<!DOCTYPE html>
+<html lang="en">
+  <head>
+    <meta charset="utf-8"/>
+    <meta name="author" content="Andrew Wang-Hoyer"/>
+    <link rel="icon" href="/assets/icon.png"/>
+    <meta name="viewport" content="width=device-width, initial-scale=1">
+    <title>SVG Animations</title>
+    <style>
+      {{css | cssmin | safe}}
+    </style>
+  </head>
+  <body>
+    <div class="site">
+      {{ content | safe }}
+    </div>
+  </body>
+</html>

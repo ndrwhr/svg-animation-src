@@ -1,0 +1,15 @@
+---
+layout: layouts/base
+pagination:
+  data: svgs.groupedByNum
+  size: 1
+  alias: group
+permalink: "/{{group.num}}/"
+---
+<div class="group">
+  {% for variation in group.variations %}
+    <a href="/{{ group.num }}/{{variation}}/">
+      {{ svgs.svgs[group.num][variation].xml | safe }}
+    </a>
+  {% endfor %}
+</div>

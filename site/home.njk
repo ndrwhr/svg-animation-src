@@ -1,0 +1,34 @@
+---
+layout: layouts/base
+pagination:
+  data: svgs.allNums
+  size: 10
+permalink: "/{% if pagination.pageNumber > 0 %}page-{{ pagination.pageNumber + 1 }}/{% endif %}"
+stylesheets:
+  - "css/home.css"
+  - "css/grid.css"
+  - "css/paging.css"
+  - "css/footer.css"
+---
+<div class="home">
+  {% include "paging.njk" %}
+
+  {% for num in pagination.items %}
+    <div class="home__section">
+      <h2 class="home__section-header">
+        ⦗<a href="/{{num}}/">{{ num }} - {{ svgs.variationLookup[num] | length }} VARIATIONS</a>⦘
+      </h2>
+      <div class="grid grid--{{ svgs.variationLookup[num] | length | numColumns }}-col">
+        {% for variation in svgs.variationLookup[num] %}
+          <a class="grid__cell" href="/{{ num }}/{{variation}}/">
+            {{ svgs.svgs[num][variation].xml | safe }}
+          </a>
+        {% endfor %}
+      </div>
+    </div>
+  {% endfor %}
+
+  {% include "paging.njk" %}
+</div>
+
+{% include "footer.njk" %}
