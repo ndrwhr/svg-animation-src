@@ -36,7 +36,8 @@ ul {
 }
 
 li {
-  margin-bottom: 0.75em;
+  line-height: 1.75;
+  margin-bottom: 0.5em;
 }
 
 .no-wrap {

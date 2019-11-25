@@ -1,0 +1,12 @@
+{% set example %}{% include "about/example1.svg" %}{% endset %}
+
+<div class="about__example">
+
+```html
+{{ example | safe }}
+```
+
+  <div>
+    {{ example | safe }}
+  </div>
+</div>
