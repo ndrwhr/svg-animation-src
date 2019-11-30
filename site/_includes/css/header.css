@@ -1,0 +1,25 @@
+.header {
+  text-align: center;
+  margin-bottom: 5rem;
+}
+
+.header h1 {
+  display: flex;
+  justify-content: center;
+  align-items: center;
+  font-size: 10vw;
+  margin-bottom: 5rem;
+}
+
+.header svg {
+  display: inline-block;
+  position: relative;
+  height: 1.5em;
+  width: 1.5em;
+  top: -0.02em;
+  margin-left: 0.3em;
+}
+
+.header p {
+  line-height: 1.75;
+}

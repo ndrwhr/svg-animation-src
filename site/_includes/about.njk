@@ -1,0 +1,52 @@
+<div class="about">
+  <h3>How Does This Work</h3>
+
+  <p>SVGs allow you to embed css stylesheets. Each animation is no more than a series of CSS animations moving around or transforming basic SVG elements.</p>
+
+  {% include "about/example1.njk" %}
+
+  <p>In many cases animations are stacked on top of each other using groups of elements to create more complex motions.</p>
+
+  {% include "about/example2.njk" %}
+
+  <p>I also made liberal use animating dash-offsets on paths (see <a href="http://jakearchibald.com/2013/animated-line-drawing-svg/">Jake Archibald's fantastic explanation</a> on how this works).</p>
+
+  {% include "about/example3.njk" %}
+
+  <h3>What Libraries Did You Use</h3>
+
+  <ul>
+    <li>
+      <a href="http://glmatrix.net/">gl-matrix</a> — For vector/matrix manipulation.</li>
+    <li>
+      <a href="https://github.com/postcss/postcss">postcss</a> — For processing/modifying inlineline stylesheets.</li>
+    <li>
+      <a href="https://github.com/ben-eb/perfectionist">perfectionist</a> — For cleaning up the inline stylesheets.</li>
+    <li>
+      <a href="https://github.com/mahirshah/css-property-parser">css-property-parser</a>/<a href="https://github.com/postcss/postcss-selector-parser">css-selector-parser</a> — To namespace selectors and do a few other manipulations.
+    </li>
+    <li>A bunch of other utilities like <a href="https://lodash.com/">lodash</a>, <a href="https://www.npmjs.com/package/eases">eases</a>, <a href="https://www.npmjs.com/package/case">case</a>, and <a href="https://www.npmjs.com/package/seedrandom">seedrandom</a>.</li>
+    <li>
+      <a href="https://www.11ty.io/">11ty</a> — To generate this static site.
+    </li>
+  </ul>
+
+  <p>For rendering SVGs I wrote my own tiny (read: horrible) renderer as I wanted a chance to play around with <a href="https://developer.mozilla.org/en-US/docs/Web/JavaScript/Reference/Global_Objects/Proxy">proxy objects</a>. At one point I had also experimented with headless chrome to take screenshots and generate gifs/videos of the SVGs by manually stepping forward the animation delay to render individual frames.</p>
+
+  <h3>Credits</h3>
+
+  <p>I like to think that I'm creative, but ultimately I discovered quite a few of designs on places like pinterest or google image search. Each animation lists its attribution if any, but I also wanted to call them all out in one place:</p>
+
+  <ul>
+    {% for thing in things %}
+      <li>{{ thing | markdownInline | safe }}</li>
+    {% endfor %}
+  </ul>
+
+  <h3>Notes</h3>
+
+  <ul>
+    <li>† Unfortunately few browsers support <a href="https://caniuse.com/#feat=link-icon-svg">SVG favicons</a> (as of late 2019 anyway). As such I have had to include a single rasterized image. <span class="no-wrap">(ಥ﹏ಥ)</span></li>
+    <li>‡ Some/most pages include google analytics.</li>
+  </ul>
+</div>

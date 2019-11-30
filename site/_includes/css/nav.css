@@ -1,17 +1,17 @@
-.footer {
+.nav {
   display: flex;
   justify-content: center;
   align-items: center;
-  padding: 5vw 5vw 0;
+  padding: 3rem 3rem 0;
 }
 
-.footer ul {
+.nav ol {
   list-style: none;
   display: flex;
   justify-content: center;
   align-items: center;
 }
 
-.footer ul li:not(:last-child) {
-  margin-right: 2vw;
+.nav ol li:not(:last-child) {
+  margin-right: 2rem;
 }

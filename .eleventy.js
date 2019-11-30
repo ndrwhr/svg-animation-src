@@ -1,5 +1,13 @@
 const CleanCSS = require('clean-css');
 const htmlmin = require('html-minifier');
+const markdownIt = require('markdown-it');
+const markdownItSup = require('markdown-it-sup');
+
+const markdownLib = markdownIt({
+  html: true,
+})
+  .use(markdownItSup)
+  .disable('code');
 
 const columnLookup = {
   1: 1,
@@ -30,6 +38,10 @@ module.exports = function(eleventyConfig) {
     return new CleanCSS({ level: 2 }).minify(code).styles;
   });
 
+  eleventyConfig.addFilter('markdownInline', function(str) {
+    return markdownLib.renderInline(str);
+  });
+
   eleventyConfig.addTransform('htmlmin', function(content, outputPath) {
     if (outputPath.endsWith('.html')) {
       const minified = htmlmin.minify(content, {
@@ -43,11 +55,6 @@ module.exports = function(eleventyConfig) {
     return content;
   });
 
-  const markdownIt = require('markdown-it');
-  const markdownItSup = require('markdown-it-sup');
-  const markdownLib = markdownIt({
-    html: true,
-  }).use(markdownItSup);
   eleventyConfig.setLibrary('md', markdownLib);
 
   return {

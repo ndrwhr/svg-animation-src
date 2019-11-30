@@ -1,0 +1,9 @@
+<nav class="nav">
+  <ol>
+    {% for text, href in navLinks %}
+      <li>
+        <a href="{{href}}">{{text | upper}}</a>
+      </li>
+    {% endfor %}
+  </ol>
+</nav>

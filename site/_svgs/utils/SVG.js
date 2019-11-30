@@ -279,9 +279,22 @@ class StyleElement extends Element {
   }
 }
 
+class MetaElement extends Element {
+  constructor(tagName, parent, text = '') {
+    super(tagName, parent);
+    this.text = text;
+  }
+
+  render() {
+    return commonToString(this.tagName, this.attributes, [this.text]);
+  }
+}
+
 const SPECIAL_CONSTRUCTORS = {
   svg: SVGElement,
   style: StyleElement,
+  title: MetaElement,
+  desc: MetaElement,
 };
 
 module.exports = ElementFactoryProxy;

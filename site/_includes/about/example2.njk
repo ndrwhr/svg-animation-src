@@ -1,12 +1,6 @@
 {% set example %}{% include "about/example2.svg" %}{% endset %}
 
 <div class="about__example">
-
-```html
-{{ example | safe }}
-```
-
-  <div>
-    {{ example | safe }}
-  </div>
+  <pre><code>{{ example }}</code></pre>
+  {{ example | safe }}
 </div>

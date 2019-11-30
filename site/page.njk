@@ -3,19 +3,29 @@ layout: layouts/base
 pagination:
   data: svgs.allNums
   size: 10
-permalink: "/{% if pagination.pageNumber > 0 %}page-{{ pagination.pageNumber + 1 }}/{% endif %}"
+permalink: "/{% if pagination.pageNumber != 0 %}page-{{ pagination.pageNumber + 1 }}/{% endif %}"
+navLinks:
+  'source code': 'https://github.com/ndrwhr/svg-animations'
+  'more experiments': 'http://andrew.wang-hoyer.com'
 stylesheets:
-  - "css/home.css"
+  - "css/about.css"
   - "css/grid.css"
+  - "css/header.css"
+  - "css/nav.css"
+  - "css/page.css"
   - "css/paging.css"
-  - "css/footer.css"
+things:
+  - 'hello world.'
+  - 'sometimes this is a <a href="https://example.com">thing</a>.'
 ---
-<div class="home">
+{% include "header.njk" %}
+
+<div class="page">
   {% include "paging.njk" %}
 
   {% for num in pagination.items %}
-    <div class="home__section">
-      <h2 class="home__section-header">
+    <div class="page__section">
+      <h2 class="page__section-header">
         ⦗<a href="/{{num}}/">{{ num }} - {{ svgs.variationLookup[num] | length }} VARIATIONS</a>⦘
       </h2>
       <div class="grid grid--{{ svgs.variationLookup[num] | length | numColumns }}-col">
@@ -31,4 +41,6 @@ stylesheets:
   {% include "paging.njk" %}
 </div>
 
-{% include "footer.njk" %}
+{% include "about.njk" %}
+
+{% include "nav.njk" %}

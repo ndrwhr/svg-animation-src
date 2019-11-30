@@ -2,10 +2,7 @@
   display: flex;
   list-style: none;
   justify-content: center;
-}
-
-.paging:first-child {
-  margin-bottom: 5vw;
+  margin-bottom: 5rem;
 }
 
 .paging__page {
