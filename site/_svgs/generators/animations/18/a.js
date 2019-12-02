@@ -1,8 +1,8 @@
-const range = require('lodash/range')
-const { vec2 } = require('gl-matrix')
+const range = require('lodash/range');
+const { vec2 } = require('gl-matrix');
 
-const SVG = require('../../utils/SVG')
-const { createPoints } = require('../../utils/Polygon')
+const SVG = require('../../utils/SVG');
+const { createPoints } = require('../../utils/Polygon');
 
 // http://www.fundza.com/algorithmic/space_filling/hilbert/basics/index.html
 const hilbert = (x0, y0, xi, xj, yi, yj, n) => {

@@ -1,6 +1,6 @@
 const SVG = require('../../utils/SVG');
 
-const make_s = (delayFn) => {
+const make_s = delayFn => {
   const DURATION = 1;
   const OUTER_RADIUS = 31;
   const INNER_RADIUS = 3;

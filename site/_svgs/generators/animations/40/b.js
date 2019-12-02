@@ -1,6 +1,6 @@
-const range = require('lodash/range')
+const range = require('lodash/range');
 
-const SVG = require('../../utils/SVG')
+const SVG = require('../../utils/SVG');
 
 const polarToCart = (theta, r) => ({
   cx: r * Math.cos(toRad(theta)),

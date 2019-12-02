@@ -1,7 +1,7 @@
-const { vec2 } = require('gl-matrix')
+const { vec2 } = require('gl-matrix');
 
-const SVG = require('../../utils/SVG')
-const { sierpinskiTriangle } = require('../../utils/LSystem')
+const SVG = require('../../utils/SVG');
+const { sierpinskiTriangle } = require('../../utils/LSystem');
 
 module.exports = () => {
   const points = sierpinskiTriangle({

@@ -1,8 +1,8 @@
-const classNames = require('classnames')
-const range = require('lodash/range')
+const classNames = require('classnames');
+const range = require('lodash/range');
 
-const SVG = require('../../utils/SVG')
-const { createPoints } = require('../../utils/Polygon')
+const SVG = require('../../utils/SVG');
+const { createPoints } = require('../../utils/Polygon');
 
 const toRad = deg => (Math.PI * deg) / 180;
 

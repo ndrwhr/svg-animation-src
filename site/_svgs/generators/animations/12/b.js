@@ -1,8 +1,8 @@
-const range = require('lodash/range')
-const { vec2 } = require('gl-matrix')
+const range = require('lodash/range');
+const { vec2 } = require('gl-matrix');
 
-const SVG = require('../../utils/SVG')
-const { createPoints } = require('../../utils/Polygon')
+const SVG = require('../../utils/SVG');
+const { createPoints } = require('../../utils/Polygon');
 
 module.exports = () => {
   const animationDuration = 20;

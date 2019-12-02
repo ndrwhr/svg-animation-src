@@ -1,7 +1,7 @@
-const range = require('lodash/range')
-const ease = require('eases/cubic-in-out')
+const range = require('lodash/range');
+const ease = require('eases/cubic-in-out');
 
-const SVG = require('../../utils/SVG')
+const SVG = require('../../utils/SVG');
 
 module.exports = () => {
   const DURATION = 5;

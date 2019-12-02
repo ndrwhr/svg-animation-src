@@ -1,5 +1,5 @@
-const SVG = require('../../utils/SVG')
-const range = require('lodash/range')
+const SVG = require('../../utils/SVG');
+const range = require('lodash/range');
 
 const NUM_SLICES = 50;
 const CENTER_RADIUS = 30;

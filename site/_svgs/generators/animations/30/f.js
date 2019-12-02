@@ -1,8 +1,8 @@
-const { vec2 } = require('gl-matrix')
-const range = require('lodash/range')
+const { vec2 } = require('gl-matrix');
+const range = require('lodash/range');
 
-const SVG = require('../../utils/SVG')
-const ParametricEquations = require('../../utils/ParametricEquations')
+const SVG = require('../../utils/SVG');
+const ParametricEquations = require('../../utils/ParametricEquations');
 
 module.exports = () => {
   const DURATION = 240;

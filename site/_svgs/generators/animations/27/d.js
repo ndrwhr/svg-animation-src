@@ -1,10 +1,10 @@
-const classNames = require('classnames')
-const eases = require('eases')
-const range = require('lodash/range')
+const classNames = require('classnames');
+const eases = require('eases');
+const range = require('lodash/range');
 
-const SVG = require('../../utils/SVG')
-const { pointsToCurvedPathData } = require('../../utils/Path')
-const { createPoints } = require('../../utils/Polygon')
+const SVG = require('../../utils/SVG');
+const { pointsToCurvedPathData } = require('../../utils/Path');
+const { createPoints } = require('../../utils/Polygon');
 
 module.exports = () => {
   const NUM_SIDES = 3;

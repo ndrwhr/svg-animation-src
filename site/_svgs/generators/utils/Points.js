@@ -1,4 +1,4 @@
-const { vec2 } = require('gl-matrix')
+const { vec2 } = require('gl-matrix');
 
 module.exports.centerAndScalePoints = (points, { maxSize = 100 }) => {
   // Calculate the bounding rectangle.

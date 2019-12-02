@@ -1,4 +1,4 @@
-const SVG = require('../../utils/SVG')
+const SVG = require('../../utils/SVG');
 
 module.exports = () => {
   const RECT_WIDTH = 30;

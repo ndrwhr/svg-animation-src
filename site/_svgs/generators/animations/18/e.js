@@ -1,8 +1,8 @@
-const range = require('lodash/range')
-const { vec2 } = require('gl-matrix')
+const range = require('lodash/range');
+const { vec2 } = require('gl-matrix');
 
-const SVG = require('../../utils/SVG')
-const { gosper } = require('../../utils/LSystem')
+const SVG = require('../../utils/SVG');
+const { gosper } = require('../../utils/LSystem');
 
 module.exports = () => {
   const points = gosper({

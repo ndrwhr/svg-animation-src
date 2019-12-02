@@ -1,6 +1,6 @@
-const { vec2 } = require('gl-matrix')
+const { vec2 } = require('gl-matrix');
 
-const { make } = require('./a')
+const { make } = require('./a');
 
 module.exports = make({
   delayFn: (numLines, i) => 2 - (i * 2) / numLines,

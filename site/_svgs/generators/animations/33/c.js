@@ -1,7 +1,7 @@
-const range = require('lodash/range')
-const { vec2 } = require('gl-matrix')
+const range = require('lodash/range');
+const { vec2 } = require('gl-matrix');
 
-const SVG = require('../../utils/SVG')
+const SVG = require('../../utils/SVG');
 
 const NUM_PER_ROW = 8;
 

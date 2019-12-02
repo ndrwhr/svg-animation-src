@@ -1,8 +1,8 @@
-const range = require('lodash/range')
-const { vec2 } = require('gl-matrix')
+const range = require('lodash/range');
+const { vec2 } = require('gl-matrix');
 
-const SVG = require('../../utils/SVG')
-const { circlePath, squarePath } = require('../../utils/Path')
+const SVG = require('../../utils/SVG');
+const { circlePath, squarePath } = require('../../utils/Path');
 
 // Nested rotating circle inside of a square.
 

@@ -50,19 +50,16 @@ const make = options => () => {
         colIndex * (PADDING + HALF_SQUARE_SIZE);
 
       const id = `grid-clip-path-${rowIndex}-${colIndex}`;
-      defs
-        .clipPath({
-              })
-        .rect(
-          Object.assign({
-            rx: RADIUS,
-            ry: RADIUS,
-            x: x - HALF_SQUARE_SIZE + OFFSET,
-            y: y - HALF_SQUARE_SIZE + OFFSET,
-            width: SQUARE_SIZE,
-            height: SQUARE_SIZE,
-          }),
-        );
+      defs.clipPath({}).rect(
+        Object.assign({
+          rx: RADIUS,
+          ry: RADIUS,
+          x: x - HALF_SQUARE_SIZE + OFFSET,
+          y: y - HALF_SQUARE_SIZE + OFFSET,
+          width: SQUARE_SIZE,
+          height: SQUARE_SIZE,
+        }),
+      );
 
       const rectX = x - SQUARE_SIZE + OFFSET;
       const rectY = y + HALF_SQUARE_SIZE / 8 + OFFSET;

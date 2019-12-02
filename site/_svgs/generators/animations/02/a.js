@@ -1,7 +1,7 @@
-const range = require('lodash/range')
+const range = require('lodash/range');
 
-const SVG = require('../../utils/SVG')
-const { createPoints, getPerimiterLength } = require('../../utils/Polygon')
+const SVG = require('../../utils/SVG');
+const { createPoints, getPerimiterLength } = require('../../utils/Polygon');
 
 module.exports = () => {
   const DURATION = 20;

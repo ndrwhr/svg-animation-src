@@ -1,6 +1,6 @@
-const range = require('lodash/range')
+const range = require('lodash/range');
 
-const SVG = require('../../utils/SVG')
+const SVG = require('../../utils/SVG');
 
 const makePath = (curveWidth, curveDepth) => {
   const EXTENSIONS = 50;

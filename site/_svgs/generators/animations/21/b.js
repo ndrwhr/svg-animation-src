@@ -1,6 +1,6 @@
-const range = require('lodash/range')
+const range = require('lodash/range');
 
-const SVG = require('../../utils/SVG')
+const SVG = require('../../utils/SVG');
 
 const sierpinski = (x, y, size, depth) => {
   const points = [];

@@ -1,5 +1,5 @@
-const { vec2 } = require('gl-matrix')
-const range = require('lodash/range')
+const { vec2 } = require('gl-matrix');
+const range = require('lodash/range');
 
 const toPixels = (q, r, edgeLength) =>
   vec2.fromValues(

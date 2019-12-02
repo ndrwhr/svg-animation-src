@@ -1,7 +1,7 @@
-const SVG = require('../../utils/SVG')
-const { polygonPath } = require('../../utils/Path')
-const range = require('lodash/range')
-const { createPoints } = require('../../utils/Polygon')
+const SVG = require('../../utils/SVG');
+const { polygonPath } = require('../../utils/Path');
+const range = require('lodash/range');
+const { createPoints } = require('../../utils/Polygon');
 
 const NUM_SLICES = 60;
 const HEIGHT = 60;

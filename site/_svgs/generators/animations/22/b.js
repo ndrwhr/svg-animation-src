@@ -1,6 +1,6 @@
-const range = require('lodash/range')
+const range = require('lodash/range');
 
-const SVG = require('../../utils/SVG')
+const SVG = require('../../utils/SVG');
 
 module.exports = () => {
   const STRIP_THICKNESS = 5;

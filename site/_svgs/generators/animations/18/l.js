@@ -1,8 +1,8 @@
-const { vec2 } = require('gl-matrix')
+const { vec2 } = require('gl-matrix');
 
-const SVG = require('../../utils/SVG')
-const { sierpinskiSquare } = require('../../utils/LSystem')
-const { pointsToCurvedPathData } = require('../../utils/Path')
+const SVG = require('../../utils/SVG');
+const { sierpinskiSquare } = require('../../utils/LSystem');
+const { pointsToCurvedPathData } = require('../../utils/Path');
 
 module.exports = () => {
   const points = sierpinskiSquare({
