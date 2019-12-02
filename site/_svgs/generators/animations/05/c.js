@@ -23,7 +23,7 @@ const createPoints = () => {
   return points;
 };
 
-module.exports = id => {
+module.exports = () => {
   const DURATION = 1;
 
   const svg = SVG.svg({

@@ -3,7 +3,7 @@ const { vec2 } = require('gl-matrix')
 
 const SVG = require('../../utils/SVG')
 
-module.exports = id => {
+module.exports = () => {
   const NUM_CIRCLES = 5;
   const DURATION = 10;
   const TIME_STEP = DURATION / NUM_CIRCLES;

@@ -6,7 +6,7 @@ const SVG = require('../../utils/SVG')
 const { pointsToCurvedPathData } = require('../../utils/Path')
 const { createPoints } = require('../../utils/Polygon')
 
-module.exports = id => {
+module.exports = () => {
   const NUM_SIDES = 6;
   const MAX_RADIUS = 20;
   const END_SCALE = 0.5;

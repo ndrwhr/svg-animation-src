@@ -4,7 +4,7 @@ const SVG = require('../../utils/SVG')
 const { sierpinskiTriangle } = require('../../utils/LSystem')
 const { pointsToCurvedPathData } = require('../../utils/Path')
 
-module.exports = id => {
+module.exports = () => {
   const points = sierpinskiTriangle({
     size: 90,
     iterations: 4,

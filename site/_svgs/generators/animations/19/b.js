@@ -3,7 +3,7 @@ const range = require('lodash/range')
 
 const SVG = require('../../utils/SVG')
 
-module.exports = id => {
+module.exports = () => {
   const RADIUS = 25;
   const OFFSET = 10;
   const DURATION = 3;

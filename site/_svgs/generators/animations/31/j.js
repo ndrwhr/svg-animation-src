@@ -1,7 +1,7 @@
 const SVG = require('../../utils/SVG');
 const ParametricEquations = require('../../utils/ParametricEquations');
 
-const make = (roseOptions, endRotation) => id => {
+const make = (roseOptions, endRotation) => () => {
   const DURATION = 3;
 
   const svg = SVG.svg({

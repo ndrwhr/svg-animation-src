@@ -4,7 +4,7 @@ const { vec2 } = require('gl-matrix')
 const SVG = require('../../utils/SVG')
 const { createPoints } = require('../../utils/Polygon')
 
-module.exports = id => {
+module.exports = () => {
   const animationDuration = 10;
   const NUM_POINTS = 8;
   const NUM_INNER_SHAPES = 4;

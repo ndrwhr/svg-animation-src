@@ -3,7 +3,7 @@ const { vec2 } = require('gl-matrix')
 const SVG = require('../../utils/SVG')
 const { rings } = require('../../utils/LSystem')
 
-module.exports = id => {
+module.exports = () => {
   const points = rings({
     size: 90,
     iterations: 2,

@@ -6,7 +6,7 @@ const { circlePath, squarePath } = require('../../utils/Path')
 
 // Nested rotating circle inside of a square.
 
-module.exports = id => {
+module.exports = () => {
   const NUM_STRIPS = 15;
   const CIRCLE_RADIUS = 30;
   const SQUARE_SIZE = 70;

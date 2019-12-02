@@ -3,7 +3,7 @@ const { vec2 } = require('gl-matrix')
 
 const SVG = require('../../utils/SVG')
 
-module.exports = id => {
+module.exports = () => {
   const ORBIT_RADIUS_X = 40;
   const ORBIT_RADIUS_Y = 10;
 

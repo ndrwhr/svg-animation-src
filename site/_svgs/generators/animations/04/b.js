@@ -3,7 +3,7 @@ const range = require('lodash/range')
 const SVG = require('../../utils/SVG')
 const { createAngles, createPoints } = require('../../utils/Polygon')
 
-module.exports = id => {
+module.exports = () => {
   const RING_COUNT = 10;
   const DURATION = 1;
   const STROKE_WIDTH = 2;

@@ -4,7 +4,7 @@ const { vec2 } = require('gl-matrix')
 const SVG = require('../../utils/SVG')
 const { createPoints } = require('../../utils/Polygon')
 
-module.exports = id => {
+module.exports = () => {
   const NUM_LINES = 3;
   const NUM_FACETS = 5;
   const OUTER_RADIUS = 40;

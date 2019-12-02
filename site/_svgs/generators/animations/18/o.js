@@ -4,7 +4,7 @@ const SVG = require('../../utils/SVG')
 const { rings } = require('../../utils/LSystem')
 const { pointsToCurvedPathData } = require('../../utils/Path')
 
-module.exports = id => {
+module.exports = () => {
   const points = rings({
     size: 90,
     iterations: 2,

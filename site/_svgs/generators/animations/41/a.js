@@ -8,7 +8,7 @@ const DURATION = 3;
 
 const toRad = deg => (Math.PI * deg) / 180;
 
-const make = (id, getDelayFn) => {
+const make = (getDelayFn) => {
   const svg = SVG.svg({
     dataAnimationDuration: `${DURATION}s`,
     viewBox: '-50 -50 100 100',
@@ -68,7 +68,7 @@ const make = (id, getDelayFn) => {
   return svg;
 };
 
-module.exports = id => {
-  return make(id, points => ([cx, cy]) => 0);
+module.exports = () => {
+  return make(points => ([cx, cy]) => 0);
 };
 module.exports.make = make;

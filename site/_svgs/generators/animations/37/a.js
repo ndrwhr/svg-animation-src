@@ -3,7 +3,7 @@ const { vec2 } = require('gl-matrix')
 
 const SVG = require('../../utils/SVG')
 
-module.exports = id => {
+module.exports = () => {
   const DURATION = 2;
   const SIZE = 70;
   const NUM_COLS = 10;

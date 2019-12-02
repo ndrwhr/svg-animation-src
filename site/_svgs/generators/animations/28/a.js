@@ -2,7 +2,7 @@ const range = require('lodash/range');
 
 const SVG = require('../../utils/SVG');
 
-const make = options => id => {
+const make = options => () => {
   const SQUARE_SIZE = 10;
   const HALF_SQUARE_SIZE = SQUARE_SIZE / 2;
   const PADDING = 2;

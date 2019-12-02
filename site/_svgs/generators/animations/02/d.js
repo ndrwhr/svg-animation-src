@@ -12,7 +12,7 @@ const getScale = (numSides, angle) => {
   return scale;
 };
 
-module.exports = id => {
+module.exports = () => {
   const DURATION = 2;
   const NUM_SIDES = 3;
   const NUM_NESTED = 15;

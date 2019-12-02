@@ -5,7 +5,7 @@ const { vec2 } = require('gl-matrix');
 const SVG = require('../../utils/SVG');
 const { createPoints } = require('../../utils/Polygon');
 
-const make = (dashArray = [[1, 1]], duration = 3) => id => {
+const make = (dashArray = [[1, 1]], duration = 3) => () => {
   const NUM_POINTS = 3;
   const NUM_LINES = NUM_POINTS * 10;
   const RADIUS = 40;

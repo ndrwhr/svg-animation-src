@@ -1,3 +1,9 @@
-const { make } = require('./a')
+const { make } = require('./a');
 
-module.exports = id => make(id, [[1, 1], [-1, 1], [1, -1], [-1, -1]]);
+module.exports = () =>
+  make([
+    [1, 1],
+    [-1, 1],
+    [1, -1],
+    [-1, -1],
+  ]);

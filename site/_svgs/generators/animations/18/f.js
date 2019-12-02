@@ -5,7 +5,7 @@ const SVG = require('../../utils/SVG')
 const { gosper } = require('../../utils/LSystem')
 const { pointsToCurvedPathData } = require('../../utils/Path')
 
-module.exports = id => {
+module.exports = () => {
   const points = gosper({
     iterations: 3,
     size: 90,

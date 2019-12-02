@@ -3,7 +3,7 @@ const range = require('lodash/range')
 const SVG = require('../../utils/SVG')
 const { createPoints, getPerimiterLength } = require('../../utils/Polygon')
 
-module.exports = id => {
+module.exports = () => {
   const DURATION = 20;
   const NUM_POINTS = 7;
   const NUM_LINES = NUM_POINTS;

@@ -4,7 +4,7 @@ const range = require('lodash/range')
 const SVG = require('../../utils/SVG')
 const ParametricEquations = require('../../utils/ParametricEquations')
 
-module.exports = id => {
+module.exports = () => {
   const DURATION = 240;
   const NUM_CIRCLES = 33;
 

@@ -20,7 +20,7 @@ const makePath = (curveWidth, curveDepth) => {
   ].join(' ');
 };
 
-module.exports = id => {
+module.exports = () => {
   const DURATION = 3;
 
   const MIN_WIDTH = 40;

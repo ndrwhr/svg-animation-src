@@ -1,6 +1,6 @@
 const SVG = require('../../utils/SVG');
 
-const make = (id, scales) => {
+const make = scales => {
   const DURATION = 3;
   const HEIGHT = 90;
   const WIDTH = 45;
@@ -61,8 +61,8 @@ const make = (id, scales) => {
   return svg;
 };
 
-module.exports = id =>
-  make(id, [
+module.exports = () =>
+  make([
     [1, 1],
     [-1, 1],
   ]);

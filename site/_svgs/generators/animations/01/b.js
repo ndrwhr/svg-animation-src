@@ -2,7 +2,7 @@ const range = require('lodash/range')
 
 const SVG = require('../../utils/SVG')
 
-module.exports = id => {
+module.exports = () => {
   const numSquares = 8;
   const ANGLE_OFFSET = 360 / numSquares;
   const DURATION = 15;

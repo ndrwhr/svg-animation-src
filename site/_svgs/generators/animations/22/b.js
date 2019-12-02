@@ -2,7 +2,7 @@ const range = require('lodash/range')
 
 const SVG = require('../../utils/SVG')
 
-module.exports = id => {
+module.exports = () => {
   const STRIP_THICKNESS = 5;
   const RADIUS = 30;
   const DURATION = 3;

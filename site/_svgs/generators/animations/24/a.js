@@ -3,7 +3,7 @@ const range = require('lodash/range')
 const SVG = require('../../utils/SVG')
 const { createPoints } = require('../../utils/Polygon')
 
-module.exports = id => {
+module.exports = () => {
   const NUM_NESTED_CIRCLES = 15;
   const RADIUS = 20;
   const DURATION = 3;

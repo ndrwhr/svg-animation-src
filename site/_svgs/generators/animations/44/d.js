@@ -1,6 +1,6 @@
 const SVG = require('../../utils/SVG');
 
-const make_s = (id, delayFn) => {
+const make_s = (delayFn) => {
   const DURATION = 1;
   const OUTER_RADIUS = 31;
   const INNER_RADIUS = 3;
@@ -78,5 +78,5 @@ const make_s = (id, delayFn) => {
   return svg;
 };
 
-module.exports = id => make_s(id, (numLines, i) => 2 - (i * 2) / numLines);
+module.exports = () => make_s((numLines, i) => 2 - (i * 2) / numLines);
 module.exports.make_s = make_s;

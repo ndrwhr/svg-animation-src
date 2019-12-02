@@ -9,7 +9,7 @@ const polarToCart = (theta, r) => ({
 
 const toRad = deg => (Math.PI * deg) / 180;
 
-module.exports = id => {
+module.exports = () => {
   const DURATION = 1;
   const NUM_RINGS = 10;
   const MIN_RADIUS = 5;

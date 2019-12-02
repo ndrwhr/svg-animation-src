@@ -42,7 +42,7 @@ const hilbert = (x0, y0, xi, xj, yi, yj, n) => {
   }
 };
 
-module.exports = id => {
+module.exports = () => {
   const SIZE = 80;
   const OFFSET = (100 - SIZE) / 2;
 

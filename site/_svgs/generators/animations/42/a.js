@@ -10,7 +10,7 @@ const DURATION = 2;
 
 const toRad = deg => (Math.PI * deg) / 180;
 
-const make = ({ delayFn, transformOrigin = '0 0' }) => id => {
+const make = ({ delayFn, transformOrigin = '0 0' }) => () => {
   const svg = SVG.svg({
     dataAnimationDuration: `${DURATION}s`,
     viewBox: '-50 -50 100 100',

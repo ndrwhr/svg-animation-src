@@ -2,7 +2,7 @@ const range = require('lodash/range')
 
 const SVG = require('../../utils/SVG')
 
-module.exports = id => {
+module.exports = () => {
   const MAX_RADIUS = 45;
   const MIN_RADIS = 3;
   const NUM_CIRCLES = 14;

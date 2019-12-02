@@ -9,7 +9,7 @@ const TIMING_OFFSET = 0.7;
 const TIMING_FUNCTION = `cubic-bezier(${TIMING_OFFSET}, 0, ${1 -
   TIMING_OFFSET}, 1)`;
 
-module.exports = id => {
+module.exports = () => {
   const svg = SVG.svg({
     dataAnimationDuration: `${DURATION}s`,
     viewBox: '-50 -50 100 100',

@@ -1,6 +1,6 @@
 const SVG = require('../../utils/SVG')
 
-module.exports = id => {
+module.exports = () => {
   const CIRCLE_R = 20;
   const RECT_HEIGHT = 70;
   const CIRCLE_RADIUS = CIRCLE_R / 1.2;

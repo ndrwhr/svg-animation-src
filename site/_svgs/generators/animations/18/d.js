@@ -4,7 +4,7 @@ const { vec2 } = require('gl-matrix')
 const SVG = require('../../utils/SVG')
 const { gosper } = require('../../utils/LSystem')
 
-module.exports = id => {
+module.exports = () => {
   const points = gosper({
     iterations: 3,
     size: 90,

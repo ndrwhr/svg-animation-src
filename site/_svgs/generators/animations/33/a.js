@@ -25,7 +25,7 @@ const createPoints = () => {
   return points;
 };
 
-module.exports = id => {
+module.exports = () => {
   const DURATION = 1.5;
   const OFFSET = 4;
   const R = 2;

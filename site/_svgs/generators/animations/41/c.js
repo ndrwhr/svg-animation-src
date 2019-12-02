@@ -1,11 +1,11 @@
-const seedrandom = require('seedrandom')
+const seedrandom = require('seedrandom');
 
-const { make } = require('./a')
+const { make } = require('./a');
 
 const rng = seedrandom('41-c');
 
-module.exports = id => {
-  return make(id, () => p => {
+module.exports = () => {
+  return make(() => p => {
     return rng() * 2;
   });
 };

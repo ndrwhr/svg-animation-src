@@ -1,10 +1,10 @@
-const range = require('lodash/range')
-const { vec2 } = require('gl-matrix')
+const range = require('lodash/range');
+const { vec2 } = require('gl-matrix');
 
-const { make } = require('./a')
+const { make } = require('./a');
 
-module.exports = id => {
-  return make(id, points => {
+module.exports = () => {
+  return make(points => {
     const maxL = points.reduce((max, p) => Math.max(vec2.length(p), max), 0);
 
     return p => {

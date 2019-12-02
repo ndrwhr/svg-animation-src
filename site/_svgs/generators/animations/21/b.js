@@ -38,7 +38,7 @@ const sierpinski = (x, y, size, depth) => {
   return points;
 };
 
-module.exports = id => {
+module.exports = () => {
   const DURATION = 5;
   const SIZE = 70;
   const OFFSET = (100 - SIZE) / 2;

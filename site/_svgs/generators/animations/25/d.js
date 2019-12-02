@@ -35,7 +35,7 @@ const getSinValues = numSteps => {
   );
 };
 
-module.exports = id => {
+module.exports = () => {
   const DURATION = 3;
 
   const MIN_WIDTH = 50;

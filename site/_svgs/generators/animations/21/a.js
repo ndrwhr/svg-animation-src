@@ -2,7 +2,7 @@ const range = require('lodash/range')
 
 const SVG = require('../../utils/SVG')
 
-module.exports = id => {
+module.exports = () => {
   const DURATION = 5;
   const ITERATIONS = 7;
   const STROKE_DECAY = 1.2;

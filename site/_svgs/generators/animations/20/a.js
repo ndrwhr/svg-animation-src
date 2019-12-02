@@ -4,7 +4,7 @@ const range = require('lodash/range')
 const SVG = require('../../utils/SVG')
 const { createPoints } = require('../../utils/Polygon')
 
-module.exports = id => {
+module.exports = () => {
   const RADIUS = 30;
   const CIRCLE_RADIUS = Math.sin(Math.PI / 6) * RADIUS;
   const ROTATION_ANGLE = 50;

@@ -14,7 +14,7 @@ const getTransforms = (numSides, angle) => {
   return `rotate(${angle}deg) scale(${scale})`;
 };
 
-module.exports = id => {
+module.exports = () => {
   const DURATION = 10;
   const NUM_SIDES = 3;
   const NUM_KEYFRAMES = 101;

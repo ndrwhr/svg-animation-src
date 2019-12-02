@@ -3,7 +3,7 @@ const ease = require('eases/cubic-in-out')
 
 const SVG = require('../../utils/SVG')
 
-module.exports = id => {
+module.exports = () => {
   const DURATION = 5;
   const DEPTH = 9;
   const BASE_SIZE = 15;
