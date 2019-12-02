@@ -1,11 +1,9 @@
 ---
-stylesheets:
-  - "css/single.css"
 ---
 {% set css %}
 {% include "css/base.css" %}
 {% include "css/site.css" %}
-{% for sheet in stylesheets %}
+{% for sheet in css %}
   {% include sheet %}
 {% endfor %}
 {% endset %}

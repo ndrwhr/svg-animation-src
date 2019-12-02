@@ -1,0 +1,19 @@
+.dir {
+  display: flex;
+  justify-content: center;
+  align-items: center;
+}
+
+.dir__grid {
+  flex: 1;
+  padding: 0 2.5vw;
+}
+
+.dir__nav {
+  display: block;
+}
+
+.dir__nav--disabled {
+  text-decoration: line-through;
+  cursor: not-allowed;
+}

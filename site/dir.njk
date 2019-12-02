@@ -1,0 +1,38 @@
+---
+layout: layouts/base
+pagination:
+  data: svgs.animations.dirs
+  size: 1
+  alias: dir
+permalink: "{{ dir.url }}"
+---
+
+{% set breadcrumbs = ([
+  {
+    text: 'HOME',
+    href: dir.homeUrl
+  }, {
+    text: 'ANIMATION ' + dir.name
+  }
+]) %}
+
+{% include "breadcrumbs.njk" %}
+
+<div class="dir">
+  {% if dir.previous %}
+    <a href="{{dir.previous.url}}" class="dir__nav">PREV</a>
+  {% else %}
+    <span class="dir__nav dir__nav--disabled">PREV</span>
+  {% endif %}
+
+  <div class="dir__grid">
+    {% set grid = ({dirIndex: dir.index}) %}
+    {% include "grid.njk" %}
+  </div>
+
+  {% if dir.next %}
+    <a href="{{dir.next.url}}" class="dir__nav">NEXT</a>
+  {% else %}
+    <span class="dir__nav dir__nav--disabled">NEXT</span>
+  {% endif %}
+</div>

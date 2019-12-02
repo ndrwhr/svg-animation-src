@@ -1,0 +1,11 @@
+<ol class="breadcrumbs">
+  {% for crumb in breadcrumbs %}
+    <li class="breadcrumbs__crumb">
+      {% if loop.last %}
+        <span class="breadcrumbs__crumb-link">{{ crumb.text | upper }}</span>
+      {% else %}
+        <a href="{{ crumb.href }}" class="breadcrumbs__crumb-link">{{ crumb.text | upper }}</a>
+      {% endif %}
+    </li>
+  {% endfor %}
+</ol>

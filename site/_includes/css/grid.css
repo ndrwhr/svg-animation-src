@@ -13,3 +13,23 @@
 .grid--4-col {
   grid-template-columns: repeat(4, 1fr);
 }
+
+.grid svg:not(:hover) * {
+  animation-play-state: paused !important;
+}
+
+.grid__cell {
+  position: relative;
+}
+
+.grid__cell--show-label::after {
+  position: absolute;
+  display block;
+  top: 0;
+  left: 0;
+  background: black;
+  color: white;
+  padding: 1rem 1.3rem;
+  content: attr(data-label);
+  font-size: 1.25rem;
+}

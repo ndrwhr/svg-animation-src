@@ -55,6 +55,7 @@ module.exports = function(eleventyConfig) {
     return content;
   });
 
+  eleventyConfig.setDataDeepMerge(true);
   eleventyConfig.setLibrary('md', markdownLib);
 
   return {

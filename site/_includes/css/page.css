@@ -1,9 +1,6 @@
-.page svg:not(:hover) * {
-  animation-play-state: paused !important;
-}
-
 .page__section-header {
   position: sticky;
+  z-index: 1;
   top: 0;
   font-size: calc(1vw + 2rem);
   font-weight: normal;

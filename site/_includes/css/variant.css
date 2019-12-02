@@ -1,0 +1,28 @@
+.variant__main {
+  display: flex;
+  justify-content: center;
+  align-items: center;
+}
+
+.variant__anim {
+  flex: 1;
+  margin-bottom: 3rem;
+}
+
+.variant__anim svg {
+  max-height: calc(100vh - 5vw);
+  max-width: calc(100vw - 5vw);
+}
+
+.variant__nav {
+  display: block;
+}
+
+.variant__nav--disabled {
+  text-decoration: line-through;
+  cursor: not-allowed;
+}
+
+.variant__variants-header {
+  margin-bottom: 3rem;
+}

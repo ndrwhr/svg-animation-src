@@ -1,19 +1,14 @@
 ---
 layout: layouts/base
 pagination:
-  data: svgs.allNums
+  data: svgs.animations.dirs
   size: 10
 permalink: "/{% if pagination.pageNumber != 0 %}page-{{ pagination.pageNumber + 1 }}/{% endif %}"
 navLinks:
   'source code': 'https://github.com/ndrwhr/svg-animations'
   'more experiments': 'http://andrew.wang-hoyer.com'
 stylesheets:
-  - "css/about.css"
-  - "css/grid.css"
-  - "css/header.css"
-  - "css/nav.css"
   - "css/page.css"
-  - "css/paging.css"
 things:
   - 'hello world.'
   - 'sometimes this is a <a href="https://example.com">thing</a>.'
@@ -23,18 +18,13 @@ things:
 <div class="page">
   {% include "paging.njk" %}
 
-  {% for num in pagination.items %}
+  {% for dir in pagination.items %}
     <div class="page__section">
-      <h2 class="page__section-header">
-        ⦗<a href="/{{num}}/">{{ num }} - {{ svgs.variationLookup[num] | length }} VARIATIONS</a>⦘
+      <h2 id="{{ dir.name }}" class="page__section-header">
+        ⦗<a href="{{ dir.url }}">{{ dir.name }} - {{ dir.list | length }} VARIATIONS</a>⦘
       </h2>
-      <div class="grid grid--{{ svgs.variationLookup[num] | length | numColumns }}-col">
-        {% for variation in svgs.variationLookup[num] %}
-          <a class="grid__cell" href="/{{ num }}/{{variation}}/">
-            {{ svgs.svgs[num][variation].xml | safe }}
-          </a>
-        {% endfor %}
-      </div>
+      {% set grid = ({dirIndex: dir.index}) %}
+      {% include "grid.njk" %}
     </div>
   {% endfor %}
 

@@ -1,0 +1,15 @@
+.breadcrumbs {
+  display: flex;
+  justify-content: center;
+  align-items: center;
+  list-style: none;
+  padding: 2.5vw 0 3rem;
+}
+
+.breadcrumbs__crumb:not(:last-child)::after {
+  display: inline-block;
+  content: '▸';
+  font-size: 0.7em;
+  line-height: 1em;
+  margin: 0 1rem;
+}
