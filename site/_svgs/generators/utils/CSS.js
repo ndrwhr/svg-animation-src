@@ -1,4 +1,6 @@
 const postcss = require('postcss');
+const perfectionist = require('perfectionist');
+var csso = require('postcss-csso');
 const {
   expandShorthandProperty,
   getShorthandComputedProperties,
@@ -58,7 +60,7 @@ module.exports.parseTimeAsMs = str => {
 module.exports.updateDelayValue = (rootAnimationDelay, currentValue) =>
   `${parseTimeAsMs(currentValue) - rootAnimationDelay}ms`;
 
-module.exports.PostCSSPlugins = {
+const PostCSSPlugins = {
   setAnimationDelay: postcss.plugin(
     'set-animation-delay',
     ({ rootAnimationDelay }) => root => {
@@ -139,4 +141,32 @@ module.exports.PostCSSPlugins = {
       });
     },
   ),
+};
+
+module.exports.processCSS = (css, renderOptions) => {
+  const plugins = [];
+
+  if (renderOptions.disableAnimation) {
+    plugins.push(PostCSSPlugins.disableAnimation(renderOptions));
+  }
+
+  if (renderOptions.rootAnimationDelay) {
+    plugins.push(PostCSSPlugins.setAnimationDelay(renderOptions));
+  }
+
+  if (renderOptions.namespace) {
+    plugins.push(PostCSSPlugins.namespaceEverything(renderOptions));
+  }
+
+  if (renderOptions.minify) {
+    plugins.push(csso);
+  } else {
+    plugins.push(
+      perfectionist({
+        indentSize: 2,
+      }),
+    );
+  }
+
+  return postcss(plugins).process(css.trim()).css;
 };

@@ -1,4 +1,3 @@
-const lodash = require('lodash');
 const glob = require('glob');
 const path = require('path');
 
@@ -27,12 +26,13 @@ const generateCommonData = generatorPath => {
     fileName,
     homeUrl: getHomeUrl(dirName),
     url: `/${dirName}/${fileName}/`,
+    svgUrl: `/${dirName}/${fileName}.svg`,
     rawXML: svg.render({
       namespace: `svg-${id}`,
     }),
     minXML: svg.render({
       namespace: `svg-${id}`,
-      minified: true,
+      minify: true,
     }),
   };
 };
@@ -70,7 +70,7 @@ const getAnimations = () => {
       Object.assign(
         {
           index,
-          prev: allDirs[index - 1] ? allDirs[index - 1] : null,
+          previous: allDirs[index - 1] ? allDirs[index - 1] : null,
           next: allDirs[index + 1] ? allDirs[index + 1] : null,
         },
         dir,

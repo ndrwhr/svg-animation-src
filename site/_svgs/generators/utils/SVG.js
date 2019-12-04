@@ -1,8 +1,7 @@
 const Case = require('case');
-const postcss = require('postcss');
-const perfectionist = require('perfectionist');
+const htmlmin = require('html-minifier');
 
-const { PostCSSPlugins, parseTimeAsMs, updateDelayValue } = require('./CSS');
+const { processCSS, parseTimeAsMs, updateDelayValue } = require('./CSS');
 
 const ATTRIBUTE_MAP = {
   className: 'class',
@@ -223,7 +222,15 @@ class SVGElement extends Element {
       return;
     }
 
-    return super.render(renderOptions);
+    const result = super.render(renderOptions);
+    if (renderOptions.minify) {
+      return htmlmin.minify(result, {
+        removeComments: true,
+        collapseWhitespace: true,
+      });
+    } else {
+      return result;
+    }
   }
 }
 
@@ -238,38 +245,16 @@ class StyleElement extends Element {
   }
 
   render(renderOptions) {
-    const processedCSS = (this.processor = postcss([
-      ...this.getAdditionalPlugins(renderOptions),
-      perfectionist({
-        indentSize: 2,
-      }),
-    ]).process(this.css.trim()).css);
-
-    const textContent = [
-      '/* <![CDATA[ */',
-      ...indentLines(processedCSS.split('\n'), 1),
-      '/* ]]> */',
-    ].join('\n');
+    const processedCSS = processCSS(this.css, renderOptions);
+    const textContent = renderOptions.minify
+      ? ['/* <![CDATA[ */', processedCSS, '/* ]]> */'].join(' ')
+      : [
+          '/* <![CDATA[ */',
+          ...indentLines(processedCSS.split('\n'), 1),
+          '/* ]]> */',
+        ].join('\n');
 
     return commonToString(this.tagName, this.attributes, [textContent]);
-  }
-
-  getAdditionalPlugins(renderOptions) {
-    const plugins = new Set();
-
-    if (renderOptions.disableAnimation) {
-      plugins.add(PostCSSPlugins.disableAnimation(renderOptions));
-    }
-
-    if (renderOptions.rootAnimationDelay) {
-      plugins.add(PostCSSPlugins.setAnimationDelay(renderOptions));
-    }
-
-    if (renderOptions.namespace) {
-      plugins.add(PostCSSPlugins.namespaceEverything(renderOptions));
-    }
-
-    return [...plugins];
   }
 }
 

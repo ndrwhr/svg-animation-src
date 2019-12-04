@@ -5,6 +5,10 @@ pagination:
   size: 1
   alias: dir
 permalink: "{{ dir.url }}"
+navLinks:
+  'about': '/#about'
+  'source code': 'https://github.com/ndrwhr/svg-animations'
+  'more experiments': 'http://andrew.wang-hoyer.com'
 ---
 
 {% set breadcrumbs = ([
@@ -36,3 +40,5 @@ permalink: "{{ dir.url }}"
     <span class="dir__nav dir__nav--disabled">NEXT</span>
   {% endif %}
 </div>
+
+{% include "nav.njk" %}

@@ -5,6 +5,10 @@ pagination:
   size: 1
   alias: svg
 permalink: "{{svg.url}}"
+navLinks:
+  'about': '/#about'
+  'source code': 'https://github.com/ndrwhr/svg-animations'
+  'more experiments': 'http://andrew.wang-hoyer.com'
 ---
 
 {% set breadcrumbs = ([
@@ -46,3 +50,5 @@ permalink: "{{svg.url}}"
     {% include "grid.njk" %}
   </ul>
 </div>
+
+{% include "nav.njk" %}
