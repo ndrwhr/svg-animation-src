@@ -50,16 +50,20 @@ const make = options => () => {
         colIndex * (PADDING + HALF_SQUARE_SIZE);
 
       const id = `grid-clip-path-${rowIndex}-${colIndex}`;
-      defs.clipPath({}).rect(
-        Object.assign({
-          rx: RADIUS,
-          ry: RADIUS,
-          x: x - HALF_SQUARE_SIZE + OFFSET,
-          y: y - HALF_SQUARE_SIZE + OFFSET,
-          width: SQUARE_SIZE,
-          height: SQUARE_SIZE,
-        }),
-      );
+      defs
+        .clipPath({
+          id,
+        })
+        .rect(
+          Object.assign({
+            rx: RADIUS,
+            ry: RADIUS,
+            x: x - HALF_SQUARE_SIZE + OFFSET,
+            y: y - HALF_SQUARE_SIZE + OFFSET,
+            width: SQUARE_SIZE,
+            height: SQUARE_SIZE,
+          }),
+        );
 
       const rectX = x - SQUARE_SIZE + OFFSET;
       const rectY = y + HALF_SQUARE_SIZE / 8 + OFFSET;
@@ -90,3 +94,6 @@ module.exports = make({
   timeOffset: (rowIndex, colIndex, gridSize) => 0,
 });
 module.exports.make = make;
+
+module.exports.attribution =
+  'Based on [SE.BS 24-30](https://www.dailyminimal.com/post/189412440869/sebs-24-30-a-new-geometric-design-every-day) by [Pierre Voisin](https://www.designbypierre.io/) at [DAILYMINIMAL](https://www.dailyminimal.com/).';

@@ -118,3 +118,6 @@ module.exports = () => {
 
   return svg;
 };
+
+module.exports.attribution =
+  'Based on [SE16-690](https://www.dailyminimal.com/post/149935773159/se16-690-a-new-geometric-design-every-day-get) by [Pierre Voisin](https://www.designbypierre.io/) at [DAILYMINIMAL](https://www.dailyminimal.com/).';

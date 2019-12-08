@@ -3,7 +3,7 @@
   "version": "0.1.0",
   "private": true,
   "dependencies": {
-    "@11ty/eleventy": "^0.9.0",
+    "@11ty/eleventy": "git://github.com/11ty/eleventy.git#45a8135c0583fd379532c1cdaa5c7e8484183d98",
     "case": "^1.6.1",
     "classnames": "^2.2.6",
     "css-property-parser": "^1.0.6",
@@ -17,6 +17,7 @@
     "lint-staged": "^8.1.5",
     "lodash": "^4.17.11",
     "markdown-it": "^10.0.0",
+    "markdown-it-link-attributes": "^3.0.0",
     "markdown-it-sup": "^1.0.0",
     "perfectionist": "^2.4.0",
     "postcss": "^7.0.23",

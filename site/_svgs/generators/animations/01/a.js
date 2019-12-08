@@ -79,7 +79,8 @@ module.exports = () => {
   return svg;
 };
 
-module.exports.description = 'This was the first animation I made.';
+module.exports.desc = `
+This is the animation that sparked this entire experiment.
 
-module.exports.attribution =
-  'Based on [SE.BS 27-30](https://www.instagram.com/p/B5ie0kQoIVR/) Pierre Voisin at the [Daily Minimal](https://www.instagram.com/daily_minimal).';
+Sometime in early 2018, I decided to learn a little about SVG's \`<animate/>\` element. However after playing around with it for a while I decided to lean into using CSS animations. From past experience I knew that I could style SVGs using CSS (see the controls of my [Chaos Game experiment](http://andrew.wang-hoyer.com/experiments/chaos-game/)), but I did not know that you could include full stylesheets inside of SVGs.
+`;

@@ -10,8 +10,8 @@
 }
 
 .variant__anim svg {
-  max-height: calc(100vh - 5vw);
-  max-width: calc(100vw - 5vw);
+  max-height: calc(100vh - 10vw);
+  max-width: calc(100vw - 10vw);
 }
 
 .variant__nav {
@@ -25,4 +25,13 @@
 
 .variant__variants-header {
   margin-bottom: 3rem;
+}
+
+.variant p {
+  margin-bottom: 3rem;
+  line-height: 1.75;
+}
+
+.variant p:last-of-type {
+  margin-bottom: 6rem;
 }

@@ -28,6 +28,10 @@ const columnLookup = {
 };
 
 module.exports = function(eleventyConfig) {
+  module.exports = function(eleventyConfig) {
+    eleventyConfig.addWatchTarget('./site/_svg/');
+  };
+
   eleventyConfig.addFilter('numColumns', numItems => {
     return columnLookup[numItems];
   });

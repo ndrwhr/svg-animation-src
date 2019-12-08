@@ -38,8 +38,17 @@
   <p>I like to think that I'm creative, but ultimately I discovered quite a few of designs on places like pinterest or google image search. Each animation lists its attribution if any, but I also wanted to call them all out in one place:</p>
 
   <ul>
-    {% for thing in things %}
-      <li>{{ thing | markdownInline | safe }}</li>
+    {% for attribution, dirs in svgs.attributionMap %}
+      <li>
+        {% for dirName, attributedSvgs in dirs %}
+          <a href="{{ attributedSvgs[0].dir.url }}">{{ dirName }}</a> -
+
+          {% for svg in attributedSvgs %}
+            <a href="{{svg.url}}">{{svg.fileName | upper}}</a>{{ "," if not loop.last else ":" }}
+          {% endfor %}
+        {% endfor %}
+        {{ attribution | safe }}
+      </li>
     {% endfor %}
   </ul>
 

@@ -119,3 +119,6 @@ module.exports = () => {
 
   return svg;
 };
+
+module.exports.attribution =
+  'Based on [JA15-090](https://www.dailyminimal.com/post/107993704999/ja15-090-a-new-geometric-design-every-day) by [Pierre Voisin](https://www.designbypierre.io/) at [DAILYMINIMAL](https://www.dailyminimal.com/).';

@@ -76,3 +76,6 @@ module.exports = () => {
 
   return svg;
 };
+
+module.exports.attribution =
+  'Inspired by [this pin](https://pin.it/wiedw45nag5owj) (original artist unknown).';
