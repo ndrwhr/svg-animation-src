@@ -1,7 +1,7 @@
 const range = require('lodash/range');
 
 const SVG = require('../../utils/SVG');
-const { createPoints, getPerimiterLength } = require('../../utils/Polygon');
+const { createPoints, getPerimeterLength } = require('../../utils/Polygon');
 
 const toRad = deg => (Math.PI * deg) / 180;
 
@@ -39,7 +39,7 @@ module.exports = () => {
   let currentAngle = 45;
   const data = range(NUM_NESTED).map(i => {
     const radius = BASE_RADIUS * currentScale;
-    const length = getPerimiterLength(NUM_SIDES, radius);
+    const length = getPerimeterLength(NUM_SIDES, radius);
     const n = i + 1;
 
     const multiple = 4 * 2;

@@ -1,7 +1,7 @@
 const range = require('lodash/range');
 
 const SVG = require('../../utils/SVG');
-const { createPoints, getPerimiterLength } = require('../../utils/Polygon');
+const { createPoints, getPerimeterLength } = require('../../utils/Polygon');
 
 module.exports = () => {
   const DURATION = 20;
@@ -41,7 +41,7 @@ module.exports = () => {
         return point.join(',');
       })
       .join(' ');
-    const perimiterLength = getPerimiterLength(NUM_POINTS, radius);
+    const perimiterLength = getPerimeterLength(NUM_POINTS, radius);
 
     // const numDashes = 10;
     const numDashes = Math.floor(

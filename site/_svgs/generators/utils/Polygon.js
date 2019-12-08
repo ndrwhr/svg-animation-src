@@ -16,7 +16,7 @@ const createAngles = n => {
   return range(n).map(index => lerp * index);
 };
 
-const getPerimiterLength = (n, radius) => {
+const getPerimeterLength = (n, radius) => {
   const angle = (2 * Math.PI) / n;
   return n * 2 * radius * Math.sin(angle / 2);
 };
@@ -24,5 +24,5 @@ const getPerimiterLength = (n, radius) => {
 module.exports = {
   createPoints,
   createAngles,
-  getPerimiterLength,
+  getPerimeterLength,
 };
