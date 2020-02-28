@@ -14,7 +14,7 @@
     .list %}
 
     {% if svg.fileName != grid.excludeFileName %}
-      <a class="grid__cell {% if grid.showLabel %}grid__cell--show-label{% endif %}" href="{{ svg.url }}" data-label="{{svg.fileName | upper}}">
+      <a class="grid__cell {% if grid.showLabel %}grid__cell--show-label{% endif %}" href="{{ svg.url | url}}" data-label="{{svg.fileName | upper}}">
         {{ svg.minXML | safe }}
       </a>
     {% endif %}

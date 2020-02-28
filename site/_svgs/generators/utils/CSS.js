@@ -49,16 +49,18 @@ const applyNamespace = (namespace, obj) => {
   return obj;
 };
 
-module.exports.parseTimeAsMs = str => {
+const parseTimeAsMs = str => {
   let [, sign, value, unit = 's'] = /(-)?(\d+(?:\.\d+)?)(\w+)?/i.exec(str);
   value = parseFloat(value);
   value *= sign === '-' ? -1 : 1;
   value *= unit.toLowerCase() === 's' ? 1000 : 1;
   return value;
 };
+module.exports.parseTimeAsMs = parseTimeAsMs;
 
-module.exports.updateDelayValue = (rootAnimationDelay, currentValue) =>
+const updateDelayValue = (rootAnimationDelay, currentValue) =>
   `${parseTimeAsMs(currentValue) - rootAnimationDelay}ms`;
+module.exports.updateDelayValue = updateDelayValue;
 
 const PostCSSPlugins = {
   setAnimationDelay: postcss.plugin(

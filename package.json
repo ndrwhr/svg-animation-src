@@ -14,6 +14,7 @@
     "glob": "^7.1.5",
     "html-minifier": "^4.0.0",
     "husky": "^1.3.1",
+    "js-combinatorics": "^0.5.4",
     "lint-staged": "^8.1.5",
     "lodash": "^4.17.11",
     "markdown-it": "^10.0.0",
@@ -23,10 +24,13 @@
     "postcss": "^7.0.23",
     "postcss-csso": "^4.0.0",
     "prettier": "^1.16.4",
+    "puppeteer": "^2.1.1",
+    "rimraf": "^3.0.2",
     "seedrandom": "^3.0.1"
   },
   "scripts": {
     "clean": "rm -rfv dist",
+    "gen-og-images": "node scripts/gen-og-images.js",
     "build": "yarn run clean; eleventy",
     "watch": "DEBUG=Eleventy* eleventy --watch --serve"
   },

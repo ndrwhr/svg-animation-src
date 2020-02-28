@@ -4,7 +4,7 @@
       {% if loop.last %}
         <span class="breadcrumbs__crumb-link">{{ crumb.text | upper }}</span>
       {% else %}
-        <a href="{{ crumb.href }}" class="breadcrumbs__crumb-link">{{ crumb.text | upper }}</a>
+        <a href="{{ crumb.href | url}}" class="breadcrumbs__crumb-link">{{ crumb.text | upper }}</a>
       {% endif %}
     </li>
   {% endfor %}

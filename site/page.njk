@@ -9,9 +9,6 @@ navLinks:
   'more experiments': 'http://andrew.wang-hoyer.com'
 stylesheets:
   - "css/page.css"
-things:
-  - 'hello world.'
-  - 'sometimes this is a <a href="https://example.com">thing</a>.'
 ---
 {% include "header.njk" %}
 
@@ -21,7 +18,7 @@ things:
   {% for dir in pagination.items %}
     <div class="page__section">
       <h2 id="{{ dir.name }}" class="page__section-header">
-        ⦗<a href="{{ dir.url }}">{{ dir.name }} - {{ dir.list | length }} VARIATIONS</a>⦘
+        ⦗<a href="{{ dir.url | url}}">{{ dir.name }} - {{ dir.list | length }} VARIATIONS</a>⦘
       </h2>
       {% set grid = ({dirIndex: dir.index}) %}
       {% include "grid.njk" %}

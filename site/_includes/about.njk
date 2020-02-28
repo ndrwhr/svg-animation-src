@@ -1,7 +1,7 @@
 <div class="about" id="about">
   <h3>How Does This Work</h3>
 
-  <p>SVGs allow you to embed css stylesheets. Each animation is no more than a series of CSS animations moving around or transforming basic SVG elements.</p>
+  <p>SVGs allow you to embed CSS stylesheets. Each animation is no more than a series of CSS animations moving around or transforming basic SVG elements.</p>
 
   {% include "about/example1.njk" %}
 
@@ -31,7 +31,7 @@
     </li>
   </ul>
 
-  <p>For rendering SVGs I wrote my own tiny (read: horrible) renderer as I wanted a chance to play around with <a href="https://developer.mozilla.org/en-US/docs/Web/JavaScript/Reference/Global_Objects/Proxy">proxy objects</a>. At one point I had also experimented with headless chrome to take screenshots and generate gifs/videos of the SVGs by manually stepping forward the animation delay to render individual frames.</p>
+  <p>For rendering SVGs I wrote my own tiny (read: horrible) renderer as I wanted a chance to play around with <a href="https://developer.mozilla.org/en-US/docs/Web/JavaScript/Reference/Global_Objects/Proxy">proxy objects</a>.</p>
 
   <h3>Credits</h3>
 
@@ -44,7 +44,7 @@
           <a href="{{ attributedSvgs[0].dir.url }}">{{ dirName }}</a> -
 
           {% for svg in attributedSvgs %}
-            <a href="{{svg.url}}">{{svg.fileName | upper}}</a>{{ "," if not loop.last else ":" }}
+            <a href="{{svg.url | url}}">{{svg.fileName | upper}}</a>{{ "," if not loop.last else ":" }}
           {% endfor %}
         {% endfor %}
         {{ attribution | safe }}
@@ -55,7 +55,16 @@
   <h3>Notes</h3>
 
   <ul>
-    <li>† Unfortunately few browsers support <a href="https://caniuse.com/#feat=link-icon-svg">SVG favicons</a> (as of late 2019 anyway). As such I have had to include a single rasterized image. <span class="no-wrap">(ಥ﹏ಥ)</span></li>
-    <li>‡ JavaScript was used to generate this site and each animation, but no javascript is actually running when you load the page in your browser. Additionally some/most pages include google analytics.</li>
+    <li>† There are two reasons why there are some rasterized images:
+      <ol>
+        <li>
+          Few browsers support <a href="https://caniuse.com/#feat=link-icon-svg">SVG favicons</a> (as of late 2019 anyway).
+        </li>
+        <li>
+          Since most websites that parse <a href="https://ogp.me/">Open Graph</a> metatags don't support SVGs as og:image values, I wrote a small <a href="https://developers.google.com/web/tools/puppeteer">puppeteer</a> script to render each SVG animation as jpg. <span class="no-wrap">(ಥ﹏ಥ)</span>
+        </li>
+      </ol>
+    </li>
+    <li>‡ JavaScript was used to generate this site and each animation, but no javascript is actually running when you load the page in your browser (except for google analytics).</li>
   </ul>
 </div>

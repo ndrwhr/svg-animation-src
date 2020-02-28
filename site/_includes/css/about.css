@@ -1,3 +1,7 @@
+.about {
+  padding-top: 10vw;
+}
+
 .about__example {
   display: grid;
   align-items: stretch;
@@ -37,6 +41,10 @@
 
 .about ul {
   margin: 0 0 3rem 3rem;
+}
+
+.about ol {
+  margin-left: 6rem;
 }
 
 .about li {

@@ -18,6 +18,7 @@ const ROOT = process.cwd();
 const GENERATORS_DIR = path.join(ROOT, 'site/_svgs/generators');
 
 const listGenerators = dir => glob.sync(`${GENERATORS_DIR}/${dir}/**/*.js`);
+
 const getHomeUrl = dirName => {
   const page = Math.ceil(parseInt(dirName, 10) / 10);
   return page === 1 ? `/#${dirName}` : `/page-${page}/#${dirName}`;
@@ -31,8 +32,9 @@ const generateCommonData = generatorPath => {
   const [, dirName, fileName] = /([\d\w]+)\/(\w+)\.js$/.exec(generatorPath);
   const id = `${dirName}-${fileName}`;
   const svg = generator(id);
+  const title = `Animation ${dirName} - Variation ${fileName}`.toUpperCase();
 
-  svg.title(`Animation ${dirName} - Variation ${fileName}`.toUpperCase());
+  svg.title(title);
 
   const descContent = [];
   if (generator.desc) {
@@ -51,6 +53,7 @@ const generateCommonData = generatorPath => {
 
   return {
     id,
+    title,
     dirName,
     fileName,
     desc: generator.desc ? markdownLib.render(generator.desc) : undefined,
@@ -60,6 +63,7 @@ const generateCommonData = generatorPath => {
     homeUrl: getHomeUrl(dirName),
     url: `/${dirName}/${fileName}/`,
     svgUrl: `/${dirName}/${fileName}.svg`,
+    ogImageUrl: `/assets/og/${id}.jpg`,
     rawXML: svg.render({
       namespace: `svg-${id}`,
     }),
@@ -72,7 +76,7 @@ const generateCommonData = generatorPath => {
 
 const getAnimations = () => {
   const list = listGenerators('animations')
-    .filter(path => path.includes('48/'))
+    // .filter(path => path.includes('01/'))
     .filter(path => /\/\w.js/.test(path))
     .map(generateCommonData)
     .sort((a, b) => a.id.localeCompare(b.id));
@@ -90,8 +94,11 @@ const getAnimations = () => {
     }
 
     dirs[dirName] = dirs[dirName] || {
+      title: `Animation ${dirName}`.toUpperCase(),
       name: dirName,
       homeUrl: getHomeUrl(dirName),
+      // Just use the first animation as the og image.
+      ogImageUrl: data.ogImageUrl,
       list: [],
       url: `/${dirName}/`,
     };

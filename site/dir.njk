@@ -24,7 +24,7 @@ navLinks:
 
 <div class="dir">
   {% if dir.previous %}
-    <a href="{{dir.previous.url}}" class="dir__nav">PREV</a>
+    <a href="{{dir.previous.url|url}}" class="dir__nav">PREV</a>
   {% else %}
     <span class="dir__nav dir__nav--disabled">PREV</span>
   {% endif %}
@@ -35,7 +35,7 @@ navLinks:
   </div>
 
   {% if dir.next %}
-    <a href="{{dir.next.url}}" class="dir__nav">NEXT</a>
+    <a href="{{dir.next.url|url}}" class="dir__nav">NEXT</a>
   {% else %}
     <span class="dir__nav dir__nav--disabled">NEXT</span>
   {% endif %}

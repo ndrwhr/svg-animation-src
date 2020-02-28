@@ -1,7 +1,7 @@
 <ol class="paging">
   <li class="paging__page">
     {% if pagination.previousPageHref %}
-      <a class="paging__page-link" href="{{pagination.previousPageHref}}">PREV</a>
+      <a class="paging__page-link" href="{{pagination.previousPageHref | url}}">PREV</a>
     {% else %}
       <span class="paging__page-link paging__page-link--disabled">
         PREV
@@ -12,7 +12,7 @@
   {% for href in pagination.hrefs %}
     <li class="paging__page {% if page.url == pagination.hrefs[ loop.index0 ] %}paging__page--selected{% endif %}">
       <a
-        href="{{ href }}"
+        href="{{ href | url}}"
         class="paging__page-link"
       >
         {{ loop.index }}
@@ -22,7 +22,7 @@
 
   <li class="paging__page">
     {% if pagination.nextPageHref %}
-      <a class="paging__page-link" href="{{pagination.nextPageHref}}">NEXT</a>
+      <a class="paging__page-link" href="{{pagination.nextPageHref | url}}">NEXT</a>
     {% else %}
       <span class="paging__page-link paging__page-link--disabled">
         NEXT

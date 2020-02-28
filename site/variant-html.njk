@@ -10,7 +10,6 @@ navLinks:
   'source code': 'https://github.com/ndrwhr/svg-animations'
   'more experiments': 'http://andrew.wang-hoyer.com'
 ---
-
 {% set breadcrumbs = ([
   {
     text: 'HOME',
@@ -28,7 +27,7 @@ navLinks:
 <div class="variant">
   <div class="variant__main">
     {% if svg.previous %}
-      <a href="{{svg.previous.url}}" class="variant__nav">PREV</a>
+      <a href="{{svg.previous.url | url}}" class="variant__nav">PREV</a>
     {% else %}
       <span class="variant__nav variant__nav--disabled">PREV</span>
     {% endif %}
@@ -38,7 +37,7 @@ navLinks:
     </div>
 
     {% if svg.next %}
-      <a href="{{svg.next.url}}" class="variant__nav">NEXT</a>
+      <a href="{{svg.next.url | url}}" class="variant__nav">NEXT</a>
     {% else %}
       <span class="variant__nav variant__nav--disabled">NEXT</span>
     {% endif %}

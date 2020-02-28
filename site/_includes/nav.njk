@@ -2,7 +2,7 @@
   <ol>
     {% for text, href in navLinks %}
       <li>
-        <a href="{{href}}">{{text | upper}}</a>
+        <a href="{{href | url}}">{{text | upper}}</a>
       </li>
     {% endfor %}
   </ol>

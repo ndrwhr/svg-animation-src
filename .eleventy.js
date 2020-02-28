@@ -63,6 +63,7 @@ module.exports = function(eleventyConfig) {
   eleventyConfig.setLibrary('md', markdownLib);
 
   return {
+    pathPrefix: '/experiments/svg-animations',
     dir: {
       input: 'site',
       output: 'dist',

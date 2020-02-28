@@ -1,4 +1,7 @@
 ---
+ogImageUrl: "/assets/default-og.jpg"
+title:
+  - "SVG ANIMATIONS"
 ---
 {% set css %}
 {% include "css/base.css" %}
@@ -7,15 +10,44 @@
   {% include sheet %}
 {% endfor %}
 {% endset %}
+
+{% if svg %}
+  {% set title = ([svg.title, title[0]])%}
+  {% set ogImageUrl = svg.ogImageUrl %}
+{% else %}
+  {% if dir %}
+    {% set title = ([dir.title, title[0]])%}
+    {% set ogImageUrl = dir.ogImageUrl %}
+  {% endif %}
+{% endif %}
+{% set title = title | join(" | ") %}
+
 <!DOCTYPE html>
 <html lang="en">
   <head>
+    <script async src="https://www.googletagmanager.com/gtag/js?id=UA-15032423-1"></script>
+    <script>
+      window.dataLayer = window.dataLayer || [];
+      function gtag() {
+        dataLayer.push(arguments);
+      }
+      gtag('js', new Date());
+
+      gtag('config', 'UA-15032423-1');
+    </script>
+
     <meta charset="utf-8"/>
     <meta name="author" content="Andrew Wang-Hoyer"/>
-    <link rel="icon" href="/assets/icon.svg"/>
-    <link rel="icon" href="/assets/icon.png"/>
+    <link rel="icon" href="{{"/assets/icon.svg" | url}}"/>
+    <link rel="icon" href="{{"/assets/icon.png" | url}}"/>
     <meta name="viewport" content="width=device-width, initial-scale=1">
-    <title>SVG Animations</title>
+
+    <meta property="og:type" content="website"/>
+    <meta property="og:title" content="{{title}}"/>
+    <meta property="og:url" content="{{page.url | url}}"/>
+    <meta property="og:image" content="{{ogImageUrl | url }}"/>
+
+    <title>{{title}}</title>
     <style>
       {{css | cssmin | safe}}
     </style>
