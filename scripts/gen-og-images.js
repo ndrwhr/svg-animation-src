@@ -37,8 +37,8 @@ rimraf.sync(`${OUTPUT_DIR}/*`);
 
     const page = await browser.newPage();
     await page.setViewport({
-      width: 1024,
-      height: 1024,
+      width: 1200,
+      height: 1200,
     });
     await page.setContent(content);
     await page.screenshot({
