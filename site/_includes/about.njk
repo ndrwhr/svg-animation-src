@@ -35,7 +35,7 @@
 
   <h3>Credits</h3>
 
-  <p>I like to think that I'm creative, but ultimately I discovered quite a few of designs on places like pinterest or google image search. Each animation lists its attribution if any, but I also wanted to call them all out in one place:</p>
+  <p>While the majority of the designs underlying the animations are of my own creation, I did find a number of inspirations on places like pinterest and google image search. Any animations that are based on the work of others has attribution included inline, but I also wanted to call them all out in one place:</p>
 
   <ul>
     {% for attribution, dirs in svgs.attributionMap %}
@@ -55,16 +55,16 @@
   <h3>Notes</h3>
 
   <ul>
-    <li>† There are two reasons why there are some rasterized images:
+    <li id="footnote-1">† — <span class="no-wrap">(ಥ﹏ಥ)</span> There are two reasons why there are some rasterized images in the repo:
       <ol>
         <li>
-          Few browsers support <a href="https://caniuse.com/#feat=link-icon-svg">SVG favicons</a> (as of late 2019 anyway).
+          Few browsers support <a href="https://caniuse.com/#feat=link-icon-svg">SVG favicons</a>, as of late 2019 anyway.
         </li>
         <li>
-          Since most websites that parse <a href="https://ogp.me/">Open Graph</a> metatags don't support SVGs as og:image values, I wrote a small <a href="https://developers.google.com/web/tools/puppeteer">puppeteer</a> script to render each SVG animation as jpg. <span class="no-wrap">(ಥ﹏ಥ)</span>
+          Since most websites that parse <a href="https://ogp.me/">Open Graph</a> metadata don't support SVGs as og:image values, I wrote a small <a href="https://developers.google.com/web/tools/puppeteer">puppeteer</a> script to render each SVG animation as a jpg. These images will only be served to bots and other sites.
         </li>
       </ol>
     </li>
-    <li>‡ JavaScript was used to generate this site and each animation, but no javascript is actually running when you load the page in your browser (except for google analytics).</li>
+    <li id="footnote-2">‡ — JavaScript was used to generate this site and each animation, but no javascript is actually running when you load the page in your browser (except for google analytics).</li>
   </ul>
 </div>
