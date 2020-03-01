@@ -60,12 +60,28 @@ module.exports = () => {
     }
   `);
 
+  svg
+    .defs()
+    .clipPath({
+      id: 'mask',
+    })
+    .rect({
+      x: 0,
+      y: 0,
+      height: 100,
+      width: 100,
+    });
+
+  const mainGroup = svg.g({
+    clipPath: `url(#mask)`,
+  });
+
   range(NUM_LINES).forEach(i => {
     const y = i * STEP_SIZE;
     const depth =
       ((NUM_LINES - i) * (MAX_DEPTH - MIN_DEPTH)) / NUM_LINES + MIN_DEPTH;
     const width = (i * (MAX_WIDTH - MIN_WIDTH)) / NUM_LINES + MIN_WIDTH;
-    svg
+    mainGroup
       .g({
         transform: `translate(0, ${y + OVERALL_OFFSET})`,
       })

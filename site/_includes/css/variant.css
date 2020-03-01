@@ -7,6 +7,7 @@
 .variant__anim {
   flex: 1;
   margin-bottom: 3rem;
+  padding: 0 2.5vw;
 }
 
 .variant__anim svg {

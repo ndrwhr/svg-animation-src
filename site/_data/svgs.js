@@ -76,7 +76,7 @@ const generateCommonData = generatorPath => {
 
 const getAnimations = () => {
   const list = listGenerators('animations')
-    // .filter(path => path.includes('01/'))
+    // .filter(path => path.includes('25/'))
     .filter(path => /\/\w.js/.test(path))
     .map(generateCommonData)
     .sort((a, b) => a.id.localeCompare(b.id));
