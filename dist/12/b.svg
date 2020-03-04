@@ -1,0 +1,149 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE svg>
+<svg
+  data-animation-duration="20s"
+  preserveAspectRatio="xMidYMid meet"
+  version="1.1"
+  viewBox="-50 -50 100 100"
+  xmlns:xlink="http://www.w3.org/1999/xlink"
+  xmlns="http://www.w3.org/2000/svg"
+>
+  <title>
+    ANIMATION 12 - VARIATION B
+  </title>
+  <desc>
+    <p>See this animation in action here: <a href="https://andrew.wang-hoyer.com/experiments/svg-animations/12/b" target="_blank" rel="noopener">https://andrew.wang-hoyer.com/experiments/svg-animations/12/b</a>.</p>
+    <p>Generator source code : <a href="https://github.com/ndrwhr/svg-animation-src/tree/master/site/_svgs/generators/animations/12/b.js" target="_blank" rel="noopener">https://github.com/ndrwhr/svg-animation-src/tree/master/site/_svgs/generators/animations/12/b.js</a>.</p>
+    <p>All generated files and source code are released under the following license:</p>
+    <p>MIT License</p>
+    <p>Copyright (c) 2018-present Andrew Hoyer</p>
+    <p>Permission is hereby granted, free of charge, to any person obtaining a copy of this software and associated documentation files (the &quot;Software&quot;), to deal in the Software without restriction, including without limitation the rights to use, copy, modify, merge, publish, distribute, sublicense, and/or sell copies of the Software, and to permit persons to whom the Software is furnished to do so, subject to the following conditions:</p>
+    <p>The above copyright notice and this permission notice shall be included in all copies or substantial portions of the Software.</p>
+    <p>THE SOFTWARE IS PROVIDED &quot;AS IS&quot;, WITHOUT WARRANTY OF ANY KIND, EXPRESS OR IMPLIED, INCLUDING BUT NOT LIMITED TO THE WARRANTIES OF MERCHANTABILITY, FITNESS FOR A PARTICULAR PURPOSE AND NONINFRINGEMENT. IN NO EVENT SHALL THE AUTHORS OR COPYRIGHT HOLDERS BE LIABLE FOR ANY CLAIM, DAMAGES OR OTHER LIABILITY, WHETHER IN AN ACTION OF CONTRACT, TORT OR OTHERWISE, ARISING FROM, OUT OF OR IN CONNECTION WITH THE SOFTWARE OR THE USE OR OTHER DEALINGS IN THE SOFTWARE.</p>
+  </desc>
+  <defs>
+    <clipPath
+      id="svg-12-b-mask"
+    >
+      <polygon
+        class="svg-12-b-polygon"
+        points="0,-30 12.202098846435547,-27.406362533569336 22.294343948364258,-20.07391929626465 28.531696319580078,-9.270509719848633 29.835657119750977,3.1358540058135986 25.980762481689453,15 17.633556365966797,24.270509719848633 6.2373504638671875,29.34442901611328 -6.2373504638671875,29.34442901611328 -17.633556365966797,24.270509719848633 -25.980762481689453,15 -29.835657119750977,3.1358540058135986 -28.531696319580078,-9.270509719848633 -22.294343948364258,-20.07391929626465 -12.202098846435547,-27.406362533569336"
+      />
+    </clipPath>
+  </defs>
+  <style>
+    /* <![CDATA[ */
+      .svg-12-b-polygon {
+        fill: none;
+        stroke: black;
+        stroke-width: 2;
+      }
+      
+      .svg-12-b-inner-polygon {
+        stroke-width: 2;
+        animation: svg-12-b-moving-poly-anim 20s linear infinite;
+      }
+      
+      @keyframes svg-12-b-moving-poly-anim {
+        0% {
+          transform: translate(0%, -15%);
+        }
+      
+        6.666666666666667% {
+          transform: translate(6.101049423217773%, -13.703181266784668%);
+        }
+      
+        13.333333333333334% {
+          transform: translate(11.147171974182129%, -10.036959648132324%);
+        }
+      
+        20% {
+          transform: translate(14.265848159790039%, -4.635254859924316%);
+        }
+      
+        26.666666666666668% {
+          transform: translate(14.917828559875488%, 1.5679270029067993%);
+        }
+      
+        33.333333333333336% {
+          transform: translate(12.990381240844727%, 7.5%);
+        }
+      
+        40% {
+          transform: translate(8.816778182983398%, 12.135254859924316%);
+        }
+      
+        46.666666666666664% {
+          transform: translate(3.1186752319335938%, 14.67221450805664%);
+        }
+      
+        53.333333333333336% {
+          transform: translate(-3.1186752319335938%, 14.67221450805664%);
+        }
+      
+        60% {
+          transform: translate(-8.816778182983398%, 12.135254859924316%);
+        }
+      
+        66.66666666666667% {
+          transform: translate(-12.990381240844727%, 7.5%);
+        }
+      
+        73.33333333333333% {
+          transform: translate(-14.917828559875488%, 1.5679270029067993%);
+        }
+      
+        80% {
+          transform: translate(-14.265848159790039%, -4.635254859924316%);
+        }
+      
+        86.66666666666667% {
+          transform: translate(-11.147171974182129%, -10.036959648132324%);
+        }
+      
+        93.33333333333333% {
+          transform: translate(-6.101049423217773%, -13.703181266784668%);
+        }
+      
+        100% {
+          transform: translate(0%, -15%);
+        }
+      }
+      
+    /* ]]> */
+  </style>
+  <g
+    class="svg-12-b-g"
+    clip-path="url(#svg-12-b-mask)"
+  >
+    <polygon
+      class="svg-12-b-polygon svg-12-b-inner-polygon"
+      points="0,-30 12.202098846435547,-27.406362533569336 22.294343948364258,-20.07391929626465 28.531696319580078,-9.270509719848633 29.835657119750977,3.1358540058135986 25.980762481689453,15 17.633556365966797,24.270509719848633 6.2373504638671875,29.34442901611328 -6.2373504638671875,29.34442901611328 -17.633556365966797,24.270509719848633 -25.980762481689453,15 -29.835657119750977,3.1358540058135986 -28.531696319580078,-9.270509719848633 -22.294343948364258,-20.07391929626465 -12.202098846435547,-27.406362533569336"
+      style="animation-delay: -0s"
+    />
+    <polygon
+      class="svg-12-b-polygon svg-12-b-inner-polygon"
+      points="0,-30 12.202098846435547,-27.406362533569336 22.294343948364258,-20.07391929626465 28.531696319580078,-9.270509719848633 29.835657119750977,3.1358540058135986 25.980762481689453,15 17.633556365966797,24.270509719848633 6.2373504638671875,29.34442901611328 -6.2373504638671875,29.34442901611328 -17.633556365966797,24.270509719848633 -25.980762481689453,15 -29.835657119750977,3.1358540058135986 -28.531696319580078,-9.270509719848633 -22.294343948364258,-20.07391929626465 -12.202098846435547,-27.406362533569336"
+      style="animation-delay: -4s"
+    />
+    <polygon
+      class="svg-12-b-polygon svg-12-b-inner-polygon"
+      points="0,-30 12.202098846435547,-27.406362533569336 22.294343948364258,-20.07391929626465 28.531696319580078,-9.270509719848633 29.835657119750977,3.1358540058135986 25.980762481689453,15 17.633556365966797,24.270509719848633 6.2373504638671875,29.34442901611328 -6.2373504638671875,29.34442901611328 -17.633556365966797,24.270509719848633 -25.980762481689453,15 -29.835657119750977,3.1358540058135986 -28.531696319580078,-9.270509719848633 -22.294343948364258,-20.07391929626465 -12.202098846435547,-27.406362533569336"
+      style="animation-delay: -8s"
+    />
+    <polygon
+      class="svg-12-b-polygon svg-12-b-inner-polygon"
+      points="0,-30 12.202098846435547,-27.406362533569336 22.294343948364258,-20.07391929626465 28.531696319580078,-9.270509719848633 29.835657119750977,3.1358540058135986 25.980762481689453,15 17.633556365966797,24.270509719848633 6.2373504638671875,29.34442901611328 -6.2373504638671875,29.34442901611328 -17.633556365966797,24.270509719848633 -25.980762481689453,15 -29.835657119750977,3.1358540058135986 -28.531696319580078,-9.270509719848633 -22.294343948364258,-20.07391929626465 -12.202098846435547,-27.406362533569336"
+      style="animation-delay: -12s"
+    />
+    <polygon
+      class="svg-12-b-polygon svg-12-b-inner-polygon"
+      points="0,-30 12.202098846435547,-27.406362533569336 22.294343948364258,-20.07391929626465 28.531696319580078,-9.270509719848633 29.835657119750977,3.1358540058135986 25.980762481689453,15 17.633556365966797,24.270509719848633 6.2373504638671875,29.34442901611328 -6.2373504638671875,29.34442901611328 -17.633556365966797,24.270509719848633 -25.980762481689453,15 -29.835657119750977,3.1358540058135986 -28.531696319580078,-9.270509719848633 -22.294343948364258,-20.07391929626465 -12.202098846435547,-27.406362533569336"
+      style="animation-delay: -16s"
+    />
+  </g>
+  <polygon
+    class="svg-12-b-polygon svg-12-b-outer-polygon"
+    points="0,-30 12.202098846435547,-27.406362533569336 22.294343948364258,-20.07391929626465 28.531696319580078,-9.270509719848633 29.835657119750977,3.1358540058135986 25.980762481689453,15 17.633556365966797,24.270509719848633 6.2373504638671875,29.34442901611328 -6.2373504638671875,29.34442901611328 -17.633556365966797,24.270509719848633 -25.980762481689453,15 -29.835657119750977,3.1358540058135986 -28.531696319580078,-9.270509719848633 -22.294343948364258,-20.07391929626465 -12.202098846435547,-27.406362533569336"
+  />
+</svg>

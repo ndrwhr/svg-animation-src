@@ -1,0 +1,194 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE svg>
+<svg
+  data-animation-duration="3s"
+  preserveAspectRatio="xMidYMid meet"
+  version="1.1"
+  viewBox="0 0 100 100"
+  xmlns:xlink="http://www.w3.org/1999/xlink"
+  xmlns="http://www.w3.org/2000/svg"
+>
+  <title>
+    ANIMATION 25 - VARIATION D
+  </title>
+  <desc>
+    <p>Inspired by <a href="https://pin.it/wiedw45nag5owj" target="_blank" rel="noopener">this pin</a> (original artist unknown).</p>
+    <p>See this animation in action here: <a href="https://andrew.wang-hoyer.com/experiments/svg-animations/25/d" target="_blank" rel="noopener">https://andrew.wang-hoyer.com/experiments/svg-animations/25/d</a>.</p>
+    <p>Generator source code : <a href="https://github.com/ndrwhr/svg-animation-src/tree/master/site/_svgs/generators/animations/25/d.js" target="_blank" rel="noopener">https://github.com/ndrwhr/svg-animation-src/tree/master/site/_svgs/generators/animations/25/d.js</a>.</p>
+    <p>All generated files and source code are released under the following license:</p>
+    <p>MIT License</p>
+    <p>Copyright (c) 2018-present Andrew Hoyer</p>
+    <p>Permission is hereby granted, free of charge, to any person obtaining a copy of this software and associated documentation files (the &quot;Software&quot;), to deal in the Software without restriction, including without limitation the rights to use, copy, modify, merge, publish, distribute, sublicense, and/or sell copies of the Software, and to permit persons to whom the Software is furnished to do so, subject to the following conditions:</p>
+    <p>The above copyright notice and this permission notice shall be included in all copies or substantial portions of the Software.</p>
+    <p>THE SOFTWARE IS PROVIDED &quot;AS IS&quot;, WITHOUT WARRANTY OF ANY KIND, EXPRESS OR IMPLIED, INCLUDING BUT NOT LIMITED TO THE WARRANTIES OF MERCHANTABILITY, FITNESS FOR A PARTICULAR PURPOSE AND NONINFRINGEMENT. IN NO EVENT SHALL THE AUTHORS OR COPYRIGHT HOLDERS BE LIABLE FOR ANY CLAIM, DAMAGES OR OTHER LIABILITY, WHETHER IN AN ACTION OF CONTRACT, TORT OR OTHERWISE, ARISING FROM, OUT OF OR IN CONNECTION WITH THE SOFTWARE OR THE USE OR OTHER DEALINGS IN THE SOFTWARE.</p>
+  </desc>
+  <style>
+    /* <![CDATA[ */
+      .svg-25-d-path {
+        stroke: black;
+        stroke-width: .2;
+        fill: white;
+        animation: svg-25-d-main-anim 3s ease-in-out alternate infinite;
+      }
+      
+      @keyframes svg-25-d-main-anim {
+        from {
+          transform: translate(-10%, 0);
+        }
+      
+        to {
+          transform: translate(10%, 0);
+        }
+      }
+      
+    /* ]]> */
+  </style>
+  <defs>
+    <clipPath
+      id="svg-25-d-mask"
+    >
+      <rect
+        class="svg-25-d-rect"
+        height="100"
+        width="100"
+        x="0"
+        y="0"
+      />
+    </clipPath>
+  </defs>
+  <g
+    class="svg-25-d-g"
+    clip-path="url(#svg-25-d-mask)"
+  >
+    <g
+      class="svg-25-d-g"
+      transform="translate(0, 44)"
+    >
+      <path
+        class="svg-25-d-path"
+        d="M-50,0 h50 h25 c20,0 15,0.001 25,0.001 c10,0 5,-0.001 25,-0.001 h25 h50"
+        style="animation-delay: -0s"
+      />
+    </g>
+    <g
+      class="svg-25-d-g"
+      transform="translate(0, 45)"
+    >
+      <path
+        class="svg-25-d-path"
+        d="M-50,0 h50 h23.99519052838329 c20.803847577293368,0 15.602885682970026,-1.3388129494537209 26.00480947161671,-1.3388129494537209 c10.401923788646684,0 5.200961894323342,1.3388129494537209 26.00480947161671,1.3388129494537209 h23.99519052838329 h50"
+        style="animation-delay: -0.46153846153846156s"
+      />
+    </g>
+    <g
+      class="svg-25-d-g"
+      transform="translate(0, 46)"
+    >
+      <path
+        class="svg-25-d-path"
+        d="M-50,0 h50 h21.250000000000004 c23,0 17.249999999999996,-4.999249999999996 28.749999999999996,-4.999249999999996 c11.5,0 5.7499999999999964,4.999249999999996 28.749999999999996,4.999249999999996 h21.250000000000004 h50"
+        style="animation-delay: -0.9230769230769231s"
+      />
+    </g>
+    <g
+      class="svg-25-d-g"
+      transform="translate(0, 47)"
+    >
+      <path
+        class="svg-25-d-path"
+        d="M-50,0 h50 h17.5 c26,0 19.5,-9.9995 32.5,-9.9995 c13,0 6.5,9.9995 32.5,9.9995 h17.5 h50"
+        style="animation-delay: -1.3846153846153846s"
+      />
+    </g>
+    <g
+      class="svg-25-d-g"
+      transform="translate(0, 48)"
+    >
+      <path
+        class="svg-25-d-path"
+        d="M-50,0 h50 h13.75 c29,0 21.75,-14.999749999999999 36.25,-14.999749999999999 c14.5,0 7.25,14.999749999999999 36.25,14.999749999999999 h13.75 h50"
+        style="animation-delay: -1.8461538461538463s"
+      />
+    </g>
+    <g
+      class="svg-25-d-g"
+      transform="translate(0, 49)"
+    >
+      <path
+        class="svg-25-d-path"
+        d="M-50,0 h50 h11.00480947161671 c31.196152422706632,0 23.397114317029974,-18.660187050546277 38.99519052838329,-18.660187050546277 c15.598076211353316,0 7.799038105676658,18.660187050546277 38.99519052838329,18.660187050546277 h11.00480947161671 h50"
+        style="animation-delay: -2.307692307692308s"
+      />
+    </g>
+    <g
+      class="svg-25-d-g"
+      transform="translate(0, 50)"
+    >
+      <path
+        class="svg-25-d-path"
+        d="M-50,0 h50 h10 c32,0 24,-20 40,-20 c16,0 8,20 40,20 h10 h50"
+        style="animation-delay: -2.769230769230769s"
+      />
+    </g>
+    <g
+      class="svg-25-d-g"
+      transform="translate(0, 51)"
+    >
+      <path
+        class="svg-25-d-path"
+        d="M-50,0 h50 h11.00480947161671 c31.196152422706632,0 23.397114317029974,-18.660187050546284 38.99519052838329,-18.660187050546284 c15.598076211353316,0 7.799038105676658,18.660187050546284 38.99519052838329,18.660187050546284 h11.00480947161671 h50"
+        style="animation-delay: -3.230769230769231s"
+      />
+    </g>
+    <g
+      class="svg-25-d-g"
+      transform="translate(0, 52)"
+    >
+      <path
+        class="svg-25-d-path"
+        d="M-50,0 h50 h13.75 c29,0 21.75,-14.999750000000006 36.25,-14.999750000000006 c14.5,0 7.25,14.999750000000006 36.25,14.999750000000006 h13.75 h50"
+        style="animation-delay: -3.6923076923076925s"
+      />
+    </g>
+    <g
+      class="svg-25-d-g"
+      transform="translate(0, 53)"
+    >
+      <path
+        class="svg-25-d-path"
+        d="M-50,0 h50 h17.5 c26,0 19.5,-9.999500000000003 32.5,-9.999500000000003 c13,0 6.5,9.999500000000003 32.5,9.999500000000003 h17.5 h50"
+        style="animation-delay: -4.153846153846154s"
+      />
+    </g>
+    <g
+      class="svg-25-d-g"
+      transform="translate(0, 54)"
+    >
+      <path
+        class="svg-25-d-path"
+        d="M-50,0 h50 h21.249999999999996 c23.000000000000004,0 17.25,-4.999250000000007 28.750000000000004,-4.999250000000007 c11.500000000000002,0 5.75,4.999250000000007 28.750000000000004,4.999250000000007 h21.249999999999996 h50"
+        style="animation-delay: -4.615384615384616s"
+      />
+    </g>
+    <g
+      class="svg-25-d-g"
+      transform="translate(0, 55)"
+    >
+      <path
+        class="svg-25-d-path"
+        d="M-50,0 h50 h23.995190528383286 c20.80384757729337,0 15.602885682970028,-1.3388129494537242 26.004809471616714,-1.3388129494537242 c10.401923788646686,0 5.200961894323342,1.3388129494537242 26.004809471616714,1.3388129494537242 h23.995190528383286 h50"
+        style="animation-delay: -5.0769230769230775s"
+      />
+    </g>
+    <g
+      class="svg-25-d-g"
+      transform="translate(0, 56)"
+    >
+      <path
+        class="svg-25-d-path"
+        d="M-50,0 h50 h25 c20,0 15,0.001 25,0.001 c10,0 5,-0.001 25,-0.001 h25 h50"
+        style="animation-delay: -5.538461538461538s"
+      />
+    </g>
+  </g>
+</svg>

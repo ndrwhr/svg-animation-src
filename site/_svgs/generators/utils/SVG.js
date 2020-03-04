@@ -203,6 +203,24 @@ class SVGElement extends Element {
     this.time = 1;
   }
 
+  appendChild(child) {
+    super.appendChild(child);
+
+    if (child.tagName === 'title') {
+      // Title should be rendered first so remove the child from the end of
+      // the children and stick it at the beginning.
+      this.children.pop();
+      this.children.unshift(child);
+    } else if (child.tagName === 'desc') {
+      // Similarly, desc should be after title.
+      this.children.pop();
+
+      const insertIndex =
+        this.children.length && this.children[0].tagName === 'title' ? 1 : 0;
+      this.children.splice(insertIndex, 0, child);
+    }
+  }
+
   renderStep(stepSize) {
     if (stepSize && this.time > this.duration) return;
 
@@ -219,7 +237,6 @@ class SVGElement extends Element {
   render(renderOptions = {}) {
     if (!renderOptions.namespace) {
       throw new Error('Namespace required.');
-      return;
     }
 
     const result = super.render(renderOptions);
@@ -265,7 +282,7 @@ class MetaElement extends Element {
   }
 
   render() {
-    return commonToString(this.tagName, this.attributes, [this.text]);
+    return commonToString(this.tagName, this.attributes, [this.text.trim()]);
   }
 }
 

@@ -1,3 +1,4 @@
+const fs = require('fs');
 const glob = require('glob');
 const path = require('path');
 const markdownIt = require('markdown-it');
@@ -14,8 +15,29 @@ markdownLib.use(mila, {
   },
 });
 
+const DOMAIN = 'https://andrew.wang-hoyer.com';
+const EXP_PATH = 'experiments/svg-animations';
+const GITHUB_URL = 'https://github.com/ndrwhr/svg-animation-src/tree/master';
+
 const ROOT = process.cwd();
-const GENERATORS_DIR = path.join(ROOT, 'site/_svgs/generators');
+const GENERATORS_DIR = path.join(ROOT, 'site', '_svgs', 'generators');
+
+const LICENSE_LINES = fs
+  .readFileSync(path.join(ROOT, 'LICENSE'), 'utf-8')
+  .trim()
+  .split('\n')
+  .reduce(
+    (acc, line) => {
+      if (line.length) {
+        acc[acc.length - 1] = `${acc[acc.length - 1]} ${line}`;
+      } else {
+        acc.push('');
+      }
+      return acc;
+    },
+    [''],
+  )
+  .filter(line => line.length);
 
 const listGenerators = dir => glob.sync(`${GENERATORS_DIR}/${dir}/**/*.js`);
 
@@ -41,13 +63,22 @@ const generateCommonData = generatorPath => {
     descContent.push(generator.desc);
   }
 
-  descContent.push(
-    'Created by [Andrew Wang-Hoyer](http://andrew.wang-hoyer.com).',
-  );
-
   if (generator.attribution) {
     descContent.push(generator.attribution);
   }
+
+  const absoluteUrl = `${DOMAIN}/${EXP_PATH}/${dirName}/${fileName}`;
+  descContent.push(
+    `See this animation in action here: [${absoluteUrl}](${absoluteUrl}).`,
+  );
+
+  const sourceUrl = `${GITHUB_URL}/site/_svgs/generators/animations/${dirName}/${fileName}.js`;
+  descContent.push(`Generator source code : [${sourceUrl}](${sourceUrl}).`);
+
+  descContent.push(
+    `All generated files and source code are released under the following license:`,
+    ...LICENSE_LINES,
+  );
 
   svg.desc(markdownLib.render(descContent.join('\n\n')));
 
@@ -56,6 +87,7 @@ const generateCommonData = generatorPath => {
     title,
     dirName,
     fileName,
+    sourceUrl,
     desc: generator.desc ? markdownLib.render(generator.desc) : undefined,
     attribution: generator.attribution
       ? markdownLib.renderInline(generator.attribution)

@@ -43,6 +43,10 @@ navLinks:
     {% endif %}
   </div>
 
+  {% if svg.desc or svg.attribution %}
+    <h2 class="variant__sub-header">ABOUT {{svg.title}}</h2>
+  {% endif %}
+
   {% if svg.desc %}
     {{ svg.desc | safe }}
   {% endif %}
@@ -51,7 +55,18 @@ navLinks:
     <p>{{ svg.attribution | safe }}</p>
   {% endif %}
 
-  <h2 class="variant__variants-header">OTHER VARIANTS</h2>
+  <h2 class="variant__sub-header">LINKS</h2>
+
+  <ul class="variant__links">
+    <li>
+      <a href="{{svg.sourceUrl}}">Generator source code</a>
+    </li>
+    <li>
+      <a href="{{svg.svgUrl | url}}" download>Download unminified SVG</a>
+    </li>
+  </ul>
+
+  <h2 class="variant__sub-header">OTHER VARIANTS</h2>
   <ul class="variant__variants">
     {% set grid = ({dirIndex: svg.dir.index, excludeFileName: svg.fileName, showLabel: true}) %}
     {% include "grid.njk" %}

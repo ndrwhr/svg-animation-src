@@ -1,0 +1,845 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE svg>
+<svg
+  data-animation-duration="3s"
+  preserveAspectRatio="xMidYMid meet"
+  version="1.1"
+  viewBox="-50 -50 100 100"
+  xmlns:xlink="http://www.w3.org/1999/xlink"
+  xmlns="http://www.w3.org/2000/svg"
+>
+  <title>
+    ANIMATION 47 - VARIATION B
+  </title>
+  <desc>
+    <p>See this animation in action here: <a href="https://andrew.wang-hoyer.com/experiments/svg-animations/47/b" target="_blank" rel="noopener">https://andrew.wang-hoyer.com/experiments/svg-animations/47/b</a>.</p>
+    <p>Generator source code : <a href="https://github.com/ndrwhr/svg-animation-src/tree/master/site/_svgs/generators/animations/47/b.js" target="_blank" rel="noopener">https://github.com/ndrwhr/svg-animation-src/tree/master/site/_svgs/generators/animations/47/b.js</a>.</p>
+    <p>All generated files and source code are released under the following license:</p>
+    <p>MIT License</p>
+    <p>Copyright (c) 2018-present Andrew Hoyer</p>
+    <p>Permission is hereby granted, free of charge, to any person obtaining a copy of this software and associated documentation files (the &quot;Software&quot;), to deal in the Software without restriction, including without limitation the rights to use, copy, modify, merge, publish, distribute, sublicense, and/or sell copies of the Software, and to permit persons to whom the Software is furnished to do so, subject to the following conditions:</p>
+    <p>The above copyright notice and this permission notice shall be included in all copies or substantial portions of the Software.</p>
+    <p>THE SOFTWARE IS PROVIDED &quot;AS IS&quot;, WITHOUT WARRANTY OF ANY KIND, EXPRESS OR IMPLIED, INCLUDING BUT NOT LIMITED TO THE WARRANTIES OF MERCHANTABILITY, FITNESS FOR A PARTICULAR PURPOSE AND NONINFRINGEMENT. IN NO EVENT SHALL THE AUTHORS OR COPYRIGHT HOLDERS BE LIABLE FOR ANY CLAIM, DAMAGES OR OTHER LIABILITY, WHETHER IN AN ACTION OF CONTRACT, TORT OR OTHERWISE, ARISING FROM, OUT OF OR IN CONNECTION WITH THE SOFTWARE OR THE USE OR OTHER DEALINGS IN THE SOFTWARE.</p>
+  </desc>
+  <style>
+    /* <![CDATA[ */
+      .svg-47-b-polygon {
+        fill: black;
+        stroke: none;
+        animation: svg-47-b-anim 3s ease-in-out alternate infinite;
+        transform: scaleY(-0.5);
+      }
+      
+      @keyframes svg-47-b-anim {
+        from {
+          transform: scaleY(1);
+        }
+      
+        to {
+          transform: scaleY(-0.25);
+        }
+      }
+      
+    /* ]]> */
+  </style>
+  <g
+    class="svg-47-b-g"
+    transform="rotate(0)"
+  >
+    <polygon
+      class="svg-47-b-polygon"
+      points="0,0 -1.5703926086425781,-39.96916198730469 1.5703926086425781,-39.96916198730469"
+      style="transform-origin: 0% -39.96916198730469%; animation-delay: 0s"
+    />
+  </g>
+  <g
+    class="svg-47-b-g"
+    transform="rotate(4.5)"
+  >
+    <polygon
+      class="svg-47-b-polygon"
+      points="0,0 -1.5703926086425781,-39.96916198730469 1.5703926086425781,-39.96916198730469"
+      style="transform-origin: 0% -39.96916198730469%; animation-delay: -0.22499999999999998s"
+    />
+  </g>
+  <g
+    class="svg-47-b-g"
+    transform="rotate(9)"
+  >
+    <polygon
+      class="svg-47-b-polygon"
+      points="0,0 -1.5703926086425781,-39.96916198730469 1.5703926086425781,-39.96916198730469"
+      style="transform-origin: 0% -39.96916198730469%; animation-delay: -0.44999999999999996s"
+    />
+  </g>
+  <g
+    class="svg-47-b-g"
+    transform="rotate(13.5)"
+  >
+    <polygon
+      class="svg-47-b-polygon"
+      points="0,0 -1.5703926086425781,-39.96916198730469 1.5703926086425781,-39.96916198730469"
+      style="transform-origin: 0% -39.96916198730469%; animation-delay: -0.675s"
+    />
+  </g>
+  <g
+    class="svg-47-b-g"
+    transform="rotate(18)"
+  >
+    <polygon
+      class="svg-47-b-polygon"
+      points="0,0 -1.5703926086425781,-39.96916198730469 1.5703926086425781,-39.96916198730469"
+      style="transform-origin: 0% -39.96916198730469%; animation-delay: -0.8999999999999999s"
+    />
+  </g>
+  <g
+    class="svg-47-b-g"
+    transform="rotate(22.5)"
+  >
+    <polygon
+      class="svg-47-b-polygon"
+      points="0,0 -1.5703926086425781,-39.96916198730469 1.5703926086425781,-39.96916198730469"
+      style="transform-origin: 0% -39.96916198730469%; animation-delay: -1.125s"
+    />
+  </g>
+  <g
+    class="svg-47-b-g"
+    transform="rotate(27)"
+  >
+    <polygon
+      class="svg-47-b-polygon"
+      points="0,0 -1.5703926086425781,-39.96916198730469 1.5703926086425781,-39.96916198730469"
+      style="transform-origin: 0% -39.96916198730469%; animation-delay: -1.35s"
+    />
+  </g>
+  <g
+    class="svg-47-b-g"
+    transform="rotate(31.5)"
+  >
+    <polygon
+      class="svg-47-b-polygon"
+      points="0,0 -1.5703926086425781,-39.96916198730469 1.5703926086425781,-39.96916198730469"
+      style="transform-origin: 0% -39.96916198730469%; animation-delay: -1.5750000000000002s"
+    />
+  </g>
+  <g
+    class="svg-47-b-g"
+    transform="rotate(36)"
+  >
+    <polygon
+      class="svg-47-b-polygon"
+      points="0,0 -1.5703926086425781,-39.96916198730469 1.5703926086425781,-39.96916198730469"
+      style="transform-origin: 0% -39.96916198730469%; animation-delay: -1.7999999999999998s"
+    />
+  </g>
+  <g
+    class="svg-47-b-g"
+    transform="rotate(40.5)"
+  >
+    <polygon
+      class="svg-47-b-polygon"
+      points="0,0 -1.5703926086425781,-39.96916198730469 1.5703926086425781,-39.96916198730469"
+      style="transform-origin: 0% -39.96916198730469%; animation-delay: -2.0250000000000004s"
+    />
+  </g>
+  <g
+    class="svg-47-b-g"
+    transform="rotate(45)"
+  >
+    <polygon
+      class="svg-47-b-polygon"
+      points="0,0 -1.5703926086425781,-39.96916198730469 1.5703926086425781,-39.96916198730469"
+      style="transform-origin: 0% -39.96916198730469%; animation-delay: -2.25s"
+    />
+  </g>
+  <g
+    class="svg-47-b-g"
+    transform="rotate(49.50000000000001)"
+  >
+    <polygon
+      class="svg-47-b-polygon"
+      points="0,0 -1.5703926086425781,-39.96916198730469 1.5703926086425781,-39.96916198730469"
+      style="transform-origin: 0% -39.96916198730469%; animation-delay: -2.4749999999999996s"
+    />
+  </g>
+  <g
+    class="svg-47-b-g"
+    transform="rotate(54)"
+  >
+    <polygon
+      class="svg-47-b-polygon"
+      points="0,0 -1.5703926086425781,-39.96916198730469 1.5703926086425781,-39.96916198730469"
+      style="transform-origin: 0% -39.96916198730469%; animation-delay: -2.7s"
+    />
+  </g>
+  <g
+    class="svg-47-b-g"
+    transform="rotate(58.5)"
+  >
+    <polygon
+      class="svg-47-b-polygon"
+      points="0,0 -1.5703926086425781,-39.96916198730469 1.5703926086425781,-39.96916198730469"
+      style="transform-origin: 0% -39.96916198730469%; animation-delay: -2.925s"
+    />
+  </g>
+  <g
+    class="svg-47-b-g"
+    transform="rotate(63)"
+  >
+    <polygon
+      class="svg-47-b-polygon"
+      points="0,0 -1.5703926086425781,-39.96916198730469 1.5703926086425781,-39.96916198730469"
+      style="transform-origin: 0% -39.96916198730469%; animation-delay: -3.1500000000000004s"
+    />
+  </g>
+  <g
+    class="svg-47-b-g"
+    transform="rotate(67.5)"
+  >
+    <polygon
+      class="svg-47-b-polygon"
+      points="0,0 -1.5703926086425781,-39.96916198730469 1.5703926086425781,-39.96916198730469"
+      style="transform-origin: 0% -39.96916198730469%; animation-delay: -3.375s"
+    />
+  </g>
+  <g
+    class="svg-47-b-g"
+    transform="rotate(72)"
+  >
+    <polygon
+      class="svg-47-b-polygon"
+      points="0,0 -1.5703926086425781,-39.96916198730469 1.5703926086425781,-39.96916198730469"
+      style="transform-origin: 0% -39.96916198730469%; animation-delay: -3.5999999999999996s"
+    />
+  </g>
+  <g
+    class="svg-47-b-g"
+    transform="rotate(76.5)"
+  >
+    <polygon
+      class="svg-47-b-polygon"
+      points="0,0 -1.5703926086425781,-39.96916198730469 1.5703926086425781,-39.96916198730469"
+      style="transform-origin: 0% -39.96916198730469%; animation-delay: -3.8249999999999997s"
+    />
+  </g>
+  <g
+    class="svg-47-b-g"
+    transform="rotate(81)"
+  >
+    <polygon
+      class="svg-47-b-polygon"
+      points="0,0 -1.5703926086425781,-39.96916198730469 1.5703926086425781,-39.96916198730469"
+      style="transform-origin: 0% -39.96916198730469%; animation-delay: -4.050000000000001s"
+    />
+  </g>
+  <g
+    class="svg-47-b-g"
+    transform="rotate(85.5)"
+  >
+    <polygon
+      class="svg-47-b-polygon"
+      points="0,0 -1.5703926086425781,-39.96916198730469 1.5703926086425781,-39.96916198730469"
+      style="transform-origin: 0% -39.96916198730469%; animation-delay: -4.275s"
+    />
+  </g>
+  <g
+    class="svg-47-b-g"
+    transform="rotate(90)"
+  >
+    <polygon
+      class="svg-47-b-polygon"
+      points="0,0 -1.5703926086425781,-39.96916198730469 1.5703926086425781,-39.96916198730469"
+      style="transform-origin: 0% -39.96916198730469%; animation-delay: -4.5s"
+    />
+  </g>
+  <g
+    class="svg-47-b-g"
+    transform="rotate(94.5)"
+  >
+    <polygon
+      class="svg-47-b-polygon"
+      points="0,0 -1.5703926086425781,-39.96916198730469 1.5703926086425781,-39.96916198730469"
+      style="transform-origin: 0% -39.96916198730469%; animation-delay: -4.725s"
+    />
+  </g>
+  <g
+    class="svg-47-b-g"
+    transform="rotate(99.00000000000001)"
+  >
+    <polygon
+      class="svg-47-b-polygon"
+      points="0,0 -1.5703926086425781,-39.96916198730469 1.5703926086425781,-39.96916198730469"
+      style="transform-origin: 0% -39.96916198730469%; animation-delay: -4.949999999999999s"
+    />
+  </g>
+  <g
+    class="svg-47-b-g"
+    transform="rotate(103.49999999999999)"
+  >
+    <polygon
+      class="svg-47-b-polygon"
+      points="0,0 -1.5703926086425781,-39.96916198730469 1.5703926086425781,-39.96916198730469"
+      style="transform-origin: 0% -39.96916198730469%; animation-delay: -5.175000000000001s"
+    />
+  </g>
+  <g
+    class="svg-47-b-g"
+    transform="rotate(108)"
+  >
+    <polygon
+      class="svg-47-b-polygon"
+      points="0,0 -1.5703926086425781,-39.96916198730469 1.5703926086425781,-39.96916198730469"
+      style="transform-origin: 0% -39.96916198730469%; animation-delay: -5.4s"
+    />
+  </g>
+  <g
+    class="svg-47-b-g"
+    transform="rotate(112.5)"
+  >
+    <polygon
+      class="svg-47-b-polygon"
+      points="0,0 -1.5703926086425781,-39.96916198730469 1.5703926086425781,-39.96916198730469"
+      style="transform-origin: 0% -39.96916198730469%; animation-delay: -5.625s"
+    />
+  </g>
+  <g
+    class="svg-47-b-g"
+    transform="rotate(117)"
+  >
+    <polygon
+      class="svg-47-b-polygon"
+      points="0,0 -1.5703926086425781,-39.96916198730469 1.5703926086425781,-39.96916198730469"
+      style="transform-origin: 0% -39.96916198730469%; animation-delay: -5.85s"
+    />
+  </g>
+  <g
+    class="svg-47-b-g"
+    transform="rotate(121.5)"
+  >
+    <polygon
+      class="svg-47-b-polygon"
+      points="0,0 -1.5703926086425781,-39.96916198730469 1.5703926086425781,-39.96916198730469"
+      style="transform-origin: 0% -39.96916198730469%; animation-delay: -6.074999999999999s"
+    />
+  </g>
+  <g
+    class="svg-47-b-g"
+    transform="rotate(126)"
+  >
+    <polygon
+      class="svg-47-b-polygon"
+      points="0,0 -1.5703926086425781,-39.96916198730469 1.5703926086425781,-39.96916198730469"
+      style="transform-origin: 0% -39.96916198730469%; animation-delay: -6.300000000000001s"
+    />
+  </g>
+  <g
+    class="svg-47-b-g"
+    transform="rotate(130.5)"
+  >
+    <polygon
+      class="svg-47-b-polygon"
+      points="0,0 -1.5703926086425781,-39.96916198730469 1.5703926086425781,-39.96916198730469"
+      style="transform-origin: 0% -39.96916198730469%; animation-delay: -6.5249999999999995s"
+    />
+  </g>
+  <g
+    class="svg-47-b-g"
+    transform="rotate(135)"
+  >
+    <polygon
+      class="svg-47-b-polygon"
+      points="0,0 -1.5703926086425781,-39.96916198730469 1.5703926086425781,-39.96916198730469"
+      style="transform-origin: 0% -39.96916198730469%; animation-delay: -6.75s"
+    />
+  </g>
+  <g
+    class="svg-47-b-g"
+    transform="rotate(139.5)"
+  >
+    <polygon
+      class="svg-47-b-polygon"
+      points="0,0 -1.5703926086425781,-39.96916198730469 1.5703926086425781,-39.96916198730469"
+      style="transform-origin: 0% -39.96916198730469%; animation-delay: -6.9750000000000005s"
+    />
+  </g>
+  <g
+    class="svg-47-b-g"
+    transform="rotate(144)"
+  >
+    <polygon
+      class="svg-47-b-polygon"
+      points="0,0 -1.5703926086425781,-39.96916198730469 1.5703926086425781,-39.96916198730469"
+      style="transform-origin: 0% -39.96916198730469%; animation-delay: -7.199999999999999s"
+    />
+  </g>
+  <g
+    class="svg-47-b-g"
+    transform="rotate(148.5)"
+  >
+    <polygon
+      class="svg-47-b-polygon"
+      points="0,0 -1.5703926086425781,-39.96916198730469 1.5703926086425781,-39.96916198730469"
+      style="transform-origin: 0% -39.96916198730469%; animation-delay: -7.425000000000001s"
+    />
+  </g>
+  <g
+    class="svg-47-b-g"
+    transform="rotate(153)"
+  >
+    <polygon
+      class="svg-47-b-polygon"
+      points="0,0 -1.5703926086425781,-39.96916198730469 1.5703926086425781,-39.96916198730469"
+      style="transform-origin: 0% -39.96916198730469%; animation-delay: -7.6499999999999995s"
+    />
+  </g>
+  <g
+    class="svg-47-b-g"
+    transform="rotate(157.5)"
+  >
+    <polygon
+      class="svg-47-b-polygon"
+      points="0,0 -1.5703926086425781,-39.96916198730469 1.5703926086425781,-39.96916198730469"
+      style="transform-origin: 0% -39.96916198730469%; animation-delay: -7.875s"
+    />
+  </g>
+  <g
+    class="svg-47-b-g"
+    transform="rotate(162)"
+  >
+    <polygon
+      class="svg-47-b-polygon"
+      points="0,0 -1.5703926086425781,-39.96916198730469 1.5703926086425781,-39.96916198730469"
+      style="transform-origin: 0% -39.96916198730469%; animation-delay: -8.100000000000001s"
+    />
+  </g>
+  <g
+    class="svg-47-b-g"
+    transform="rotate(166.5)"
+  >
+    <polygon
+      class="svg-47-b-polygon"
+      points="0,0 -1.5703926086425781,-39.96916198730469 1.5703926086425781,-39.96916198730469"
+      style="transform-origin: 0% -39.96916198730469%; animation-delay: -8.325s"
+    />
+  </g>
+  <g
+    class="svg-47-b-g"
+    transform="rotate(171)"
+  >
+    <polygon
+      class="svg-47-b-polygon"
+      points="0,0 -1.5703926086425781,-39.96916198730469 1.5703926086425781,-39.96916198730469"
+      style="transform-origin: 0% -39.96916198730469%; animation-delay: -8.55s"
+    />
+  </g>
+  <g
+    class="svg-47-b-g"
+    transform="rotate(175.5)"
+  >
+    <polygon
+      class="svg-47-b-polygon"
+      points="0,0 -1.5703926086425781,-39.96916198730469 1.5703926086425781,-39.96916198730469"
+      style="transform-origin: 0% -39.96916198730469%; animation-delay: -8.774999999999999s"
+    />
+  </g>
+  <g
+    class="svg-47-b-g"
+    transform="rotate(180)"
+  >
+    <polygon
+      class="svg-47-b-polygon"
+      points="0,0 -1.5703926086425781,-39.96916198730469 1.5703926086425781,-39.96916198730469"
+      style="transform-origin: 0% -39.96916198730469%; animation-delay: -9s"
+    />
+  </g>
+  <g
+    class="svg-47-b-g"
+    transform="rotate(184.5)"
+  >
+    <polygon
+      class="svg-47-b-polygon"
+      points="0,0 -1.5703926086425781,-39.96916198730469 1.5703926086425781,-39.96916198730469"
+      style="transform-origin: 0% -39.96916198730469%; animation-delay: -9.225000000000001s"
+    />
+  </g>
+  <g
+    class="svg-47-b-g"
+    transform="rotate(189)"
+  >
+    <polygon
+      class="svg-47-b-polygon"
+      points="0,0 -1.5703926086425781,-39.96916198730469 1.5703926086425781,-39.96916198730469"
+      style="transform-origin: 0% -39.96916198730469%; animation-delay: -9.45s"
+    />
+  </g>
+  <g
+    class="svg-47-b-g"
+    transform="rotate(193.5)"
+  >
+    <polygon
+      class="svg-47-b-polygon"
+      points="0,0 -1.5703926086425781,-39.96916198730469 1.5703926086425781,-39.96916198730469"
+      style="transform-origin: 0% -39.96916198730469%; animation-delay: -9.675s"
+    />
+  </g>
+  <g
+    class="svg-47-b-g"
+    transform="rotate(198.00000000000003)"
+  >
+    <polygon
+      class="svg-47-b-polygon"
+      points="0,0 -1.5703926086425781,-39.96916198730469 1.5703926086425781,-39.96916198730469"
+      style="transform-origin: 0% -39.96916198730469%; animation-delay: -9.899999999999999s"
+    />
+  </g>
+  <g
+    class="svg-47-b-g"
+    transform="rotate(202.49999999999997)"
+  >
+    <polygon
+      class="svg-47-b-polygon"
+      points="0,0 -1.5703926086425781,-39.96916198730469 1.5703926086425781,-39.96916198730469"
+      style="transform-origin: 0% -39.96916198730469%; animation-delay: -10.125s"
+    />
+  </g>
+  <g
+    class="svg-47-b-g"
+    transform="rotate(206.99999999999997)"
+  >
+    <polygon
+      class="svg-47-b-polygon"
+      points="0,0 -1.5703926086425781,-39.96916198730469 1.5703926086425781,-39.96916198730469"
+      style="transform-origin: 0% -39.96916198730469%; animation-delay: -10.350000000000001s"
+    />
+  </g>
+  <g
+    class="svg-47-b-g"
+    transform="rotate(211.5)"
+  >
+    <polygon
+      class="svg-47-b-polygon"
+      points="0,0 -1.5703926086425781,-39.96916198730469 1.5703926086425781,-39.96916198730469"
+      style="transform-origin: 0% -39.96916198730469%; animation-delay: -10.575s"
+    />
+  </g>
+  <g
+    class="svg-47-b-g"
+    transform="rotate(216)"
+  >
+    <polygon
+      class="svg-47-b-polygon"
+      points="0,0 -1.5703926086425781,-39.96916198730469 1.5703926086425781,-39.96916198730469"
+      style="transform-origin: 0% -39.96916198730469%; animation-delay: -10.8s"
+    />
+  </g>
+  <g
+    class="svg-47-b-g"
+    transform="rotate(220.5)"
+  >
+    <polygon
+      class="svg-47-b-polygon"
+      points="0,0 -1.5703926086425781,-39.96916198730469 1.5703926086425781,-39.96916198730469"
+      style="transform-origin: 0% -39.96916198730469%; animation-delay: -11.024999999999999s"
+    />
+  </g>
+  <g
+    class="svg-47-b-g"
+    transform="rotate(225)"
+  >
+    <polygon
+      class="svg-47-b-polygon"
+      points="0,0 -1.5703926086425781,-39.96916198730469 1.5703926086425781,-39.96916198730469"
+      style="transform-origin: 0% -39.96916198730469%; animation-delay: -11.25s"
+    />
+  </g>
+  <g
+    class="svg-47-b-g"
+    transform="rotate(229.49999999999997)"
+  >
+    <polygon
+      class="svg-47-b-polygon"
+      points="0,0 -1.5703926086425781,-39.96916198730469 1.5703926086425781,-39.96916198730469"
+      style="transform-origin: 0% -39.96916198730469%; animation-delay: -11.475000000000001s"
+    />
+  </g>
+  <g
+    class="svg-47-b-g"
+    transform="rotate(234)"
+  >
+    <polygon
+      class="svg-47-b-polygon"
+      points="0,0 -1.5703926086425781,-39.96916198730469 1.5703926086425781,-39.96916198730469"
+      style="transform-origin: 0% -39.96916198730469%; animation-delay: -11.7s"
+    />
+  </g>
+  <g
+    class="svg-47-b-g"
+    transform="rotate(238.50000000000003)"
+  >
+    <polygon
+      class="svg-47-b-polygon"
+      points="0,0 -1.5703926086425781,-39.96916198730469 1.5703926086425781,-39.96916198730469"
+      style="transform-origin: 0% -39.96916198730469%; animation-delay: -11.925s"
+    />
+  </g>
+  <g
+    class="svg-47-b-g"
+    transform="rotate(243)"
+  >
+    <polygon
+      class="svg-47-b-polygon"
+      points="0,0 -1.5703926086425781,-39.96916198730469 1.5703926086425781,-39.96916198730469"
+      style="transform-origin: 0% -39.96916198730469%; animation-delay: -12.149999999999999s"
+    />
+  </g>
+  <g
+    class="svg-47-b-g"
+    transform="rotate(247.49999999999997)"
+  >
+    <polygon
+      class="svg-47-b-polygon"
+      points="0,0 -1.5703926086425781,-39.96916198730469 1.5703926086425781,-39.96916198730469"
+      style="transform-origin: 0% -39.96916198730469%; animation-delay: -12.375s"
+    />
+  </g>
+  <g
+    class="svg-47-b-g"
+    transform="rotate(252)"
+  >
+    <polygon
+      class="svg-47-b-polygon"
+      points="0,0 -1.5703926086425781,-39.96916198730469 1.5703926086425781,-39.96916198730469"
+      style="transform-origin: 0% -39.96916198730469%; animation-delay: -12.600000000000001s"
+    />
+  </g>
+  <g
+    class="svg-47-b-g"
+    transform="rotate(256.5)"
+  >
+    <polygon
+      class="svg-47-b-polygon"
+      points="0,0 -1.5703926086425781,-39.96916198730469 1.5703926086425781,-39.96916198730469"
+      style="transform-origin: 0% -39.96916198730469%; animation-delay: -12.825000000000001s"
+    />
+  </g>
+  <g
+    class="svg-47-b-g"
+    transform="rotate(261)"
+  >
+    <polygon
+      class="svg-47-b-polygon"
+      points="0,0 -1.5703926086425781,-39.96916198730469 1.5703926086425781,-39.96916198730469"
+      style="transform-origin: 0% -39.96916198730469%; animation-delay: -13.049999999999999s"
+    />
+  </g>
+  <g
+    class="svg-47-b-g"
+    transform="rotate(265.5)"
+  >
+    <polygon
+      class="svg-47-b-polygon"
+      points="0,0 -1.5703926086425781,-39.96916198730469 1.5703926086425781,-39.96916198730469"
+      style="transform-origin: 0% -39.96916198730469%; animation-delay: -13.274999999999999s"
+    />
+  </g>
+  <g
+    class="svg-47-b-g"
+    transform="rotate(270)"
+  >
+    <polygon
+      class="svg-47-b-polygon"
+      points="0,0 -1.5703926086425781,-39.96916198730469 1.5703926086425781,-39.96916198730469"
+      style="transform-origin: 0% -39.96916198730469%; animation-delay: -13.5s"
+    />
+  </g>
+  <g
+    class="svg-47-b-g"
+    transform="rotate(274.5)"
+  >
+    <polygon
+      class="svg-47-b-polygon"
+      points="0,0 -1.5703926086425781,-39.96916198730469 1.5703926086425781,-39.96916198730469"
+      style="transform-origin: 0% -39.96916198730469%; animation-delay: -13.725000000000001s"
+    />
+  </g>
+  <g
+    class="svg-47-b-g"
+    transform="rotate(279)"
+  >
+    <polygon
+      class="svg-47-b-polygon"
+      points="0,0 -1.5703926086425781,-39.96916198730469 1.5703926086425781,-39.96916198730469"
+      style="transform-origin: 0% -39.96916198730469%; animation-delay: -13.950000000000001s"
+    />
+  </g>
+  <g
+    class="svg-47-b-g"
+    transform="rotate(283.49999999999994)"
+  >
+    <polygon
+      class="svg-47-b-polygon"
+      points="0,0 -1.5703926086425781,-39.96916198730469 1.5703926086425781,-39.96916198730469"
+      style="transform-origin: 0% -39.96916198730469%; animation-delay: -14.174999999999999s"
+    />
+  </g>
+  <g
+    class="svg-47-b-g"
+    transform="rotate(288)"
+  >
+    <polygon
+      class="svg-47-b-polygon"
+      points="0,0 -1.5703926086425781,-39.96916198730469 1.5703926086425781,-39.96916198730469"
+      style="transform-origin: 0% -39.96916198730469%; animation-delay: -14.399999999999999s"
+    />
+  </g>
+  <g
+    class="svg-47-b-g"
+    transform="rotate(292.50000000000006)"
+  >
+    <polygon
+      class="svg-47-b-polygon"
+      points="0,0 -1.5703926086425781,-39.96916198730469 1.5703926086425781,-39.96916198730469"
+      style="transform-origin: 0% -39.96916198730469%; animation-delay: -14.625s"
+    />
+  </g>
+  <g
+    class="svg-47-b-g"
+    transform="rotate(297)"
+  >
+    <polygon
+      class="svg-47-b-polygon"
+      points="0,0 -1.5703926086425781,-39.96916198730469 1.5703926086425781,-39.96916198730469"
+      style="transform-origin: 0% -39.96916198730469%; animation-delay: -14.850000000000001s"
+    />
+  </g>
+  <g
+    class="svg-47-b-g"
+    transform="rotate(301.5)"
+  >
+    <polygon
+      class="svg-47-b-polygon"
+      points="0,0 -1.5703926086425781,-39.96916198730469 1.5703926086425781,-39.96916198730469"
+      style="transform-origin: 0% -39.96916198730469%; animation-delay: -15.075000000000001s"
+    />
+  </g>
+  <g
+    class="svg-47-b-g"
+    transform="rotate(306)"
+  >
+    <polygon
+      class="svg-47-b-polygon"
+      points="0,0 -1.5703926086425781,-39.96916198730469 1.5703926086425781,-39.96916198730469"
+      style="transform-origin: 0% -39.96916198730469%; animation-delay: -15.299999999999999s"
+    />
+  </g>
+  <g
+    class="svg-47-b-g"
+    transform="rotate(310.5)"
+  >
+    <polygon
+      class="svg-47-b-polygon"
+      points="0,0 -1.5703926086425781,-39.96916198730469 1.5703926086425781,-39.96916198730469"
+      style="transform-origin: 0% -39.96916198730469%; animation-delay: -15.524999999999999s"
+    />
+  </g>
+  <g
+    class="svg-47-b-g"
+    transform="rotate(315)"
+  >
+    <polygon
+      class="svg-47-b-polygon"
+      points="0,0 -1.5703926086425781,-39.96916198730469 1.5703926086425781,-39.96916198730469"
+      style="transform-origin: 0% -39.96916198730469%; animation-delay: -15.75s"
+    />
+  </g>
+  <g
+    class="svg-47-b-g"
+    transform="rotate(319.5)"
+  >
+    <polygon
+      class="svg-47-b-polygon"
+      points="0,0 -1.5703926086425781,-39.96916198730469 1.5703926086425781,-39.96916198730469"
+      style="transform-origin: 0% -39.96916198730469%; animation-delay: -15.975000000000001s"
+    />
+  </g>
+  <g
+    class="svg-47-b-g"
+    transform="rotate(324)"
+  >
+    <polygon
+      class="svg-47-b-polygon"
+      points="0,0 -1.5703926086425781,-39.96916198730469 1.5703926086425781,-39.96916198730469"
+      style="transform-origin: 0% -39.96916198730469%; animation-delay: -16.200000000000003s"
+    />
+  </g>
+  <g
+    class="svg-47-b-g"
+    transform="rotate(328.5)"
+  >
+    <polygon
+      class="svg-47-b-polygon"
+      points="0,0 -1.5703926086425781,-39.96916198730469 1.5703926086425781,-39.96916198730469"
+      style="transform-origin: 0% -39.96916198730469%; animation-delay: -16.424999999999997s"
+    />
+  </g>
+  <g
+    class="svg-47-b-g"
+    transform="rotate(333)"
+  >
+    <polygon
+      class="svg-47-b-polygon"
+      points="0,0 -1.5703926086425781,-39.96916198730469 1.5703926086425781,-39.96916198730469"
+      style="transform-origin: 0% -39.96916198730469%; animation-delay: -16.65s"
+    />
+  </g>
+  <g
+    class="svg-47-b-g"
+    transform="rotate(337.49999999999994)"
+  >
+    <polygon
+      class="svg-47-b-polygon"
+      points="0,0 -1.5703926086425781,-39.96916198730469 1.5703926086425781,-39.96916198730469"
+      style="transform-origin: 0% -39.96916198730469%; animation-delay: -16.875s"
+    />
+  </g>
+  <g
+    class="svg-47-b-g"
+    transform="rotate(342)"
+  >
+    <polygon
+      class="svg-47-b-polygon"
+      points="0,0 -1.5703926086425781,-39.96916198730469 1.5703926086425781,-39.96916198730469"
+      style="transform-origin: 0% -39.96916198730469%; animation-delay: -17.1s"
+    />
+  </g>
+  <g
+    class="svg-47-b-g"
+    transform="rotate(346.50000000000006)"
+  >
+    <polygon
+      class="svg-47-b-polygon"
+      points="0,0 -1.5703926086425781,-39.96916198730469 1.5703926086425781,-39.96916198730469"
+      style="transform-origin: 0% -39.96916198730469%; animation-delay: -17.325000000000003s"
+    />
+  </g>
+  <g
+    class="svg-47-b-g"
+    transform="rotate(351)"
+  >
+    <polygon
+      class="svg-47-b-polygon"
+      points="0,0 -1.5703926086425781,-39.96916198730469 1.5703926086425781,-39.96916198730469"
+      style="transform-origin: 0% -39.96916198730469%; animation-delay: -17.549999999999997s"
+    />
+  </g>
+  <g
+    class="svg-47-b-g"
+    transform="rotate(355.49999999999994)"
+  >
+    <polygon
+      class="svg-47-b-polygon"
+      points="0,0 -1.5703926086425781,-39.96916198730469 1.5703926086425781,-39.96916198730469"
+      style="transform-origin: 0% -39.96916198730469%; animation-delay: -17.775s"
+    />
+  </g>
+</svg>

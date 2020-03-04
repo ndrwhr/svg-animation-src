@@ -1,0 +1,633 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE svg>
+<svg
+  data-animation-duration="10000"
+  preserveAspectRatio="xMidYMid meet"
+  version="1.1"
+  viewBox="-50 -50 100 100"
+  xmlns:xlink="http://www.w3.org/1999/xlink"
+  xmlns="http://www.w3.org/2000/svg"
+>
+  <title>
+    ANIMATION 32 - VARIATION F
+  </title>
+  <desc>
+    <p>See this animation in action here: <a href="https://andrew.wang-hoyer.com/experiments/svg-animations/32/f" target="_blank" rel="noopener">https://andrew.wang-hoyer.com/experiments/svg-animations/32/f</a>.</p>
+    <p>Generator source code : <a href="https://github.com/ndrwhr/svg-animation-src/tree/master/site/_svgs/generators/animations/32/f.js" target="_blank" rel="noopener">https://github.com/ndrwhr/svg-animation-src/tree/master/site/_svgs/generators/animations/32/f.js</a>.</p>
+    <p>All generated files and source code are released under the following license:</p>
+    <p>MIT License</p>
+    <p>Copyright (c) 2018-present Andrew Hoyer</p>
+    <p>Permission is hereby granted, free of charge, to any person obtaining a copy of this software and associated documentation files (the &quot;Software&quot;), to deal in the Software without restriction, including without limitation the rights to use, copy, modify, merge, publish, distribute, sublicense, and/or sell copies of the Software, and to permit persons to whom the Software is furnished to do so, subject to the following conditions:</p>
+    <p>The above copyright notice and this permission notice shall be included in all copies or substantial portions of the Software.</p>
+    <p>THE SOFTWARE IS PROVIDED &quot;AS IS&quot;, WITHOUT WARRANTY OF ANY KIND, EXPRESS OR IMPLIED, INCLUDING BUT NOT LIMITED TO THE WARRANTIES OF MERCHANTABILITY, FITNESS FOR A PARTICULAR PURPOSE AND NONINFRINGEMENT. IN NO EVENT SHALL THE AUTHORS OR COPYRIGHT HOLDERS BE LIABLE FOR ANY CLAIM, DAMAGES OR OTHER LIABILITY, WHETHER IN AN ACTION OF CONTRACT, TORT OR OTHERWISE, ARISING FROM, OUT OF OR IN CONNECTION WITH THE SOFTWARE OR THE USE OR OTHER DEALINGS IN THE SOFTWARE.</p>
+  </desc>
+  <style>
+    /* <![CDATA[ */
+      .svg-32-f-polygon {
+        stroke: none;
+        stroke-width: .5;
+        fill: white;
+      }
+      
+      .svg-32-f-polygon.svg-32-f-dark {
+        fill: black;
+      }
+      
+      .svg-32-f-animated-group {
+        animation: svg-32-f-main-anim 10s linear infinite;
+      }
+      
+      @keyframes svg-32-f-main-anim {
+        0% {
+          transform: rotate(0deg) scale(1);
+        }
+      
+        1% {
+          transform: rotate(.6deg) scale(.9940446222620374);
+        }
+      
+        2% {
+          transform: rotate(1.2deg) scale(.9882674907157956);
+        }
+      
+        3% {
+          transform: rotate(1.8deg) scale(.9826642591212421);
+        }
+      
+        4% {
+          transform: rotate(2.4deg) scale(.9772307673770841);
+        }
+      
+        5% {
+          transform: rotate(3deg) scale(.9719630331251672);
+        }
+      
+        6% {
+          transform: rotate(3.6deg) scale(.9668572438447841);
+        }
+      
+        7% {
+          transform: rotate(4.2deg) scale(.9619097494053745);
+        }
+      
+        8% {
+          transform: rotate(4.8deg) scale(.957117055048442);
+        }
+      
+        9% {
+          transform: rotate(5.4deg) scale(.9524758147716799);
+        }
+      
+        10% {
+          transform: rotate(6deg) scale(.9479828250902943);
+        }
+      
+        11% {
+          transform: rotate(6.6deg) scale(.9436350191523252);
+        }
+      
+        12% {
+          transform: rotate(7.2deg) scale(.9394294611864619);
+        }
+      
+        13% {
+          transform: rotate(7.8deg) scale(.935363341262389);
+        }
+      
+        14% {
+          transform: rotate(8.4deg) scale(.9314339703451321);
+        }
+      
+        15% {
+          transform: rotate(9deg) scale(.9276387756261881);
+        }
+      
+        16% {
+          transform: rotate(9.6deg) scale(.9239752961154395);
+        }
+      
+        17% {
+          transform: rotate(10.2deg) scale(.9204411784789827);
+        }
+      
+        18% {
+          transform: rotate(10.8deg) scale(.9170341731090332);
+        }
+      
+        19% {
+          transform: rotate(11.4deg) scale(.9137521304130402);
+        }
+      
+        20% {
+          transform: rotate(12deg) scale(.9105929973100293);
+        }
+      
+        21% {
+          transform: rotate(12.6deg) scale(.9075548139230278);
+        }
+      
+        22% {
+          transform: rotate(13.2deg) scale(.9046357104571867);
+        }
+      
+        23% {
+          transform: rotate(13.8deg) scale(.9018339042539351);
+        }
+      
+        24% {
+          transform: rotate(14.4deg) scale(.8991476970121638);
+        }
+      
+        25% {
+          transform: rotate(15deg) scale(.8965754721680536);
+        }
+      
+        26% {
+          transform: rotate(15.6deg) scale(.8941156924257406);
+        }
+      
+        27% {
+          transform: rotate(16.2deg) scale(.8917668974315501);
+        }
+      
+        28% {
+          transform: rotate(16.8deg) scale(.8895277015850314);
+        }
+      
+        29% {
+          transform: rotate(17.4deg) scale(.8873967919804968);
+        }
+      
+        30% {
+          transform: rotate(18deg) scale(.8853729264732102);
+        }
+      
+        31% {
+          transform: rotate(18.6deg) scale(.8834549318647775);
+        }
+      
+        32% {
+          transform: rotate(19.2deg) scale(.881641702202687);
+        }
+      
+        33% {
+          transform: rotate(19.8deg) scale(.8799321971893047);
+        }
+      
+        34% {
+          transform: rotate(20.4deg) scale(.8783254406959775);
+        }
+      
+        35% {
+          transform: rotate(21deg) scale(.8768205193782178);
+        }
+      
+        36% {
+          transform: rotate(21.6deg) scale(.8754165813882508);
+        }
+      
+        37% {
+          transform: rotate(22.2deg) scale(.8741128351814966);
+        }
+      
+        38% {
+          transform: rotate(22.8deg) scale(.8729085484138274);
+        }
+      
+        39% {
+          transform: rotate(23.4deg) scale(.8718030469267106);
+        }
+      
+        40% {
+          transform: rotate(24deg) scale(.8707957138175905);
+        }
+      
+        41% {
+          transform: rotate(24.6deg) scale(.8698859885930996);
+        }
+      
+        42% {
+          transform: rotate(25.2deg) scale(.8690733664029208);
+        }
+      
+        43% {
+          transform: rotate(25.8deg) scale(.8683573973523387);
+        }
+      
+        44% {
+          transform: rotate(26.4deg) scale(.8677376858917263);
+        }
+      
+        45% {
+          transform: rotate(27deg) scale(.8672138902814203);
+        }
+      
+        46% {
+          transform: rotate(27.6deg) scale(.866785722130631);
+        }
+      
+        47% {
+          transform: rotate(28.2deg) scale(.8664529460092283);
+        }
+      
+        48% {
+          transform: rotate(28.8deg) scale(.8662153791314252);
+        }
+      
+        49% {
+          transform: rotate(29.4deg) scale(.8660728911105711);
+        }
+      
+        50% {
+          transform: rotate(30deg) scale(.8660254037844387);
+        }
+      
+        51% {
+          transform: rotate(30.6deg) scale(.8660728911105711);
+        }
+      
+        52% {
+          transform: rotate(31.2deg) scale(.8662153791314252);
+        }
+      
+        53% {
+          transform: rotate(31.8deg) scale(.8664529460092283);
+        }
+      
+        54% {
+          transform: rotate(32.4deg) scale(.866785722130631);
+        }
+      
+        55% {
+          transform: rotate(33deg) scale(.8672138902814203);
+        }
+      
+        56% {
+          transform: rotate(33.6deg) scale(.8677376858917263);
+        }
+      
+        57% {
+          transform: rotate(34.2deg) scale(.8683573973523387);
+        }
+      
+        58% {
+          transform: rotate(34.8deg) scale(.8690733664029208);
+        }
+      
+        59% {
+          transform: rotate(35.4deg) scale(.8698859885930996);
+        }
+      
+        60% {
+          transform: rotate(36deg) scale(.8707957138175906);
+        }
+      
+        61% {
+          transform: rotate(36.6deg) scale(.8718030469267106);
+        }
+      
+        62% {
+          transform: rotate(37.2deg) scale(.8729085484138273);
+        }
+      
+        63% {
+          transform: rotate(37.8deg) scale(.8741128351814966);
+        }
+      
+        64% {
+          transform: rotate(38.4deg) scale(.8754165813882508);
+        }
+      
+        65% {
+          transform: rotate(39deg) scale(.8768205193782177);
+        }
+      
+        66% {
+          transform: rotate(39.6deg) scale(.8783254406959776);
+        }
+      
+        67% {
+          transform: rotate(40.2deg) scale(.8799321971893048);
+        }
+      
+        68% {
+          transform: rotate(40.8deg) scale(.881641702202687);
+        }
+      
+        69% {
+          transform: rotate(41.4deg) scale(.8834549318647775);
+        }
+      
+        70% {
+          transform: rotate(42deg) scale(.8853729264732103);
+        }
+      
+        71% {
+          transform: rotate(42.6deg) scale(.8873967919804968);
+        }
+      
+        72% {
+          transform: rotate(43.2deg) scale(.8895277015850314);
+        }
+      
+        73% {
+          transform: rotate(43.8deg) scale(.8917668974315501);
+        }
+      
+        74% {
+          transform: rotate(44.4deg) scale(.8941156924257406);
+        }
+      
+        75% {
+          transform: rotate(45deg) scale(.8965754721680536);
+        }
+      
+        76% {
+          transform: rotate(45.6deg) scale(.8991476970121638);
+        }
+      
+        77% {
+          transform: rotate(46.2deg) scale(.9018339042539351);
+        }
+      
+        78% {
+          transform: rotate(46.8deg) scale(.9046357104571868);
+        }
+      
+        79% {
+          transform: rotate(47.4deg) scale(.907554813923028);
+        }
+      
+        80% {
+          transform: rotate(48deg) scale(.9105929973100294);
+        }
+      
+        81% {
+          transform: rotate(48.6deg) scale(.9137521304130402);
+        }
+      
+        82% {
+          transform: rotate(49.2deg) scale(.9170341731090333);
+        }
+      
+        83% {
+          transform: rotate(49.8deg) scale(.9204411784789827);
+        }
+      
+        84% {
+          transform: rotate(50.4deg) scale(.9239752961154396);
+        }
+      
+        85% {
+          transform: rotate(51deg) scale(.9276387756261881);
+        }
+      
+        86% {
+          transform: rotate(51.6deg) scale(.9314339703451321);
+        }
+      
+        87% {
+          transform: rotate(52.2deg) scale(.935363341262389);
+        }
+      
+        88% {
+          transform: rotate(52.8deg) scale(.9394294611864619);
+        }
+      
+        89% {
+          transform: rotate(53.4deg) scale(.9436350191523254);
+        }
+      
+        90% {
+          transform: rotate(54deg) scale(.9479828250902944);
+        }
+      
+        91% {
+          transform: rotate(54.6deg) scale(.95247581477168);
+        }
+      
+        92% {
+          transform: rotate(55.2deg) scale(.957117055048442);
+        }
+      
+        93% {
+          transform: rotate(55.8deg) scale(.9619097494053745);
+        }
+      
+        94% {
+          transform: rotate(56.4deg) scale(.966857243844784);
+        }
+      
+        95% {
+          transform: rotate(57deg) scale(.9719630331251673);
+        }
+      
+        96% {
+          transform: rotate(57.6deg) scale(.9772307673770843);
+        }
+      
+        97% {
+          transform: rotate(58.2deg) scale(.9826642591212422);
+        }
+      
+        98% {
+          transform: rotate(58.8deg) scale(.9882674907157957);
+        }
+      
+        99% {
+          transform: rotate(59.4deg) scale(.9940446222620375);
+        }
+      
+        100% {
+          transform: rotate(60deg) scale(1.0000000000000002);
+        }
+      }
+      
+    /* ]]> */
+  </style>
+  <polygon
+    class="svg-32-f-polygon svg-32-f-dark"
+    points="0,-40 34.641014099121094,-20 34.641014099121094,20 4.8985871985824346e-15,40 -34.641014099121094,20 -34.641014099121094,-20"
+    style="animation-delay: -10s"
+  />
+  <g
+    class="svg-32-f-g svg-32-f-animated-group"
+    style="animation-direction: "
+  >
+    <polygon
+      class="svg-32-f-polygon"
+      points="0,-40 34.641014099121094,-20 34.641014099121094,20 4.8985871985824346e-15,40 -34.641014099121094,20 -34.641014099121094,-20"
+    />
+    <g
+      class="svg-32-f-g svg-32-f-animated-group"
+      style="animation-direction: reverse"
+    >
+      <polygon
+        class="svg-32-f-polygon svg-32-f-dark"
+        points="0,-40 34.641014099121094,-20 34.641014099121094,20 4.8985871985824346e-15,40 -34.641014099121094,20 -34.641014099121094,-20"
+      />
+      <g
+        class="svg-32-f-g svg-32-f-animated-group"
+        style="animation-direction: "
+      >
+        <polygon
+          class="svg-32-f-polygon"
+          points="0,-40 34.641014099121094,-20 34.641014099121094,20 4.8985871985824346e-15,40 -34.641014099121094,20 -34.641014099121094,-20"
+        />
+        <g
+          class="svg-32-f-g svg-32-f-animated-group"
+          style="animation-direction: reverse"
+        >
+          <polygon
+            class="svg-32-f-polygon svg-32-f-dark"
+            points="0,-40 34.641014099121094,-20 34.641014099121094,20 4.8985871985824346e-15,40 -34.641014099121094,20 -34.641014099121094,-20"
+          />
+          <g
+            class="svg-32-f-g svg-32-f-animated-group"
+            style="animation-direction: "
+          >
+            <polygon
+              class="svg-32-f-polygon"
+              points="0,-40 34.641014099121094,-20 34.641014099121094,20 4.8985871985824346e-15,40 -34.641014099121094,20 -34.641014099121094,-20"
+            />
+            <g
+              class="svg-32-f-g svg-32-f-animated-group"
+              style="animation-direction: reverse"
+            >
+              <polygon
+                class="svg-32-f-polygon svg-32-f-dark"
+                points="0,-40 34.641014099121094,-20 34.641014099121094,20 4.8985871985824346e-15,40 -34.641014099121094,20 -34.641014099121094,-20"
+              />
+              <g
+                class="svg-32-f-g svg-32-f-animated-group"
+                style="animation-direction: "
+              >
+                <polygon
+                  class="svg-32-f-polygon"
+                  points="0,-40 34.641014099121094,-20 34.641014099121094,20 4.8985871985824346e-15,40 -34.641014099121094,20 -34.641014099121094,-20"
+                />
+                <g
+                  class="svg-32-f-g svg-32-f-animated-group"
+                  style="animation-direction: reverse"
+                >
+                  <polygon
+                    class="svg-32-f-polygon svg-32-f-dark"
+                    points="0,-40 34.641014099121094,-20 34.641014099121094,20 4.8985871985824346e-15,40 -34.641014099121094,20 -34.641014099121094,-20"
+                  />
+                  <g
+                    class="svg-32-f-g svg-32-f-animated-group"
+                    style="animation-direction: "
+                  >
+                    <polygon
+                      class="svg-32-f-polygon"
+                      points="0,-40 34.641014099121094,-20 34.641014099121094,20 4.8985871985824346e-15,40 -34.641014099121094,20 -34.641014099121094,-20"
+                    />
+                    <g
+                      class="svg-32-f-g svg-32-f-animated-group"
+                      style="animation-direction: reverse"
+                    >
+                      <polygon
+                        class="svg-32-f-polygon svg-32-f-dark"
+                        points="0,-40 34.641014099121094,-20 34.641014099121094,20 4.8985871985824346e-15,40 -34.641014099121094,20 -34.641014099121094,-20"
+                      />
+                      <g
+                        class="svg-32-f-g svg-32-f-animated-group"
+                        style="animation-direction: "
+                      >
+                        <polygon
+                          class="svg-32-f-polygon"
+                          points="0,-40 34.641014099121094,-20 34.641014099121094,20 4.8985871985824346e-15,40 -34.641014099121094,20 -34.641014099121094,-20"
+                        />
+                        <g
+                          class="svg-32-f-g svg-32-f-animated-group"
+                          style="animation-direction: reverse"
+                        >
+                          <polygon
+                            class="svg-32-f-polygon svg-32-f-dark"
+                            points="0,-40 34.641014099121094,-20 34.641014099121094,20 4.8985871985824346e-15,40 -34.641014099121094,20 -34.641014099121094,-20"
+                          />
+                          <g
+                            class="svg-32-f-g svg-32-f-animated-group"
+                            style="animation-direction: "
+                          >
+                            <polygon
+                              class="svg-32-f-polygon"
+                              points="0,-40 34.641014099121094,-20 34.641014099121094,20 4.8985871985824346e-15,40 -34.641014099121094,20 -34.641014099121094,-20"
+                            />
+                            <g
+                              class="svg-32-f-g svg-32-f-animated-group"
+                              style="animation-direction: reverse"
+                            >
+                              <polygon
+                                class="svg-32-f-polygon svg-32-f-dark"
+                                points="0,-40 34.641014099121094,-20 34.641014099121094,20 4.8985871985824346e-15,40 -34.641014099121094,20 -34.641014099121094,-20"
+                              />
+                              <g
+                                class="svg-32-f-g svg-32-f-animated-group"
+                                style="animation-direction: "
+                              >
+                                <polygon
+                                  class="svg-32-f-polygon"
+                                  points="0,-40 34.641014099121094,-20 34.641014099121094,20 4.8985871985824346e-15,40 -34.641014099121094,20 -34.641014099121094,-20"
+                                />
+                                <g
+                                  class="svg-32-f-g svg-32-f-animated-group"
+                                  style="animation-direction: reverse"
+                                >
+                                  <polygon
+                                    class="svg-32-f-polygon svg-32-f-dark"
+                                    points="0,-40 34.641014099121094,-20 34.641014099121094,20 4.8985871985824346e-15,40 -34.641014099121094,20 -34.641014099121094,-20"
+                                  />
+                                  <g
+                                    class="svg-32-f-g svg-32-f-animated-group"
+                                    style="animation-direction: "
+                                  >
+                                    <polygon
+                                      class="svg-32-f-polygon"
+                                      points="0,-40 34.641014099121094,-20 34.641014099121094,20 4.8985871985824346e-15,40 -34.641014099121094,20 -34.641014099121094,-20"
+                                    />
+                                    <g
+                                      class="svg-32-f-g svg-32-f-animated-group"
+                                      style="animation-direction: reverse"
+                                    >
+                                      <polygon
+                                        class="svg-32-f-polygon svg-32-f-dark"
+                                        points="0,-40 34.641014099121094,-20 34.641014099121094,20 4.8985871985824346e-15,40 -34.641014099121094,20 -34.641014099121094,-20"
+                                      />
+                                      <g
+                                        class="svg-32-f-g svg-32-f-animated-group"
+                                        style="animation-direction: "
+                                      >
+                                        <polygon
+                                          class="svg-32-f-polygon"
+                                          points="0,-40 34.641014099121094,-20 34.641014099121094,20 4.8985871985824346e-15,40 -34.641014099121094,20 -34.641014099121094,-20"
+                                        />
+                                        <g
+                                          class="svg-32-f-g svg-32-f-animated-group"
+                                          style="animation-direction: reverse"
+                                        >
+                                          <polygon
+                                            class="svg-32-f-polygon svg-32-f-dark"
+                                            points="0,-40 34.641014099121094,-20 34.641014099121094,20 4.8985871985824346e-15,40 -34.641014099121094,20 -34.641014099121094,-20"
+                                          />
+                                        </g>
+                                      </g>
+                                    </g>
+                                  </g>
+                                </g>
+                              </g>
+                            </g>
+                          </g>
+                        </g>
+                      </g>
+                    </g>
+                  </g>
+                </g>
+              </g>
+            </g>
+          </g>
+        </g>
+      </g>
+    </g>
+  </g>
+</svg>

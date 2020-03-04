@@ -1,0 +1,1349 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE svg>
+<svg
+  data-animation-duration="5s"
+  preserveAspectRatio="xMidYMid meet"
+  version="1.1"
+  viewBox="0 0 100 100"
+  xmlns:xlink="http://www.w3.org/1999/xlink"
+  xmlns="http://www.w3.org/2000/svg"
+>
+  <title>
+    ANIMATION 16 - VARIATION B
+  </title>
+  <desc>
+    <p>See this animation in action here: <a href="https://andrew.wang-hoyer.com/experiments/svg-animations/16/b" target="_blank" rel="noopener">https://andrew.wang-hoyer.com/experiments/svg-animations/16/b</a>.</p>
+    <p>Generator source code : <a href="https://github.com/ndrwhr/svg-animation-src/tree/master/site/_svgs/generators/animations/16/b.js" target="_blank" rel="noopener">https://github.com/ndrwhr/svg-animation-src/tree/master/site/_svgs/generators/animations/16/b.js</a>.</p>
+    <p>All generated files and source code are released under the following license:</p>
+    <p>MIT License</p>
+    <p>Copyright (c) 2018-present Andrew Hoyer</p>
+    <p>Permission is hereby granted, free of charge, to any person obtaining a copy of this software and associated documentation files (the &quot;Software&quot;), to deal in the Software without restriction, including without limitation the rights to use, copy, modify, merge, publish, distribute, sublicense, and/or sell copies of the Software, and to permit persons to whom the Software is furnished to do so, subject to the following conditions:</p>
+    <p>The above copyright notice and this permission notice shall be included in all copies or substantial portions of the Software.</p>
+    <p>THE SOFTWARE IS PROVIDED &quot;AS IS&quot;, WITHOUT WARRANTY OF ANY KIND, EXPRESS OR IMPLIED, INCLUDING BUT NOT LIMITED TO THE WARRANTIES OF MERCHANTABILITY, FITNESS FOR A PARTICULAR PURPOSE AND NONINFRINGEMENT. IN NO EVENT SHALL THE AUTHORS OR COPYRIGHT HOLDERS BE LIABLE FOR ANY CLAIM, DAMAGES OR OTHER LIABILITY, WHETHER IN AN ACTION OF CONTRACT, TORT OR OTHERWISE, ARISING FROM, OUT OF OR IN CONNECTION WITH THE SOFTWARE OR THE USE OR OTHER DEALINGS IN THE SOFTWARE.</p>
+  </desc>
+  <style>
+    /* <![CDATA[ */
+      .svg-16-b-shape__line {
+        stroke-width: .3636363636363637;
+        stroke: black;
+        transform-origin: 0 0;
+        animation: svg-16-b-main-anim 5s linear infinite;
+      }
+      
+      @keyframes svg-16-b-main-anim {
+        from {
+          transform: rotate(0);
+        }
+      
+        to {
+          transform: rotate(360deg);
+        }
+      }
+      
+    /* ]]> */
+  </style>
+  <g
+    class="svg-16-b-g"
+  >
+    <g
+      class="svg-16-b-g svg-16-b-shape"
+      transform="translate(9.090909090909092, 9.090909090909092)"
+    >
+      <line
+        class="svg-16-b-line svg-16-b-shape__line"
+        style="animation-delay: -0s"
+        x1="0"
+        x2="0"
+        y1="0"
+        y2="-4.545454545454546"
+      />
+    </g>
+    <g
+      class="svg-16-b-g svg-16-b-shape"
+      transform="translate(18.181818181818183, 9.090909090909092)"
+    >
+      <line
+        class="svg-16-b-line svg-16-b-shape__line"
+        style="animation-delay: -0.25s"
+        x1="0"
+        x2="0"
+        y1="0"
+        y2="-4.545454545454546"
+      />
+    </g>
+    <g
+      class="svg-16-b-g svg-16-b-shape"
+      transform="translate(27.272727272727273, 9.090909090909092)"
+    >
+      <line
+        class="svg-16-b-line svg-16-b-shape__line"
+        style="animation-delay: -0.5s"
+        x1="0"
+        x2="0"
+        y1="0"
+        y2="-4.545454545454546"
+      />
+    </g>
+    <g
+      class="svg-16-b-g svg-16-b-shape"
+      transform="translate(36.36363636363637, 9.090909090909092)"
+    >
+      <line
+        class="svg-16-b-line svg-16-b-shape__line"
+        style="animation-delay: -0.75s"
+        x1="0"
+        x2="0"
+        y1="0"
+        y2="-4.545454545454546"
+      />
+    </g>
+    <g
+      class="svg-16-b-g svg-16-b-shape"
+      transform="translate(45.45454545454546, 9.090909090909092)"
+    >
+      <line
+        class="svg-16-b-line svg-16-b-shape__line"
+        style="animation-delay: -1s"
+        x1="0"
+        x2="0"
+        y1="0"
+        y2="-4.545454545454546"
+      />
+    </g>
+    <g
+      class="svg-16-b-g svg-16-b-shape"
+      transform="translate(54.54545454545455, 9.090909090909092)"
+    >
+      <line
+        class="svg-16-b-line svg-16-b-shape__line"
+        style="animation-delay: -1.25s"
+        x1="0"
+        x2="0"
+        y1="0"
+        y2="-4.545454545454546"
+      />
+    </g>
+    <g
+      class="svg-16-b-g svg-16-b-shape"
+      transform="translate(63.63636363636364, 9.090909090909092)"
+    >
+      <line
+        class="svg-16-b-line svg-16-b-shape__line"
+        style="animation-delay: -1.5s"
+        x1="0"
+        x2="0"
+        y1="0"
+        y2="-4.545454545454546"
+      />
+    </g>
+    <g
+      class="svg-16-b-g svg-16-b-shape"
+      transform="translate(72.72727272727273, 9.090909090909092)"
+    >
+      <line
+        class="svg-16-b-line svg-16-b-shape__line"
+        style="animation-delay: -1.75s"
+        x1="0"
+        x2="0"
+        y1="0"
+        y2="-4.545454545454546"
+      />
+    </g>
+    <g
+      class="svg-16-b-g svg-16-b-shape"
+      transform="translate(81.81818181818183, 9.090909090909092)"
+    >
+      <line
+        class="svg-16-b-line svg-16-b-shape__line"
+        style="animation-delay: -2s"
+        x1="0"
+        x2="0"
+        y1="0"
+        y2="-4.545454545454546"
+      />
+    </g>
+    <g
+      class="svg-16-b-g svg-16-b-shape"
+      transform="translate(90.90909090909092, 9.090909090909092)"
+    >
+      <line
+        class="svg-16-b-line svg-16-b-shape__line"
+        style="animation-delay: -2.25s"
+        x1="0"
+        x2="0"
+        y1="0"
+        y2="-4.545454545454546"
+      />
+    </g>
+    <g
+      class="svg-16-b-g svg-16-b-shape"
+      transform="translate(9.090909090909092, 18.181818181818183)"
+    >
+      <line
+        class="svg-16-b-line svg-16-b-shape__line"
+        style="animation-delay: -0s"
+        x1="0"
+        x2="0"
+        y1="0"
+        y2="-4.545454545454546"
+      />
+    </g>
+    <g
+      class="svg-16-b-g svg-16-b-shape"
+      transform="translate(18.181818181818183, 18.181818181818183)"
+    >
+      <line
+        class="svg-16-b-line svg-16-b-shape__line"
+        style="animation-delay: -0.25s"
+        x1="0"
+        x2="0"
+        y1="0"
+        y2="-4.545454545454546"
+      />
+    </g>
+    <g
+      class="svg-16-b-g svg-16-b-shape"
+      transform="translate(27.272727272727273, 18.181818181818183)"
+    >
+      <line
+        class="svg-16-b-line svg-16-b-shape__line"
+        style="animation-delay: -0.5s"
+        x1="0"
+        x2="0"
+        y1="0"
+        y2="-4.545454545454546"
+      />
+    </g>
+    <g
+      class="svg-16-b-g svg-16-b-shape"
+      transform="translate(36.36363636363637, 18.181818181818183)"
+    >
+      <line
+        class="svg-16-b-line svg-16-b-shape__line"
+        style="animation-delay: -0.75s"
+        x1="0"
+        x2="0"
+        y1="0"
+        y2="-4.545454545454546"
+      />
+    </g>
+    <g
+      class="svg-16-b-g svg-16-b-shape"
+      transform="translate(45.45454545454546, 18.181818181818183)"
+    >
+      <line
+        class="svg-16-b-line svg-16-b-shape__line"
+        style="animation-delay: -1s"
+        x1="0"
+        x2="0"
+        y1="0"
+        y2="-4.545454545454546"
+      />
+    </g>
+    <g
+      class="svg-16-b-g svg-16-b-shape"
+      transform="translate(54.54545454545455, 18.181818181818183)"
+    >
+      <line
+        class="svg-16-b-line svg-16-b-shape__line"
+        style="animation-delay: -1.25s"
+        x1="0"
+        x2="0"
+        y1="0"
+        y2="-4.545454545454546"
+      />
+    </g>
+    <g
+      class="svg-16-b-g svg-16-b-shape"
+      transform="translate(63.63636363636364, 18.181818181818183)"
+    >
+      <line
+        class="svg-16-b-line svg-16-b-shape__line"
+        style="animation-delay: -1.5s"
+        x1="0"
+        x2="0"
+        y1="0"
+        y2="-4.545454545454546"
+      />
+    </g>
+    <g
+      class="svg-16-b-g svg-16-b-shape"
+      transform="translate(72.72727272727273, 18.181818181818183)"
+    >
+      <line
+        class="svg-16-b-line svg-16-b-shape__line"
+        style="animation-delay: -1.75s"
+        x1="0"
+        x2="0"
+        y1="0"
+        y2="-4.545454545454546"
+      />
+    </g>
+    <g
+      class="svg-16-b-g svg-16-b-shape"
+      transform="translate(81.81818181818183, 18.181818181818183)"
+    >
+      <line
+        class="svg-16-b-line svg-16-b-shape__line"
+        style="animation-delay: -2s"
+        x1="0"
+        x2="0"
+        y1="0"
+        y2="-4.545454545454546"
+      />
+    </g>
+    <g
+      class="svg-16-b-g svg-16-b-shape"
+      transform="translate(90.90909090909092, 18.181818181818183)"
+    >
+      <line
+        class="svg-16-b-line svg-16-b-shape__line"
+        style="animation-delay: -2.25s"
+        x1="0"
+        x2="0"
+        y1="0"
+        y2="-4.545454545454546"
+      />
+    </g>
+    <g
+      class="svg-16-b-g svg-16-b-shape"
+      transform="translate(9.090909090909092, 27.272727272727273)"
+    >
+      <line
+        class="svg-16-b-line svg-16-b-shape__line"
+        style="animation-delay: -0s"
+        x1="0"
+        x2="0"
+        y1="0"
+        y2="-4.545454545454546"
+      />
+    </g>
+    <g
+      class="svg-16-b-g svg-16-b-shape"
+      transform="translate(18.181818181818183, 27.272727272727273)"
+    >
+      <line
+        class="svg-16-b-line svg-16-b-shape__line"
+        style="animation-delay: -0.25s"
+        x1="0"
+        x2="0"
+        y1="0"
+        y2="-4.545454545454546"
+      />
+    </g>
+    <g
+      class="svg-16-b-g svg-16-b-shape"
+      transform="translate(27.272727272727273, 27.272727272727273)"
+    >
+      <line
+        class="svg-16-b-line svg-16-b-shape__line"
+        style="animation-delay: -0.5s"
+        x1="0"
+        x2="0"
+        y1="0"
+        y2="-4.545454545454546"
+      />
+    </g>
+    <g
+      class="svg-16-b-g svg-16-b-shape"
+      transform="translate(36.36363636363637, 27.272727272727273)"
+    >
+      <line
+        class="svg-16-b-line svg-16-b-shape__line"
+        style="animation-delay: -0.75s"
+        x1="0"
+        x2="0"
+        y1="0"
+        y2="-4.545454545454546"
+      />
+    </g>
+    <g
+      class="svg-16-b-g svg-16-b-shape"
+      transform="translate(45.45454545454546, 27.272727272727273)"
+    >
+      <line
+        class="svg-16-b-line svg-16-b-shape__line"
+        style="animation-delay: -1s"
+        x1="0"
+        x2="0"
+        y1="0"
+        y2="-4.545454545454546"
+      />
+    </g>
+    <g
+      class="svg-16-b-g svg-16-b-shape"
+      transform="translate(54.54545454545455, 27.272727272727273)"
+    >
+      <line
+        class="svg-16-b-line svg-16-b-shape__line"
+        style="animation-delay: -1.25s"
+        x1="0"
+        x2="0"
+        y1="0"
+        y2="-4.545454545454546"
+      />
+    </g>
+    <g
+      class="svg-16-b-g svg-16-b-shape"
+      transform="translate(63.63636363636364, 27.272727272727273)"
+    >
+      <line
+        class="svg-16-b-line svg-16-b-shape__line"
+        style="animation-delay: -1.5s"
+        x1="0"
+        x2="0"
+        y1="0"
+        y2="-4.545454545454546"
+      />
+    </g>
+    <g
+      class="svg-16-b-g svg-16-b-shape"
+      transform="translate(72.72727272727273, 27.272727272727273)"
+    >
+      <line
+        class="svg-16-b-line svg-16-b-shape__line"
+        style="animation-delay: -1.75s"
+        x1="0"
+        x2="0"
+        y1="0"
+        y2="-4.545454545454546"
+      />
+    </g>
+    <g
+      class="svg-16-b-g svg-16-b-shape"
+      transform="translate(81.81818181818183, 27.272727272727273)"
+    >
+      <line
+        class="svg-16-b-line svg-16-b-shape__line"
+        style="animation-delay: -2s"
+        x1="0"
+        x2="0"
+        y1="0"
+        y2="-4.545454545454546"
+      />
+    </g>
+    <g
+      class="svg-16-b-g svg-16-b-shape"
+      transform="translate(90.90909090909092, 27.272727272727273)"
+    >
+      <line
+        class="svg-16-b-line svg-16-b-shape__line"
+        style="animation-delay: -2.25s"
+        x1="0"
+        x2="0"
+        y1="0"
+        y2="-4.545454545454546"
+      />
+    </g>
+    <g
+      class="svg-16-b-g svg-16-b-shape"
+      transform="translate(9.090909090909092, 36.36363636363637)"
+    >
+      <line
+        class="svg-16-b-line svg-16-b-shape__line"
+        style="animation-delay: -0s"
+        x1="0"
+        x2="0"
+        y1="0"
+        y2="-4.545454545454546"
+      />
+    </g>
+    <g
+      class="svg-16-b-g svg-16-b-shape"
+      transform="translate(18.181818181818183, 36.36363636363637)"
+    >
+      <line
+        class="svg-16-b-line svg-16-b-shape__line"
+        style="animation-delay: -0.25s"
+        x1="0"
+        x2="0"
+        y1="0"
+        y2="-4.545454545454546"
+      />
+    </g>
+    <g
+      class="svg-16-b-g svg-16-b-shape"
+      transform="translate(27.272727272727273, 36.36363636363637)"
+    >
+      <line
+        class="svg-16-b-line svg-16-b-shape__line"
+        style="animation-delay: -0.5s"
+        x1="0"
+        x2="0"
+        y1="0"
+        y2="-4.545454545454546"
+      />
+    </g>
+    <g
+      class="svg-16-b-g svg-16-b-shape"
+      transform="translate(36.36363636363637, 36.36363636363637)"
+    >
+      <line
+        class="svg-16-b-line svg-16-b-shape__line"
+        style="animation-delay: -0.75s"
+        x1="0"
+        x2="0"
+        y1="0"
+        y2="-4.545454545454546"
+      />
+    </g>
+    <g
+      class="svg-16-b-g svg-16-b-shape"
+      transform="translate(45.45454545454546, 36.36363636363637)"
+    >
+      <line
+        class="svg-16-b-line svg-16-b-shape__line"
+        style="animation-delay: -1s"
+        x1="0"
+        x2="0"
+        y1="0"
+        y2="-4.545454545454546"
+      />
+    </g>
+    <g
+      class="svg-16-b-g svg-16-b-shape"
+      transform="translate(54.54545454545455, 36.36363636363637)"
+    >
+      <line
+        class="svg-16-b-line svg-16-b-shape__line"
+        style="animation-delay: -1.25s"
+        x1="0"
+        x2="0"
+        y1="0"
+        y2="-4.545454545454546"
+      />
+    </g>
+    <g
+      class="svg-16-b-g svg-16-b-shape"
+      transform="translate(63.63636363636364, 36.36363636363637)"
+    >
+      <line
+        class="svg-16-b-line svg-16-b-shape__line"
+        style="animation-delay: -1.5s"
+        x1="0"
+        x2="0"
+        y1="0"
+        y2="-4.545454545454546"
+      />
+    </g>
+    <g
+      class="svg-16-b-g svg-16-b-shape"
+      transform="translate(72.72727272727273, 36.36363636363637)"
+    >
+      <line
+        class="svg-16-b-line svg-16-b-shape__line"
+        style="animation-delay: -1.75s"
+        x1="0"
+        x2="0"
+        y1="0"
+        y2="-4.545454545454546"
+      />
+    </g>
+    <g
+      class="svg-16-b-g svg-16-b-shape"
+      transform="translate(81.81818181818183, 36.36363636363637)"
+    >
+      <line
+        class="svg-16-b-line svg-16-b-shape__line"
+        style="animation-delay: -2s"
+        x1="0"
+        x2="0"
+        y1="0"
+        y2="-4.545454545454546"
+      />
+    </g>
+    <g
+      class="svg-16-b-g svg-16-b-shape"
+      transform="translate(90.90909090909092, 36.36363636363637)"
+    >
+      <line
+        class="svg-16-b-line svg-16-b-shape__line"
+        style="animation-delay: -2.25s"
+        x1="0"
+        x2="0"
+        y1="0"
+        y2="-4.545454545454546"
+      />
+    </g>
+    <g
+      class="svg-16-b-g svg-16-b-shape"
+      transform="translate(9.090909090909092, 45.45454545454546)"
+    >
+      <line
+        class="svg-16-b-line svg-16-b-shape__line"
+        style="animation-delay: -0s"
+        x1="0"
+        x2="0"
+        y1="0"
+        y2="-4.545454545454546"
+      />
+    </g>
+    <g
+      class="svg-16-b-g svg-16-b-shape"
+      transform="translate(18.181818181818183, 45.45454545454546)"
+    >
+      <line
+        class="svg-16-b-line svg-16-b-shape__line"
+        style="animation-delay: -0.25s"
+        x1="0"
+        x2="0"
+        y1="0"
+        y2="-4.545454545454546"
+      />
+    </g>
+    <g
+      class="svg-16-b-g svg-16-b-shape"
+      transform="translate(27.272727272727273, 45.45454545454546)"
+    >
+      <line
+        class="svg-16-b-line svg-16-b-shape__line"
+        style="animation-delay: -0.5s"
+        x1="0"
+        x2="0"
+        y1="0"
+        y2="-4.545454545454546"
+      />
+    </g>
+    <g
+      class="svg-16-b-g svg-16-b-shape"
+      transform="translate(36.36363636363637, 45.45454545454546)"
+    >
+      <line
+        class="svg-16-b-line svg-16-b-shape__line"
+        style="animation-delay: -0.75s"
+        x1="0"
+        x2="0"
+        y1="0"
+        y2="-4.545454545454546"
+      />
+    </g>
+    <g
+      class="svg-16-b-g svg-16-b-shape"
+      transform="translate(45.45454545454546, 45.45454545454546)"
+    >
+      <line
+        class="svg-16-b-line svg-16-b-shape__line"
+        style="animation-delay: -1s"
+        x1="0"
+        x2="0"
+        y1="0"
+        y2="-4.545454545454546"
+      />
+    </g>
+    <g
+      class="svg-16-b-g svg-16-b-shape"
+      transform="translate(54.54545454545455, 45.45454545454546)"
+    >
+      <line
+        class="svg-16-b-line svg-16-b-shape__line"
+        style="animation-delay: -1.25s"
+        x1="0"
+        x2="0"
+        y1="0"
+        y2="-4.545454545454546"
+      />
+    </g>
+    <g
+      class="svg-16-b-g svg-16-b-shape"
+      transform="translate(63.63636363636364, 45.45454545454546)"
+    >
+      <line
+        class="svg-16-b-line svg-16-b-shape__line"
+        style="animation-delay: -1.5s"
+        x1="0"
+        x2="0"
+        y1="0"
+        y2="-4.545454545454546"
+      />
+    </g>
+    <g
+      class="svg-16-b-g svg-16-b-shape"
+      transform="translate(72.72727272727273, 45.45454545454546)"
+    >
+      <line
+        class="svg-16-b-line svg-16-b-shape__line"
+        style="animation-delay: -1.75s"
+        x1="0"
+        x2="0"
+        y1="0"
+        y2="-4.545454545454546"
+      />
+    </g>
+    <g
+      class="svg-16-b-g svg-16-b-shape"
+      transform="translate(81.81818181818183, 45.45454545454546)"
+    >
+      <line
+        class="svg-16-b-line svg-16-b-shape__line"
+        style="animation-delay: -2s"
+        x1="0"
+        x2="0"
+        y1="0"
+        y2="-4.545454545454546"
+      />
+    </g>
+    <g
+      class="svg-16-b-g svg-16-b-shape"
+      transform="translate(90.90909090909092, 45.45454545454546)"
+    >
+      <line
+        class="svg-16-b-line svg-16-b-shape__line"
+        style="animation-delay: -2.25s"
+        x1="0"
+        x2="0"
+        y1="0"
+        y2="-4.545454545454546"
+      />
+    </g>
+    <g
+      class="svg-16-b-g svg-16-b-shape"
+      transform="translate(9.090909090909092, 54.54545454545455)"
+    >
+      <line
+        class="svg-16-b-line svg-16-b-shape__line"
+        style="animation-delay: -0s"
+        x1="0"
+        x2="0"
+        y1="0"
+        y2="-4.545454545454546"
+      />
+    </g>
+    <g
+      class="svg-16-b-g svg-16-b-shape"
+      transform="translate(18.181818181818183, 54.54545454545455)"
+    >
+      <line
+        class="svg-16-b-line svg-16-b-shape__line"
+        style="animation-delay: -0.25s"
+        x1="0"
+        x2="0"
+        y1="0"
+        y2="-4.545454545454546"
+      />
+    </g>
+    <g
+      class="svg-16-b-g svg-16-b-shape"
+      transform="translate(27.272727272727273, 54.54545454545455)"
+    >
+      <line
+        class="svg-16-b-line svg-16-b-shape__line"
+        style="animation-delay: -0.5s"
+        x1="0"
+        x2="0"
+        y1="0"
+        y2="-4.545454545454546"
+      />
+    </g>
+    <g
+      class="svg-16-b-g svg-16-b-shape"
+      transform="translate(36.36363636363637, 54.54545454545455)"
+    >
+      <line
+        class="svg-16-b-line svg-16-b-shape__line"
+        style="animation-delay: -0.75s"
+        x1="0"
+        x2="0"
+        y1="0"
+        y2="-4.545454545454546"
+      />
+    </g>
+    <g
+      class="svg-16-b-g svg-16-b-shape"
+      transform="translate(45.45454545454546, 54.54545454545455)"
+    >
+      <line
+        class="svg-16-b-line svg-16-b-shape__line"
+        style="animation-delay: -1s"
+        x1="0"
+        x2="0"
+        y1="0"
+        y2="-4.545454545454546"
+      />
+    </g>
+    <g
+      class="svg-16-b-g svg-16-b-shape"
+      transform="translate(54.54545454545455, 54.54545454545455)"
+    >
+      <line
+        class="svg-16-b-line svg-16-b-shape__line"
+        style="animation-delay: -1.25s"
+        x1="0"
+        x2="0"
+        y1="0"
+        y2="-4.545454545454546"
+      />
+    </g>
+    <g
+      class="svg-16-b-g svg-16-b-shape"
+      transform="translate(63.63636363636364, 54.54545454545455)"
+    >
+      <line
+        class="svg-16-b-line svg-16-b-shape__line"
+        style="animation-delay: -1.5s"
+        x1="0"
+        x2="0"
+        y1="0"
+        y2="-4.545454545454546"
+      />
+    </g>
+    <g
+      class="svg-16-b-g svg-16-b-shape"
+      transform="translate(72.72727272727273, 54.54545454545455)"
+    >
+      <line
+        class="svg-16-b-line svg-16-b-shape__line"
+        style="animation-delay: -1.75s"
+        x1="0"
+        x2="0"
+        y1="0"
+        y2="-4.545454545454546"
+      />
+    </g>
+    <g
+      class="svg-16-b-g svg-16-b-shape"
+      transform="translate(81.81818181818183, 54.54545454545455)"
+    >
+      <line
+        class="svg-16-b-line svg-16-b-shape__line"
+        style="animation-delay: -2s"
+        x1="0"
+        x2="0"
+        y1="0"
+        y2="-4.545454545454546"
+      />
+    </g>
+    <g
+      class="svg-16-b-g svg-16-b-shape"
+      transform="translate(90.90909090909092, 54.54545454545455)"
+    >
+      <line
+        class="svg-16-b-line svg-16-b-shape__line"
+        style="animation-delay: -2.25s"
+        x1="0"
+        x2="0"
+        y1="0"
+        y2="-4.545454545454546"
+      />
+    </g>
+    <g
+      class="svg-16-b-g svg-16-b-shape"
+      transform="translate(9.090909090909092, 63.63636363636364)"
+    >
+      <line
+        class="svg-16-b-line svg-16-b-shape__line"
+        style="animation-delay: -0s"
+        x1="0"
+        x2="0"
+        y1="0"
+        y2="-4.545454545454546"
+      />
+    </g>
+    <g
+      class="svg-16-b-g svg-16-b-shape"
+      transform="translate(18.181818181818183, 63.63636363636364)"
+    >
+      <line
+        class="svg-16-b-line svg-16-b-shape__line"
+        style="animation-delay: -0.25s"
+        x1="0"
+        x2="0"
+        y1="0"
+        y2="-4.545454545454546"
+      />
+    </g>
+    <g
+      class="svg-16-b-g svg-16-b-shape"
+      transform="translate(27.272727272727273, 63.63636363636364)"
+    >
+      <line
+        class="svg-16-b-line svg-16-b-shape__line"
+        style="animation-delay: -0.5s"
+        x1="0"
+        x2="0"
+        y1="0"
+        y2="-4.545454545454546"
+      />
+    </g>
+    <g
+      class="svg-16-b-g svg-16-b-shape"
+      transform="translate(36.36363636363637, 63.63636363636364)"
+    >
+      <line
+        class="svg-16-b-line svg-16-b-shape__line"
+        style="animation-delay: -0.75s"
+        x1="0"
+        x2="0"
+        y1="0"
+        y2="-4.545454545454546"
+      />
+    </g>
+    <g
+      class="svg-16-b-g svg-16-b-shape"
+      transform="translate(45.45454545454546, 63.63636363636364)"
+    >
+      <line
+        class="svg-16-b-line svg-16-b-shape__line"
+        style="animation-delay: -1s"
+        x1="0"
+        x2="0"
+        y1="0"
+        y2="-4.545454545454546"
+      />
+    </g>
+    <g
+      class="svg-16-b-g svg-16-b-shape"
+      transform="translate(54.54545454545455, 63.63636363636364)"
+    >
+      <line
+        class="svg-16-b-line svg-16-b-shape__line"
+        style="animation-delay: -1.25s"
+        x1="0"
+        x2="0"
+        y1="0"
+        y2="-4.545454545454546"
+      />
+    </g>
+    <g
+      class="svg-16-b-g svg-16-b-shape"
+      transform="translate(63.63636363636364, 63.63636363636364)"
+    >
+      <line
+        class="svg-16-b-line svg-16-b-shape__line"
+        style="animation-delay: -1.5s"
+        x1="0"
+        x2="0"
+        y1="0"
+        y2="-4.545454545454546"
+      />
+    </g>
+    <g
+      class="svg-16-b-g svg-16-b-shape"
+      transform="translate(72.72727272727273, 63.63636363636364)"
+    >
+      <line
+        class="svg-16-b-line svg-16-b-shape__line"
+        style="animation-delay: -1.75s"
+        x1="0"
+        x2="0"
+        y1="0"
+        y2="-4.545454545454546"
+      />
+    </g>
+    <g
+      class="svg-16-b-g svg-16-b-shape"
+      transform="translate(81.81818181818183, 63.63636363636364)"
+    >
+      <line
+        class="svg-16-b-line svg-16-b-shape__line"
+        style="animation-delay: -2s"
+        x1="0"
+        x2="0"
+        y1="0"
+        y2="-4.545454545454546"
+      />
+    </g>
+    <g
+      class="svg-16-b-g svg-16-b-shape"
+      transform="translate(90.90909090909092, 63.63636363636364)"
+    >
+      <line
+        class="svg-16-b-line svg-16-b-shape__line"
+        style="animation-delay: -2.25s"
+        x1="0"
+        x2="0"
+        y1="0"
+        y2="-4.545454545454546"
+      />
+    </g>
+    <g
+      class="svg-16-b-g svg-16-b-shape"
+      transform="translate(9.090909090909092, 72.72727272727273)"
+    >
+      <line
+        class="svg-16-b-line svg-16-b-shape__line"
+        style="animation-delay: -0s"
+        x1="0"
+        x2="0"
+        y1="0"
+        y2="-4.545454545454546"
+      />
+    </g>
+    <g
+      class="svg-16-b-g svg-16-b-shape"
+      transform="translate(18.181818181818183, 72.72727272727273)"
+    >
+      <line
+        class="svg-16-b-line svg-16-b-shape__line"
+        style="animation-delay: -0.25s"
+        x1="0"
+        x2="0"
+        y1="0"
+        y2="-4.545454545454546"
+      />
+    </g>
+    <g
+      class="svg-16-b-g svg-16-b-shape"
+      transform="translate(27.272727272727273, 72.72727272727273)"
+    >
+      <line
+        class="svg-16-b-line svg-16-b-shape__line"
+        style="animation-delay: -0.5s"
+        x1="0"
+        x2="0"
+        y1="0"
+        y2="-4.545454545454546"
+      />
+    </g>
+    <g
+      class="svg-16-b-g svg-16-b-shape"
+      transform="translate(36.36363636363637, 72.72727272727273)"
+    >
+      <line
+        class="svg-16-b-line svg-16-b-shape__line"
+        style="animation-delay: -0.75s"
+        x1="0"
+        x2="0"
+        y1="0"
+        y2="-4.545454545454546"
+      />
+    </g>
+    <g
+      class="svg-16-b-g svg-16-b-shape"
+      transform="translate(45.45454545454546, 72.72727272727273)"
+    >
+      <line
+        class="svg-16-b-line svg-16-b-shape__line"
+        style="animation-delay: -1s"
+        x1="0"
+        x2="0"
+        y1="0"
+        y2="-4.545454545454546"
+      />
+    </g>
+    <g
+      class="svg-16-b-g svg-16-b-shape"
+      transform="translate(54.54545454545455, 72.72727272727273)"
+    >
+      <line
+        class="svg-16-b-line svg-16-b-shape__line"
+        style="animation-delay: -1.25s"
+        x1="0"
+        x2="0"
+        y1="0"
+        y2="-4.545454545454546"
+      />
+    </g>
+    <g
+      class="svg-16-b-g svg-16-b-shape"
+      transform="translate(63.63636363636364, 72.72727272727273)"
+    >
+      <line
+        class="svg-16-b-line svg-16-b-shape__line"
+        style="animation-delay: -1.5s"
+        x1="0"
+        x2="0"
+        y1="0"
+        y2="-4.545454545454546"
+      />
+    </g>
+    <g
+      class="svg-16-b-g svg-16-b-shape"
+      transform="translate(72.72727272727273, 72.72727272727273)"
+    >
+      <line
+        class="svg-16-b-line svg-16-b-shape__line"
+        style="animation-delay: -1.75s"
+        x1="0"
+        x2="0"
+        y1="0"
+        y2="-4.545454545454546"
+      />
+    </g>
+    <g
+      class="svg-16-b-g svg-16-b-shape"
+      transform="translate(81.81818181818183, 72.72727272727273)"
+    >
+      <line
+        class="svg-16-b-line svg-16-b-shape__line"
+        style="animation-delay: -2s"
+        x1="0"
+        x2="0"
+        y1="0"
+        y2="-4.545454545454546"
+      />
+    </g>
+    <g
+      class="svg-16-b-g svg-16-b-shape"
+      transform="translate(90.90909090909092, 72.72727272727273)"
+    >
+      <line
+        class="svg-16-b-line svg-16-b-shape__line"
+        style="animation-delay: -2.25s"
+        x1="0"
+        x2="0"
+        y1="0"
+        y2="-4.545454545454546"
+      />
+    </g>
+    <g
+      class="svg-16-b-g svg-16-b-shape"
+      transform="translate(9.090909090909092, 81.81818181818183)"
+    >
+      <line
+        class="svg-16-b-line svg-16-b-shape__line"
+        style="animation-delay: -0s"
+        x1="0"
+        x2="0"
+        y1="0"
+        y2="-4.545454545454546"
+      />
+    </g>
+    <g
+      class="svg-16-b-g svg-16-b-shape"
+      transform="translate(18.181818181818183, 81.81818181818183)"
+    >
+      <line
+        class="svg-16-b-line svg-16-b-shape__line"
+        style="animation-delay: -0.25s"
+        x1="0"
+        x2="0"
+        y1="0"
+        y2="-4.545454545454546"
+      />
+    </g>
+    <g
+      class="svg-16-b-g svg-16-b-shape"
+      transform="translate(27.272727272727273, 81.81818181818183)"
+    >
+      <line
+        class="svg-16-b-line svg-16-b-shape__line"
+        style="animation-delay: -0.5s"
+        x1="0"
+        x2="0"
+        y1="0"
+        y2="-4.545454545454546"
+      />
+    </g>
+    <g
+      class="svg-16-b-g svg-16-b-shape"
+      transform="translate(36.36363636363637, 81.81818181818183)"
+    >
+      <line
+        class="svg-16-b-line svg-16-b-shape__line"
+        style="animation-delay: -0.75s"
+        x1="0"
+        x2="0"
+        y1="0"
+        y2="-4.545454545454546"
+      />
+    </g>
+    <g
+      class="svg-16-b-g svg-16-b-shape"
+      transform="translate(45.45454545454546, 81.81818181818183)"
+    >
+      <line
+        class="svg-16-b-line svg-16-b-shape__line"
+        style="animation-delay: -1s"
+        x1="0"
+        x2="0"
+        y1="0"
+        y2="-4.545454545454546"
+      />
+    </g>
+    <g
+      class="svg-16-b-g svg-16-b-shape"
+      transform="translate(54.54545454545455, 81.81818181818183)"
+    >
+      <line
+        class="svg-16-b-line svg-16-b-shape__line"
+        style="animation-delay: -1.25s"
+        x1="0"
+        x2="0"
+        y1="0"
+        y2="-4.545454545454546"
+      />
+    </g>
+    <g
+      class="svg-16-b-g svg-16-b-shape"
+      transform="translate(63.63636363636364, 81.81818181818183)"
+    >
+      <line
+        class="svg-16-b-line svg-16-b-shape__line"
+        style="animation-delay: -1.5s"
+        x1="0"
+        x2="0"
+        y1="0"
+        y2="-4.545454545454546"
+      />
+    </g>
+    <g
+      class="svg-16-b-g svg-16-b-shape"
+      transform="translate(72.72727272727273, 81.81818181818183)"
+    >
+      <line
+        class="svg-16-b-line svg-16-b-shape__line"
+        style="animation-delay: -1.75s"
+        x1="0"
+        x2="0"
+        y1="0"
+        y2="-4.545454545454546"
+      />
+    </g>
+    <g
+      class="svg-16-b-g svg-16-b-shape"
+      transform="translate(81.81818181818183, 81.81818181818183)"
+    >
+      <line
+        class="svg-16-b-line svg-16-b-shape__line"
+        style="animation-delay: -2s"
+        x1="0"
+        x2="0"
+        y1="0"
+        y2="-4.545454545454546"
+      />
+    </g>
+    <g
+      class="svg-16-b-g svg-16-b-shape"
+      transform="translate(90.90909090909092, 81.81818181818183)"
+    >
+      <line
+        class="svg-16-b-line svg-16-b-shape__line"
+        style="animation-delay: -2.25s"
+        x1="0"
+        x2="0"
+        y1="0"
+        y2="-4.545454545454546"
+      />
+    </g>
+    <g
+      class="svg-16-b-g svg-16-b-shape"
+      transform="translate(9.090909090909092, 90.90909090909092)"
+    >
+      <line
+        class="svg-16-b-line svg-16-b-shape__line"
+        style="animation-delay: -0s"
+        x1="0"
+        x2="0"
+        y1="0"
+        y2="-4.545454545454546"
+      />
+    </g>
+    <g
+      class="svg-16-b-g svg-16-b-shape"
+      transform="translate(18.181818181818183, 90.90909090909092)"
+    >
+      <line
+        class="svg-16-b-line svg-16-b-shape__line"
+        style="animation-delay: -0.25s"
+        x1="0"
+        x2="0"
+        y1="0"
+        y2="-4.545454545454546"
+      />
+    </g>
+    <g
+      class="svg-16-b-g svg-16-b-shape"
+      transform="translate(27.272727272727273, 90.90909090909092)"
+    >
+      <line
+        class="svg-16-b-line svg-16-b-shape__line"
+        style="animation-delay: -0.5s"
+        x1="0"
+        x2="0"
+        y1="0"
+        y2="-4.545454545454546"
+      />
+    </g>
+    <g
+      class="svg-16-b-g svg-16-b-shape"
+      transform="translate(36.36363636363637, 90.90909090909092)"
+    >
+      <line
+        class="svg-16-b-line svg-16-b-shape__line"
+        style="animation-delay: -0.75s"
+        x1="0"
+        x2="0"
+        y1="0"
+        y2="-4.545454545454546"
+      />
+    </g>
+    <g
+      class="svg-16-b-g svg-16-b-shape"
+      transform="translate(45.45454545454546, 90.90909090909092)"
+    >
+      <line
+        class="svg-16-b-line svg-16-b-shape__line"
+        style="animation-delay: -1s"
+        x1="0"
+        x2="0"
+        y1="0"
+        y2="-4.545454545454546"
+      />
+    </g>
+    <g
+      class="svg-16-b-g svg-16-b-shape"
+      transform="translate(54.54545454545455, 90.90909090909092)"
+    >
+      <line
+        class="svg-16-b-line svg-16-b-shape__line"
+        style="animation-delay: -1.25s"
+        x1="0"
+        x2="0"
+        y1="0"
+        y2="-4.545454545454546"
+      />
+    </g>
+    <g
+      class="svg-16-b-g svg-16-b-shape"
+      transform="translate(63.63636363636364, 90.90909090909092)"
+    >
+      <line
+        class="svg-16-b-line svg-16-b-shape__line"
+        style="animation-delay: -1.5s"
+        x1="0"
+        x2="0"
+        y1="0"
+        y2="-4.545454545454546"
+      />
+    </g>
+    <g
+      class="svg-16-b-g svg-16-b-shape"
+      transform="translate(72.72727272727273, 90.90909090909092)"
+    >
+      <line
+        class="svg-16-b-line svg-16-b-shape__line"
+        style="animation-delay: -1.75s"
+        x1="0"
+        x2="0"
+        y1="0"
+        y2="-4.545454545454546"
+      />
+    </g>
+    <g
+      class="svg-16-b-g svg-16-b-shape"
+      transform="translate(81.81818181818183, 90.90909090909092)"
+    >
+      <line
+        class="svg-16-b-line svg-16-b-shape__line"
+        style="animation-delay: -2s"
+        x1="0"
+        x2="0"
+        y1="0"
+        y2="-4.545454545454546"
+      />
+    </g>
+    <g
+      class="svg-16-b-g svg-16-b-shape"
+      transform="translate(90.90909090909092, 90.90909090909092)"
+    >
+      <line
+        class="svg-16-b-line svg-16-b-shape__line"
+        style="animation-delay: -2.25s"
+        x1="0"
+        x2="0"
+        y1="0"
+        y2="-4.545454545454546"
+      />
+    </g>
+  </g>
+</svg>

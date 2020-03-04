@@ -1,0 +1,648 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE svg>
+<svg
+  data-animation-duration="2s"
+  preserveAspectRatio="xMidYMid meet"
+  version="1.1"
+  viewBox="-50 -50 100 100"
+  xmlns:xlink="http://www.w3.org/1999/xlink"
+  xmlns="http://www.w3.org/2000/svg"
+>
+  <title>
+    ANIMATION 45 - VARIATION C
+  </title>
+  <desc>
+    <p>See this animation in action here: <a href="https://andrew.wang-hoyer.com/experiments/svg-animations/45/c" target="_blank" rel="noopener">https://andrew.wang-hoyer.com/experiments/svg-animations/45/c</a>.</p>
+    <p>Generator source code : <a href="https://github.com/ndrwhr/svg-animation-src/tree/master/site/_svgs/generators/animations/45/c.js" target="_blank" rel="noopener">https://github.com/ndrwhr/svg-animation-src/tree/master/site/_svgs/generators/animations/45/c.js</a>.</p>
+    <p>All generated files and source code are released under the following license:</p>
+    <p>MIT License</p>
+    <p>Copyright (c) 2018-present Andrew Hoyer</p>
+    <p>Permission is hereby granted, free of charge, to any person obtaining a copy of this software and associated documentation files (the &quot;Software&quot;), to deal in the Software without restriction, including without limitation the rights to use, copy, modify, merge, publish, distribute, sublicense, and/or sell copies of the Software, and to permit persons to whom the Software is furnished to do so, subject to the following conditions:</p>
+    <p>The above copyright notice and this permission notice shall be included in all copies or substantial portions of the Software.</p>
+    <p>THE SOFTWARE IS PROVIDED &quot;AS IS&quot;, WITHOUT WARRANTY OF ANY KIND, EXPRESS OR IMPLIED, INCLUDING BUT NOT LIMITED TO THE WARRANTIES OF MERCHANTABILITY, FITNESS FOR A PARTICULAR PURPOSE AND NONINFRINGEMENT. IN NO EVENT SHALL THE AUTHORS OR COPYRIGHT HOLDERS BE LIABLE FOR ANY CLAIM, DAMAGES OR OTHER LIABILITY, WHETHER IN AN ACTION OF CONTRACT, TORT OR OTHERWISE, ARISING FROM, OUT OF OR IN CONNECTION WITH THE SOFTWARE OR THE USE OR OTHER DEALINGS IN THE SOFTWARE.</p>
+  </desc>
+  <style>
+    /* <![CDATA[ */
+      .svg-45-c-polygon {
+        fill: white;
+        stroke: black;
+        stroke-width: .3;
+      }
+      
+      .svg-45-c-container {
+        animation: svg-45-c-main-anim 2s cubic-bezier(.5, 0, .5, 1) alternate infinite;
+      }
+      
+      @keyframes svg-45-c-main-anim {
+        0% {
+          transform: translate(-4%, -2.6666666666666665%);
+        }
+      
+        100% {
+          transform: translate(4%, 2.6666666666666665%);
+        }
+      }
+      
+    /* ]]> */
+  </style>
+  <g
+    class="svg-45-c-g svg-45-c-container"
+    style="animation-delay: -0s"
+  >
+    <polygon
+      class="svg-45-c-polygon"
+      points="0,-40 40,-2.4492935992912173e-15 4.8985871985824346e-15,40 -40,7.347880374357178e-15"
+      transform="translate(0 30) scale(1 0.2)"
+    />
+  </g>
+  <g
+    class="svg-45-c-g svg-45-c-container"
+    style="animation-delay: -0.13333333333333333s"
+  >
+    <polygon
+      class="svg-45-c-polygon"
+      points="0,-40 40,-2.4492935992912173e-15 4.8985871985824346e-15,40 -40,7.347880374357178e-15"
+      transform="translate(0 29) scale(1 0.2)"
+    />
+  </g>
+  <g
+    class="svg-45-c-g svg-45-c-container"
+    style="animation-delay: -0.26666666666666666s"
+  >
+    <polygon
+      class="svg-45-c-polygon"
+      points="0,-40 40,-2.4492935992912173e-15 4.8985871985824346e-15,40 -40,7.347880374357178e-15"
+      transform="translate(0 28) scale(1 0.2)"
+    />
+  </g>
+  <g
+    class="svg-45-c-g svg-45-c-container"
+    style="animation-delay: -0.4s"
+  >
+    <polygon
+      class="svg-45-c-polygon"
+      points="0,-40 40,-2.4492935992912173e-15 4.8985871985824346e-15,40 -40,7.347880374357178e-15"
+      transform="translate(0 27) scale(1 0.2)"
+    />
+  </g>
+  <g
+    class="svg-45-c-g svg-45-c-container"
+    style="animation-delay: -0.5333333333333333s"
+  >
+    <polygon
+      class="svg-45-c-polygon"
+      points="0,-40 40,-2.4492935992912173e-15 4.8985871985824346e-15,40 -40,7.347880374357178e-15"
+      transform="translate(0 26) scale(1 0.2)"
+    />
+  </g>
+  <g
+    class="svg-45-c-g svg-45-c-container"
+    style="animation-delay: -0.6666666666666666s"
+  >
+    <polygon
+      class="svg-45-c-polygon"
+      points="0,-40 40,-2.4492935992912173e-15 4.8985871985824346e-15,40 -40,7.347880374357178e-15"
+      transform="translate(0 25) scale(1 0.2)"
+    />
+  </g>
+  <g
+    class="svg-45-c-g svg-45-c-container"
+    style="animation-delay: -0.8s"
+  >
+    <polygon
+      class="svg-45-c-polygon"
+      points="0,-40 40,-2.4492935992912173e-15 4.8985871985824346e-15,40 -40,7.347880374357178e-15"
+      transform="translate(0 24) scale(1 0.2)"
+    />
+  </g>
+  <g
+    class="svg-45-c-g svg-45-c-container"
+    style="animation-delay: -0.9333333333333333s"
+  >
+    <polygon
+      class="svg-45-c-polygon"
+      points="0,-40 40,-2.4492935992912173e-15 4.8985871985824346e-15,40 -40,7.347880374357178e-15"
+      transform="translate(0 23) scale(1 0.2)"
+    />
+  </g>
+  <g
+    class="svg-45-c-g svg-45-c-container"
+    style="animation-delay: -1.0666666666666667s"
+  >
+    <polygon
+      class="svg-45-c-polygon"
+      points="0,-40 40,-2.4492935992912173e-15 4.8985871985824346e-15,40 -40,7.347880374357178e-15"
+      transform="translate(0 22) scale(1 0.2)"
+    />
+  </g>
+  <g
+    class="svg-45-c-g svg-45-c-container"
+    style="animation-delay: -1.2s"
+  >
+    <polygon
+      class="svg-45-c-polygon"
+      points="0,-40 40,-2.4492935992912173e-15 4.8985871985824346e-15,40 -40,7.347880374357178e-15"
+      transform="translate(0 21) scale(1 0.2)"
+    />
+  </g>
+  <g
+    class="svg-45-c-g svg-45-c-container"
+    style="animation-delay: -1.3333333333333333s"
+  >
+    <polygon
+      class="svg-45-c-polygon"
+      points="0,-40 40,-2.4492935992912173e-15 4.8985871985824346e-15,40 -40,7.347880374357178e-15"
+      transform="translate(0 20) scale(1 0.2)"
+    />
+  </g>
+  <g
+    class="svg-45-c-g svg-45-c-container"
+    style="animation-delay: -1.4666666666666666s"
+  >
+    <polygon
+      class="svg-45-c-polygon"
+      points="0,-40 40,-2.4492935992912173e-15 4.8985871985824346e-15,40 -40,7.347880374357178e-15"
+      transform="translate(0 19) scale(1 0.2)"
+    />
+  </g>
+  <g
+    class="svg-45-c-g svg-45-c-container"
+    style="animation-delay: -1.6s"
+  >
+    <polygon
+      class="svg-45-c-polygon"
+      points="0,-40 40,-2.4492935992912173e-15 4.8985871985824346e-15,40 -40,7.347880374357178e-15"
+      transform="translate(0 18) scale(1 0.2)"
+    />
+  </g>
+  <g
+    class="svg-45-c-g svg-45-c-container"
+    style="animation-delay: -1.7333333333333334s"
+  >
+    <polygon
+      class="svg-45-c-polygon"
+      points="0,-40 40,-2.4492935992912173e-15 4.8985871985824346e-15,40 -40,7.347880374357178e-15"
+      transform="translate(0 17) scale(1 0.2)"
+    />
+  </g>
+  <g
+    class="svg-45-c-g svg-45-c-container"
+    style="animation-delay: -1.8666666666666667s"
+  >
+    <polygon
+      class="svg-45-c-polygon"
+      points="0,-40 40,-2.4492935992912173e-15 4.8985871985824346e-15,40 -40,7.347880374357178e-15"
+      transform="translate(0 16) scale(1 0.2)"
+    />
+  </g>
+  <g
+    class="svg-45-c-g svg-45-c-container"
+    style="animation-delay: -2s"
+  >
+    <polygon
+      class="svg-45-c-polygon"
+      points="0,-40 40,-2.4492935992912173e-15 4.8985871985824346e-15,40 -40,7.347880374357178e-15"
+      transform="translate(0 15) scale(1 0.2)"
+    />
+  </g>
+  <g
+    class="svg-45-c-g svg-45-c-container"
+    style="animation-delay: -2.1333333333333333s"
+  >
+    <polygon
+      class="svg-45-c-polygon"
+      points="0,-40 40,-2.4492935992912173e-15 4.8985871985824346e-15,40 -40,7.347880374357178e-15"
+      transform="translate(0 14) scale(1 0.2)"
+    />
+  </g>
+  <g
+    class="svg-45-c-g svg-45-c-container"
+    style="animation-delay: -2.2666666666666666s"
+  >
+    <polygon
+      class="svg-45-c-polygon"
+      points="0,-40 40,-2.4492935992912173e-15 4.8985871985824346e-15,40 -40,7.347880374357178e-15"
+      transform="translate(0 13) scale(1 0.2)"
+    />
+  </g>
+  <g
+    class="svg-45-c-g svg-45-c-container"
+    style="animation-delay: -2.4s"
+  >
+    <polygon
+      class="svg-45-c-polygon"
+      points="0,-40 40,-2.4492935992912173e-15 4.8985871985824346e-15,40 -40,7.347880374357178e-15"
+      transform="translate(0 12) scale(1 0.2)"
+    />
+  </g>
+  <g
+    class="svg-45-c-g svg-45-c-container"
+    style="animation-delay: -2.533333333333333s"
+  >
+    <polygon
+      class="svg-45-c-polygon"
+      points="0,-40 40,-2.4492935992912173e-15 4.8985871985824346e-15,40 -40,7.347880374357178e-15"
+      transform="translate(0 11) scale(1 0.2)"
+    />
+  </g>
+  <g
+    class="svg-45-c-g svg-45-c-container"
+    style="animation-delay: -2.6666666666666665s"
+  >
+    <polygon
+      class="svg-45-c-polygon"
+      points="0,-40 40,-2.4492935992912173e-15 4.8985871985824346e-15,40 -40,7.347880374357178e-15"
+      transform="translate(0 10.000000000000007) scale(1 0.2)"
+    />
+  </g>
+  <g
+    class="svg-45-c-g svg-45-c-container"
+    style="animation-delay: -2.8s"
+  >
+    <polygon
+      class="svg-45-c-polygon"
+      points="0,-40 40,-2.4492935992912173e-15 4.8985871985824346e-15,40 -40,7.347880374357178e-15"
+      transform="translate(0 9) scale(1 0.2)"
+    />
+  </g>
+  <g
+    class="svg-45-c-g svg-45-c-container"
+    style="animation-delay: -2.933333333333333s"
+  >
+    <polygon
+      class="svg-45-c-polygon"
+      points="0,-40 40,-2.4492935992912173e-15 4.8985871985824346e-15,40 -40,7.347880374357178e-15"
+      transform="translate(0 8) scale(1 0.2)"
+    />
+  </g>
+  <g
+    class="svg-45-c-g svg-45-c-container"
+    style="animation-delay: -3.066666666666667s"
+  >
+    <polygon
+      class="svg-45-c-polygon"
+      points="0,-40 40,-2.4492935992912173e-15 4.8985871985824346e-15,40 -40,7.347880374357178e-15"
+      transform="translate(0 7) scale(1 0.2)"
+    />
+  </g>
+  <g
+    class="svg-45-c-g svg-45-c-container"
+    style="animation-delay: -3.2s"
+  >
+    <polygon
+      class="svg-45-c-polygon"
+      points="0,-40 40,-2.4492935992912173e-15 4.8985871985824346e-15,40 -40,7.347880374357178e-15"
+      transform="translate(0 6) scale(1 0.2)"
+    />
+  </g>
+  <g
+    class="svg-45-c-g svg-45-c-container"
+    style="animation-delay: -3.3333333333333335s"
+  >
+    <polygon
+      class="svg-45-c-polygon"
+      points="0,-40 40,-2.4492935992912173e-15 4.8985871985824346e-15,40 -40,7.347880374357178e-15"
+      transform="translate(0 4.999999999999993) scale(1 0.2)"
+    />
+  </g>
+  <g
+    class="svg-45-c-g svg-45-c-container"
+    style="animation-delay: -3.466666666666667s"
+  >
+    <polygon
+      class="svg-45-c-polygon"
+      points="0,-40 40,-2.4492935992912173e-15 4.8985871985824346e-15,40 -40,7.347880374357178e-15"
+      transform="translate(0 4) scale(1 0.2)"
+    />
+  </g>
+  <g
+    class="svg-45-c-g svg-45-c-container"
+    style="animation-delay: -3.6s"
+  >
+    <polygon
+      class="svg-45-c-polygon"
+      points="0,-40 40,-2.4492935992912173e-15 4.8985871985824346e-15,40 -40,7.347880374357178e-15"
+      transform="translate(0 3) scale(1 0.2)"
+    />
+  </g>
+  <g
+    class="svg-45-c-g svg-45-c-container"
+    style="animation-delay: -3.7333333333333334s"
+  >
+    <polygon
+      class="svg-45-c-polygon"
+      points="0,-40 40,-2.4492935992912173e-15 4.8985871985824346e-15,40 -40,7.347880374357178e-15"
+      transform="translate(0 2) scale(1 0.2)"
+    />
+  </g>
+  <g
+    class="svg-45-c-g svg-45-c-container"
+    style="animation-delay: -3.8666666666666667s"
+  >
+    <polygon
+      class="svg-45-c-polygon"
+      points="0,-40 40,-2.4492935992912173e-15 4.8985871985824346e-15,40 -40,7.347880374357178e-15"
+      transform="translate(0 0.9999999999999964) scale(1 0.2)"
+    />
+  </g>
+  <g
+    class="svg-45-c-g svg-45-c-container"
+    style="animation-delay: -4s"
+  >
+    <polygon
+      class="svg-45-c-polygon"
+      points="0,-40 40,-2.4492935992912173e-15 4.8985871985824346e-15,40 -40,7.347880374357178e-15"
+      transform="translate(0 0) scale(1 0.2)"
+    />
+  </g>
+  <g
+    class="svg-45-c-g svg-45-c-container"
+    style="animation-delay: -4.133333333333334s"
+  >
+    <polygon
+      class="svg-45-c-polygon"
+      points="0,-40 40,-2.4492935992912173e-15 4.8985871985824346e-15,40 -40,7.347880374357178e-15"
+      transform="translate(0 -1.0000000000000036) scale(1 0.2)"
+    />
+  </g>
+  <g
+    class="svg-45-c-g svg-45-c-container"
+    style="animation-delay: -4.266666666666667s"
+  >
+    <polygon
+      class="svg-45-c-polygon"
+      points="0,-40 40,-2.4492935992912173e-15 4.8985871985824346e-15,40 -40,7.347880374357178e-15"
+      transform="translate(0 -2) scale(1 0.2)"
+    />
+  </g>
+  <g
+    class="svg-45-c-g svg-45-c-container"
+    style="animation-delay: -4.4s"
+  >
+    <polygon
+      class="svg-45-c-polygon"
+      points="0,-40 40,-2.4492935992912173e-15 4.8985871985824346e-15,40 -40,7.347880374357178e-15"
+      transform="translate(0 -3.0000000000000036) scale(1 0.2)"
+    />
+  </g>
+  <g
+    class="svg-45-c-g svg-45-c-container"
+    style="animation-delay: -4.533333333333333s"
+  >
+    <polygon
+      class="svg-45-c-polygon"
+      points="0,-40 40,-2.4492935992912173e-15 4.8985871985824346e-15,40 -40,7.347880374357178e-15"
+      transform="translate(0 -4) scale(1 0.2)"
+    />
+  </g>
+  <g
+    class="svg-45-c-g svg-45-c-container"
+    style="animation-delay: -4.666666666666667s"
+  >
+    <polygon
+      class="svg-45-c-polygon"
+      points="0,-40 40,-2.4492935992912173e-15 4.8985871985824346e-15,40 -40,7.347880374357178e-15"
+      transform="translate(0 -5.0000000000000036) scale(1 0.2)"
+    />
+  </g>
+  <g
+    class="svg-45-c-g svg-45-c-container"
+    style="animation-delay: -4.8s"
+  >
+    <polygon
+      class="svg-45-c-polygon"
+      points="0,-40 40,-2.4492935992912173e-15 4.8985871985824346e-15,40 -40,7.347880374357178e-15"
+      transform="translate(0 -6) scale(1 0.2)"
+    />
+  </g>
+  <g
+    class="svg-45-c-g svg-45-c-container"
+    style="animation-delay: -4.933333333333334s"
+  >
+    <polygon
+      class="svg-45-c-polygon"
+      points="0,-40 40,-2.4492935992912173e-15 4.8985871985824346e-15,40 -40,7.347880374357178e-15"
+      transform="translate(0 -7) scale(1 0.2)"
+    />
+  </g>
+  <g
+    class="svg-45-c-g svg-45-c-container"
+    style="animation-delay: -5.066666666666666s"
+  >
+    <polygon
+      class="svg-45-c-polygon"
+      points="0,-40 40,-2.4492935992912173e-15 4.8985871985824346e-15,40 -40,7.347880374357178e-15"
+      transform="translate(0 -8) scale(1 0.2)"
+    />
+  </g>
+  <g
+    class="svg-45-c-g svg-45-c-container"
+    style="animation-delay: -5.2s"
+  >
+    <polygon
+      class="svg-45-c-polygon"
+      points="0,-40 40,-2.4492935992912173e-15 4.8985871985824346e-15,40 -40,7.347880374357178e-15"
+      transform="translate(0 -9) scale(1 0.2)"
+    />
+  </g>
+  <g
+    class="svg-45-c-g svg-45-c-container"
+    style="animation-delay: -5.333333333333333s"
+  >
+    <polygon
+      class="svg-45-c-polygon"
+      points="0,-40 40,-2.4492935992912173e-15 4.8985871985824346e-15,40 -40,7.347880374357178e-15"
+      transform="translate(0 -9.999999999999996) scale(1 0.2)"
+    />
+  </g>
+  <g
+    class="svg-45-c-g svg-45-c-container"
+    style="animation-delay: -5.466666666666667s"
+  >
+    <polygon
+      class="svg-45-c-polygon"
+      points="0,-40 40,-2.4492935992912173e-15 4.8985871985824346e-15,40 -40,7.347880374357178e-15"
+      transform="translate(0 -11) scale(1 0.2)"
+    />
+  </g>
+  <g
+    class="svg-45-c-g svg-45-c-container"
+    style="animation-delay: -5.6s"
+  >
+    <polygon
+      class="svg-45-c-polygon"
+      points="0,-40 40,-2.4492935992912173e-15 4.8985871985824346e-15,40 -40,7.347880374357178e-15"
+      transform="translate(0 -11.999999999999996) scale(1 0.2)"
+    />
+  </g>
+  <g
+    class="svg-45-c-g svg-45-c-container"
+    style="animation-delay: -5.733333333333333s"
+  >
+    <polygon
+      class="svg-45-c-polygon"
+      points="0,-40 40,-2.4492935992912173e-15 4.8985871985824346e-15,40 -40,7.347880374357178e-15"
+      transform="translate(0 -13) scale(1 0.2)"
+    />
+  </g>
+  <g
+    class="svg-45-c-g svg-45-c-container"
+    style="animation-delay: -5.866666666666666s"
+  >
+    <polygon
+      class="svg-45-c-polygon"
+      points="0,-40 40,-2.4492935992912173e-15 4.8985871985824346e-15,40 -40,7.347880374357178e-15"
+      transform="translate(0 -13.999999999999996) scale(1 0.2)"
+    />
+  </g>
+  <g
+    class="svg-45-c-g svg-45-c-container"
+    style="animation-delay: -6s"
+  >
+    <polygon
+      class="svg-45-c-polygon"
+      points="0,-40 40,-2.4492935992912173e-15 4.8985871985824346e-15,40 -40,7.347880374357178e-15"
+      transform="translate(0 -15) scale(1 0.2)"
+    />
+  </g>
+  <g
+    class="svg-45-c-g svg-45-c-container"
+    style="animation-delay: -6.133333333333334s"
+  >
+    <polygon
+      class="svg-45-c-polygon"
+      points="0,-40 40,-2.4492935992912173e-15 4.8985871985824346e-15,40 -40,7.347880374357178e-15"
+      transform="translate(0 -16.000000000000004) scale(1 0.2)"
+    />
+  </g>
+  <g
+    class="svg-45-c-g svg-45-c-container"
+    style="animation-delay: -6.266666666666667s"
+  >
+    <polygon
+      class="svg-45-c-polygon"
+      points="0,-40 40,-2.4492935992912173e-15 4.8985871985824346e-15,40 -40,7.347880374357178e-15"
+      transform="translate(0 -17) scale(1 0.2)"
+    />
+  </g>
+  <g
+    class="svg-45-c-g svg-45-c-container"
+    style="animation-delay: -6.4s"
+  >
+    <polygon
+      class="svg-45-c-polygon"
+      points="0,-40 40,-2.4492935992912173e-15 4.8985871985824346e-15,40 -40,7.347880374357178e-15"
+      transform="translate(0 -18.000000000000004) scale(1 0.2)"
+    />
+  </g>
+  <g
+    class="svg-45-c-g svg-45-c-container"
+    style="animation-delay: -6.533333333333333s"
+  >
+    <polygon
+      class="svg-45-c-polygon"
+      points="0,-40 40,-2.4492935992912173e-15 4.8985871985824346e-15,40 -40,7.347880374357178e-15"
+      transform="translate(0 -19) scale(1 0.2)"
+    />
+  </g>
+  <g
+    class="svg-45-c-g svg-45-c-container"
+    style="animation-delay: -6.666666666666667s"
+  >
+    <polygon
+      class="svg-45-c-polygon"
+      points="0,-40 40,-2.4492935992912173e-15 4.8985871985824346e-15,40 -40,7.347880374357178e-15"
+      transform="translate(0 -20) scale(1 0.2)"
+    />
+  </g>
+  <g
+    class="svg-45-c-g svg-45-c-container"
+    style="animation-delay: -6.8s"
+  >
+    <polygon
+      class="svg-45-c-polygon"
+      points="0,-40 40,-2.4492935992912173e-15 4.8985871985824346e-15,40 -40,7.347880374357178e-15"
+      transform="translate(0 -21) scale(1 0.2)"
+    />
+  </g>
+  <g
+    class="svg-45-c-g svg-45-c-container"
+    style="animation-delay: -6.933333333333334s"
+  >
+    <polygon
+      class="svg-45-c-polygon"
+      points="0,-40 40,-2.4492935992912173e-15 4.8985871985824346e-15,40 -40,7.347880374357178e-15"
+      transform="translate(0 -22) scale(1 0.2)"
+    />
+  </g>
+  <g
+    class="svg-45-c-g svg-45-c-container"
+    style="animation-delay: -7.066666666666666s"
+  >
+    <polygon
+      class="svg-45-c-polygon"
+      points="0,-40 40,-2.4492935992912173e-15 4.8985871985824346e-15,40 -40,7.347880374357178e-15"
+      transform="translate(0 -23) scale(1 0.2)"
+    />
+  </g>
+  <g
+    class="svg-45-c-g svg-45-c-container"
+    style="animation-delay: -7.2s"
+  >
+    <polygon
+      class="svg-45-c-polygon"
+      points="0,-40 40,-2.4492935992912173e-15 4.8985871985824346e-15,40 -40,7.347880374357178e-15"
+      transform="translate(0 -24) scale(1 0.2)"
+    />
+  </g>
+  <g
+    class="svg-45-c-g svg-45-c-container"
+    style="animation-delay: -7.333333333333333s"
+  >
+    <polygon
+      class="svg-45-c-polygon"
+      points="0,-40 40,-2.4492935992912173e-15 4.8985871985824346e-15,40 -40,7.347880374357178e-15"
+      transform="translate(0 -25) scale(1 0.2)"
+    />
+  </g>
+  <g
+    class="svg-45-c-g svg-45-c-container"
+    style="animation-delay: -7.466666666666667s"
+  >
+    <polygon
+      class="svg-45-c-polygon"
+      points="0,-40 40,-2.4492935992912173e-15 4.8985871985824346e-15,40 -40,7.347880374357178e-15"
+      transform="translate(0 -26) scale(1 0.2)"
+    />
+  </g>
+  <g
+    class="svg-45-c-g svg-45-c-container"
+    style="animation-delay: -7.6s"
+  >
+    <polygon
+      class="svg-45-c-polygon"
+      points="0,-40 40,-2.4492935992912173e-15 4.8985871985824346e-15,40 -40,7.347880374357178e-15"
+      transform="translate(0 -26.999999999999996) scale(1 0.2)"
+    />
+  </g>
+  <g
+    class="svg-45-c-g svg-45-c-container"
+    style="animation-delay: -7.733333333333333s"
+  >
+    <polygon
+      class="svg-45-c-polygon"
+      points="0,-40 40,-2.4492935992912173e-15 4.8985871985824346e-15,40 -40,7.347880374357178e-15"
+      transform="translate(0 -28) scale(1 0.2)"
+    />
+  </g>
+  <g
+    class="svg-45-c-g svg-45-c-container"
+    style="animation-delay: -7.866666666666666s"
+  >
+    <polygon
+      class="svg-45-c-polygon"
+      points="0,-40 40,-2.4492935992912173e-15 4.8985871985824346e-15,40 -40,7.347880374357178e-15"
+      transform="translate(0 -28.999999999999996) scale(1 0.2)"
+    />
+  </g>
+</svg>

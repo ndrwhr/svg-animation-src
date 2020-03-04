@@ -1,0 +1,113 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE svg>
+<svg
+  data-animation-duration="2s"
+  preserveAspectRatio="xMidYMid meet"
+  version="1.1"
+  viewBox="-50 -50 100 100"
+  xmlns:xlink="http://www.w3.org/1999/xlink"
+  xmlns="http://www.w3.org/2000/svg"
+>
+  <title>
+    ANIMATION 20 - VARIATION C
+  </title>
+  <desc>
+    <p>Based on <a href="https://www.dailyminimal.com/post/173419363759/no-148-a-new-geometric-design-every-day" target="_blank" rel="noopener">No. 148</a> by <a href="https://www.designbypierre.io/" target="_blank" rel="noopener">Pierre Voisin</a> at <a href="https://www.dailyminimal.com/" target="_blank" rel="noopener">DAILYMINIMAL</a>.</p>
+    <p>See this animation in action here: <a href="https://andrew.wang-hoyer.com/experiments/svg-animations/20/c" target="_blank" rel="noopener">https://andrew.wang-hoyer.com/experiments/svg-animations/20/c</a>.</p>
+    <p>Generator source code : <a href="https://github.com/ndrwhr/svg-animation-src/tree/master/site/_svgs/generators/animations/20/c.js" target="_blank" rel="noopener">https://github.com/ndrwhr/svg-animation-src/tree/master/site/_svgs/generators/animations/20/c.js</a>.</p>
+    <p>All generated files and source code are released under the following license:</p>
+    <p>MIT License</p>
+    <p>Copyright (c) 2018-present Andrew Hoyer</p>
+    <p>Permission is hereby granted, free of charge, to any person obtaining a copy of this software and associated documentation files (the &quot;Software&quot;), to deal in the Software without restriction, including without limitation the rights to use, copy, modify, merge, publish, distribute, sublicense, and/or sell copies of the Software, and to permit persons to whom the Software is furnished to do so, subject to the following conditions:</p>
+    <p>The above copyright notice and this permission notice shall be included in all copies or substantial portions of the Software.</p>
+    <p>THE SOFTWARE IS PROVIDED &quot;AS IS&quot;, WITHOUT WARRANTY OF ANY KIND, EXPRESS OR IMPLIED, INCLUDING BUT NOT LIMITED TO THE WARRANTIES OF MERCHANTABILITY, FITNESS FOR A PARTICULAR PURPOSE AND NONINFRINGEMENT. IN NO EVENT SHALL THE AUTHORS OR COPYRIGHT HOLDERS BE LIABLE FOR ANY CLAIM, DAMAGES OR OTHER LIABILITY, WHETHER IN AN ACTION OF CONTRACT, TORT OR OTHERWISE, ARISING FROM, OUT OF OR IN CONNECTION WITH THE SOFTWARE OR THE USE OR OTHER DEALINGS IN THE SOFTWARE.</p>
+  </desc>
+  <defs>
+    <circle
+      class="svg-20-c-circle"
+      id="svg-20-c-main-shape"
+      r="20"
+    />
+    <clipPath
+      id="svg-20-c-mask"
+    >
+      <use
+        class="svg-20-c-use"
+        href="#svg-20-c-main-shape"
+      />
+    </clipPath>
+  </defs>
+  <style>
+    /* <![CDATA[ */
+      .svg-20-c-pendulum-x {
+        animation: svg-20-c-main-anim-x 2s cubic-bezier(.5, 0, .5, 1) -1s alternate infinite;
+      }
+      
+      @keyframes svg-20-c-main-anim-x {
+        from {
+          transform: translate(-16%, 0);
+        }
+      
+        to {
+          transform: translate(16%, 0);
+        }
+      }
+      
+      .svg-20-c-pendulum-y {
+        animation: svg-20-c-main-anim-y 8s cubic-bezier(.5, 0, .5, 1) -1s alternate infinite;
+      }
+      
+      @keyframes svg-20-c-main-anim-y {
+        from {
+          transform: translate(0, -10%);
+        }
+      
+        to {
+          transform: translate(0, 10%);
+        }
+      }
+      
+    /* ]]> */
+  </style>
+  <g
+    class="svg-20-c-g svg-20-c-pendulum-x"
+  >
+    <g
+      class="svg-20-c-g svg-20-c-pendulum-y"
+    >
+      <circle
+        class="svg-20-c-circle"
+        cx="0"
+        cy="0"
+        fill="black"
+        r="16.666666666666668"
+        stroke="none"
+      />
+    </g>
+  </g>
+  <use
+    class="svg-20-c-use"
+    href="#svg-20-c-main-shape"
+  />
+  <g
+    class="svg-20-c-g"
+    clip-path="url(#svg-20-c-mask)"
+  >
+    <g
+      class="svg-20-c-g svg-20-c-pendulum-x"
+    >
+      <g
+        class="svg-20-c-g svg-20-c-pendulum-y"
+      >
+        <circle
+          class="svg-20-c-circle"
+          cx="0"
+          cy="0"
+          fill="white"
+          r="16.666666666666668"
+          stroke="none"
+        />
+      </g>
+    </g>
+  </g>
+</svg>

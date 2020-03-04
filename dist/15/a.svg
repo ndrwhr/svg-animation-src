@@ -1,0 +1,137 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE svg>
+<svg
+  data-animation-duration="10s"
+  preserveAspectRatio="xMidYMid meet"
+  version="1.1"
+  viewBox="-50 -50 100 100"
+  xmlns:xlink="http://www.w3.org/1999/xlink"
+  xmlns="http://www.w3.org/2000/svg"
+>
+  <title>
+    ANIMATION 15 - VARIATION A
+  </title>
+  <desc>
+    <p>See this animation in action here: <a href="https://andrew.wang-hoyer.com/experiments/svg-animations/15/a" target="_blank" rel="noopener">https://andrew.wang-hoyer.com/experiments/svg-animations/15/a</a>.</p>
+    <p>Generator source code : <a href="https://github.com/ndrwhr/svg-animation-src/tree/master/site/_svgs/generators/animations/15/a.js" target="_blank" rel="noopener">https://github.com/ndrwhr/svg-animation-src/tree/master/site/_svgs/generators/animations/15/a.js</a>.</p>
+    <p>All generated files and source code are released under the following license:</p>
+    <p>MIT License</p>
+    <p>Copyright (c) 2018-present Andrew Hoyer</p>
+    <p>Permission is hereby granted, free of charge, to any person obtaining a copy of this software and associated documentation files (the &quot;Software&quot;), to deal in the Software without restriction, including without limitation the rights to use, copy, modify, merge, publish, distribute, sublicense, and/or sell copies of the Software, and to permit persons to whom the Software is furnished to do so, subject to the following conditions:</p>
+    <p>The above copyright notice and this permission notice shall be included in all copies or substantial portions of the Software.</p>
+    <p>THE SOFTWARE IS PROVIDED &quot;AS IS&quot;, WITHOUT WARRANTY OF ANY KIND, EXPRESS OR IMPLIED, INCLUDING BUT NOT LIMITED TO THE WARRANTIES OF MERCHANTABILITY, FITNESS FOR A PARTICULAR PURPOSE AND NONINFRINGEMENT. IN NO EVENT SHALL THE AUTHORS OR COPYRIGHT HOLDERS BE LIABLE FOR ANY CLAIM, DAMAGES OR OTHER LIABILITY, WHETHER IN AN ACTION OF CONTRACT, TORT OR OTHERWISE, ARISING FROM, OUT OF OR IN CONNECTION WITH THE SOFTWARE OR THE USE OR OTHER DEALINGS IN THE SOFTWARE.</p>
+  </desc>
+  <defs>
+    <clipPath
+      id="svg-15-a-outer-mask"
+    >
+      <polygon
+        class="svg-15-a-polygon"
+        points="0,-40 34.641014099121094,20 -34.641014099121094,20"
+      />
+    </clipPath>
+    <g
+      class="svg-15-a-g"
+      id="svg-15-a-line-group"
+    >
+      <line
+        class="svg-15-a-line svg-15-a-radial-line"
+        style="animation-delay: -0s"
+        x1="0"
+        x2="25.98076057434082"
+        y1="-40"
+        y2="15"
+      />
+      <line
+        class="svg-15-a-line"
+        x1="0"
+        x2="0"
+        y1="-10"
+        y2="-40"
+      />
+      <line
+        class="svg-15-a-line svg-15-a-radial-line"
+        style="animation-delay: -3.3333333333333335s"
+        x1="0"
+        x2="25.98076057434082"
+        y1="-40"
+        y2="15"
+      />
+      <line
+        class="svg-15-a-line"
+        x1="0"
+        x2="0"
+        y1="-10"
+        y2="-40"
+      />
+      <line
+        class="svg-15-a-line svg-15-a-radial-line"
+        style="animation-delay: -6.666666666666667s"
+        x1="0"
+        x2="25.98076057434082"
+        y1="-40"
+        y2="15"
+      />
+      <line
+        class="svg-15-a-line"
+        x1="0"
+        x2="0"
+        y1="-10"
+        y2="-40"
+      />
+    </g>
+  </defs>
+  <style>
+    /* <![CDATA[ */
+      .svg-15-a-polygon, .svg-15-a-line {
+        fill: none;
+        stroke: black;
+        stroke-width: 1;
+      }
+      
+      .svg-15-a-radial-line {
+        animation: svg-15-a-line-anim 10s linear infinite;
+      }
+      
+      @keyframes svg-15-a-line-anim {
+        from {
+          transform: scale(1.4);
+        }
+      
+        to {
+          transform: scale(.15);
+        }
+      }
+      
+    /* ]]> */
+  </style>
+  <g
+    class="svg-15-a-g"
+    clip-path="url(#svg-15-a-outer-mask)"
+  >
+    <use
+      class="svg-15-a-use"
+      href="#svg-15-a-line-group"
+      transform="rotate(0, 0, 0)"
+    />
+    <use
+      class="svg-15-a-use"
+      href="#svg-15-a-line-group"
+      transform="rotate(120, 0, 0)"
+    />
+    <use
+      class="svg-15-a-use"
+      href="#svg-15-a-line-group"
+      transform="rotate(240, 0, 0)"
+    />
+  </g>
+  <polygon
+    class="svg-15-a-polygon"
+    points="0,-10 8.660253524780273,5 -8.660253524780273,5"
+    style="fill: white"
+  />
+  <polygon
+    class="svg-15-a-polygon"
+    points="0,-40 34.641014099121094,20 -34.641014099121094,20"
+  />
+</svg>

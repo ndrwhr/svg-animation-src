@@ -1,0 +1,189 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE svg>
+<svg
+  data-animation-duration="3s"
+  preserveAspectRatio="xMidYMid meet"
+  version="1.1"
+  viewBox="0 0 100 100"
+  xmlns:xlink="http://www.w3.org/1999/xlink"
+  xmlns="http://www.w3.org/2000/svg"
+>
+  <title>
+    ANIMATION 22 - VARIATION B
+  </title>
+  <desc>
+    <p>See this animation in action here: <a href="https://andrew.wang-hoyer.com/experiments/svg-animations/22/b" target="_blank" rel="noopener">https://andrew.wang-hoyer.com/experiments/svg-animations/22/b</a>.</p>
+    <p>Generator source code : <a href="https://github.com/ndrwhr/svg-animation-src/tree/master/site/_svgs/generators/animations/22/b.js" target="_blank" rel="noopener">https://github.com/ndrwhr/svg-animation-src/tree/master/site/_svgs/generators/animations/22/b.js</a>.</p>
+    <p>All generated files and source code are released under the following license:</p>
+    <p>MIT License</p>
+    <p>Copyright (c) 2018-present Andrew Hoyer</p>
+    <p>Permission is hereby granted, free of charge, to any person obtaining a copy of this software and associated documentation files (the &quot;Software&quot;), to deal in the Software without restriction, including without limitation the rights to use, copy, modify, merge, publish, distribute, sublicense, and/or sell copies of the Software, and to permit persons to whom the Software is furnished to do so, subject to the following conditions:</p>
+    <p>The above copyright notice and this permission notice shall be included in all copies or substantial portions of the Software.</p>
+    <p>THE SOFTWARE IS PROVIDED &quot;AS IS&quot;, WITHOUT WARRANTY OF ANY KIND, EXPRESS OR IMPLIED, INCLUDING BUT NOT LIMITED TO THE WARRANTIES OF MERCHANTABILITY, FITNESS FOR A PARTICULAR PURPOSE AND NONINFRINGEMENT. IN NO EVENT SHALL THE AUTHORS OR COPYRIGHT HOLDERS BE LIABLE FOR ANY CLAIM, DAMAGES OR OTHER LIABILITY, WHETHER IN AN ACTION OF CONTRACT, TORT OR OTHERWISE, ARISING FROM, OUT OF OR IN CONNECTION WITH THE SOFTWARE OR THE USE OR OTHER DEALINGS IN THE SOFTWARE.</p>
+  </desc>
+  <defs>
+    <g
+      class="svg-22-b-g"
+      id="svg-22-b-stripes"
+    >
+      <rect
+        class="svg-22-b-rect svg-22-b-stripe"
+        height="5"
+        width="100"
+        x="0"
+        y="0"
+      />
+      <rect
+        class="svg-22-b-rect svg-22-b-stripe"
+        height="5"
+        width="100"
+        x="0"
+        y="10"
+      />
+      <rect
+        class="svg-22-b-rect svg-22-b-stripe"
+        height="5"
+        width="100"
+        x="0"
+        y="20"
+      />
+      <rect
+        class="svg-22-b-rect svg-22-b-stripe"
+        height="5"
+        width="100"
+        x="0"
+        y="30"
+      />
+      <rect
+        class="svg-22-b-rect svg-22-b-stripe"
+        height="5"
+        width="100"
+        x="0"
+        y="40"
+      />
+      <rect
+        class="svg-22-b-rect svg-22-b-stripe"
+        height="5"
+        width="100"
+        x="0"
+        y="50"
+      />
+      <rect
+        class="svg-22-b-rect svg-22-b-stripe"
+        height="5"
+        width="100"
+        x="0"
+        y="60"
+      />
+      <rect
+        class="svg-22-b-rect svg-22-b-stripe"
+        height="5"
+        width="100"
+        x="0"
+        y="70"
+      />
+      <rect
+        class="svg-22-b-rect svg-22-b-stripe"
+        height="5"
+        width="100"
+        x="0"
+        y="80"
+      />
+      <rect
+        class="svg-22-b-rect svg-22-b-stripe"
+        height="5"
+        width="100"
+        x="0"
+        y="90"
+      />
+    </g>
+    <clipPath
+      id="svg-22-b-mask"
+    >
+      <circle
+        class="svg-22-b-circle"
+        cx="50"
+        cy="50"
+        r="30"
+      />
+    </clipPath>
+    <clipPath
+      id="svg-22-b-right-half"
+    >
+      <rect
+        class="svg-22-b-rect"
+        height="100"
+        width="50"
+        x="50"
+        y="0"
+      />
+    </clipPath>
+    <clipPath
+      id="svg-22-b-left-half"
+    >
+      <rect
+        class="svg-22-b-rect"
+        height="100"
+        width="50"
+        x="0"
+        y="0"
+      />
+    </clipPath>
+  </defs>
+  <style>
+    /* <![CDATA[ */
+      .svg-22-b-stripe {
+        fill: black;
+        stroke: none;
+      }
+      
+      .svg-22-b-stripes {
+        animation: svg-22-b-stripes-anim 3s linear infinite;
+      }
+      
+      .svg-22-b-stripes--right {
+        animation-direction: reverse;
+      }
+      
+      @keyframes svg-22-b-stripes-anim {
+        from {
+          transform: translate(0, 0);
+        }
+      
+        to {
+          transform: translate(0, 10%);
+        }
+      }
+      
+    /* ]]> */
+  </style>
+  <g
+    class="svg-22-b-g"
+    clip-path="url(#svg-22-b-left-half)"
+  >
+    <g
+      class="svg-22-b-g"
+      clip-path="url(#svg-22-b-mask)"
+    >
+      <use
+        class="svg-22-b-use svg-22-b-stripes svg-22-b-stripes--left"
+        href="#svg-22-b-stripes"
+      />
+    </g>
+  </g>
+  <g
+    class="svg-22-b-g"
+    clip-path="url(#svg-22-b-right-half)"
+  >
+    <g
+      class="svg-22-b-g"
+      clip-path="url(#svg-22-b-mask)"
+    >
+      <use
+        class="svg-22-b-use svg-22-b-stripes svg-22-b-stripes--right"
+        href="#svg-22-b-stripes"
+        transform="translate(0, 5)"
+      />
+    </g>
+  </g>
+</svg>

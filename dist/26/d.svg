@@ -1,0 +1,215 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE svg>
+<svg
+  data-animation-duration="8s"
+  preserveAspectRatio="xMidYMid meet"
+  version="1.1"
+  viewBox="-50 -50 100 100"
+  xmlns:xlink="http://www.w3.org/1999/xlink"
+  xmlns="http://www.w3.org/2000/svg"
+>
+  <title>
+    ANIMATION 26 - VARIATION D
+  </title>
+  <desc>
+    <p>Based on <a href="https://www.dailyminimal.com/post/107017514524/ja15-080-a-new-geometric-design-every-day" target="_blank" rel="noopener">JA15-080</a> by <a href="https://www.designbypierre.io/" target="_blank" rel="noopener">Pierre Voisin</a> at <a href="https://www.dailyminimal.com/" target="_blank" rel="noopener">DAILYMINIMAL</a>.</p>
+    <p>See this animation in action here: <a href="https://andrew.wang-hoyer.com/experiments/svg-animations/26/d" target="_blank" rel="noopener">https://andrew.wang-hoyer.com/experiments/svg-animations/26/d</a>.</p>
+    <p>Generator source code : <a href="https://github.com/ndrwhr/svg-animation-src/tree/master/site/_svgs/generators/animations/26/d.js" target="_blank" rel="noopener">https://github.com/ndrwhr/svg-animation-src/tree/master/site/_svgs/generators/animations/26/d.js</a>.</p>
+    <p>All generated files and source code are released under the following license:</p>
+    <p>MIT License</p>
+    <p>Copyright (c) 2018-present Andrew Hoyer</p>
+    <p>Permission is hereby granted, free of charge, to any person obtaining a copy of this software and associated documentation files (the &quot;Software&quot;), to deal in the Software without restriction, including without limitation the rights to use, copy, modify, merge, publish, distribute, sublicense, and/or sell copies of the Software, and to permit persons to whom the Software is furnished to do so, subject to the following conditions:</p>
+    <p>The above copyright notice and this permission notice shall be included in all copies or substantial portions of the Software.</p>
+    <p>THE SOFTWARE IS PROVIDED &quot;AS IS&quot;, WITHOUT WARRANTY OF ANY KIND, EXPRESS OR IMPLIED, INCLUDING BUT NOT LIMITED TO THE WARRANTIES OF MERCHANTABILITY, FITNESS FOR A PARTICULAR PURPOSE AND NONINFRINGEMENT. IN NO EVENT SHALL THE AUTHORS OR COPYRIGHT HOLDERS BE LIABLE FOR ANY CLAIM, DAMAGES OR OTHER LIABILITY, WHETHER IN AN ACTION OF CONTRACT, TORT OR OTHERWISE, ARISING FROM, OUT OF OR IN CONNECTION WITH THE SOFTWARE OR THE USE OR OTHER DEALINGS IN THE SOFTWARE.</p>
+  </desc>
+  <style>
+    /* <![CDATA[ */
+      .svg-26-d-circle {
+        transform-origin: 0 0;
+        stroke: none;
+      }
+      
+      .svg-26-d-circle.svg-26-d-white {
+        fill: white;
+      }
+      
+      .svg-26-d-circle.svg-26-d-black {
+        fill: black;
+      }
+      
+      .svg-26-d-rotating-parent {
+        transform-origin: 0 3.230769230769231%;
+        animation: svg-26-d-main-anim 8s cubic-bezier(.5, 0, .5, 1) alternate infinite;
+      }
+      
+      @keyframes svg-26-d-main-anim {
+        from {
+          transform: rotate(-180deg) translate(0, 3.230769230769231%);
+        }
+      
+        to {
+          transform: rotate(180deg) translate(0, 3.230769230769231%);
+        }
+      }
+      
+    /* ]]> */
+  </style>
+  <g
+    class="svg-26-d-g"
+  >
+    <g
+      class="svg-26-d-g svg-26-d-rotating-parent"
+      style="animation-delay: -7.428571428571429s"
+    >
+      <circle
+        class="svg-26-d-circle svg-26-d-white"
+        cx="0"
+        cy="0"
+        r="45"
+      />
+      <g
+        class="svg-26-d-g svg-26-d-rotating-parent"
+        style="animation-delay: -6.857142857142857s"
+      >
+        <circle
+          class="svg-26-d-circle svg-26-d-black"
+          cx="0"
+          cy="0"
+          r="41.769230769230774"
+        />
+        <g
+          class="svg-26-d-g svg-26-d-rotating-parent"
+          style="animation-delay: -6.285714285714286s"
+        >
+          <circle
+            class="svg-26-d-circle svg-26-d-white"
+            cx="0"
+            cy="0"
+            r="38.53846153846154"
+          />
+          <g
+            class="svg-26-d-g svg-26-d-rotating-parent"
+            style="animation-delay: -5.714285714285714s"
+          >
+            <circle
+              class="svg-26-d-circle svg-26-d-black"
+              cx="0"
+              cy="0"
+              r="35.30769230769231"
+            />
+            <g
+              class="svg-26-d-g svg-26-d-rotating-parent"
+              style="animation-delay: -5.142857142857143s"
+            >
+              <circle
+                class="svg-26-d-circle svg-26-d-white"
+                cx="0"
+                cy="0"
+                r="32.07692307692308"
+              />
+              <g
+                class="svg-26-d-g svg-26-d-rotating-parent"
+                style="animation-delay: -4.571428571428571s"
+              >
+                <circle
+                  class="svg-26-d-circle svg-26-d-black"
+                  cx="0"
+                  cy="0"
+                  r="28.846153846153847"
+                />
+                <g
+                  class="svg-26-d-g svg-26-d-rotating-parent"
+                  style="animation-delay: -4s"
+                >
+                  <circle
+                    class="svg-26-d-circle svg-26-d-white"
+                    cx="0"
+                    cy="0"
+                    r="25.615384615384617"
+                  />
+                  <g
+                    class="svg-26-d-g svg-26-d-rotating-parent"
+                    style="animation-delay: -3.4285714285714284s"
+                  >
+                    <circle
+                      class="svg-26-d-circle svg-26-d-black"
+                      cx="0"
+                      cy="0"
+                      r="22.384615384615387"
+                    />
+                    <g
+                      class="svg-26-d-g svg-26-d-rotating-parent"
+                      style="animation-delay: -2.857142857142857s"
+                    >
+                      <circle
+                        class="svg-26-d-circle svg-26-d-white"
+                        cx="0"
+                        cy="0"
+                        r="19.153846153846153"
+                      />
+                      <g
+                        class="svg-26-d-g svg-26-d-rotating-parent"
+                        style="animation-delay: -2.2857142857142856s"
+                      >
+                        <circle
+                          class="svg-26-d-circle svg-26-d-black"
+                          cx="0"
+                          cy="0"
+                          r="15.923076923076923"
+                        />
+                        <g
+                          class="svg-26-d-g svg-26-d-rotating-parent"
+                          style="animation-delay: -1.7142857142857142s"
+                        >
+                          <circle
+                            class="svg-26-d-circle svg-26-d-white"
+                            cx="0"
+                            cy="0"
+                            r="12.692307692307693"
+                          />
+                          <g
+                            class="svg-26-d-g svg-26-d-rotating-parent"
+                            style="animation-delay: -1.1428571428571428s"
+                          >
+                            <circle
+                              class="svg-26-d-circle svg-26-d-black"
+                              cx="0"
+                              cy="0"
+                              r="9.461538461538462"
+                            />
+                            <g
+                              class="svg-26-d-g svg-26-d-rotating-parent"
+                              style="animation-delay: -0.5714285714285714s"
+                            >
+                              <circle
+                                class="svg-26-d-circle svg-26-d-white"
+                                cx="0"
+                                cy="0"
+                                r="6.230769230769231"
+                              />
+                              <g
+                                class="svg-26-d-g svg-26-d-rotating-parent"
+                                style="animation-delay: -0s"
+                              >
+                                <circle
+                                  class="svg-26-d-circle svg-26-d-black"
+                                  cx="0"
+                                  cy="0"
+                                  r="3"
+                                />
+                              </g>
+                            </g>
+                          </g>
+                        </g>
+                      </g>
+                    </g>
+                  </g>
+                </g>
+              </g>
+            </g>
+          </g>
+        </g>
+      </g>
+    </g>
+  </g>
+</svg>

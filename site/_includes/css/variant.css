@@ -24,8 +24,17 @@
   cursor: not-allowed;
 }
 
-.variant__variants-header {
+.variant__sub-header {
   margin-bottom: 3rem;
+}
+
+.variant__links {
+  margin: 0 0 6rem 3rem;
+}
+
+.variant__links li {
+  line-height: 1.75;
+  margin-bottom: 0.2em;
 }
 
 .variant p {

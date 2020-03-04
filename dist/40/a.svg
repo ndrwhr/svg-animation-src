@@ -1,0 +1,215 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE svg>
+<svg
+  data-animation-duration="5s"
+  preserveAspectRatio="xMidYMid meet"
+  version="1.1"
+  viewBox="-50 -50 100 100"
+  xmlns:xlink="http://www.w3.org/1999/xlink"
+  xmlns="http://www.w3.org/2000/svg"
+>
+  <title>
+    ANIMATION 40 - VARIATION A
+  </title>
+  <desc>
+    <p>See this animation in action here: <a href="https://andrew.wang-hoyer.com/experiments/svg-animations/40/a" target="_blank" rel="noopener">https://andrew.wang-hoyer.com/experiments/svg-animations/40/a</a>.</p>
+    <p>Generator source code : <a href="https://github.com/ndrwhr/svg-animation-src/tree/master/site/_svgs/generators/animations/40/a.js" target="_blank" rel="noopener">https://github.com/ndrwhr/svg-animation-src/tree/master/site/_svgs/generators/animations/40/a.js</a>.</p>
+    <p>All generated files and source code are released under the following license:</p>
+    <p>MIT License</p>
+    <p>Copyright (c) 2018-present Andrew Hoyer</p>
+    <p>Permission is hereby granted, free of charge, to any person obtaining a copy of this software and associated documentation files (the &quot;Software&quot;), to deal in the Software without restriction, including without limitation the rights to use, copy, modify, merge, publish, distribute, sublicense, and/or sell copies of the Software, and to permit persons to whom the Software is furnished to do so, subject to the following conditions:</p>
+    <p>The above copyright notice and this permission notice shall be included in all copies or substantial portions of the Software.</p>
+    <p>THE SOFTWARE IS PROVIDED &quot;AS IS&quot;, WITHOUT WARRANTY OF ANY KIND, EXPRESS OR IMPLIED, INCLUDING BUT NOT LIMITED TO THE WARRANTIES OF MERCHANTABILITY, FITNESS FOR A PARTICULAR PURPOSE AND NONINFRINGEMENT. IN NO EVENT SHALL THE AUTHORS OR COPYRIGHT HOLDERS BE LIABLE FOR ANY CLAIM, DAMAGES OR OTHER LIABILITY, WHETHER IN AN ACTION OF CONTRACT, TORT OR OTHERWISE, ARISING FROM, OUT OF OR IN CONNECTION WITH THE SOFTWARE OR THE USE OR OTHER DEALINGS IN THE SOFTWARE.</p>
+  </desc>
+  <style>
+    /* <![CDATA[ */
+      .svg-40-a-animation-group {
+        animation: svg-40-a-main-anim 5s linear infinite;
+      }
+      
+      @keyframes svg-40-a-main-anim {
+        from {
+          transform: rotate(0);
+        }
+      
+        to {
+          transform: rotate(180deg);
+        }
+      }
+      
+    /* ]]> */
+  </style>
+  <circle
+    class="svg-40-a-circle"
+    fill="black"
+    r="45"
+  />
+  <g
+    class="svg-40-a-g svg-40-a-animation-group"
+  >
+    <g
+      class="svg-40-a-g"
+      transform="rotate(0) translate(0, -22.5) scale(0.5)"
+    >
+      <circle
+        class="svg-40-a-circle"
+        fill="white"
+        r="45"
+      />
+      <g
+        class="svg-40-a-g svg-40-a-animation-group"
+      >
+        <g
+          class="svg-40-a-g"
+          transform="rotate(0) translate(0, -22.5) scale(0.5)"
+        >
+          <circle
+            class="svg-40-a-circle"
+            fill="black"
+            r="45"
+          />
+          <g
+            class="svg-40-a-g svg-40-a-animation-group"
+          >
+            <g
+              class="svg-40-a-g"
+              transform="rotate(0) translate(0, -22.5) scale(0.5)"
+            >
+              <circle
+                class="svg-40-a-circle"
+                fill="white"
+                r="45"
+              />
+            </g>
+            <g
+              class="svg-40-a-g"
+              transform="rotate(180) translate(0, -22.5) scale(0.5)"
+            >
+              <circle
+                class="svg-40-a-circle"
+                fill="white"
+                r="45"
+              />
+            </g>
+          </g>
+        </g>
+        <g
+          class="svg-40-a-g"
+          transform="rotate(180) translate(0, -22.5) scale(0.5)"
+        >
+          <circle
+            class="svg-40-a-circle"
+            fill="black"
+            r="45"
+          />
+          <g
+            class="svg-40-a-g svg-40-a-animation-group"
+          >
+            <g
+              class="svg-40-a-g"
+              transform="rotate(0) translate(0, -22.5) scale(0.5)"
+            >
+              <circle
+                class="svg-40-a-circle"
+                fill="white"
+                r="45"
+              />
+            </g>
+            <g
+              class="svg-40-a-g"
+              transform="rotate(180) translate(0, -22.5) scale(0.5)"
+            >
+              <circle
+                class="svg-40-a-circle"
+                fill="white"
+                r="45"
+              />
+            </g>
+          </g>
+        </g>
+      </g>
+    </g>
+    <g
+      class="svg-40-a-g"
+      transform="rotate(180) translate(0, -22.5) scale(0.5)"
+    >
+      <circle
+        class="svg-40-a-circle"
+        fill="white"
+        r="45"
+      />
+      <g
+        class="svg-40-a-g svg-40-a-animation-group"
+      >
+        <g
+          class="svg-40-a-g"
+          transform="rotate(0) translate(0, -22.5) scale(0.5)"
+        >
+          <circle
+            class="svg-40-a-circle"
+            fill="black"
+            r="45"
+          />
+          <g
+            class="svg-40-a-g svg-40-a-animation-group"
+          >
+            <g
+              class="svg-40-a-g"
+              transform="rotate(0) translate(0, -22.5) scale(0.5)"
+            >
+              <circle
+                class="svg-40-a-circle"
+                fill="white"
+                r="45"
+              />
+            </g>
+            <g
+              class="svg-40-a-g"
+              transform="rotate(180) translate(0, -22.5) scale(0.5)"
+            >
+              <circle
+                class="svg-40-a-circle"
+                fill="white"
+                r="45"
+              />
+            </g>
+          </g>
+        </g>
+        <g
+          class="svg-40-a-g"
+          transform="rotate(180) translate(0, -22.5) scale(0.5)"
+        >
+          <circle
+            class="svg-40-a-circle"
+            fill="black"
+            r="45"
+          />
+          <g
+            class="svg-40-a-g svg-40-a-animation-group"
+          >
+            <g
+              class="svg-40-a-g"
+              transform="rotate(0) translate(0, -22.5) scale(0.5)"
+            >
+              <circle
+                class="svg-40-a-circle"
+                fill="white"
+                r="45"
+              />
+            </g>
+            <g
+              class="svg-40-a-g"
+              transform="rotate(180) translate(0, -22.5) scale(0.5)"
+            >
+              <circle
+                class="svg-40-a-circle"
+                fill="white"
+                r="45"
+              />
+            </g>
+          </g>
+        </g>
+      </g>
+    </g>
+  </g>
+</svg>
