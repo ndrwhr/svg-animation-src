@@ -15,7 +15,8 @@ html {
 }
 
 body {
-  font-family: 'Inconsolata';
+  font-family: 'Inconsolata', 'Courier New', Courier, 'Lucida Sans Typewriter',
+    'Lucida Typewriter', monospace;
   font-size: 2rem;
   color: black;
   background: white;
