@@ -1,0 +1,10 @@
+tasks:
+  - init: yarn install
+    command: yarn run watch
+ports: 
+  - port: 8080
+    onOpen: open-preview
+
+vscode:
+  extensions:
+    - eseom.nunjucks-template@0.2.1:/mR0hTMGkFUiVnTyOmnlCg==
