@@ -1,0 +1,4265 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE svg>
+<svg
+  data-animation-duration="5s"
+  viewBox="-50 -50 100 100"
+>
+  <title>
+    ANIMATION 21 - VARIATION A
+  </title>
+  <desc>
+    <p>See this animation in action here: <a href="https://andrew.wang-hoyer.com/experiments/svg-animations/21/a" target="_blank" rel="noopener">https://andrew.wang-hoyer.com/experiments/svg-animations/21/a</a>.</p>
+    <p>Generator source code : <a href="https://github.com/ndrwhr/svg-animation-src/tree/master/site/_svgs/generators/animations/21/a.js" target="_blank" rel="noopener">https://github.com/ndrwhr/svg-animation-src/tree/master/site/_svgs/generators/animations/21/a.js</a>.</p>
+    <p>All generated files and source code are released under the following license:</p>
+    <p>MIT License</p>
+    <p>Copyright (c) 2018-present Andrew Hoyer</p>
+    <p>Permission is hereby granted, free of charge, to any person obtaining a copy of this software and associated documentation files (the &quot;Software&quot;), to deal in the Software without restriction, including without limitation the rights to use, copy, modify, merge, publish, distribute, sublicense, and/or sell copies of the Software, and to permit persons to whom the Software is furnished to do so, subject to the following conditions:</p>
+    <p>The above copyright notice and this permission notice shall be included in all copies or substantial portions of the Software.</p>
+    <p>THE SOFTWARE IS PROVIDED &quot;AS IS&quot;, WITHOUT WARRANTY OF ANY KIND, EXPRESS OR IMPLIED, INCLUDING BUT NOT LIMITED TO THE WARRANTIES OF MERCHANTABILITY, FITNESS FOR A PARTICULAR PURPOSE AND NONINFRINGEMENT. IN NO EVENT SHALL THE AUTHORS OR COPYRIGHT HOLDERS BE LIABLE FOR ANY CLAIM, DAMAGES OR OTHER LIABILITY, WHETHER IN AN ACTION OF CONTRACT, TORT OR OTHERWISE, ARISING FROM, OUT OF OR IN CONNECTION WITH THE SOFTWARE OR THE USE OR OTHER DEALINGS IN THE SOFTWARE.</p>
+  </desc>
+  <style>
+    /* <![CDATA[ */
+      .svg-21-a-line {
+        stroke: black;
+      }
+      
+      .svg-21-a-segment {
+        animation: 5s ease-in-out infinite alternate;
+      }
+      
+      .svg-21-a-segment--right {
+        transform: rotate(30deg);
+        animation-name: svg-21-a-right-anim;
+      }
+      
+      .svg-21-a-segment--left {
+        transform: rotate(-30deg);
+        animation-name: svg-21-a-left-anim;
+      }
+      
+      @keyframes svg-21-a-right-anim {
+        from {
+          transform: rotate(0);
+        }
+      
+        to {
+          transform: rotate(90deg);
+        }
+      }
+      
+      @keyframes svg-21-a-left-anim {
+        from {
+          transform: rotate(0);
+        }
+      
+        to {
+          transform: rotate(-90deg);
+        }
+      }
+      
+    /* ]]> */
+  </style>
+  <g
+    class="svg-21-a-g svg-21-a-main-parent"
+    transform="rotate(-90) translate(-15.44687588043081, 0)"
+  >
+    <g
+      class="svg-21-a-g svg-21-a-segment svg-21-a-segment--right"
+    >
+      <line
+        class="svg-21-a-line"
+        stroke-width="1"
+        x1="0"
+        x2="14.458124589132288"
+        y1="0"
+        y2="0"
+      />
+      <g
+        class="svg-21-a-g"
+        transform="translate(14.458124589132288, 0)"
+      >
+        <g
+          class="svg-21-a-g svg-21-a-segment svg-21-a-segment--right"
+        >
+          <line
+            class="svg-21-a-line"
+            stroke-width="0.8333333333333334"
+            x1="0"
+            x2="10.223437940215407"
+            y1="0"
+            y2="0"
+          />
+          <g
+            class="svg-21-a-g"
+            transform="translate(10.223437940215407, 0)"
+          >
+            <g
+              class="svg-21-a-g svg-21-a-segment svg-21-a-segment--right"
+            >
+              <line
+                class="svg-21-a-line"
+                stroke-width="0.6944444444444445"
+                x1="0"
+                x2="7.229062294566143"
+                y1="0"
+                y2="0"
+              />
+              <g
+                class="svg-21-a-g"
+                transform="translate(7.229062294566143, 0)"
+              >
+                <g
+                  class="svg-21-a-g svg-21-a-segment svg-21-a-segment--right"
+                >
+                  <line
+                    class="svg-21-a-line"
+                    stroke-width="0.5787037037037038"
+                    x1="0"
+                    x2="5.111718970107702"
+                    y1="0"
+                    y2="0"
+                  />
+                  <g
+                    class="svg-21-a-g"
+                    transform="translate(5.111718970107702, 0)"
+                  >
+                    <g
+                      class="svg-21-a-g svg-21-a-segment svg-21-a-segment--right"
+                    >
+                      <line
+                        class="svg-21-a-line"
+                        stroke-width="0.48225308641975323"
+                        x1="0"
+                        x2="3.614531147283071"
+                        y1="0"
+                        y2="0"
+                      />
+                      <g
+                        class="svg-21-a-g"
+                        transform="translate(3.614531147283071, 0)"
+                      >
+                        <g
+                          class="svg-21-a-g svg-21-a-segment svg-21-a-segment--right"
+                        >
+                          <line
+                            class="svg-21-a-line"
+                            stroke-width="0.401877572016461"
+                            x1="0"
+                            x2="2.5558594850538507"
+                            y1="0"
+                            y2="0"
+                          />
+                          <g
+                            class="svg-21-a-g"
+                            transform="translate(2.5558594850538507, 0)"
+                          >
+                            <g
+                              class="svg-21-a-g svg-21-a-segment svg-21-a-segment--right"
+                            >
+                              <line
+                                class="svg-21-a-line"
+                                stroke-width="0.3348979766803842"
+                                x1="0"
+                                x2="1.807265573641535"
+                                y1="0"
+                                y2="0"
+                              />
+                              <g
+                                class="svg-21-a-g"
+                                transform="translate(1.807265573641535, 0)"
+                              />
+                            </g>
+                            <g
+                              class="svg-21-a-g svg-21-a-segment svg-21-a-segment--left"
+                            >
+                              <line
+                                class="svg-21-a-line"
+                                stroke-width="0.3348979766803842"
+                                x1="0"
+                                x2="1.807265573641535"
+                                y1="0"
+                                y2="0"
+                              />
+                              <g
+                                class="svg-21-a-g"
+                                transform="translate(1.807265573641535, 0)"
+                              />
+                            </g>
+                          </g>
+                        </g>
+                        <g
+                          class="svg-21-a-g svg-21-a-segment svg-21-a-segment--left"
+                        >
+                          <line
+                            class="svg-21-a-line"
+                            stroke-width="0.401877572016461"
+                            x1="0"
+                            x2="2.5558594850538507"
+                            y1="0"
+                            y2="0"
+                          />
+                          <g
+                            class="svg-21-a-g"
+                            transform="translate(2.5558594850538507, 0)"
+                          >
+                            <g
+                              class="svg-21-a-g svg-21-a-segment svg-21-a-segment--right"
+                            >
+                              <line
+                                class="svg-21-a-line"
+                                stroke-width="0.3348979766803842"
+                                x1="0"
+                                x2="1.807265573641535"
+                                y1="0"
+                                y2="0"
+                              />
+                              <g
+                                class="svg-21-a-g"
+                                transform="translate(1.807265573641535, 0)"
+                              />
+                            </g>
+                            <g
+                              class="svg-21-a-g svg-21-a-segment svg-21-a-segment--left"
+                            >
+                              <line
+                                class="svg-21-a-line"
+                                stroke-width="0.3348979766803842"
+                                x1="0"
+                                x2="1.807265573641535"
+                                y1="0"
+                                y2="0"
+                              />
+                              <g
+                                class="svg-21-a-g"
+                                transform="translate(1.807265573641535, 0)"
+                              />
+                            </g>
+                          </g>
+                        </g>
+                      </g>
+                    </g>
+                    <g
+                      class="svg-21-a-g svg-21-a-segment svg-21-a-segment--left"
+                    >
+                      <line
+                        class="svg-21-a-line"
+                        stroke-width="0.48225308641975323"
+                        x1="0"
+                        x2="3.614531147283071"
+                        y1="0"
+                        y2="0"
+                      />
+                      <g
+                        class="svg-21-a-g"
+                        transform="translate(3.614531147283071, 0)"
+                      >
+                        <g
+                          class="svg-21-a-g svg-21-a-segment svg-21-a-segment--right"
+                        >
+                          <line
+                            class="svg-21-a-line"
+                            stroke-width="0.401877572016461"
+                            x1="0"
+                            x2="2.5558594850538507"
+                            y1="0"
+                            y2="0"
+                          />
+                          <g
+                            class="svg-21-a-g"
+                            transform="translate(2.5558594850538507, 0)"
+                          >
+                            <g
+                              class="svg-21-a-g svg-21-a-segment svg-21-a-segment--right"
+                            >
+                              <line
+                                class="svg-21-a-line"
+                                stroke-width="0.3348979766803842"
+                                x1="0"
+                                x2="1.807265573641535"
+                                y1="0"
+                                y2="0"
+                              />
+                              <g
+                                class="svg-21-a-g"
+                                transform="translate(1.807265573641535, 0)"
+                              />
+                            </g>
+                            <g
+                              class="svg-21-a-g svg-21-a-segment svg-21-a-segment--left"
+                            >
+                              <line
+                                class="svg-21-a-line"
+                                stroke-width="0.3348979766803842"
+                                x1="0"
+                                x2="1.807265573641535"
+                                y1="0"
+                                y2="0"
+                              />
+                              <g
+                                class="svg-21-a-g"
+                                transform="translate(1.807265573641535, 0)"
+                              />
+                            </g>
+                          </g>
+                        </g>
+                        <g
+                          class="svg-21-a-g svg-21-a-segment svg-21-a-segment--left"
+                        >
+                          <line
+                            class="svg-21-a-line"
+                            stroke-width="0.401877572016461"
+                            x1="0"
+                            x2="2.5558594850538507"
+                            y1="0"
+                            y2="0"
+                          />
+                          <g
+                            class="svg-21-a-g"
+                            transform="translate(2.5558594850538507, 0)"
+                          >
+                            <g
+                              class="svg-21-a-g svg-21-a-segment svg-21-a-segment--right"
+                            >
+                              <line
+                                class="svg-21-a-line"
+                                stroke-width="0.3348979766803842"
+                                x1="0"
+                                x2="1.807265573641535"
+                                y1="0"
+                                y2="0"
+                              />
+                              <g
+                                class="svg-21-a-g"
+                                transform="translate(1.807265573641535, 0)"
+                              />
+                            </g>
+                            <g
+                              class="svg-21-a-g svg-21-a-segment svg-21-a-segment--left"
+                            >
+                              <line
+                                class="svg-21-a-line"
+                                stroke-width="0.3348979766803842"
+                                x1="0"
+                                x2="1.807265573641535"
+                                y1="0"
+                                y2="0"
+                              />
+                              <g
+                                class="svg-21-a-g"
+                                transform="translate(1.807265573641535, 0)"
+                              />
+                            </g>
+                          </g>
+                        </g>
+                      </g>
+                    </g>
+                  </g>
+                </g>
+                <g
+                  class="svg-21-a-g svg-21-a-segment svg-21-a-segment--left"
+                >
+                  <line
+                    class="svg-21-a-line"
+                    stroke-width="0.5787037037037038"
+                    x1="0"
+                    x2="5.111718970107702"
+                    y1="0"
+                    y2="0"
+                  />
+                  <g
+                    class="svg-21-a-g"
+                    transform="translate(5.111718970107702, 0)"
+                  >
+                    <g
+                      class="svg-21-a-g svg-21-a-segment svg-21-a-segment--right"
+                    >
+                      <line
+                        class="svg-21-a-line"
+                        stroke-width="0.48225308641975323"
+                        x1="0"
+                        x2="3.614531147283071"
+                        y1="0"
+                        y2="0"
+                      />
+                      <g
+                        class="svg-21-a-g"
+                        transform="translate(3.614531147283071, 0)"
+                      >
+                        <g
+                          class="svg-21-a-g svg-21-a-segment svg-21-a-segment--right"
+                        >
+                          <line
+                            class="svg-21-a-line"
+                            stroke-width="0.401877572016461"
+                            x1="0"
+                            x2="2.5558594850538507"
+                            y1="0"
+                            y2="0"
+                          />
+                          <g
+                            class="svg-21-a-g"
+                            transform="translate(2.5558594850538507, 0)"
+                          >
+                            <g
+                              class="svg-21-a-g svg-21-a-segment svg-21-a-segment--right"
+                            >
+                              <line
+                                class="svg-21-a-line"
+                                stroke-width="0.3348979766803842"
+                                x1="0"
+                                x2="1.807265573641535"
+                                y1="0"
+                                y2="0"
+                              />
+                              <g
+                                class="svg-21-a-g"
+                                transform="translate(1.807265573641535, 0)"
+                              />
+                            </g>
+                            <g
+                              class="svg-21-a-g svg-21-a-segment svg-21-a-segment--left"
+                            >
+                              <line
+                                class="svg-21-a-line"
+                                stroke-width="0.3348979766803842"
+                                x1="0"
+                                x2="1.807265573641535"
+                                y1="0"
+                                y2="0"
+                              />
+                              <g
+                                class="svg-21-a-g"
+                                transform="translate(1.807265573641535, 0)"
+                              />
+                            </g>
+                          </g>
+                        </g>
+                        <g
+                          class="svg-21-a-g svg-21-a-segment svg-21-a-segment--left"
+                        >
+                          <line
+                            class="svg-21-a-line"
+                            stroke-width="0.401877572016461"
+                            x1="0"
+                            x2="2.5558594850538507"
+                            y1="0"
+                            y2="0"
+                          />
+                          <g
+                            class="svg-21-a-g"
+                            transform="translate(2.5558594850538507, 0)"
+                          >
+                            <g
+                              class="svg-21-a-g svg-21-a-segment svg-21-a-segment--right"
+                            >
+                              <line
+                                class="svg-21-a-line"
+                                stroke-width="0.3348979766803842"
+                                x1="0"
+                                x2="1.807265573641535"
+                                y1="0"
+                                y2="0"
+                              />
+                              <g
+                                class="svg-21-a-g"
+                                transform="translate(1.807265573641535, 0)"
+                              />
+                            </g>
+                            <g
+                              class="svg-21-a-g svg-21-a-segment svg-21-a-segment--left"
+                            >
+                              <line
+                                class="svg-21-a-line"
+                                stroke-width="0.3348979766803842"
+                                x1="0"
+                                x2="1.807265573641535"
+                                y1="0"
+                                y2="0"
+                              />
+                              <g
+                                class="svg-21-a-g"
+                                transform="translate(1.807265573641535, 0)"
+                              />
+                            </g>
+                          </g>
+                        </g>
+                      </g>
+                    </g>
+                    <g
+                      class="svg-21-a-g svg-21-a-segment svg-21-a-segment--left"
+                    >
+                      <line
+                        class="svg-21-a-line"
+                        stroke-width="0.48225308641975323"
+                        x1="0"
+                        x2="3.614531147283071"
+                        y1="0"
+                        y2="0"
+                      />
+                      <g
+                        class="svg-21-a-g"
+                        transform="translate(3.614531147283071, 0)"
+                      >
+                        <g
+                          class="svg-21-a-g svg-21-a-segment svg-21-a-segment--right"
+                        >
+                          <line
+                            class="svg-21-a-line"
+                            stroke-width="0.401877572016461"
+                            x1="0"
+                            x2="2.5558594850538507"
+                            y1="0"
+                            y2="0"
+                          />
+                          <g
+                            class="svg-21-a-g"
+                            transform="translate(2.5558594850538507, 0)"
+                          >
+                            <g
+                              class="svg-21-a-g svg-21-a-segment svg-21-a-segment--right"
+                            >
+                              <line
+                                class="svg-21-a-line"
+                                stroke-width="0.3348979766803842"
+                                x1="0"
+                                x2="1.807265573641535"
+                                y1="0"
+                                y2="0"
+                              />
+                              <g
+                                class="svg-21-a-g"
+                                transform="translate(1.807265573641535, 0)"
+                              />
+                            </g>
+                            <g
+                              class="svg-21-a-g svg-21-a-segment svg-21-a-segment--left"
+                            >
+                              <line
+                                class="svg-21-a-line"
+                                stroke-width="0.3348979766803842"
+                                x1="0"
+                                x2="1.807265573641535"
+                                y1="0"
+                                y2="0"
+                              />
+                              <g
+                                class="svg-21-a-g"
+                                transform="translate(1.807265573641535, 0)"
+                              />
+                            </g>
+                          </g>
+                        </g>
+                        <g
+                          class="svg-21-a-g svg-21-a-segment svg-21-a-segment--left"
+                        >
+                          <line
+                            class="svg-21-a-line"
+                            stroke-width="0.401877572016461"
+                            x1="0"
+                            x2="2.5558594850538507"
+                            y1="0"
+                            y2="0"
+                          />
+                          <g
+                            class="svg-21-a-g"
+                            transform="translate(2.5558594850538507, 0)"
+                          >
+                            <g
+                              class="svg-21-a-g svg-21-a-segment svg-21-a-segment--right"
+                            >
+                              <line
+                                class="svg-21-a-line"
+                                stroke-width="0.3348979766803842"
+                                x1="0"
+                                x2="1.807265573641535"
+                                y1="0"
+                                y2="0"
+                              />
+                              <g
+                                class="svg-21-a-g"
+                                transform="translate(1.807265573641535, 0)"
+                              />
+                            </g>
+                            <g
+                              class="svg-21-a-g svg-21-a-segment svg-21-a-segment--left"
+                            >
+                              <line
+                                class="svg-21-a-line"
+                                stroke-width="0.3348979766803842"
+                                x1="0"
+                                x2="1.807265573641535"
+                                y1="0"
+                                y2="0"
+                              />
+                              <g
+                                class="svg-21-a-g"
+                                transform="translate(1.807265573641535, 0)"
+                              />
+                            </g>
+                          </g>
+                        </g>
+                      </g>
+                    </g>
+                  </g>
+                </g>
+              </g>
+            </g>
+            <g
+              class="svg-21-a-g svg-21-a-segment svg-21-a-segment--left"
+            >
+              <line
+                class="svg-21-a-line"
+                stroke-width="0.6944444444444445"
+                x1="0"
+                x2="7.229062294566143"
+                y1="0"
+                y2="0"
+              />
+              <g
+                class="svg-21-a-g"
+                transform="translate(7.229062294566143, 0)"
+              >
+                <g
+                  class="svg-21-a-g svg-21-a-segment svg-21-a-segment--right"
+                >
+                  <line
+                    class="svg-21-a-line"
+                    stroke-width="0.5787037037037038"
+                    x1="0"
+                    x2="5.111718970107702"
+                    y1="0"
+                    y2="0"
+                  />
+                  <g
+                    class="svg-21-a-g"
+                    transform="translate(5.111718970107702, 0)"
+                  >
+                    <g
+                      class="svg-21-a-g svg-21-a-segment svg-21-a-segment--right"
+                    >
+                      <line
+                        class="svg-21-a-line"
+                        stroke-width="0.48225308641975323"
+                        x1="0"
+                        x2="3.614531147283071"
+                        y1="0"
+                        y2="0"
+                      />
+                      <g
+                        class="svg-21-a-g"
+                        transform="translate(3.614531147283071, 0)"
+                      >
+                        <g
+                          class="svg-21-a-g svg-21-a-segment svg-21-a-segment--right"
+                        >
+                          <line
+                            class="svg-21-a-line"
+                            stroke-width="0.401877572016461"
+                            x1="0"
+                            x2="2.5558594850538507"
+                            y1="0"
+                            y2="0"
+                          />
+                          <g
+                            class="svg-21-a-g"
+                            transform="translate(2.5558594850538507, 0)"
+                          >
+                            <g
+                              class="svg-21-a-g svg-21-a-segment svg-21-a-segment--right"
+                            >
+                              <line
+                                class="svg-21-a-line"
+                                stroke-width="0.3348979766803842"
+                                x1="0"
+                                x2="1.807265573641535"
+                                y1="0"
+                                y2="0"
+                              />
+                              <g
+                                class="svg-21-a-g"
+                                transform="translate(1.807265573641535, 0)"
+                              />
+                            </g>
+                            <g
+                              class="svg-21-a-g svg-21-a-segment svg-21-a-segment--left"
+                            >
+                              <line
+                                class="svg-21-a-line"
+                                stroke-width="0.3348979766803842"
+                                x1="0"
+                                x2="1.807265573641535"
+                                y1="0"
+                                y2="0"
+                              />
+                              <g
+                                class="svg-21-a-g"
+                                transform="translate(1.807265573641535, 0)"
+                              />
+                            </g>
+                          </g>
+                        </g>
+                        <g
+                          class="svg-21-a-g svg-21-a-segment svg-21-a-segment--left"
+                        >
+                          <line
+                            class="svg-21-a-line"
+                            stroke-width="0.401877572016461"
+                            x1="0"
+                            x2="2.5558594850538507"
+                            y1="0"
+                            y2="0"
+                          />
+                          <g
+                            class="svg-21-a-g"
+                            transform="translate(2.5558594850538507, 0)"
+                          >
+                            <g
+                              class="svg-21-a-g svg-21-a-segment svg-21-a-segment--right"
+                            >
+                              <line
+                                class="svg-21-a-line"
+                                stroke-width="0.3348979766803842"
+                                x1="0"
+                                x2="1.807265573641535"
+                                y1="0"
+                                y2="0"
+                              />
+                              <g
+                                class="svg-21-a-g"
+                                transform="translate(1.807265573641535, 0)"
+                              />
+                            </g>
+                            <g
+                              class="svg-21-a-g svg-21-a-segment svg-21-a-segment--left"
+                            >
+                              <line
+                                class="svg-21-a-line"
+                                stroke-width="0.3348979766803842"
+                                x1="0"
+                                x2="1.807265573641535"
+                                y1="0"
+                                y2="0"
+                              />
+                              <g
+                                class="svg-21-a-g"
+                                transform="translate(1.807265573641535, 0)"
+                              />
+                            </g>
+                          </g>
+                        </g>
+                      </g>
+                    </g>
+                    <g
+                      class="svg-21-a-g svg-21-a-segment svg-21-a-segment--left"
+                    >
+                      <line
+                        class="svg-21-a-line"
+                        stroke-width="0.48225308641975323"
+                        x1="0"
+                        x2="3.614531147283071"
+                        y1="0"
+                        y2="0"
+                      />
+                      <g
+                        class="svg-21-a-g"
+                        transform="translate(3.614531147283071, 0)"
+                      >
+                        <g
+                          class="svg-21-a-g svg-21-a-segment svg-21-a-segment--right"
+                        >
+                          <line
+                            class="svg-21-a-line"
+                            stroke-width="0.401877572016461"
+                            x1="0"
+                            x2="2.5558594850538507"
+                            y1="0"
+                            y2="0"
+                          />
+                          <g
+                            class="svg-21-a-g"
+                            transform="translate(2.5558594850538507, 0)"
+                          >
+                            <g
+                              class="svg-21-a-g svg-21-a-segment svg-21-a-segment--right"
+                            >
+                              <line
+                                class="svg-21-a-line"
+                                stroke-width="0.3348979766803842"
+                                x1="0"
+                                x2="1.807265573641535"
+                                y1="0"
+                                y2="0"
+                              />
+                              <g
+                                class="svg-21-a-g"
+                                transform="translate(1.807265573641535, 0)"
+                              />
+                            </g>
+                            <g
+                              class="svg-21-a-g svg-21-a-segment svg-21-a-segment--left"
+                            >
+                              <line
+                                class="svg-21-a-line"
+                                stroke-width="0.3348979766803842"
+                                x1="0"
+                                x2="1.807265573641535"
+                                y1="0"
+                                y2="0"
+                              />
+                              <g
+                                class="svg-21-a-g"
+                                transform="translate(1.807265573641535, 0)"
+                              />
+                            </g>
+                          </g>
+                        </g>
+                        <g
+                          class="svg-21-a-g svg-21-a-segment svg-21-a-segment--left"
+                        >
+                          <line
+                            class="svg-21-a-line"
+                            stroke-width="0.401877572016461"
+                            x1="0"
+                            x2="2.5558594850538507"
+                            y1="0"
+                            y2="0"
+                          />
+                          <g
+                            class="svg-21-a-g"
+                            transform="translate(2.5558594850538507, 0)"
+                          >
+                            <g
+                              class="svg-21-a-g svg-21-a-segment svg-21-a-segment--right"
+                            >
+                              <line
+                                class="svg-21-a-line"
+                                stroke-width="0.3348979766803842"
+                                x1="0"
+                                x2="1.807265573641535"
+                                y1="0"
+                                y2="0"
+                              />
+                              <g
+                                class="svg-21-a-g"
+                                transform="translate(1.807265573641535, 0)"
+                              />
+                            </g>
+                            <g
+                              class="svg-21-a-g svg-21-a-segment svg-21-a-segment--left"
+                            >
+                              <line
+                                class="svg-21-a-line"
+                                stroke-width="0.3348979766803842"
+                                x1="0"
+                                x2="1.807265573641535"
+                                y1="0"
+                                y2="0"
+                              />
+                              <g
+                                class="svg-21-a-g"
+                                transform="translate(1.807265573641535, 0)"
+                              />
+                            </g>
+                          </g>
+                        </g>
+                      </g>
+                    </g>
+                  </g>
+                </g>
+                <g
+                  class="svg-21-a-g svg-21-a-segment svg-21-a-segment--left"
+                >
+                  <line
+                    class="svg-21-a-line"
+                    stroke-width="0.5787037037037038"
+                    x1="0"
+                    x2="5.111718970107702"
+                    y1="0"
+                    y2="0"
+                  />
+                  <g
+                    class="svg-21-a-g"
+                    transform="translate(5.111718970107702, 0)"
+                  >
+                    <g
+                      class="svg-21-a-g svg-21-a-segment svg-21-a-segment--right"
+                    >
+                      <line
+                        class="svg-21-a-line"
+                        stroke-width="0.48225308641975323"
+                        x1="0"
+                        x2="3.614531147283071"
+                        y1="0"
+                        y2="0"
+                      />
+                      <g
+                        class="svg-21-a-g"
+                        transform="translate(3.614531147283071, 0)"
+                      >
+                        <g
+                          class="svg-21-a-g svg-21-a-segment svg-21-a-segment--right"
+                        >
+                          <line
+                            class="svg-21-a-line"
+                            stroke-width="0.401877572016461"
+                            x1="0"
+                            x2="2.5558594850538507"
+                            y1="0"
+                            y2="0"
+                          />
+                          <g
+                            class="svg-21-a-g"
+                            transform="translate(2.5558594850538507, 0)"
+                          >
+                            <g
+                              class="svg-21-a-g svg-21-a-segment svg-21-a-segment--right"
+                            >
+                              <line
+                                class="svg-21-a-line"
+                                stroke-width="0.3348979766803842"
+                                x1="0"
+                                x2="1.807265573641535"
+                                y1="0"
+                                y2="0"
+                              />
+                              <g
+                                class="svg-21-a-g"
+                                transform="translate(1.807265573641535, 0)"
+                              />
+                            </g>
+                            <g
+                              class="svg-21-a-g svg-21-a-segment svg-21-a-segment--left"
+                            >
+                              <line
+                                class="svg-21-a-line"
+                                stroke-width="0.3348979766803842"
+                                x1="0"
+                                x2="1.807265573641535"
+                                y1="0"
+                                y2="0"
+                              />
+                              <g
+                                class="svg-21-a-g"
+                                transform="translate(1.807265573641535, 0)"
+                              />
+                            </g>
+                          </g>
+                        </g>
+                        <g
+                          class="svg-21-a-g svg-21-a-segment svg-21-a-segment--left"
+                        >
+                          <line
+                            class="svg-21-a-line"
+                            stroke-width="0.401877572016461"
+                            x1="0"
+                            x2="2.5558594850538507"
+                            y1="0"
+                            y2="0"
+                          />
+                          <g
+                            class="svg-21-a-g"
+                            transform="translate(2.5558594850538507, 0)"
+                          >
+                            <g
+                              class="svg-21-a-g svg-21-a-segment svg-21-a-segment--right"
+                            >
+                              <line
+                                class="svg-21-a-line"
+                                stroke-width="0.3348979766803842"
+                                x1="0"
+                                x2="1.807265573641535"
+                                y1="0"
+                                y2="0"
+                              />
+                              <g
+                                class="svg-21-a-g"
+                                transform="translate(1.807265573641535, 0)"
+                              />
+                            </g>
+                            <g
+                              class="svg-21-a-g svg-21-a-segment svg-21-a-segment--left"
+                            >
+                              <line
+                                class="svg-21-a-line"
+                                stroke-width="0.3348979766803842"
+                                x1="0"
+                                x2="1.807265573641535"
+                                y1="0"
+                                y2="0"
+                              />
+                              <g
+                                class="svg-21-a-g"
+                                transform="translate(1.807265573641535, 0)"
+                              />
+                            </g>
+                          </g>
+                        </g>
+                      </g>
+                    </g>
+                    <g
+                      class="svg-21-a-g svg-21-a-segment svg-21-a-segment--left"
+                    >
+                      <line
+                        class="svg-21-a-line"
+                        stroke-width="0.48225308641975323"
+                        x1="0"
+                        x2="3.614531147283071"
+                        y1="0"
+                        y2="0"
+                      />
+                      <g
+                        class="svg-21-a-g"
+                        transform="translate(3.614531147283071, 0)"
+                      >
+                        <g
+                          class="svg-21-a-g svg-21-a-segment svg-21-a-segment--right"
+                        >
+                          <line
+                            class="svg-21-a-line"
+                            stroke-width="0.401877572016461"
+                            x1="0"
+                            x2="2.5558594850538507"
+                            y1="0"
+                            y2="0"
+                          />
+                          <g
+                            class="svg-21-a-g"
+                            transform="translate(2.5558594850538507, 0)"
+                          >
+                            <g
+                              class="svg-21-a-g svg-21-a-segment svg-21-a-segment--right"
+                            >
+                              <line
+                                class="svg-21-a-line"
+                                stroke-width="0.3348979766803842"
+                                x1="0"
+                                x2="1.807265573641535"
+                                y1="0"
+                                y2="0"
+                              />
+                              <g
+                                class="svg-21-a-g"
+                                transform="translate(1.807265573641535, 0)"
+                              />
+                            </g>
+                            <g
+                              class="svg-21-a-g svg-21-a-segment svg-21-a-segment--left"
+                            >
+                              <line
+                                class="svg-21-a-line"
+                                stroke-width="0.3348979766803842"
+                                x1="0"
+                                x2="1.807265573641535"
+                                y1="0"
+                                y2="0"
+                              />
+                              <g
+                                class="svg-21-a-g"
+                                transform="translate(1.807265573641535, 0)"
+                              />
+                            </g>
+                          </g>
+                        </g>
+                        <g
+                          class="svg-21-a-g svg-21-a-segment svg-21-a-segment--left"
+                        >
+                          <line
+                            class="svg-21-a-line"
+                            stroke-width="0.401877572016461"
+                            x1="0"
+                            x2="2.5558594850538507"
+                            y1="0"
+                            y2="0"
+                          />
+                          <g
+                            class="svg-21-a-g"
+                            transform="translate(2.5558594850538507, 0)"
+                          >
+                            <g
+                              class="svg-21-a-g svg-21-a-segment svg-21-a-segment--right"
+                            >
+                              <line
+                                class="svg-21-a-line"
+                                stroke-width="0.3348979766803842"
+                                x1="0"
+                                x2="1.807265573641535"
+                                y1="0"
+                                y2="0"
+                              />
+                              <g
+                                class="svg-21-a-g"
+                                transform="translate(1.807265573641535, 0)"
+                              />
+                            </g>
+                            <g
+                              class="svg-21-a-g svg-21-a-segment svg-21-a-segment--left"
+                            >
+                              <line
+                                class="svg-21-a-line"
+                                stroke-width="0.3348979766803842"
+                                x1="0"
+                                x2="1.807265573641535"
+                                y1="0"
+                                y2="0"
+                              />
+                              <g
+                                class="svg-21-a-g"
+                                transform="translate(1.807265573641535, 0)"
+                              />
+                            </g>
+                          </g>
+                        </g>
+                      </g>
+                    </g>
+                  </g>
+                </g>
+              </g>
+            </g>
+          </g>
+        </g>
+        <g
+          class="svg-21-a-g svg-21-a-segment svg-21-a-segment--left"
+        >
+          <line
+            class="svg-21-a-line"
+            stroke-width="0.8333333333333334"
+            x1="0"
+            x2="10.223437940215407"
+            y1="0"
+            y2="0"
+          />
+          <g
+            class="svg-21-a-g"
+            transform="translate(10.223437940215407, 0)"
+          >
+            <g
+              class="svg-21-a-g svg-21-a-segment svg-21-a-segment--right"
+            >
+              <line
+                class="svg-21-a-line"
+                stroke-width="0.6944444444444445"
+                x1="0"
+                x2="7.229062294566143"
+                y1="0"
+                y2="0"
+              />
+              <g
+                class="svg-21-a-g"
+                transform="translate(7.229062294566143, 0)"
+              >
+                <g
+                  class="svg-21-a-g svg-21-a-segment svg-21-a-segment--right"
+                >
+                  <line
+                    class="svg-21-a-line"
+                    stroke-width="0.5787037037037038"
+                    x1="0"
+                    x2="5.111718970107702"
+                    y1="0"
+                    y2="0"
+                  />
+                  <g
+                    class="svg-21-a-g"
+                    transform="translate(5.111718970107702, 0)"
+                  >
+                    <g
+                      class="svg-21-a-g svg-21-a-segment svg-21-a-segment--right"
+                    >
+                      <line
+                        class="svg-21-a-line"
+                        stroke-width="0.48225308641975323"
+                        x1="0"
+                        x2="3.614531147283071"
+                        y1="0"
+                        y2="0"
+                      />
+                      <g
+                        class="svg-21-a-g"
+                        transform="translate(3.614531147283071, 0)"
+                      >
+                        <g
+                          class="svg-21-a-g svg-21-a-segment svg-21-a-segment--right"
+                        >
+                          <line
+                            class="svg-21-a-line"
+                            stroke-width="0.401877572016461"
+                            x1="0"
+                            x2="2.5558594850538507"
+                            y1="0"
+                            y2="0"
+                          />
+                          <g
+                            class="svg-21-a-g"
+                            transform="translate(2.5558594850538507, 0)"
+                          >
+                            <g
+                              class="svg-21-a-g svg-21-a-segment svg-21-a-segment--right"
+                            >
+                              <line
+                                class="svg-21-a-line"
+                                stroke-width="0.3348979766803842"
+                                x1="0"
+                                x2="1.807265573641535"
+                                y1="0"
+                                y2="0"
+                              />
+                              <g
+                                class="svg-21-a-g"
+                                transform="translate(1.807265573641535, 0)"
+                              />
+                            </g>
+                            <g
+                              class="svg-21-a-g svg-21-a-segment svg-21-a-segment--left"
+                            >
+                              <line
+                                class="svg-21-a-line"
+                                stroke-width="0.3348979766803842"
+                                x1="0"
+                                x2="1.807265573641535"
+                                y1="0"
+                                y2="0"
+                              />
+                              <g
+                                class="svg-21-a-g"
+                                transform="translate(1.807265573641535, 0)"
+                              />
+                            </g>
+                          </g>
+                        </g>
+                        <g
+                          class="svg-21-a-g svg-21-a-segment svg-21-a-segment--left"
+                        >
+                          <line
+                            class="svg-21-a-line"
+                            stroke-width="0.401877572016461"
+                            x1="0"
+                            x2="2.5558594850538507"
+                            y1="0"
+                            y2="0"
+                          />
+                          <g
+                            class="svg-21-a-g"
+                            transform="translate(2.5558594850538507, 0)"
+                          >
+                            <g
+                              class="svg-21-a-g svg-21-a-segment svg-21-a-segment--right"
+                            >
+                              <line
+                                class="svg-21-a-line"
+                                stroke-width="0.3348979766803842"
+                                x1="0"
+                                x2="1.807265573641535"
+                                y1="0"
+                                y2="0"
+                              />
+                              <g
+                                class="svg-21-a-g"
+                                transform="translate(1.807265573641535, 0)"
+                              />
+                            </g>
+                            <g
+                              class="svg-21-a-g svg-21-a-segment svg-21-a-segment--left"
+                            >
+                              <line
+                                class="svg-21-a-line"
+                                stroke-width="0.3348979766803842"
+                                x1="0"
+                                x2="1.807265573641535"
+                                y1="0"
+                                y2="0"
+                              />
+                              <g
+                                class="svg-21-a-g"
+                                transform="translate(1.807265573641535, 0)"
+                              />
+                            </g>
+                          </g>
+                        </g>
+                      </g>
+                    </g>
+                    <g
+                      class="svg-21-a-g svg-21-a-segment svg-21-a-segment--left"
+                    >
+                      <line
+                        class="svg-21-a-line"
+                        stroke-width="0.48225308641975323"
+                        x1="0"
+                        x2="3.614531147283071"
+                        y1="0"
+                        y2="0"
+                      />
+                      <g
+                        class="svg-21-a-g"
+                        transform="translate(3.614531147283071, 0)"
+                      >
+                        <g
+                          class="svg-21-a-g svg-21-a-segment svg-21-a-segment--right"
+                        >
+                          <line
+                            class="svg-21-a-line"
+                            stroke-width="0.401877572016461"
+                            x1="0"
+                            x2="2.5558594850538507"
+                            y1="0"
+                            y2="0"
+                          />
+                          <g
+                            class="svg-21-a-g"
+                            transform="translate(2.5558594850538507, 0)"
+                          >
+                            <g
+                              class="svg-21-a-g svg-21-a-segment svg-21-a-segment--right"
+                            >
+                              <line
+                                class="svg-21-a-line"
+                                stroke-width="0.3348979766803842"
+                                x1="0"
+                                x2="1.807265573641535"
+                                y1="0"
+                                y2="0"
+                              />
+                              <g
+                                class="svg-21-a-g"
+                                transform="translate(1.807265573641535, 0)"
+                              />
+                            </g>
+                            <g
+                              class="svg-21-a-g svg-21-a-segment svg-21-a-segment--left"
+                            >
+                              <line
+                                class="svg-21-a-line"
+                                stroke-width="0.3348979766803842"
+                                x1="0"
+                                x2="1.807265573641535"
+                                y1="0"
+                                y2="0"
+                              />
+                              <g
+                                class="svg-21-a-g"
+                                transform="translate(1.807265573641535, 0)"
+                              />
+                            </g>
+                          </g>
+                        </g>
+                        <g
+                          class="svg-21-a-g svg-21-a-segment svg-21-a-segment--left"
+                        >
+                          <line
+                            class="svg-21-a-line"
+                            stroke-width="0.401877572016461"
+                            x1="0"
+                            x2="2.5558594850538507"
+                            y1="0"
+                            y2="0"
+                          />
+                          <g
+                            class="svg-21-a-g"
+                            transform="translate(2.5558594850538507, 0)"
+                          >
+                            <g
+                              class="svg-21-a-g svg-21-a-segment svg-21-a-segment--right"
+                            >
+                              <line
+                                class="svg-21-a-line"
+                                stroke-width="0.3348979766803842"
+                                x1="0"
+                                x2="1.807265573641535"
+                                y1="0"
+                                y2="0"
+                              />
+                              <g
+                                class="svg-21-a-g"
+                                transform="translate(1.807265573641535, 0)"
+                              />
+                            </g>
+                            <g
+                              class="svg-21-a-g svg-21-a-segment svg-21-a-segment--left"
+                            >
+                              <line
+                                class="svg-21-a-line"
+                                stroke-width="0.3348979766803842"
+                                x1="0"
+                                x2="1.807265573641535"
+                                y1="0"
+                                y2="0"
+                              />
+                              <g
+                                class="svg-21-a-g"
+                                transform="translate(1.807265573641535, 0)"
+                              />
+                            </g>
+                          </g>
+                        </g>
+                      </g>
+                    </g>
+                  </g>
+                </g>
+                <g
+                  class="svg-21-a-g svg-21-a-segment svg-21-a-segment--left"
+                >
+                  <line
+                    class="svg-21-a-line"
+                    stroke-width="0.5787037037037038"
+                    x1="0"
+                    x2="5.111718970107702"
+                    y1="0"
+                    y2="0"
+                  />
+                  <g
+                    class="svg-21-a-g"
+                    transform="translate(5.111718970107702, 0)"
+                  >
+                    <g
+                      class="svg-21-a-g svg-21-a-segment svg-21-a-segment--right"
+                    >
+                      <line
+                        class="svg-21-a-line"
+                        stroke-width="0.48225308641975323"
+                        x1="0"
+                        x2="3.614531147283071"
+                        y1="0"
+                        y2="0"
+                      />
+                      <g
+                        class="svg-21-a-g"
+                        transform="translate(3.614531147283071, 0)"
+                      >
+                        <g
+                          class="svg-21-a-g svg-21-a-segment svg-21-a-segment--right"
+                        >
+                          <line
+                            class="svg-21-a-line"
+                            stroke-width="0.401877572016461"
+                            x1="0"
+                            x2="2.5558594850538507"
+                            y1="0"
+                            y2="0"
+                          />
+                          <g
+                            class="svg-21-a-g"
+                            transform="translate(2.5558594850538507, 0)"
+                          >
+                            <g
+                              class="svg-21-a-g svg-21-a-segment svg-21-a-segment--right"
+                            >
+                              <line
+                                class="svg-21-a-line"
+                                stroke-width="0.3348979766803842"
+                                x1="0"
+                                x2="1.807265573641535"
+                                y1="0"
+                                y2="0"
+                              />
+                              <g
+                                class="svg-21-a-g"
+                                transform="translate(1.807265573641535, 0)"
+                              />
+                            </g>
+                            <g
+                              class="svg-21-a-g svg-21-a-segment svg-21-a-segment--left"
+                            >
+                              <line
+                                class="svg-21-a-line"
+                                stroke-width="0.3348979766803842"
+                                x1="0"
+                                x2="1.807265573641535"
+                                y1="0"
+                                y2="0"
+                              />
+                              <g
+                                class="svg-21-a-g"
+                                transform="translate(1.807265573641535, 0)"
+                              />
+                            </g>
+                          </g>
+                        </g>
+                        <g
+                          class="svg-21-a-g svg-21-a-segment svg-21-a-segment--left"
+                        >
+                          <line
+                            class="svg-21-a-line"
+                            stroke-width="0.401877572016461"
+                            x1="0"
+                            x2="2.5558594850538507"
+                            y1="0"
+                            y2="0"
+                          />
+                          <g
+                            class="svg-21-a-g"
+                            transform="translate(2.5558594850538507, 0)"
+                          >
+                            <g
+                              class="svg-21-a-g svg-21-a-segment svg-21-a-segment--right"
+                            >
+                              <line
+                                class="svg-21-a-line"
+                                stroke-width="0.3348979766803842"
+                                x1="0"
+                                x2="1.807265573641535"
+                                y1="0"
+                                y2="0"
+                              />
+                              <g
+                                class="svg-21-a-g"
+                                transform="translate(1.807265573641535, 0)"
+                              />
+                            </g>
+                            <g
+                              class="svg-21-a-g svg-21-a-segment svg-21-a-segment--left"
+                            >
+                              <line
+                                class="svg-21-a-line"
+                                stroke-width="0.3348979766803842"
+                                x1="0"
+                                x2="1.807265573641535"
+                                y1="0"
+                                y2="0"
+                              />
+                              <g
+                                class="svg-21-a-g"
+                                transform="translate(1.807265573641535, 0)"
+                              />
+                            </g>
+                          </g>
+                        </g>
+                      </g>
+                    </g>
+                    <g
+                      class="svg-21-a-g svg-21-a-segment svg-21-a-segment--left"
+                    >
+                      <line
+                        class="svg-21-a-line"
+                        stroke-width="0.48225308641975323"
+                        x1="0"
+                        x2="3.614531147283071"
+                        y1="0"
+                        y2="0"
+                      />
+                      <g
+                        class="svg-21-a-g"
+                        transform="translate(3.614531147283071, 0)"
+                      >
+                        <g
+                          class="svg-21-a-g svg-21-a-segment svg-21-a-segment--right"
+                        >
+                          <line
+                            class="svg-21-a-line"
+                            stroke-width="0.401877572016461"
+                            x1="0"
+                            x2="2.5558594850538507"
+                            y1="0"
+                            y2="0"
+                          />
+                          <g
+                            class="svg-21-a-g"
+                            transform="translate(2.5558594850538507, 0)"
+                          >
+                            <g
+                              class="svg-21-a-g svg-21-a-segment svg-21-a-segment--right"
+                            >
+                              <line
+                                class="svg-21-a-line"
+                                stroke-width="0.3348979766803842"
+                                x1="0"
+                                x2="1.807265573641535"
+                                y1="0"
+                                y2="0"
+                              />
+                              <g
+                                class="svg-21-a-g"
+                                transform="translate(1.807265573641535, 0)"
+                              />
+                            </g>
+                            <g
+                              class="svg-21-a-g svg-21-a-segment svg-21-a-segment--left"
+                            >
+                              <line
+                                class="svg-21-a-line"
+                                stroke-width="0.3348979766803842"
+                                x1="0"
+                                x2="1.807265573641535"
+                                y1="0"
+                                y2="0"
+                              />
+                              <g
+                                class="svg-21-a-g"
+                                transform="translate(1.807265573641535, 0)"
+                              />
+                            </g>
+                          </g>
+                        </g>
+                        <g
+                          class="svg-21-a-g svg-21-a-segment svg-21-a-segment--left"
+                        >
+                          <line
+                            class="svg-21-a-line"
+                            stroke-width="0.401877572016461"
+                            x1="0"
+                            x2="2.5558594850538507"
+                            y1="0"
+                            y2="0"
+                          />
+                          <g
+                            class="svg-21-a-g"
+                            transform="translate(2.5558594850538507, 0)"
+                          >
+                            <g
+                              class="svg-21-a-g svg-21-a-segment svg-21-a-segment--right"
+                            >
+                              <line
+                                class="svg-21-a-line"
+                                stroke-width="0.3348979766803842"
+                                x1="0"
+                                x2="1.807265573641535"
+                                y1="0"
+                                y2="0"
+                              />
+                              <g
+                                class="svg-21-a-g"
+                                transform="translate(1.807265573641535, 0)"
+                              />
+                            </g>
+                            <g
+                              class="svg-21-a-g svg-21-a-segment svg-21-a-segment--left"
+                            >
+                              <line
+                                class="svg-21-a-line"
+                                stroke-width="0.3348979766803842"
+                                x1="0"
+                                x2="1.807265573641535"
+                                y1="0"
+                                y2="0"
+                              />
+                              <g
+                                class="svg-21-a-g"
+                                transform="translate(1.807265573641535, 0)"
+                              />
+                            </g>
+                          </g>
+                        </g>
+                      </g>
+                    </g>
+                  </g>
+                </g>
+              </g>
+            </g>
+            <g
+              class="svg-21-a-g svg-21-a-segment svg-21-a-segment--left"
+            >
+              <line
+                class="svg-21-a-line"
+                stroke-width="0.6944444444444445"
+                x1="0"
+                x2="7.229062294566143"
+                y1="0"
+                y2="0"
+              />
+              <g
+                class="svg-21-a-g"
+                transform="translate(7.229062294566143, 0)"
+              >
+                <g
+                  class="svg-21-a-g svg-21-a-segment svg-21-a-segment--right"
+                >
+                  <line
+                    class="svg-21-a-line"
+                    stroke-width="0.5787037037037038"
+                    x1="0"
+                    x2="5.111718970107702"
+                    y1="0"
+                    y2="0"
+                  />
+                  <g
+                    class="svg-21-a-g"
+                    transform="translate(5.111718970107702, 0)"
+                  >
+                    <g
+                      class="svg-21-a-g svg-21-a-segment svg-21-a-segment--right"
+                    >
+                      <line
+                        class="svg-21-a-line"
+                        stroke-width="0.48225308641975323"
+                        x1="0"
+                        x2="3.614531147283071"
+                        y1="0"
+                        y2="0"
+                      />
+                      <g
+                        class="svg-21-a-g"
+                        transform="translate(3.614531147283071, 0)"
+                      >
+                        <g
+                          class="svg-21-a-g svg-21-a-segment svg-21-a-segment--right"
+                        >
+                          <line
+                            class="svg-21-a-line"
+                            stroke-width="0.401877572016461"
+                            x1="0"
+                            x2="2.5558594850538507"
+                            y1="0"
+                            y2="0"
+                          />
+                          <g
+                            class="svg-21-a-g"
+                            transform="translate(2.5558594850538507, 0)"
+                          >
+                            <g
+                              class="svg-21-a-g svg-21-a-segment svg-21-a-segment--right"
+                            >
+                              <line
+                                class="svg-21-a-line"
+                                stroke-width="0.3348979766803842"
+                                x1="0"
+                                x2="1.807265573641535"
+                                y1="0"
+                                y2="0"
+                              />
+                              <g
+                                class="svg-21-a-g"
+                                transform="translate(1.807265573641535, 0)"
+                              />
+                            </g>
+                            <g
+                              class="svg-21-a-g svg-21-a-segment svg-21-a-segment--left"
+                            >
+                              <line
+                                class="svg-21-a-line"
+                                stroke-width="0.3348979766803842"
+                                x1="0"
+                                x2="1.807265573641535"
+                                y1="0"
+                                y2="0"
+                              />
+                              <g
+                                class="svg-21-a-g"
+                                transform="translate(1.807265573641535, 0)"
+                              />
+                            </g>
+                          </g>
+                        </g>
+                        <g
+                          class="svg-21-a-g svg-21-a-segment svg-21-a-segment--left"
+                        >
+                          <line
+                            class="svg-21-a-line"
+                            stroke-width="0.401877572016461"
+                            x1="0"
+                            x2="2.5558594850538507"
+                            y1="0"
+                            y2="0"
+                          />
+                          <g
+                            class="svg-21-a-g"
+                            transform="translate(2.5558594850538507, 0)"
+                          >
+                            <g
+                              class="svg-21-a-g svg-21-a-segment svg-21-a-segment--right"
+                            >
+                              <line
+                                class="svg-21-a-line"
+                                stroke-width="0.3348979766803842"
+                                x1="0"
+                                x2="1.807265573641535"
+                                y1="0"
+                                y2="0"
+                              />
+                              <g
+                                class="svg-21-a-g"
+                                transform="translate(1.807265573641535, 0)"
+                              />
+                            </g>
+                            <g
+                              class="svg-21-a-g svg-21-a-segment svg-21-a-segment--left"
+                            >
+                              <line
+                                class="svg-21-a-line"
+                                stroke-width="0.3348979766803842"
+                                x1="0"
+                                x2="1.807265573641535"
+                                y1="0"
+                                y2="0"
+                              />
+                              <g
+                                class="svg-21-a-g"
+                                transform="translate(1.807265573641535, 0)"
+                              />
+                            </g>
+                          </g>
+                        </g>
+                      </g>
+                    </g>
+                    <g
+                      class="svg-21-a-g svg-21-a-segment svg-21-a-segment--left"
+                    >
+                      <line
+                        class="svg-21-a-line"
+                        stroke-width="0.48225308641975323"
+                        x1="0"
+                        x2="3.614531147283071"
+                        y1="0"
+                        y2="0"
+                      />
+                      <g
+                        class="svg-21-a-g"
+                        transform="translate(3.614531147283071, 0)"
+                      >
+                        <g
+                          class="svg-21-a-g svg-21-a-segment svg-21-a-segment--right"
+                        >
+                          <line
+                            class="svg-21-a-line"
+                            stroke-width="0.401877572016461"
+                            x1="0"
+                            x2="2.5558594850538507"
+                            y1="0"
+                            y2="0"
+                          />
+                          <g
+                            class="svg-21-a-g"
+                            transform="translate(2.5558594850538507, 0)"
+                          >
+                            <g
+                              class="svg-21-a-g svg-21-a-segment svg-21-a-segment--right"
+                            >
+                              <line
+                                class="svg-21-a-line"
+                                stroke-width="0.3348979766803842"
+                                x1="0"
+                                x2="1.807265573641535"
+                                y1="0"
+                                y2="0"
+                              />
+                              <g
+                                class="svg-21-a-g"
+                                transform="translate(1.807265573641535, 0)"
+                              />
+                            </g>
+                            <g
+                              class="svg-21-a-g svg-21-a-segment svg-21-a-segment--left"
+                            >
+                              <line
+                                class="svg-21-a-line"
+                                stroke-width="0.3348979766803842"
+                                x1="0"
+                                x2="1.807265573641535"
+                                y1="0"
+                                y2="0"
+                              />
+                              <g
+                                class="svg-21-a-g"
+                                transform="translate(1.807265573641535, 0)"
+                              />
+                            </g>
+                          </g>
+                        </g>
+                        <g
+                          class="svg-21-a-g svg-21-a-segment svg-21-a-segment--left"
+                        >
+                          <line
+                            class="svg-21-a-line"
+                            stroke-width="0.401877572016461"
+                            x1="0"
+                            x2="2.5558594850538507"
+                            y1="0"
+                            y2="0"
+                          />
+                          <g
+                            class="svg-21-a-g"
+                            transform="translate(2.5558594850538507, 0)"
+                          >
+                            <g
+                              class="svg-21-a-g svg-21-a-segment svg-21-a-segment--right"
+                            >
+                              <line
+                                class="svg-21-a-line"
+                                stroke-width="0.3348979766803842"
+                                x1="0"
+                                x2="1.807265573641535"
+                                y1="0"
+                                y2="0"
+                              />
+                              <g
+                                class="svg-21-a-g"
+                                transform="translate(1.807265573641535, 0)"
+                              />
+                            </g>
+                            <g
+                              class="svg-21-a-g svg-21-a-segment svg-21-a-segment--left"
+                            >
+                              <line
+                                class="svg-21-a-line"
+                                stroke-width="0.3348979766803842"
+                                x1="0"
+                                x2="1.807265573641535"
+                                y1="0"
+                                y2="0"
+                              />
+                              <g
+                                class="svg-21-a-g"
+                                transform="translate(1.807265573641535, 0)"
+                              />
+                            </g>
+                          </g>
+                        </g>
+                      </g>
+                    </g>
+                  </g>
+                </g>
+                <g
+                  class="svg-21-a-g svg-21-a-segment svg-21-a-segment--left"
+                >
+                  <line
+                    class="svg-21-a-line"
+                    stroke-width="0.5787037037037038"
+                    x1="0"
+                    x2="5.111718970107702"
+                    y1="0"
+                    y2="0"
+                  />
+                  <g
+                    class="svg-21-a-g"
+                    transform="translate(5.111718970107702, 0)"
+                  >
+                    <g
+                      class="svg-21-a-g svg-21-a-segment svg-21-a-segment--right"
+                    >
+                      <line
+                        class="svg-21-a-line"
+                        stroke-width="0.48225308641975323"
+                        x1="0"
+                        x2="3.614531147283071"
+                        y1="0"
+                        y2="0"
+                      />
+                      <g
+                        class="svg-21-a-g"
+                        transform="translate(3.614531147283071, 0)"
+                      >
+                        <g
+                          class="svg-21-a-g svg-21-a-segment svg-21-a-segment--right"
+                        >
+                          <line
+                            class="svg-21-a-line"
+                            stroke-width="0.401877572016461"
+                            x1="0"
+                            x2="2.5558594850538507"
+                            y1="0"
+                            y2="0"
+                          />
+                          <g
+                            class="svg-21-a-g"
+                            transform="translate(2.5558594850538507, 0)"
+                          >
+                            <g
+                              class="svg-21-a-g svg-21-a-segment svg-21-a-segment--right"
+                            >
+                              <line
+                                class="svg-21-a-line"
+                                stroke-width="0.3348979766803842"
+                                x1="0"
+                                x2="1.807265573641535"
+                                y1="0"
+                                y2="0"
+                              />
+                              <g
+                                class="svg-21-a-g"
+                                transform="translate(1.807265573641535, 0)"
+                              />
+                            </g>
+                            <g
+                              class="svg-21-a-g svg-21-a-segment svg-21-a-segment--left"
+                            >
+                              <line
+                                class="svg-21-a-line"
+                                stroke-width="0.3348979766803842"
+                                x1="0"
+                                x2="1.807265573641535"
+                                y1="0"
+                                y2="0"
+                              />
+                              <g
+                                class="svg-21-a-g"
+                                transform="translate(1.807265573641535, 0)"
+                              />
+                            </g>
+                          </g>
+                        </g>
+                        <g
+                          class="svg-21-a-g svg-21-a-segment svg-21-a-segment--left"
+                        >
+                          <line
+                            class="svg-21-a-line"
+                            stroke-width="0.401877572016461"
+                            x1="0"
+                            x2="2.5558594850538507"
+                            y1="0"
+                            y2="0"
+                          />
+                          <g
+                            class="svg-21-a-g"
+                            transform="translate(2.5558594850538507, 0)"
+                          >
+                            <g
+                              class="svg-21-a-g svg-21-a-segment svg-21-a-segment--right"
+                            >
+                              <line
+                                class="svg-21-a-line"
+                                stroke-width="0.3348979766803842"
+                                x1="0"
+                                x2="1.807265573641535"
+                                y1="0"
+                                y2="0"
+                              />
+                              <g
+                                class="svg-21-a-g"
+                                transform="translate(1.807265573641535, 0)"
+                              />
+                            </g>
+                            <g
+                              class="svg-21-a-g svg-21-a-segment svg-21-a-segment--left"
+                            >
+                              <line
+                                class="svg-21-a-line"
+                                stroke-width="0.3348979766803842"
+                                x1="0"
+                                x2="1.807265573641535"
+                                y1="0"
+                                y2="0"
+                              />
+                              <g
+                                class="svg-21-a-g"
+                                transform="translate(1.807265573641535, 0)"
+                              />
+                            </g>
+                          </g>
+                        </g>
+                      </g>
+                    </g>
+                    <g
+                      class="svg-21-a-g svg-21-a-segment svg-21-a-segment--left"
+                    >
+                      <line
+                        class="svg-21-a-line"
+                        stroke-width="0.48225308641975323"
+                        x1="0"
+                        x2="3.614531147283071"
+                        y1="0"
+                        y2="0"
+                      />
+                      <g
+                        class="svg-21-a-g"
+                        transform="translate(3.614531147283071, 0)"
+                      >
+                        <g
+                          class="svg-21-a-g svg-21-a-segment svg-21-a-segment--right"
+                        >
+                          <line
+                            class="svg-21-a-line"
+                            stroke-width="0.401877572016461"
+                            x1="0"
+                            x2="2.5558594850538507"
+                            y1="0"
+                            y2="0"
+                          />
+                          <g
+                            class="svg-21-a-g"
+                            transform="translate(2.5558594850538507, 0)"
+                          >
+                            <g
+                              class="svg-21-a-g svg-21-a-segment svg-21-a-segment--right"
+                            >
+                              <line
+                                class="svg-21-a-line"
+                                stroke-width="0.3348979766803842"
+                                x1="0"
+                                x2="1.807265573641535"
+                                y1="0"
+                                y2="0"
+                              />
+                              <g
+                                class="svg-21-a-g"
+                                transform="translate(1.807265573641535, 0)"
+                              />
+                            </g>
+                            <g
+                              class="svg-21-a-g svg-21-a-segment svg-21-a-segment--left"
+                            >
+                              <line
+                                class="svg-21-a-line"
+                                stroke-width="0.3348979766803842"
+                                x1="0"
+                                x2="1.807265573641535"
+                                y1="0"
+                                y2="0"
+                              />
+                              <g
+                                class="svg-21-a-g"
+                                transform="translate(1.807265573641535, 0)"
+                              />
+                            </g>
+                          </g>
+                        </g>
+                        <g
+                          class="svg-21-a-g svg-21-a-segment svg-21-a-segment--left"
+                        >
+                          <line
+                            class="svg-21-a-line"
+                            stroke-width="0.401877572016461"
+                            x1="0"
+                            x2="2.5558594850538507"
+                            y1="0"
+                            y2="0"
+                          />
+                          <g
+                            class="svg-21-a-g"
+                            transform="translate(2.5558594850538507, 0)"
+                          >
+                            <g
+                              class="svg-21-a-g svg-21-a-segment svg-21-a-segment--right"
+                            >
+                              <line
+                                class="svg-21-a-line"
+                                stroke-width="0.3348979766803842"
+                                x1="0"
+                                x2="1.807265573641535"
+                                y1="0"
+                                y2="0"
+                              />
+                              <g
+                                class="svg-21-a-g"
+                                transform="translate(1.807265573641535, 0)"
+                              />
+                            </g>
+                            <g
+                              class="svg-21-a-g svg-21-a-segment svg-21-a-segment--left"
+                            >
+                              <line
+                                class="svg-21-a-line"
+                                stroke-width="0.3348979766803842"
+                                x1="0"
+                                x2="1.807265573641535"
+                                y1="0"
+                                y2="0"
+                              />
+                              <g
+                                class="svg-21-a-g"
+                                transform="translate(1.807265573641535, 0)"
+                              />
+                            </g>
+                          </g>
+                        </g>
+                      </g>
+                    </g>
+                  </g>
+                </g>
+              </g>
+            </g>
+          </g>
+        </g>
+      </g>
+    </g>
+    <g
+      class="svg-21-a-g svg-21-a-segment svg-21-a-segment--left"
+    >
+      <line
+        class="svg-21-a-line"
+        stroke-width="1"
+        x1="0"
+        x2="14.458124589132288"
+        y1="0"
+        y2="0"
+      />
+      <g
+        class="svg-21-a-g"
+        transform="translate(14.458124589132288, 0)"
+      >
+        <g
+          class="svg-21-a-g svg-21-a-segment svg-21-a-segment--right"
+        >
+          <line
+            class="svg-21-a-line"
+            stroke-width="0.8333333333333334"
+            x1="0"
+            x2="10.223437940215407"
+            y1="0"
+            y2="0"
+          />
+          <g
+            class="svg-21-a-g"
+            transform="translate(10.223437940215407, 0)"
+          >
+            <g
+              class="svg-21-a-g svg-21-a-segment svg-21-a-segment--right"
+            >
+              <line
+                class="svg-21-a-line"
+                stroke-width="0.6944444444444445"
+                x1="0"
+                x2="7.229062294566143"
+                y1="0"
+                y2="0"
+              />
+              <g
+                class="svg-21-a-g"
+                transform="translate(7.229062294566143, 0)"
+              >
+                <g
+                  class="svg-21-a-g svg-21-a-segment svg-21-a-segment--right"
+                >
+                  <line
+                    class="svg-21-a-line"
+                    stroke-width="0.5787037037037038"
+                    x1="0"
+                    x2="5.111718970107702"
+                    y1="0"
+                    y2="0"
+                  />
+                  <g
+                    class="svg-21-a-g"
+                    transform="translate(5.111718970107702, 0)"
+                  >
+                    <g
+                      class="svg-21-a-g svg-21-a-segment svg-21-a-segment--right"
+                    >
+                      <line
+                        class="svg-21-a-line"
+                        stroke-width="0.48225308641975323"
+                        x1="0"
+                        x2="3.614531147283071"
+                        y1="0"
+                        y2="0"
+                      />
+                      <g
+                        class="svg-21-a-g"
+                        transform="translate(3.614531147283071, 0)"
+                      >
+                        <g
+                          class="svg-21-a-g svg-21-a-segment svg-21-a-segment--right"
+                        >
+                          <line
+                            class="svg-21-a-line"
+                            stroke-width="0.401877572016461"
+                            x1="0"
+                            x2="2.5558594850538507"
+                            y1="0"
+                            y2="0"
+                          />
+                          <g
+                            class="svg-21-a-g"
+                            transform="translate(2.5558594850538507, 0)"
+                          >
+                            <g
+                              class="svg-21-a-g svg-21-a-segment svg-21-a-segment--right"
+                            >
+                              <line
+                                class="svg-21-a-line"
+                                stroke-width="0.3348979766803842"
+                                x1="0"
+                                x2="1.807265573641535"
+                                y1="0"
+                                y2="0"
+                              />
+                              <g
+                                class="svg-21-a-g"
+                                transform="translate(1.807265573641535, 0)"
+                              />
+                            </g>
+                            <g
+                              class="svg-21-a-g svg-21-a-segment svg-21-a-segment--left"
+                            >
+                              <line
+                                class="svg-21-a-line"
+                                stroke-width="0.3348979766803842"
+                                x1="0"
+                                x2="1.807265573641535"
+                                y1="0"
+                                y2="0"
+                              />
+                              <g
+                                class="svg-21-a-g"
+                                transform="translate(1.807265573641535, 0)"
+                              />
+                            </g>
+                          </g>
+                        </g>
+                        <g
+                          class="svg-21-a-g svg-21-a-segment svg-21-a-segment--left"
+                        >
+                          <line
+                            class="svg-21-a-line"
+                            stroke-width="0.401877572016461"
+                            x1="0"
+                            x2="2.5558594850538507"
+                            y1="0"
+                            y2="0"
+                          />
+                          <g
+                            class="svg-21-a-g"
+                            transform="translate(2.5558594850538507, 0)"
+                          >
+                            <g
+                              class="svg-21-a-g svg-21-a-segment svg-21-a-segment--right"
+                            >
+                              <line
+                                class="svg-21-a-line"
+                                stroke-width="0.3348979766803842"
+                                x1="0"
+                                x2="1.807265573641535"
+                                y1="0"
+                                y2="0"
+                              />
+                              <g
+                                class="svg-21-a-g"
+                                transform="translate(1.807265573641535, 0)"
+                              />
+                            </g>
+                            <g
+                              class="svg-21-a-g svg-21-a-segment svg-21-a-segment--left"
+                            >
+                              <line
+                                class="svg-21-a-line"
+                                stroke-width="0.3348979766803842"
+                                x1="0"
+                                x2="1.807265573641535"
+                                y1="0"
+                                y2="0"
+                              />
+                              <g
+                                class="svg-21-a-g"
+                                transform="translate(1.807265573641535, 0)"
+                              />
+                            </g>
+                          </g>
+                        </g>
+                      </g>
+                    </g>
+                    <g
+                      class="svg-21-a-g svg-21-a-segment svg-21-a-segment--left"
+                    >
+                      <line
+                        class="svg-21-a-line"
+                        stroke-width="0.48225308641975323"
+                        x1="0"
+                        x2="3.614531147283071"
+                        y1="0"
+                        y2="0"
+                      />
+                      <g
+                        class="svg-21-a-g"
+                        transform="translate(3.614531147283071, 0)"
+                      >
+                        <g
+                          class="svg-21-a-g svg-21-a-segment svg-21-a-segment--right"
+                        >
+                          <line
+                            class="svg-21-a-line"
+                            stroke-width="0.401877572016461"
+                            x1="0"
+                            x2="2.5558594850538507"
+                            y1="0"
+                            y2="0"
+                          />
+                          <g
+                            class="svg-21-a-g"
+                            transform="translate(2.5558594850538507, 0)"
+                          >
+                            <g
+                              class="svg-21-a-g svg-21-a-segment svg-21-a-segment--right"
+                            >
+                              <line
+                                class="svg-21-a-line"
+                                stroke-width="0.3348979766803842"
+                                x1="0"
+                                x2="1.807265573641535"
+                                y1="0"
+                                y2="0"
+                              />
+                              <g
+                                class="svg-21-a-g"
+                                transform="translate(1.807265573641535, 0)"
+                              />
+                            </g>
+                            <g
+                              class="svg-21-a-g svg-21-a-segment svg-21-a-segment--left"
+                            >
+                              <line
+                                class="svg-21-a-line"
+                                stroke-width="0.3348979766803842"
+                                x1="0"
+                                x2="1.807265573641535"
+                                y1="0"
+                                y2="0"
+                              />
+                              <g
+                                class="svg-21-a-g"
+                                transform="translate(1.807265573641535, 0)"
+                              />
+                            </g>
+                          </g>
+                        </g>
+                        <g
+                          class="svg-21-a-g svg-21-a-segment svg-21-a-segment--left"
+                        >
+                          <line
+                            class="svg-21-a-line"
+                            stroke-width="0.401877572016461"
+                            x1="0"
+                            x2="2.5558594850538507"
+                            y1="0"
+                            y2="0"
+                          />
+                          <g
+                            class="svg-21-a-g"
+                            transform="translate(2.5558594850538507, 0)"
+                          >
+                            <g
+                              class="svg-21-a-g svg-21-a-segment svg-21-a-segment--right"
+                            >
+                              <line
+                                class="svg-21-a-line"
+                                stroke-width="0.3348979766803842"
+                                x1="0"
+                                x2="1.807265573641535"
+                                y1="0"
+                                y2="0"
+                              />
+                              <g
+                                class="svg-21-a-g"
+                                transform="translate(1.807265573641535, 0)"
+                              />
+                            </g>
+                            <g
+                              class="svg-21-a-g svg-21-a-segment svg-21-a-segment--left"
+                            >
+                              <line
+                                class="svg-21-a-line"
+                                stroke-width="0.3348979766803842"
+                                x1="0"
+                                x2="1.807265573641535"
+                                y1="0"
+                                y2="0"
+                              />
+                              <g
+                                class="svg-21-a-g"
+                                transform="translate(1.807265573641535, 0)"
+                              />
+                            </g>
+                          </g>
+                        </g>
+                      </g>
+                    </g>
+                  </g>
+                </g>
+                <g
+                  class="svg-21-a-g svg-21-a-segment svg-21-a-segment--left"
+                >
+                  <line
+                    class="svg-21-a-line"
+                    stroke-width="0.5787037037037038"
+                    x1="0"
+                    x2="5.111718970107702"
+                    y1="0"
+                    y2="0"
+                  />
+                  <g
+                    class="svg-21-a-g"
+                    transform="translate(5.111718970107702, 0)"
+                  >
+                    <g
+                      class="svg-21-a-g svg-21-a-segment svg-21-a-segment--right"
+                    >
+                      <line
+                        class="svg-21-a-line"
+                        stroke-width="0.48225308641975323"
+                        x1="0"
+                        x2="3.614531147283071"
+                        y1="0"
+                        y2="0"
+                      />
+                      <g
+                        class="svg-21-a-g"
+                        transform="translate(3.614531147283071, 0)"
+                      >
+                        <g
+                          class="svg-21-a-g svg-21-a-segment svg-21-a-segment--right"
+                        >
+                          <line
+                            class="svg-21-a-line"
+                            stroke-width="0.401877572016461"
+                            x1="0"
+                            x2="2.5558594850538507"
+                            y1="0"
+                            y2="0"
+                          />
+                          <g
+                            class="svg-21-a-g"
+                            transform="translate(2.5558594850538507, 0)"
+                          >
+                            <g
+                              class="svg-21-a-g svg-21-a-segment svg-21-a-segment--right"
+                            >
+                              <line
+                                class="svg-21-a-line"
+                                stroke-width="0.3348979766803842"
+                                x1="0"
+                                x2="1.807265573641535"
+                                y1="0"
+                                y2="0"
+                              />
+                              <g
+                                class="svg-21-a-g"
+                                transform="translate(1.807265573641535, 0)"
+                              />
+                            </g>
+                            <g
+                              class="svg-21-a-g svg-21-a-segment svg-21-a-segment--left"
+                            >
+                              <line
+                                class="svg-21-a-line"
+                                stroke-width="0.3348979766803842"
+                                x1="0"
+                                x2="1.807265573641535"
+                                y1="0"
+                                y2="0"
+                              />
+                              <g
+                                class="svg-21-a-g"
+                                transform="translate(1.807265573641535, 0)"
+                              />
+                            </g>
+                          </g>
+                        </g>
+                        <g
+                          class="svg-21-a-g svg-21-a-segment svg-21-a-segment--left"
+                        >
+                          <line
+                            class="svg-21-a-line"
+                            stroke-width="0.401877572016461"
+                            x1="0"
+                            x2="2.5558594850538507"
+                            y1="0"
+                            y2="0"
+                          />
+                          <g
+                            class="svg-21-a-g"
+                            transform="translate(2.5558594850538507, 0)"
+                          >
+                            <g
+                              class="svg-21-a-g svg-21-a-segment svg-21-a-segment--right"
+                            >
+                              <line
+                                class="svg-21-a-line"
+                                stroke-width="0.3348979766803842"
+                                x1="0"
+                                x2="1.807265573641535"
+                                y1="0"
+                                y2="0"
+                              />
+                              <g
+                                class="svg-21-a-g"
+                                transform="translate(1.807265573641535, 0)"
+                              />
+                            </g>
+                            <g
+                              class="svg-21-a-g svg-21-a-segment svg-21-a-segment--left"
+                            >
+                              <line
+                                class="svg-21-a-line"
+                                stroke-width="0.3348979766803842"
+                                x1="0"
+                                x2="1.807265573641535"
+                                y1="0"
+                                y2="0"
+                              />
+                              <g
+                                class="svg-21-a-g"
+                                transform="translate(1.807265573641535, 0)"
+                              />
+                            </g>
+                          </g>
+                        </g>
+                      </g>
+                    </g>
+                    <g
+                      class="svg-21-a-g svg-21-a-segment svg-21-a-segment--left"
+                    >
+                      <line
+                        class="svg-21-a-line"
+                        stroke-width="0.48225308641975323"
+                        x1="0"
+                        x2="3.614531147283071"
+                        y1="0"
+                        y2="0"
+                      />
+                      <g
+                        class="svg-21-a-g"
+                        transform="translate(3.614531147283071, 0)"
+                      >
+                        <g
+                          class="svg-21-a-g svg-21-a-segment svg-21-a-segment--right"
+                        >
+                          <line
+                            class="svg-21-a-line"
+                            stroke-width="0.401877572016461"
+                            x1="0"
+                            x2="2.5558594850538507"
+                            y1="0"
+                            y2="0"
+                          />
+                          <g
+                            class="svg-21-a-g"
+                            transform="translate(2.5558594850538507, 0)"
+                          >
+                            <g
+                              class="svg-21-a-g svg-21-a-segment svg-21-a-segment--right"
+                            >
+                              <line
+                                class="svg-21-a-line"
+                                stroke-width="0.3348979766803842"
+                                x1="0"
+                                x2="1.807265573641535"
+                                y1="0"
+                                y2="0"
+                              />
+                              <g
+                                class="svg-21-a-g"
+                                transform="translate(1.807265573641535, 0)"
+                              />
+                            </g>
+                            <g
+                              class="svg-21-a-g svg-21-a-segment svg-21-a-segment--left"
+                            >
+                              <line
+                                class="svg-21-a-line"
+                                stroke-width="0.3348979766803842"
+                                x1="0"
+                                x2="1.807265573641535"
+                                y1="0"
+                                y2="0"
+                              />
+                              <g
+                                class="svg-21-a-g"
+                                transform="translate(1.807265573641535, 0)"
+                              />
+                            </g>
+                          </g>
+                        </g>
+                        <g
+                          class="svg-21-a-g svg-21-a-segment svg-21-a-segment--left"
+                        >
+                          <line
+                            class="svg-21-a-line"
+                            stroke-width="0.401877572016461"
+                            x1="0"
+                            x2="2.5558594850538507"
+                            y1="0"
+                            y2="0"
+                          />
+                          <g
+                            class="svg-21-a-g"
+                            transform="translate(2.5558594850538507, 0)"
+                          >
+                            <g
+                              class="svg-21-a-g svg-21-a-segment svg-21-a-segment--right"
+                            >
+                              <line
+                                class="svg-21-a-line"
+                                stroke-width="0.3348979766803842"
+                                x1="0"
+                                x2="1.807265573641535"
+                                y1="0"
+                                y2="0"
+                              />
+                              <g
+                                class="svg-21-a-g"
+                                transform="translate(1.807265573641535, 0)"
+                              />
+                            </g>
+                            <g
+                              class="svg-21-a-g svg-21-a-segment svg-21-a-segment--left"
+                            >
+                              <line
+                                class="svg-21-a-line"
+                                stroke-width="0.3348979766803842"
+                                x1="0"
+                                x2="1.807265573641535"
+                                y1="0"
+                                y2="0"
+                              />
+                              <g
+                                class="svg-21-a-g"
+                                transform="translate(1.807265573641535, 0)"
+                              />
+                            </g>
+                          </g>
+                        </g>
+                      </g>
+                    </g>
+                  </g>
+                </g>
+              </g>
+            </g>
+            <g
+              class="svg-21-a-g svg-21-a-segment svg-21-a-segment--left"
+            >
+              <line
+                class="svg-21-a-line"
+                stroke-width="0.6944444444444445"
+                x1="0"
+                x2="7.229062294566143"
+                y1="0"
+                y2="0"
+              />
+              <g
+                class="svg-21-a-g"
+                transform="translate(7.229062294566143, 0)"
+              >
+                <g
+                  class="svg-21-a-g svg-21-a-segment svg-21-a-segment--right"
+                >
+                  <line
+                    class="svg-21-a-line"
+                    stroke-width="0.5787037037037038"
+                    x1="0"
+                    x2="5.111718970107702"
+                    y1="0"
+                    y2="0"
+                  />
+                  <g
+                    class="svg-21-a-g"
+                    transform="translate(5.111718970107702, 0)"
+                  >
+                    <g
+                      class="svg-21-a-g svg-21-a-segment svg-21-a-segment--right"
+                    >
+                      <line
+                        class="svg-21-a-line"
+                        stroke-width="0.48225308641975323"
+                        x1="0"
+                        x2="3.614531147283071"
+                        y1="0"
+                        y2="0"
+                      />
+                      <g
+                        class="svg-21-a-g"
+                        transform="translate(3.614531147283071, 0)"
+                      >
+                        <g
+                          class="svg-21-a-g svg-21-a-segment svg-21-a-segment--right"
+                        >
+                          <line
+                            class="svg-21-a-line"
+                            stroke-width="0.401877572016461"
+                            x1="0"
+                            x2="2.5558594850538507"
+                            y1="0"
+                            y2="0"
+                          />
+                          <g
+                            class="svg-21-a-g"
+                            transform="translate(2.5558594850538507, 0)"
+                          >
+                            <g
+                              class="svg-21-a-g svg-21-a-segment svg-21-a-segment--right"
+                            >
+                              <line
+                                class="svg-21-a-line"
+                                stroke-width="0.3348979766803842"
+                                x1="0"
+                                x2="1.807265573641535"
+                                y1="0"
+                                y2="0"
+                              />
+                              <g
+                                class="svg-21-a-g"
+                                transform="translate(1.807265573641535, 0)"
+                              />
+                            </g>
+                            <g
+                              class="svg-21-a-g svg-21-a-segment svg-21-a-segment--left"
+                            >
+                              <line
+                                class="svg-21-a-line"
+                                stroke-width="0.3348979766803842"
+                                x1="0"
+                                x2="1.807265573641535"
+                                y1="0"
+                                y2="0"
+                              />
+                              <g
+                                class="svg-21-a-g"
+                                transform="translate(1.807265573641535, 0)"
+                              />
+                            </g>
+                          </g>
+                        </g>
+                        <g
+                          class="svg-21-a-g svg-21-a-segment svg-21-a-segment--left"
+                        >
+                          <line
+                            class="svg-21-a-line"
+                            stroke-width="0.401877572016461"
+                            x1="0"
+                            x2="2.5558594850538507"
+                            y1="0"
+                            y2="0"
+                          />
+                          <g
+                            class="svg-21-a-g"
+                            transform="translate(2.5558594850538507, 0)"
+                          >
+                            <g
+                              class="svg-21-a-g svg-21-a-segment svg-21-a-segment--right"
+                            >
+                              <line
+                                class="svg-21-a-line"
+                                stroke-width="0.3348979766803842"
+                                x1="0"
+                                x2="1.807265573641535"
+                                y1="0"
+                                y2="0"
+                              />
+                              <g
+                                class="svg-21-a-g"
+                                transform="translate(1.807265573641535, 0)"
+                              />
+                            </g>
+                            <g
+                              class="svg-21-a-g svg-21-a-segment svg-21-a-segment--left"
+                            >
+                              <line
+                                class="svg-21-a-line"
+                                stroke-width="0.3348979766803842"
+                                x1="0"
+                                x2="1.807265573641535"
+                                y1="0"
+                                y2="0"
+                              />
+                              <g
+                                class="svg-21-a-g"
+                                transform="translate(1.807265573641535, 0)"
+                              />
+                            </g>
+                          </g>
+                        </g>
+                      </g>
+                    </g>
+                    <g
+                      class="svg-21-a-g svg-21-a-segment svg-21-a-segment--left"
+                    >
+                      <line
+                        class="svg-21-a-line"
+                        stroke-width="0.48225308641975323"
+                        x1="0"
+                        x2="3.614531147283071"
+                        y1="0"
+                        y2="0"
+                      />
+                      <g
+                        class="svg-21-a-g"
+                        transform="translate(3.614531147283071, 0)"
+                      >
+                        <g
+                          class="svg-21-a-g svg-21-a-segment svg-21-a-segment--right"
+                        >
+                          <line
+                            class="svg-21-a-line"
+                            stroke-width="0.401877572016461"
+                            x1="0"
+                            x2="2.5558594850538507"
+                            y1="0"
+                            y2="0"
+                          />
+                          <g
+                            class="svg-21-a-g"
+                            transform="translate(2.5558594850538507, 0)"
+                          >
+                            <g
+                              class="svg-21-a-g svg-21-a-segment svg-21-a-segment--right"
+                            >
+                              <line
+                                class="svg-21-a-line"
+                                stroke-width="0.3348979766803842"
+                                x1="0"
+                                x2="1.807265573641535"
+                                y1="0"
+                                y2="0"
+                              />
+                              <g
+                                class="svg-21-a-g"
+                                transform="translate(1.807265573641535, 0)"
+                              />
+                            </g>
+                            <g
+                              class="svg-21-a-g svg-21-a-segment svg-21-a-segment--left"
+                            >
+                              <line
+                                class="svg-21-a-line"
+                                stroke-width="0.3348979766803842"
+                                x1="0"
+                                x2="1.807265573641535"
+                                y1="0"
+                                y2="0"
+                              />
+                              <g
+                                class="svg-21-a-g"
+                                transform="translate(1.807265573641535, 0)"
+                              />
+                            </g>
+                          </g>
+                        </g>
+                        <g
+                          class="svg-21-a-g svg-21-a-segment svg-21-a-segment--left"
+                        >
+                          <line
+                            class="svg-21-a-line"
+                            stroke-width="0.401877572016461"
+                            x1="0"
+                            x2="2.5558594850538507"
+                            y1="0"
+                            y2="0"
+                          />
+                          <g
+                            class="svg-21-a-g"
+                            transform="translate(2.5558594850538507, 0)"
+                          >
+                            <g
+                              class="svg-21-a-g svg-21-a-segment svg-21-a-segment--right"
+                            >
+                              <line
+                                class="svg-21-a-line"
+                                stroke-width="0.3348979766803842"
+                                x1="0"
+                                x2="1.807265573641535"
+                                y1="0"
+                                y2="0"
+                              />
+                              <g
+                                class="svg-21-a-g"
+                                transform="translate(1.807265573641535, 0)"
+                              />
+                            </g>
+                            <g
+                              class="svg-21-a-g svg-21-a-segment svg-21-a-segment--left"
+                            >
+                              <line
+                                class="svg-21-a-line"
+                                stroke-width="0.3348979766803842"
+                                x1="0"
+                                x2="1.807265573641535"
+                                y1="0"
+                                y2="0"
+                              />
+                              <g
+                                class="svg-21-a-g"
+                                transform="translate(1.807265573641535, 0)"
+                              />
+                            </g>
+                          </g>
+                        </g>
+                      </g>
+                    </g>
+                  </g>
+                </g>
+                <g
+                  class="svg-21-a-g svg-21-a-segment svg-21-a-segment--left"
+                >
+                  <line
+                    class="svg-21-a-line"
+                    stroke-width="0.5787037037037038"
+                    x1="0"
+                    x2="5.111718970107702"
+                    y1="0"
+                    y2="0"
+                  />
+                  <g
+                    class="svg-21-a-g"
+                    transform="translate(5.111718970107702, 0)"
+                  >
+                    <g
+                      class="svg-21-a-g svg-21-a-segment svg-21-a-segment--right"
+                    >
+                      <line
+                        class="svg-21-a-line"
+                        stroke-width="0.48225308641975323"
+                        x1="0"
+                        x2="3.614531147283071"
+                        y1="0"
+                        y2="0"
+                      />
+                      <g
+                        class="svg-21-a-g"
+                        transform="translate(3.614531147283071, 0)"
+                      >
+                        <g
+                          class="svg-21-a-g svg-21-a-segment svg-21-a-segment--right"
+                        >
+                          <line
+                            class="svg-21-a-line"
+                            stroke-width="0.401877572016461"
+                            x1="0"
+                            x2="2.5558594850538507"
+                            y1="0"
+                            y2="0"
+                          />
+                          <g
+                            class="svg-21-a-g"
+                            transform="translate(2.5558594850538507, 0)"
+                          >
+                            <g
+                              class="svg-21-a-g svg-21-a-segment svg-21-a-segment--right"
+                            >
+                              <line
+                                class="svg-21-a-line"
+                                stroke-width="0.3348979766803842"
+                                x1="0"
+                                x2="1.807265573641535"
+                                y1="0"
+                                y2="0"
+                              />
+                              <g
+                                class="svg-21-a-g"
+                                transform="translate(1.807265573641535, 0)"
+                              />
+                            </g>
+                            <g
+                              class="svg-21-a-g svg-21-a-segment svg-21-a-segment--left"
+                            >
+                              <line
+                                class="svg-21-a-line"
+                                stroke-width="0.3348979766803842"
+                                x1="0"
+                                x2="1.807265573641535"
+                                y1="0"
+                                y2="0"
+                              />
+                              <g
+                                class="svg-21-a-g"
+                                transform="translate(1.807265573641535, 0)"
+                              />
+                            </g>
+                          </g>
+                        </g>
+                        <g
+                          class="svg-21-a-g svg-21-a-segment svg-21-a-segment--left"
+                        >
+                          <line
+                            class="svg-21-a-line"
+                            stroke-width="0.401877572016461"
+                            x1="0"
+                            x2="2.5558594850538507"
+                            y1="0"
+                            y2="0"
+                          />
+                          <g
+                            class="svg-21-a-g"
+                            transform="translate(2.5558594850538507, 0)"
+                          >
+                            <g
+                              class="svg-21-a-g svg-21-a-segment svg-21-a-segment--right"
+                            >
+                              <line
+                                class="svg-21-a-line"
+                                stroke-width="0.3348979766803842"
+                                x1="0"
+                                x2="1.807265573641535"
+                                y1="0"
+                                y2="0"
+                              />
+                              <g
+                                class="svg-21-a-g"
+                                transform="translate(1.807265573641535, 0)"
+                              />
+                            </g>
+                            <g
+                              class="svg-21-a-g svg-21-a-segment svg-21-a-segment--left"
+                            >
+                              <line
+                                class="svg-21-a-line"
+                                stroke-width="0.3348979766803842"
+                                x1="0"
+                                x2="1.807265573641535"
+                                y1="0"
+                                y2="0"
+                              />
+                              <g
+                                class="svg-21-a-g"
+                                transform="translate(1.807265573641535, 0)"
+                              />
+                            </g>
+                          </g>
+                        </g>
+                      </g>
+                    </g>
+                    <g
+                      class="svg-21-a-g svg-21-a-segment svg-21-a-segment--left"
+                    >
+                      <line
+                        class="svg-21-a-line"
+                        stroke-width="0.48225308641975323"
+                        x1="0"
+                        x2="3.614531147283071"
+                        y1="0"
+                        y2="0"
+                      />
+                      <g
+                        class="svg-21-a-g"
+                        transform="translate(3.614531147283071, 0)"
+                      >
+                        <g
+                          class="svg-21-a-g svg-21-a-segment svg-21-a-segment--right"
+                        >
+                          <line
+                            class="svg-21-a-line"
+                            stroke-width="0.401877572016461"
+                            x1="0"
+                            x2="2.5558594850538507"
+                            y1="0"
+                            y2="0"
+                          />
+                          <g
+                            class="svg-21-a-g"
+                            transform="translate(2.5558594850538507, 0)"
+                          >
+                            <g
+                              class="svg-21-a-g svg-21-a-segment svg-21-a-segment--right"
+                            >
+                              <line
+                                class="svg-21-a-line"
+                                stroke-width="0.3348979766803842"
+                                x1="0"
+                                x2="1.807265573641535"
+                                y1="0"
+                                y2="0"
+                              />
+                              <g
+                                class="svg-21-a-g"
+                                transform="translate(1.807265573641535, 0)"
+                              />
+                            </g>
+                            <g
+                              class="svg-21-a-g svg-21-a-segment svg-21-a-segment--left"
+                            >
+                              <line
+                                class="svg-21-a-line"
+                                stroke-width="0.3348979766803842"
+                                x1="0"
+                                x2="1.807265573641535"
+                                y1="0"
+                                y2="0"
+                              />
+                              <g
+                                class="svg-21-a-g"
+                                transform="translate(1.807265573641535, 0)"
+                              />
+                            </g>
+                          </g>
+                        </g>
+                        <g
+                          class="svg-21-a-g svg-21-a-segment svg-21-a-segment--left"
+                        >
+                          <line
+                            class="svg-21-a-line"
+                            stroke-width="0.401877572016461"
+                            x1="0"
+                            x2="2.5558594850538507"
+                            y1="0"
+                            y2="0"
+                          />
+                          <g
+                            class="svg-21-a-g"
+                            transform="translate(2.5558594850538507, 0)"
+                          >
+                            <g
+                              class="svg-21-a-g svg-21-a-segment svg-21-a-segment--right"
+                            >
+                              <line
+                                class="svg-21-a-line"
+                                stroke-width="0.3348979766803842"
+                                x1="0"
+                                x2="1.807265573641535"
+                                y1="0"
+                                y2="0"
+                              />
+                              <g
+                                class="svg-21-a-g"
+                                transform="translate(1.807265573641535, 0)"
+                              />
+                            </g>
+                            <g
+                              class="svg-21-a-g svg-21-a-segment svg-21-a-segment--left"
+                            >
+                              <line
+                                class="svg-21-a-line"
+                                stroke-width="0.3348979766803842"
+                                x1="0"
+                                x2="1.807265573641535"
+                                y1="0"
+                                y2="0"
+                              />
+                              <g
+                                class="svg-21-a-g"
+                                transform="translate(1.807265573641535, 0)"
+                              />
+                            </g>
+                          </g>
+                        </g>
+                      </g>
+                    </g>
+                  </g>
+                </g>
+              </g>
+            </g>
+          </g>
+        </g>
+        <g
+          class="svg-21-a-g svg-21-a-segment svg-21-a-segment--left"
+        >
+          <line
+            class="svg-21-a-line"
+            stroke-width="0.8333333333333334"
+            x1="0"
+            x2="10.223437940215407"
+            y1="0"
+            y2="0"
+          />
+          <g
+            class="svg-21-a-g"
+            transform="translate(10.223437940215407, 0)"
+          >
+            <g
+              class="svg-21-a-g svg-21-a-segment svg-21-a-segment--right"
+            >
+              <line
+                class="svg-21-a-line"
+                stroke-width="0.6944444444444445"
+                x1="0"
+                x2="7.229062294566143"
+                y1="0"
+                y2="0"
+              />
+              <g
+                class="svg-21-a-g"
+                transform="translate(7.229062294566143, 0)"
+              >
+                <g
+                  class="svg-21-a-g svg-21-a-segment svg-21-a-segment--right"
+                >
+                  <line
+                    class="svg-21-a-line"
+                    stroke-width="0.5787037037037038"
+                    x1="0"
+                    x2="5.111718970107702"
+                    y1="0"
+                    y2="0"
+                  />
+                  <g
+                    class="svg-21-a-g"
+                    transform="translate(5.111718970107702, 0)"
+                  >
+                    <g
+                      class="svg-21-a-g svg-21-a-segment svg-21-a-segment--right"
+                    >
+                      <line
+                        class="svg-21-a-line"
+                        stroke-width="0.48225308641975323"
+                        x1="0"
+                        x2="3.614531147283071"
+                        y1="0"
+                        y2="0"
+                      />
+                      <g
+                        class="svg-21-a-g"
+                        transform="translate(3.614531147283071, 0)"
+                      >
+                        <g
+                          class="svg-21-a-g svg-21-a-segment svg-21-a-segment--right"
+                        >
+                          <line
+                            class="svg-21-a-line"
+                            stroke-width="0.401877572016461"
+                            x1="0"
+                            x2="2.5558594850538507"
+                            y1="0"
+                            y2="0"
+                          />
+                          <g
+                            class="svg-21-a-g"
+                            transform="translate(2.5558594850538507, 0)"
+                          >
+                            <g
+                              class="svg-21-a-g svg-21-a-segment svg-21-a-segment--right"
+                            >
+                              <line
+                                class="svg-21-a-line"
+                                stroke-width="0.3348979766803842"
+                                x1="0"
+                                x2="1.807265573641535"
+                                y1="0"
+                                y2="0"
+                              />
+                              <g
+                                class="svg-21-a-g"
+                                transform="translate(1.807265573641535, 0)"
+                              />
+                            </g>
+                            <g
+                              class="svg-21-a-g svg-21-a-segment svg-21-a-segment--left"
+                            >
+                              <line
+                                class="svg-21-a-line"
+                                stroke-width="0.3348979766803842"
+                                x1="0"
+                                x2="1.807265573641535"
+                                y1="0"
+                                y2="0"
+                              />
+                              <g
+                                class="svg-21-a-g"
+                                transform="translate(1.807265573641535, 0)"
+                              />
+                            </g>
+                          </g>
+                        </g>
+                        <g
+                          class="svg-21-a-g svg-21-a-segment svg-21-a-segment--left"
+                        >
+                          <line
+                            class="svg-21-a-line"
+                            stroke-width="0.401877572016461"
+                            x1="0"
+                            x2="2.5558594850538507"
+                            y1="0"
+                            y2="0"
+                          />
+                          <g
+                            class="svg-21-a-g"
+                            transform="translate(2.5558594850538507, 0)"
+                          >
+                            <g
+                              class="svg-21-a-g svg-21-a-segment svg-21-a-segment--right"
+                            >
+                              <line
+                                class="svg-21-a-line"
+                                stroke-width="0.3348979766803842"
+                                x1="0"
+                                x2="1.807265573641535"
+                                y1="0"
+                                y2="0"
+                              />
+                              <g
+                                class="svg-21-a-g"
+                                transform="translate(1.807265573641535, 0)"
+                              />
+                            </g>
+                            <g
+                              class="svg-21-a-g svg-21-a-segment svg-21-a-segment--left"
+                            >
+                              <line
+                                class="svg-21-a-line"
+                                stroke-width="0.3348979766803842"
+                                x1="0"
+                                x2="1.807265573641535"
+                                y1="0"
+                                y2="0"
+                              />
+                              <g
+                                class="svg-21-a-g"
+                                transform="translate(1.807265573641535, 0)"
+                              />
+                            </g>
+                          </g>
+                        </g>
+                      </g>
+                    </g>
+                    <g
+                      class="svg-21-a-g svg-21-a-segment svg-21-a-segment--left"
+                    >
+                      <line
+                        class="svg-21-a-line"
+                        stroke-width="0.48225308641975323"
+                        x1="0"
+                        x2="3.614531147283071"
+                        y1="0"
+                        y2="0"
+                      />
+                      <g
+                        class="svg-21-a-g"
+                        transform="translate(3.614531147283071, 0)"
+                      >
+                        <g
+                          class="svg-21-a-g svg-21-a-segment svg-21-a-segment--right"
+                        >
+                          <line
+                            class="svg-21-a-line"
+                            stroke-width="0.401877572016461"
+                            x1="0"
+                            x2="2.5558594850538507"
+                            y1="0"
+                            y2="0"
+                          />
+                          <g
+                            class="svg-21-a-g"
+                            transform="translate(2.5558594850538507, 0)"
+                          >
+                            <g
+                              class="svg-21-a-g svg-21-a-segment svg-21-a-segment--right"
+                            >
+                              <line
+                                class="svg-21-a-line"
+                                stroke-width="0.3348979766803842"
+                                x1="0"
+                                x2="1.807265573641535"
+                                y1="0"
+                                y2="0"
+                              />
+                              <g
+                                class="svg-21-a-g"
+                                transform="translate(1.807265573641535, 0)"
+                              />
+                            </g>
+                            <g
+                              class="svg-21-a-g svg-21-a-segment svg-21-a-segment--left"
+                            >
+                              <line
+                                class="svg-21-a-line"
+                                stroke-width="0.3348979766803842"
+                                x1="0"
+                                x2="1.807265573641535"
+                                y1="0"
+                                y2="0"
+                              />
+                              <g
+                                class="svg-21-a-g"
+                                transform="translate(1.807265573641535, 0)"
+                              />
+                            </g>
+                          </g>
+                        </g>
+                        <g
+                          class="svg-21-a-g svg-21-a-segment svg-21-a-segment--left"
+                        >
+                          <line
+                            class="svg-21-a-line"
+                            stroke-width="0.401877572016461"
+                            x1="0"
+                            x2="2.5558594850538507"
+                            y1="0"
+                            y2="0"
+                          />
+                          <g
+                            class="svg-21-a-g"
+                            transform="translate(2.5558594850538507, 0)"
+                          >
+                            <g
+                              class="svg-21-a-g svg-21-a-segment svg-21-a-segment--right"
+                            >
+                              <line
+                                class="svg-21-a-line"
+                                stroke-width="0.3348979766803842"
+                                x1="0"
+                                x2="1.807265573641535"
+                                y1="0"
+                                y2="0"
+                              />
+                              <g
+                                class="svg-21-a-g"
+                                transform="translate(1.807265573641535, 0)"
+                              />
+                            </g>
+                            <g
+                              class="svg-21-a-g svg-21-a-segment svg-21-a-segment--left"
+                            >
+                              <line
+                                class="svg-21-a-line"
+                                stroke-width="0.3348979766803842"
+                                x1="0"
+                                x2="1.807265573641535"
+                                y1="0"
+                                y2="0"
+                              />
+                              <g
+                                class="svg-21-a-g"
+                                transform="translate(1.807265573641535, 0)"
+                              />
+                            </g>
+                          </g>
+                        </g>
+                      </g>
+                    </g>
+                  </g>
+                </g>
+                <g
+                  class="svg-21-a-g svg-21-a-segment svg-21-a-segment--left"
+                >
+                  <line
+                    class="svg-21-a-line"
+                    stroke-width="0.5787037037037038"
+                    x1="0"
+                    x2="5.111718970107702"
+                    y1="0"
+                    y2="0"
+                  />
+                  <g
+                    class="svg-21-a-g"
+                    transform="translate(5.111718970107702, 0)"
+                  >
+                    <g
+                      class="svg-21-a-g svg-21-a-segment svg-21-a-segment--right"
+                    >
+                      <line
+                        class="svg-21-a-line"
+                        stroke-width="0.48225308641975323"
+                        x1="0"
+                        x2="3.614531147283071"
+                        y1="0"
+                        y2="0"
+                      />
+                      <g
+                        class="svg-21-a-g"
+                        transform="translate(3.614531147283071, 0)"
+                      >
+                        <g
+                          class="svg-21-a-g svg-21-a-segment svg-21-a-segment--right"
+                        >
+                          <line
+                            class="svg-21-a-line"
+                            stroke-width="0.401877572016461"
+                            x1="0"
+                            x2="2.5558594850538507"
+                            y1="0"
+                            y2="0"
+                          />
+                          <g
+                            class="svg-21-a-g"
+                            transform="translate(2.5558594850538507, 0)"
+                          >
+                            <g
+                              class="svg-21-a-g svg-21-a-segment svg-21-a-segment--right"
+                            >
+                              <line
+                                class="svg-21-a-line"
+                                stroke-width="0.3348979766803842"
+                                x1="0"
+                                x2="1.807265573641535"
+                                y1="0"
+                                y2="0"
+                              />
+                              <g
+                                class="svg-21-a-g"
+                                transform="translate(1.807265573641535, 0)"
+                              />
+                            </g>
+                            <g
+                              class="svg-21-a-g svg-21-a-segment svg-21-a-segment--left"
+                            >
+                              <line
+                                class="svg-21-a-line"
+                                stroke-width="0.3348979766803842"
+                                x1="0"
+                                x2="1.807265573641535"
+                                y1="0"
+                                y2="0"
+                              />
+                              <g
+                                class="svg-21-a-g"
+                                transform="translate(1.807265573641535, 0)"
+                              />
+                            </g>
+                          </g>
+                        </g>
+                        <g
+                          class="svg-21-a-g svg-21-a-segment svg-21-a-segment--left"
+                        >
+                          <line
+                            class="svg-21-a-line"
+                            stroke-width="0.401877572016461"
+                            x1="0"
+                            x2="2.5558594850538507"
+                            y1="0"
+                            y2="0"
+                          />
+                          <g
+                            class="svg-21-a-g"
+                            transform="translate(2.5558594850538507, 0)"
+                          >
+                            <g
+                              class="svg-21-a-g svg-21-a-segment svg-21-a-segment--right"
+                            >
+                              <line
+                                class="svg-21-a-line"
+                                stroke-width="0.3348979766803842"
+                                x1="0"
+                                x2="1.807265573641535"
+                                y1="0"
+                                y2="0"
+                              />
+                              <g
+                                class="svg-21-a-g"
+                                transform="translate(1.807265573641535, 0)"
+                              />
+                            </g>
+                            <g
+                              class="svg-21-a-g svg-21-a-segment svg-21-a-segment--left"
+                            >
+                              <line
+                                class="svg-21-a-line"
+                                stroke-width="0.3348979766803842"
+                                x1="0"
+                                x2="1.807265573641535"
+                                y1="0"
+                                y2="0"
+                              />
+                              <g
+                                class="svg-21-a-g"
+                                transform="translate(1.807265573641535, 0)"
+                              />
+                            </g>
+                          </g>
+                        </g>
+                      </g>
+                    </g>
+                    <g
+                      class="svg-21-a-g svg-21-a-segment svg-21-a-segment--left"
+                    >
+                      <line
+                        class="svg-21-a-line"
+                        stroke-width="0.48225308641975323"
+                        x1="0"
+                        x2="3.614531147283071"
+                        y1="0"
+                        y2="0"
+                      />
+                      <g
+                        class="svg-21-a-g"
+                        transform="translate(3.614531147283071, 0)"
+                      >
+                        <g
+                          class="svg-21-a-g svg-21-a-segment svg-21-a-segment--right"
+                        >
+                          <line
+                            class="svg-21-a-line"
+                            stroke-width="0.401877572016461"
+                            x1="0"
+                            x2="2.5558594850538507"
+                            y1="0"
+                            y2="0"
+                          />
+                          <g
+                            class="svg-21-a-g"
+                            transform="translate(2.5558594850538507, 0)"
+                          >
+                            <g
+                              class="svg-21-a-g svg-21-a-segment svg-21-a-segment--right"
+                            >
+                              <line
+                                class="svg-21-a-line"
+                                stroke-width="0.3348979766803842"
+                                x1="0"
+                                x2="1.807265573641535"
+                                y1="0"
+                                y2="0"
+                              />
+                              <g
+                                class="svg-21-a-g"
+                                transform="translate(1.807265573641535, 0)"
+                              />
+                            </g>
+                            <g
+                              class="svg-21-a-g svg-21-a-segment svg-21-a-segment--left"
+                            >
+                              <line
+                                class="svg-21-a-line"
+                                stroke-width="0.3348979766803842"
+                                x1="0"
+                                x2="1.807265573641535"
+                                y1="0"
+                                y2="0"
+                              />
+                              <g
+                                class="svg-21-a-g"
+                                transform="translate(1.807265573641535, 0)"
+                              />
+                            </g>
+                          </g>
+                        </g>
+                        <g
+                          class="svg-21-a-g svg-21-a-segment svg-21-a-segment--left"
+                        >
+                          <line
+                            class="svg-21-a-line"
+                            stroke-width="0.401877572016461"
+                            x1="0"
+                            x2="2.5558594850538507"
+                            y1="0"
+                            y2="0"
+                          />
+                          <g
+                            class="svg-21-a-g"
+                            transform="translate(2.5558594850538507, 0)"
+                          >
+                            <g
+                              class="svg-21-a-g svg-21-a-segment svg-21-a-segment--right"
+                            >
+                              <line
+                                class="svg-21-a-line"
+                                stroke-width="0.3348979766803842"
+                                x1="0"
+                                x2="1.807265573641535"
+                                y1="0"
+                                y2="0"
+                              />
+                              <g
+                                class="svg-21-a-g"
+                                transform="translate(1.807265573641535, 0)"
+                              />
+                            </g>
+                            <g
+                              class="svg-21-a-g svg-21-a-segment svg-21-a-segment--left"
+                            >
+                              <line
+                                class="svg-21-a-line"
+                                stroke-width="0.3348979766803842"
+                                x1="0"
+                                x2="1.807265573641535"
+                                y1="0"
+                                y2="0"
+                              />
+                              <g
+                                class="svg-21-a-g"
+                                transform="translate(1.807265573641535, 0)"
+                              />
+                            </g>
+                          </g>
+                        </g>
+                      </g>
+                    </g>
+                  </g>
+                </g>
+              </g>
+            </g>
+            <g
+              class="svg-21-a-g svg-21-a-segment svg-21-a-segment--left"
+            >
+              <line
+                class="svg-21-a-line"
+                stroke-width="0.6944444444444445"
+                x1="0"
+                x2="7.229062294566143"
+                y1="0"
+                y2="0"
+              />
+              <g
+                class="svg-21-a-g"
+                transform="translate(7.229062294566143, 0)"
+              >
+                <g
+                  class="svg-21-a-g svg-21-a-segment svg-21-a-segment--right"
+                >
+                  <line
+                    class="svg-21-a-line"
+                    stroke-width="0.5787037037037038"
+                    x1="0"
+                    x2="5.111718970107702"
+                    y1="0"
+                    y2="0"
+                  />
+                  <g
+                    class="svg-21-a-g"
+                    transform="translate(5.111718970107702, 0)"
+                  >
+                    <g
+                      class="svg-21-a-g svg-21-a-segment svg-21-a-segment--right"
+                    >
+                      <line
+                        class="svg-21-a-line"
+                        stroke-width="0.48225308641975323"
+                        x1="0"
+                        x2="3.614531147283071"
+                        y1="0"
+                        y2="0"
+                      />
+                      <g
+                        class="svg-21-a-g"
+                        transform="translate(3.614531147283071, 0)"
+                      >
+                        <g
+                          class="svg-21-a-g svg-21-a-segment svg-21-a-segment--right"
+                        >
+                          <line
+                            class="svg-21-a-line"
+                            stroke-width="0.401877572016461"
+                            x1="0"
+                            x2="2.5558594850538507"
+                            y1="0"
+                            y2="0"
+                          />
+                          <g
+                            class="svg-21-a-g"
+                            transform="translate(2.5558594850538507, 0)"
+                          >
+                            <g
+                              class="svg-21-a-g svg-21-a-segment svg-21-a-segment--right"
+                            >
+                              <line
+                                class="svg-21-a-line"
+                                stroke-width="0.3348979766803842"
+                                x1="0"
+                                x2="1.807265573641535"
+                                y1="0"
+                                y2="0"
+                              />
+                              <g
+                                class="svg-21-a-g"
+                                transform="translate(1.807265573641535, 0)"
+                              />
+                            </g>
+                            <g
+                              class="svg-21-a-g svg-21-a-segment svg-21-a-segment--left"
+                            >
+                              <line
+                                class="svg-21-a-line"
+                                stroke-width="0.3348979766803842"
+                                x1="0"
+                                x2="1.807265573641535"
+                                y1="0"
+                                y2="0"
+                              />
+                              <g
+                                class="svg-21-a-g"
+                                transform="translate(1.807265573641535, 0)"
+                              />
+                            </g>
+                          </g>
+                        </g>
+                        <g
+                          class="svg-21-a-g svg-21-a-segment svg-21-a-segment--left"
+                        >
+                          <line
+                            class="svg-21-a-line"
+                            stroke-width="0.401877572016461"
+                            x1="0"
+                            x2="2.5558594850538507"
+                            y1="0"
+                            y2="0"
+                          />
+                          <g
+                            class="svg-21-a-g"
+                            transform="translate(2.5558594850538507, 0)"
+                          >
+                            <g
+                              class="svg-21-a-g svg-21-a-segment svg-21-a-segment--right"
+                            >
+                              <line
+                                class="svg-21-a-line"
+                                stroke-width="0.3348979766803842"
+                                x1="0"
+                                x2="1.807265573641535"
+                                y1="0"
+                                y2="0"
+                              />
+                              <g
+                                class="svg-21-a-g"
+                                transform="translate(1.807265573641535, 0)"
+                              />
+                            </g>
+                            <g
+                              class="svg-21-a-g svg-21-a-segment svg-21-a-segment--left"
+                            >
+                              <line
+                                class="svg-21-a-line"
+                                stroke-width="0.3348979766803842"
+                                x1="0"
+                                x2="1.807265573641535"
+                                y1="0"
+                                y2="0"
+                              />
+                              <g
+                                class="svg-21-a-g"
+                                transform="translate(1.807265573641535, 0)"
+                              />
+                            </g>
+                          </g>
+                        </g>
+                      </g>
+                    </g>
+                    <g
+                      class="svg-21-a-g svg-21-a-segment svg-21-a-segment--left"
+                    >
+                      <line
+                        class="svg-21-a-line"
+                        stroke-width="0.48225308641975323"
+                        x1="0"
+                        x2="3.614531147283071"
+                        y1="0"
+                        y2="0"
+                      />
+                      <g
+                        class="svg-21-a-g"
+                        transform="translate(3.614531147283071, 0)"
+                      >
+                        <g
+                          class="svg-21-a-g svg-21-a-segment svg-21-a-segment--right"
+                        >
+                          <line
+                            class="svg-21-a-line"
+                            stroke-width="0.401877572016461"
+                            x1="0"
+                            x2="2.5558594850538507"
+                            y1="0"
+                            y2="0"
+                          />
+                          <g
+                            class="svg-21-a-g"
+                            transform="translate(2.5558594850538507, 0)"
+                          >
+                            <g
+                              class="svg-21-a-g svg-21-a-segment svg-21-a-segment--right"
+                            >
+                              <line
+                                class="svg-21-a-line"
+                                stroke-width="0.3348979766803842"
+                                x1="0"
+                                x2="1.807265573641535"
+                                y1="0"
+                                y2="0"
+                              />
+                              <g
+                                class="svg-21-a-g"
+                                transform="translate(1.807265573641535, 0)"
+                              />
+                            </g>
+                            <g
+                              class="svg-21-a-g svg-21-a-segment svg-21-a-segment--left"
+                            >
+                              <line
+                                class="svg-21-a-line"
+                                stroke-width="0.3348979766803842"
+                                x1="0"
+                                x2="1.807265573641535"
+                                y1="0"
+                                y2="0"
+                              />
+                              <g
+                                class="svg-21-a-g"
+                                transform="translate(1.807265573641535, 0)"
+                              />
+                            </g>
+                          </g>
+                        </g>
+                        <g
+                          class="svg-21-a-g svg-21-a-segment svg-21-a-segment--left"
+                        >
+                          <line
+                            class="svg-21-a-line"
+                            stroke-width="0.401877572016461"
+                            x1="0"
+                            x2="2.5558594850538507"
+                            y1="0"
+                            y2="0"
+                          />
+                          <g
+                            class="svg-21-a-g"
+                            transform="translate(2.5558594850538507, 0)"
+                          >
+                            <g
+                              class="svg-21-a-g svg-21-a-segment svg-21-a-segment--right"
+                            >
+                              <line
+                                class="svg-21-a-line"
+                                stroke-width="0.3348979766803842"
+                                x1="0"
+                                x2="1.807265573641535"
+                                y1="0"
+                                y2="0"
+                              />
+                              <g
+                                class="svg-21-a-g"
+                                transform="translate(1.807265573641535, 0)"
+                              />
+                            </g>
+                            <g
+                              class="svg-21-a-g svg-21-a-segment svg-21-a-segment--left"
+                            >
+                              <line
+                                class="svg-21-a-line"
+                                stroke-width="0.3348979766803842"
+                                x1="0"
+                                x2="1.807265573641535"
+                                y1="0"
+                                y2="0"
+                              />
+                              <g
+                                class="svg-21-a-g"
+                                transform="translate(1.807265573641535, 0)"
+                              />
+                            </g>
+                          </g>
+                        </g>
+                      </g>
+                    </g>
+                  </g>
+                </g>
+                <g
+                  class="svg-21-a-g svg-21-a-segment svg-21-a-segment--left"
+                >
+                  <line
+                    class="svg-21-a-line"
+                    stroke-width="0.5787037037037038"
+                    x1="0"
+                    x2="5.111718970107702"
+                    y1="0"
+                    y2="0"
+                  />
+                  <g
+                    class="svg-21-a-g"
+                    transform="translate(5.111718970107702, 0)"
+                  >
+                    <g
+                      class="svg-21-a-g svg-21-a-segment svg-21-a-segment--right"
+                    >
+                      <line
+                        class="svg-21-a-line"
+                        stroke-width="0.48225308641975323"
+                        x1="0"
+                        x2="3.614531147283071"
+                        y1="0"
+                        y2="0"
+                      />
+                      <g
+                        class="svg-21-a-g"
+                        transform="translate(3.614531147283071, 0)"
+                      >
+                        <g
+                          class="svg-21-a-g svg-21-a-segment svg-21-a-segment--right"
+                        >
+                          <line
+                            class="svg-21-a-line"
+                            stroke-width="0.401877572016461"
+                            x1="0"
+                            x2="2.5558594850538507"
+                            y1="0"
+                            y2="0"
+                          />
+                          <g
+                            class="svg-21-a-g"
+                            transform="translate(2.5558594850538507, 0)"
+                          >
+                            <g
+                              class="svg-21-a-g svg-21-a-segment svg-21-a-segment--right"
+                            >
+                              <line
+                                class="svg-21-a-line"
+                                stroke-width="0.3348979766803842"
+                                x1="0"
+                                x2="1.807265573641535"
+                                y1="0"
+                                y2="0"
+                              />
+                              <g
+                                class="svg-21-a-g"
+                                transform="translate(1.807265573641535, 0)"
+                              />
+                            </g>
+                            <g
+                              class="svg-21-a-g svg-21-a-segment svg-21-a-segment--left"
+                            >
+                              <line
+                                class="svg-21-a-line"
+                                stroke-width="0.3348979766803842"
+                                x1="0"
+                                x2="1.807265573641535"
+                                y1="0"
+                                y2="0"
+                              />
+                              <g
+                                class="svg-21-a-g"
+                                transform="translate(1.807265573641535, 0)"
+                              />
+                            </g>
+                          </g>
+                        </g>
+                        <g
+                          class="svg-21-a-g svg-21-a-segment svg-21-a-segment--left"
+                        >
+                          <line
+                            class="svg-21-a-line"
+                            stroke-width="0.401877572016461"
+                            x1="0"
+                            x2="2.5558594850538507"
+                            y1="0"
+                            y2="0"
+                          />
+                          <g
+                            class="svg-21-a-g"
+                            transform="translate(2.5558594850538507, 0)"
+                          >
+                            <g
+                              class="svg-21-a-g svg-21-a-segment svg-21-a-segment--right"
+                            >
+                              <line
+                                class="svg-21-a-line"
+                                stroke-width="0.3348979766803842"
+                                x1="0"
+                                x2="1.807265573641535"
+                                y1="0"
+                                y2="0"
+                              />
+                              <g
+                                class="svg-21-a-g"
+                                transform="translate(1.807265573641535, 0)"
+                              />
+                            </g>
+                            <g
+                              class="svg-21-a-g svg-21-a-segment svg-21-a-segment--left"
+                            >
+                              <line
+                                class="svg-21-a-line"
+                                stroke-width="0.3348979766803842"
+                                x1="0"
+                                x2="1.807265573641535"
+                                y1="0"
+                                y2="0"
+                              />
+                              <g
+                                class="svg-21-a-g"
+                                transform="translate(1.807265573641535, 0)"
+                              />
+                            </g>
+                          </g>
+                        </g>
+                      </g>
+                    </g>
+                    <g
+                      class="svg-21-a-g svg-21-a-segment svg-21-a-segment--left"
+                    >
+                      <line
+                        class="svg-21-a-line"
+                        stroke-width="0.48225308641975323"
+                        x1="0"
+                        x2="3.614531147283071"
+                        y1="0"
+                        y2="0"
+                      />
+                      <g
+                        class="svg-21-a-g"
+                        transform="translate(3.614531147283071, 0)"
+                      >
+                        <g
+                          class="svg-21-a-g svg-21-a-segment svg-21-a-segment--right"
+                        >
+                          <line
+                            class="svg-21-a-line"
+                            stroke-width="0.401877572016461"
+                            x1="0"
+                            x2="2.5558594850538507"
+                            y1="0"
+                            y2="0"
+                          />
+                          <g
+                            class="svg-21-a-g"
+                            transform="translate(2.5558594850538507, 0)"
+                          >
+                            <g
+                              class="svg-21-a-g svg-21-a-segment svg-21-a-segment--right"
+                            >
+                              <line
+                                class="svg-21-a-line"
+                                stroke-width="0.3348979766803842"
+                                x1="0"
+                                x2="1.807265573641535"
+                                y1="0"
+                                y2="0"
+                              />
+                              <g
+                                class="svg-21-a-g"
+                                transform="translate(1.807265573641535, 0)"
+                              />
+                            </g>
+                            <g
+                              class="svg-21-a-g svg-21-a-segment svg-21-a-segment--left"
+                            >
+                              <line
+                                class="svg-21-a-line"
+                                stroke-width="0.3348979766803842"
+                                x1="0"
+                                x2="1.807265573641535"
+                                y1="0"
+                                y2="0"
+                              />
+                              <g
+                                class="svg-21-a-g"
+                                transform="translate(1.807265573641535, 0)"
+                              />
+                            </g>
+                          </g>
+                        </g>
+                        <g
+                          class="svg-21-a-g svg-21-a-segment svg-21-a-segment--left"
+                        >
+                          <line
+                            class="svg-21-a-line"
+                            stroke-width="0.401877572016461"
+                            x1="0"
+                            x2="2.5558594850538507"
+                            y1="0"
+                            y2="0"
+                          />
+                          <g
+                            class="svg-21-a-g"
+                            transform="translate(2.5558594850538507, 0)"
+                          >
+                            <g
+                              class="svg-21-a-g svg-21-a-segment svg-21-a-segment--right"
+                            >
+                              <line
+                                class="svg-21-a-line"
+                                stroke-width="0.3348979766803842"
+                                x1="0"
+                                x2="1.807265573641535"
+                                y1="0"
+                                y2="0"
+                              />
+                              <g
+                                class="svg-21-a-g"
+                                transform="translate(1.807265573641535, 0)"
+                              />
+                            </g>
+                            <g
+                              class="svg-21-a-g svg-21-a-segment svg-21-a-segment--left"
+                            >
+                              <line
+                                class="svg-21-a-line"
+                                stroke-width="0.3348979766803842"
+                                x1="0"
+                                x2="1.807265573641535"
+                                y1="0"
+                                y2="0"
+                              />
+                              <g
+                                class="svg-21-a-g"
+                                transform="translate(1.807265573641535, 0)"
+                              />
+                            </g>
+                          </g>
+                        </g>
+                      </g>
+                    </g>
+                  </g>
+                </g>
+              </g>
+            </g>
+          </g>
+        </g>
+      </g>
+    </g>
+    <line
+      class="svg-21-a-line"
+      stroke-width="1.2"
+      x1="0"
+      x2="-20.446875880430817"
+      y1="0"
+      y2="0"
+    />
+  </g>
+</svg>

@@ -1,0 +1,644 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE svg>
+<svg
+  data-animation-duration="2s"
+  viewBox="-50 -50 100 100"
+>
+  <title>
+    ANIMATION 45 - VARIATION B
+  </title>
+  <desc>
+    <p>See this animation in action here: <a href="https://andrew.wang-hoyer.com/experiments/svg-animations/45/b" target="_blank" rel="noopener">https://andrew.wang-hoyer.com/experiments/svg-animations/45/b</a>.</p>
+    <p>Generator source code : <a href="https://github.com/ndrwhr/svg-animation-src/tree/master/site/_svgs/generators/animations/45/b.js" target="_blank" rel="noopener">https://github.com/ndrwhr/svg-animation-src/tree/master/site/_svgs/generators/animations/45/b.js</a>.</p>
+    <p>All generated files and source code are released under the following license:</p>
+    <p>MIT License</p>
+    <p>Copyright (c) 2018-present Andrew Hoyer</p>
+    <p>Permission is hereby granted, free of charge, to any person obtaining a copy of this software and associated documentation files (the &quot;Software&quot;), to deal in the Software without restriction, including without limitation the rights to use, copy, modify, merge, publish, distribute, sublicense, and/or sell copies of the Software, and to permit persons to whom the Software is furnished to do so, subject to the following conditions:</p>
+    <p>The above copyright notice and this permission notice shall be included in all copies or substantial portions of the Software.</p>
+    <p>THE SOFTWARE IS PROVIDED &quot;AS IS&quot;, WITHOUT WARRANTY OF ANY KIND, EXPRESS OR IMPLIED, INCLUDING BUT NOT LIMITED TO THE WARRANTIES OF MERCHANTABILITY, FITNESS FOR A PARTICULAR PURPOSE AND NONINFRINGEMENT. IN NO EVENT SHALL THE AUTHORS OR COPYRIGHT HOLDERS BE LIABLE FOR ANY CLAIM, DAMAGES OR OTHER LIABILITY, WHETHER IN AN ACTION OF CONTRACT, TORT OR OTHERWISE, ARISING FROM, OUT OF OR IN CONNECTION WITH THE SOFTWARE OR THE USE OR OTHER DEALINGS IN THE SOFTWARE.</p>
+  </desc>
+  <style>
+    /* <![CDATA[ */
+      .svg-45-b-circle {
+        fill: white;
+        stroke: black;
+        stroke-width: .2;
+      }
+      
+      .svg-45-b-container {
+        animation: svg-45-b-main-anim 2s cubic-bezier(.7, 0, .30000000000000004, 1) alternate infinite;
+      }
+      
+      @keyframes svg-45-b-main-anim {
+        0% {
+          transform: translate(-3.75%, -1.875%);
+        }
+      
+        100% {
+          transform: translate(3.75%, 1.875%);
+        }
+      }
+      
+    /* ]]> */
+  </style>
+  <g
+    class="svg-45-b-g svg-45-b-container"
+    style="animation-delay: -0s"
+  >
+    <circle
+      class="svg-45-b-circle"
+      cx="0"
+      cy="0"
+      r="0"
+      transform="translate(0 30) scale(1 0.3)"
+    />
+  </g>
+  <g
+    class="svg-45-b-g svg-45-b-container"
+    style="animation-delay: -0.16s"
+  >
+    <circle
+      class="svg-45-b-circle"
+      cx="0"
+      cy="0"
+      r="8.400000000000011"
+      transform="translate(0 28.799999999999997) scale(1 0.3)"
+    />
+  </g>
+  <g
+    class="svg-45-b-g svg-45-b-container"
+    style="animation-delay: -0.32s"
+  >
+    <circle
+      class="svg-45-b-circle"
+      cx="0"
+      cy="0"
+      r="11.75755076535927"
+      transform="translate(0 27.599999999999994) scale(1 0.3)"
+    />
+  </g>
+  <g
+    class="svg-45-b-g svg-45-b-container"
+    style="animation-delay: -0.48s"
+  >
+    <circle
+      class="svg-45-b-circle"
+      cx="0"
+      cy="0"
+      r="14.249210504445504"
+      transform="translate(0 26.4) scale(1 0.3)"
+    />
+  </g>
+  <g
+    class="svg-45-b-g svg-45-b-container"
+    style="animation-delay: -0.64s"
+  >
+    <circle
+      class="svg-45-b-circle"
+      cx="0"
+      cy="0"
+      r="16.277591959500636"
+      transform="translate(0 25.200000000000003) scale(1 0.3)"
+    />
+  </g>
+  <g
+    class="svg-45-b-g svg-45-b-container"
+    style="animation-delay: -0.8s"
+  >
+    <circle
+      class="svg-45-b-circle"
+      cx="0"
+      cy="0"
+      r="18"
+      transform="translate(0 24) scale(1 0.3)"
+    />
+  </g>
+  <g
+    class="svg-45-b-g svg-45-b-container"
+    style="animation-delay: -0.96s"
+  >
+    <circle
+      class="svg-45-b-circle"
+      cx="0"
+      cy="0"
+      r="19.497692171126307"
+      transform="translate(0 22.799999999999997) scale(1 0.3)"
+    />
+  </g>
+  <g
+    class="svg-45-b-g svg-45-b-container"
+    style="animation-delay: -1.12s"
+  >
+    <circle
+      class="svg-45-b-circle"
+      cx="0"
+      cy="0"
+      r="20.819221887476967"
+      transform="translate(0 21.6) scale(1 0.3)"
+    />
+  </g>
+  <g
+    class="svg-45-b-g svg-45-b-container"
+    style="animation-delay: -1.28s"
+  >
+    <circle
+      class="svg-45-b-circle"
+      cx="0"
+      cy="0"
+      r="21.996363335788033"
+      transform="translate(0 20.4) scale(1 0.3)"
+    />
+  </g>
+  <g
+    class="svg-45-b-g svg-45-b-container"
+    style="animation-delay: -1.44s"
+  >
+    <circle
+      class="svg-45-b-circle"
+      cx="0"
+      cy="0"
+      r="23.051247254758252"
+      transform="translate(0 19.200000000000003) scale(1 0.3)"
+    />
+  </g>
+  <g
+    class="svg-45-b-g svg-45-b-container"
+    style="animation-delay: -1.6s"
+  >
+    <circle
+      class="svg-45-b-circle"
+      cx="0"
+      cy="0"
+      r="24"
+      transform="translate(0 18) scale(1 0.3)"
+    />
+  </g>
+  <g
+    class="svg-45-b-g svg-45-b-container"
+    style="animation-delay: -1.76s"
+  >
+    <circle
+      class="svg-45-b-circle"
+      cx="0"
+      cy="0"
+      r="24.854778212649574"
+      transform="translate(0 16.800000000000004) scale(1 0.3)"
+    />
+  </g>
+  <g
+    class="svg-45-b-g svg-45-b-container"
+    style="animation-delay: -1.92s"
+  >
+    <circle
+      class="svg-45-b-circle"
+      cx="0"
+      cy="0"
+      r="25.624987804875147"
+      transform="translate(0 15.600000000000001) scale(1 0.3)"
+    />
+  </g>
+  <g
+    class="svg-45-b-g svg-45-b-container"
+    style="animation-delay: -2.08s"
+  >
+    <circle
+      class="svg-45-b-circle"
+      cx="0"
+      cy="0"
+      r="26.318054639353573"
+      transform="translate(0 14.399999999999999) scale(1 0.3)"
+    />
+  </g>
+  <g
+    class="svg-45-b-g svg-45-b-container"
+    style="animation-delay: -2.24s"
+  >
+    <circle
+      class="svg-45-b-circle"
+      cx="0"
+      cy="0"
+      r="26.93993318477238"
+      transform="translate(0 13.199999999999996) scale(1 0.3)"
+    />
+  </g>
+  <g
+    class="svg-45-b-g svg-45-b-container"
+    style="animation-delay: -2.4s"
+  >
+    <circle
+      class="svg-45-b-circle"
+      cx="0"
+      cy="0"
+      r="27.49545416973504"
+      transform="translate(0 12) scale(1 0.3)"
+    />
+  </g>
+  <g
+    class="svg-45-b-g svg-45-b-container"
+    style="animation-delay: -2.56s"
+  >
+    <circle
+      class="svg-45-b-circle"
+      cx="0"
+      cy="0"
+      r="27.988569095257443"
+      transform="translate(0 10.799999999999997) scale(1 0.3)"
+    />
+  </g>
+  <g
+    class="svg-45-b-g svg-45-b-container"
+    style="animation-delay: -2.72s"
+  >
+    <circle
+      class="svg-45-b-circle"
+      cx="0"
+      cy="0"
+      r="28.42252627758483"
+      transform="translate(0 9.599999999999994) scale(1 0.3)"
+    />
+  </g>
+  <g
+    class="svg-45-b-g svg-45-b-container"
+    style="animation-delay: -2.88s"
+  >
+    <circle
+      class="svg-45-b-circle"
+      cx="0"
+      cy="0"
+      r="28.8"
+      transform="translate(0 8.399999999999999) scale(1 0.3)"
+    />
+  </g>
+  <g
+    class="svg-45-b-g svg-45-b-container"
+    style="animation-delay: -3.04s"
+  >
+    <circle
+      class="svg-45-b-circle"
+      cx="0"
+      cy="0"
+      r="29.123186638827832"
+      transform="translate(0 7.200000000000003) scale(1 0.3)"
+    />
+  </g>
+  <g
+    class="svg-45-b-g svg-45-b-container"
+    style="animation-delay: -3.2s"
+  >
+    <circle
+      class="svg-45-b-circle"
+      cx="0"
+      cy="0"
+      r="29.393876913398138"
+      transform="translate(0 6) scale(1 0.3)"
+    />
+  </g>
+  <g
+    class="svg-45-b-g svg-45-b-container"
+    style="animation-delay: -3.36s"
+  >
+    <circle
+      class="svg-45-b-circle"
+      cx="0"
+      cy="0"
+      r="29.613510430207356"
+      transform="translate(0 4.800000000000004) scale(1 0.3)"
+    />
+  </g>
+  <g
+    class="svg-45-b-g svg-45-b-container"
+    style="animation-delay: -3.52s"
+  >
+    <circle
+      class="svg-45-b-circle"
+      cx="0"
+      cy="0"
+      r="29.783216750378056"
+      transform="translate(0 3.6000000000000014) scale(1 0.3)"
+    />
+  </g>
+  <g
+    class="svg-45-b-g svg-45-b-container"
+    style="animation-delay: -3.68s"
+  >
+    <circle
+      class="svg-45-b-circle"
+      cx="0"
+      cy="0"
+      r="29.90384590650507"
+      transform="translate(0 2.4000000000000057) scale(1 0.3)"
+    />
+  </g>
+  <g
+    class="svg-45-b-g svg-45-b-container"
+    style="animation-delay: -3.84s"
+  >
+    <circle
+      class="svg-45-b-circle"
+      cx="0"
+      cy="0"
+      r="29.975990392312312"
+      transform="translate(0 1.2000000000000028) scale(1 0.3)"
+    />
+  </g>
+  <g
+    class="svg-45-b-g svg-45-b-container"
+    style="animation-delay: -4s"
+  >
+    <circle
+      class="svg-45-b-circle"
+      cx="0"
+      cy="0"
+      r="30"
+      transform="translate(0 0) scale(1 0.3)"
+    />
+  </g>
+  <g
+    class="svg-45-b-g svg-45-b-container"
+    style="animation-delay: -4.16s"
+  >
+    <circle
+      class="svg-45-b-circle"
+      cx="0"
+      cy="0"
+      r="29.975990392312312"
+      transform="translate(0 -1.2000000000000028) scale(1 0.3)"
+    />
+  </g>
+  <g
+    class="svg-45-b-g svg-45-b-container"
+    style="animation-delay: -4.32s"
+  >
+    <circle
+      class="svg-45-b-circle"
+      cx="0"
+      cy="0"
+      r="29.90384590650507"
+      transform="translate(0 -2.400000000000002) scale(1 0.3)"
+    />
+  </g>
+  <g
+    class="svg-45-b-g svg-45-b-container"
+    style="animation-delay: -4.48s"
+  >
+    <circle
+      class="svg-45-b-circle"
+      cx="0"
+      cy="0"
+      r="29.783216750378056"
+      transform="translate(0 -3.6000000000000014) scale(1 0.3)"
+    />
+  </g>
+  <g
+    class="svg-45-b-g svg-45-b-container"
+    style="animation-delay: -4.64s"
+  >
+    <circle
+      class="svg-45-b-circle"
+      cx="0"
+      cy="0"
+      r="29.61351043020736"
+      transform="translate(0 -4.799999999999997) scale(1 0.3)"
+    />
+  </g>
+  <g
+    class="svg-45-b-g svg-45-b-container"
+    style="animation-delay: -4.8s"
+  >
+    <circle
+      class="svg-45-b-circle"
+      cx="0"
+      cy="0"
+      r="29.393876913398138"
+      transform="translate(0 -6) scale(1 0.3)"
+    />
+  </g>
+  <g
+    class="svg-45-b-g svg-45-b-container"
+    style="animation-delay: -4.96s"
+  >
+    <circle
+      class="svg-45-b-circle"
+      cx="0"
+      cy="0"
+      r="29.123186638827832"
+      transform="translate(0 -7.199999999999999) scale(1 0.3)"
+    />
+  </g>
+  <g
+    class="svg-45-b-g svg-45-b-container"
+    style="animation-delay: -5.12s"
+  >
+    <circle
+      class="svg-45-b-circle"
+      cx="0"
+      cy="0"
+      r="28.8"
+      transform="translate(0 -8.400000000000002) scale(1 0.3)"
+    />
+  </g>
+  <g
+    class="svg-45-b-g svg-45-b-container"
+    style="animation-delay: -5.28s"
+  >
+    <circle
+      class="svg-45-b-circle"
+      cx="0"
+      cy="0"
+      r="28.422526277584826"
+      transform="translate(0 -9.600000000000001) scale(1 0.3)"
+    />
+  </g>
+  <g
+    class="svg-45-b-g svg-45-b-container"
+    style="animation-delay: -5.44s"
+  >
+    <circle
+      class="svg-45-b-circle"
+      cx="0"
+      cy="0"
+      r="27.98856909525744"
+      transform="translate(0 -10.800000000000004) scale(1 0.3)"
+    />
+  </g>
+  <g
+    class="svg-45-b-g svg-45-b-container"
+    style="animation-delay: -5.6s"
+  >
+    <circle
+      class="svg-45-b-circle"
+      cx="0"
+      cy="0"
+      r="27.49545416973504"
+      transform="translate(0 -11.999999999999996) scale(1 0.3)"
+    />
+  </g>
+  <g
+    class="svg-45-b-g svg-45-b-container"
+    style="animation-delay: -5.76s"
+  >
+    <circle
+      class="svg-45-b-circle"
+      cx="0"
+      cy="0"
+      r="26.93993318477238"
+      transform="translate(0 -13.2) scale(1 0.3)"
+    />
+  </g>
+  <g
+    class="svg-45-b-g svg-45-b-container"
+    style="animation-delay: -5.92s"
+  >
+    <circle
+      class="svg-45-b-circle"
+      cx="0"
+      cy="0"
+      r="26.318054639353573"
+      transform="translate(0 -14.399999999999999) scale(1 0.3)"
+    />
+  </g>
+  <g
+    class="svg-45-b-g svg-45-b-container"
+    style="animation-delay: -6.08s"
+  >
+    <circle
+      class="svg-45-b-circle"
+      cx="0"
+      cy="0"
+      r="25.624987804875147"
+      transform="translate(0 -15.600000000000001) scale(1 0.3)"
+    />
+  </g>
+  <g
+    class="svg-45-b-g svg-45-b-container"
+    style="animation-delay: -6.24s"
+  >
+    <circle
+      class="svg-45-b-circle"
+      cx="0"
+      cy="0"
+      r="24.854778212649574"
+      transform="translate(0 -16.8) scale(1 0.3)"
+    />
+  </g>
+  <g
+    class="svg-45-b-g svg-45-b-container"
+    style="animation-delay: -6.4s"
+  >
+    <circle
+      class="svg-45-b-circle"
+      cx="0"
+      cy="0"
+      r="23.999999999999996"
+      transform="translate(0 -18.000000000000004) scale(1 0.3)"
+    />
+  </g>
+  <g
+    class="svg-45-b-g svg-45-b-container"
+    style="animation-delay: -6.56s"
+  >
+    <circle
+      class="svg-45-b-circle"
+      cx="0"
+      cy="0"
+      r="23.05124725475826"
+      transform="translate(0 -19.199999999999996) scale(1 0.3)"
+    />
+  </g>
+  <g
+    class="svg-45-b-g svg-45-b-container"
+    style="animation-delay: -6.72s"
+  >
+    <circle
+      class="svg-45-b-circle"
+      cx="0"
+      cy="0"
+      r="21.996363335788033"
+      transform="translate(0 -20.4) scale(1 0.3)"
+    />
+  </g>
+  <g
+    class="svg-45-b-g svg-45-b-container"
+    style="animation-delay: -6.88s"
+  >
+    <circle
+      class="svg-45-b-circle"
+      cx="0"
+      cy="0"
+      r="20.819221887476967"
+      transform="translate(0 -21.6) scale(1 0.3)"
+    />
+  </g>
+  <g
+    class="svg-45-b-g svg-45-b-container"
+    style="animation-delay: -7.04s"
+  >
+    <circle
+      class="svg-45-b-circle"
+      cx="0"
+      cy="0"
+      r="19.497692171126303"
+      transform="translate(0 -22.8) scale(1 0.3)"
+    />
+  </g>
+  <g
+    class="svg-45-b-g svg-45-b-container"
+    style="animation-delay: -7.2s"
+  >
+    <circle
+      class="svg-45-b-circle"
+      cx="0"
+      cy="0"
+      r="18"
+      transform="translate(0 -24) scale(1 0.3)"
+    />
+  </g>
+  <g
+    class="svg-45-b-g svg-45-b-container"
+    style="animation-delay: -7.36s"
+  >
+    <circle
+      class="svg-45-b-circle"
+      cx="0"
+      cy="0"
+      r="16.277591959500636"
+      transform="translate(0 -25.200000000000003) scale(1 0.3)"
+    />
+  </g>
+  <g
+    class="svg-45-b-g svg-45-b-container"
+    style="animation-delay: -7.52s"
+  >
+    <circle
+      class="svg-45-b-circle"
+      cx="0"
+      cy="0"
+      r="14.249210504445504"
+      transform="translate(0 -26.4) scale(1 0.3)"
+    />
+  </g>
+  <g
+    class="svg-45-b-g svg-45-b-container"
+    style="animation-delay: -7.68s"
+  >
+    <circle
+      class="svg-45-b-circle"
+      cx="0"
+      cy="0"
+      r="11.75755076535926"
+      transform="translate(0 -27.599999999999998) scale(1 0.3)"
+    />
+  </g>
+  <g
+    class="svg-45-b-g svg-45-b-container"
+    style="animation-delay: -7.84s"
+  >
+    <circle
+      class="svg-45-b-circle"
+      cx="0"
+      cy="0"
+      r="8.400000000000011"
+      transform="translate(0 -28.799999999999997) scale(1 0.3)"
+    />
+  </g>
+</svg>

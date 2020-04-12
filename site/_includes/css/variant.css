@@ -1,0 +1,65 @@
+.variant__main {
+  display: flex;
+  justify-content: center;
+  align-items: center;
+}
+
+.variant__anim {
+  flex: 1;
+  margin-bottom: 3rem;
+  padding: 0 2.5vw;
+}
+
+.variant__anim svg {
+  max-height: calc(100vh - 10vw);
+  max-width: calc(100vw - 10vw);
+}
+
+.variant__nav {
+  display: block;
+}
+
+.variant__nav--disabled {
+  text-decoration: line-through;
+  cursor: not-allowed;
+}
+
+.variant__sub-header {
+  margin-bottom: 3rem;
+}
+
+.variant__links {
+  margin: 0 0 6rem 3rem;
+}
+
+.variant__links li {
+  line-height: 1.75;
+  margin-bottom: 0.2em;
+}
+
+.variant__download-types {
+  display: inline-block;
+  list-style: none;
+}
+
+.variant__download-types li {
+  display: inline-block;
+}
+
+.variant__download-types li {
+  margin-left: 1rem;
+  margin-bottom: 0;
+}
+
+.variant__download-types li a {
+  line-height: 1;
+}
+
+.variant p {
+  margin-bottom: 3rem;
+  line-height: 1.75;
+}
+
+.variant p:last-of-type {
+  margin-bottom: 6rem;
+}

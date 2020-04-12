@@ -1,0 +1,485 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE svg>
+<svg
+  data-animation-duration="5s"
+  viewBox="-50 -50 100 100"
+>
+  <title>
+    ANIMATION 40 - VARIATION B
+  </title>
+  <desc>
+    <p>See this animation in action here: <a href="https://andrew.wang-hoyer.com/experiments/svg-animations/40/b" target="_blank" rel="noopener">https://andrew.wang-hoyer.com/experiments/svg-animations/40/b</a>.</p>
+    <p>Generator source code : <a href="https://github.com/ndrwhr/svg-animation-src/tree/master/site/_svgs/generators/animations/40/b.js" target="_blank" rel="noopener">https://github.com/ndrwhr/svg-animation-src/tree/master/site/_svgs/generators/animations/40/b.js</a>.</p>
+    <p>All generated files and source code are released under the following license:</p>
+    <p>MIT License</p>
+    <p>Copyright (c) 2018-present Andrew Hoyer</p>
+    <p>Permission is hereby granted, free of charge, to any person obtaining a copy of this software and associated documentation files (the &quot;Software&quot;), to deal in the Software without restriction, including without limitation the rights to use, copy, modify, merge, publish, distribute, sublicense, and/or sell copies of the Software, and to permit persons to whom the Software is furnished to do so, subject to the following conditions:</p>
+    <p>The above copyright notice and this permission notice shall be included in all copies or substantial portions of the Software.</p>
+    <p>THE SOFTWARE IS PROVIDED &quot;AS IS&quot;, WITHOUT WARRANTY OF ANY KIND, EXPRESS OR IMPLIED, INCLUDING BUT NOT LIMITED TO THE WARRANTIES OF MERCHANTABILITY, FITNESS FOR A PARTICULAR PURPOSE AND NONINFRINGEMENT. IN NO EVENT SHALL THE AUTHORS OR COPYRIGHT HOLDERS BE LIABLE FOR ANY CLAIM, DAMAGES OR OTHER LIABILITY, WHETHER IN AN ACTION OF CONTRACT, TORT OR OTHERWISE, ARISING FROM, OUT OF OR IN CONNECTION WITH THE SOFTWARE OR THE USE OR OTHER DEALINGS IN THE SOFTWARE.</p>
+  </desc>
+  <style>
+    /* <![CDATA[ */
+      .svg-40-b-animation-group {
+        animation: svg-40-b-main-anim 5s linear infinite;
+      }
+      
+      @keyframes svg-40-b-main-anim {
+        from {
+          transform: rotate(0);
+        }
+      
+        to {
+          transform: rotate(120deg);
+        }
+      }
+      
+    /* ]]> */
+  </style>
+  <circle
+    class="svg-40-b-circle"
+    fill="black"
+    r="45"
+  />
+  <g
+    class="svg-40-b-g svg-40-b-animation-group"
+  >
+    <g
+      class="svg-40-b-g"
+      transform="rotate(0) translate(0, -24.115427318801043) scale(0.4641016151377546)"
+    >
+      <circle
+        class="svg-40-b-circle"
+        fill="white"
+        r="45"
+      />
+      <g
+        class="svg-40-b-g svg-40-b-animation-group"
+      >
+        <g
+          class="svg-40-b-g"
+          transform="rotate(0) translate(0, -24.115427318801043) scale(0.4641016151377546)"
+        >
+          <circle
+            class="svg-40-b-circle"
+            fill="black"
+            r="45"
+          />
+          <g
+            class="svg-40-b-g svg-40-b-animation-group"
+          >
+            <g
+              class="svg-40-b-g"
+              transform="rotate(0) translate(0, -24.115427318801043) scale(0.4641016151377546)"
+            >
+              <circle
+                class="svg-40-b-circle"
+                fill="white"
+                r="45"
+              />
+            </g>
+            <g
+              class="svg-40-b-g"
+              transform="rotate(120) translate(0, -24.115427318801043) scale(0.4641016151377546)"
+            >
+              <circle
+                class="svg-40-b-circle"
+                fill="white"
+                r="45"
+              />
+            </g>
+            <g
+              class="svg-40-b-g"
+              transform="rotate(240) translate(0, -24.115427318801043) scale(0.4641016151377546)"
+            >
+              <circle
+                class="svg-40-b-circle"
+                fill="white"
+                r="45"
+              />
+            </g>
+          </g>
+        </g>
+        <g
+          class="svg-40-b-g"
+          transform="rotate(120) translate(0, -24.115427318801043) scale(0.4641016151377546)"
+        >
+          <circle
+            class="svg-40-b-circle"
+            fill="black"
+            r="45"
+          />
+          <g
+            class="svg-40-b-g svg-40-b-animation-group"
+          >
+            <g
+              class="svg-40-b-g"
+              transform="rotate(0) translate(0, -24.115427318801043) scale(0.4641016151377546)"
+            >
+              <circle
+                class="svg-40-b-circle"
+                fill="white"
+                r="45"
+              />
+            </g>
+            <g
+              class="svg-40-b-g"
+              transform="rotate(120) translate(0, -24.115427318801043) scale(0.4641016151377546)"
+            >
+              <circle
+                class="svg-40-b-circle"
+                fill="white"
+                r="45"
+              />
+            </g>
+            <g
+              class="svg-40-b-g"
+              transform="rotate(240) translate(0, -24.115427318801043) scale(0.4641016151377546)"
+            >
+              <circle
+                class="svg-40-b-circle"
+                fill="white"
+                r="45"
+              />
+            </g>
+          </g>
+        </g>
+        <g
+          class="svg-40-b-g"
+          transform="rotate(240) translate(0, -24.115427318801043) scale(0.4641016151377546)"
+        >
+          <circle
+            class="svg-40-b-circle"
+            fill="black"
+            r="45"
+          />
+          <g
+            class="svg-40-b-g svg-40-b-animation-group"
+          >
+            <g
+              class="svg-40-b-g"
+              transform="rotate(0) translate(0, -24.115427318801043) scale(0.4641016151377546)"
+            >
+              <circle
+                class="svg-40-b-circle"
+                fill="white"
+                r="45"
+              />
+            </g>
+            <g
+              class="svg-40-b-g"
+              transform="rotate(120) translate(0, -24.115427318801043) scale(0.4641016151377546)"
+            >
+              <circle
+                class="svg-40-b-circle"
+                fill="white"
+                r="45"
+              />
+            </g>
+            <g
+              class="svg-40-b-g"
+              transform="rotate(240) translate(0, -24.115427318801043) scale(0.4641016151377546)"
+            >
+              <circle
+                class="svg-40-b-circle"
+                fill="white"
+                r="45"
+              />
+            </g>
+          </g>
+        </g>
+      </g>
+    </g>
+    <g
+      class="svg-40-b-g"
+      transform="rotate(120) translate(0, -24.115427318801043) scale(0.4641016151377546)"
+    >
+      <circle
+        class="svg-40-b-circle"
+        fill="white"
+        r="45"
+      />
+      <g
+        class="svg-40-b-g svg-40-b-animation-group"
+      >
+        <g
+          class="svg-40-b-g"
+          transform="rotate(0) translate(0, -24.115427318801043) scale(0.4641016151377546)"
+        >
+          <circle
+            class="svg-40-b-circle"
+            fill="black"
+            r="45"
+          />
+          <g
+            class="svg-40-b-g svg-40-b-animation-group"
+          >
+            <g
+              class="svg-40-b-g"
+              transform="rotate(0) translate(0, -24.115427318801043) scale(0.4641016151377546)"
+            >
+              <circle
+                class="svg-40-b-circle"
+                fill="white"
+                r="45"
+              />
+            </g>
+            <g
+              class="svg-40-b-g"
+              transform="rotate(120) translate(0, -24.115427318801043) scale(0.4641016151377546)"
+            >
+              <circle
+                class="svg-40-b-circle"
+                fill="white"
+                r="45"
+              />
+            </g>
+            <g
+              class="svg-40-b-g"
+              transform="rotate(240) translate(0, -24.115427318801043) scale(0.4641016151377546)"
+            >
+              <circle
+                class="svg-40-b-circle"
+                fill="white"
+                r="45"
+              />
+            </g>
+          </g>
+        </g>
+        <g
+          class="svg-40-b-g"
+          transform="rotate(120) translate(0, -24.115427318801043) scale(0.4641016151377546)"
+        >
+          <circle
+            class="svg-40-b-circle"
+            fill="black"
+            r="45"
+          />
+          <g
+            class="svg-40-b-g svg-40-b-animation-group"
+          >
+            <g
+              class="svg-40-b-g"
+              transform="rotate(0) translate(0, -24.115427318801043) scale(0.4641016151377546)"
+            >
+              <circle
+                class="svg-40-b-circle"
+                fill="white"
+                r="45"
+              />
+            </g>
+            <g
+              class="svg-40-b-g"
+              transform="rotate(120) translate(0, -24.115427318801043) scale(0.4641016151377546)"
+            >
+              <circle
+                class="svg-40-b-circle"
+                fill="white"
+                r="45"
+              />
+            </g>
+            <g
+              class="svg-40-b-g"
+              transform="rotate(240) translate(0, -24.115427318801043) scale(0.4641016151377546)"
+            >
+              <circle
+                class="svg-40-b-circle"
+                fill="white"
+                r="45"
+              />
+            </g>
+          </g>
+        </g>
+        <g
+          class="svg-40-b-g"
+          transform="rotate(240) translate(0, -24.115427318801043) scale(0.4641016151377546)"
+        >
+          <circle
+            class="svg-40-b-circle"
+            fill="black"
+            r="45"
+          />
+          <g
+            class="svg-40-b-g svg-40-b-animation-group"
+          >
+            <g
+              class="svg-40-b-g"
+              transform="rotate(0) translate(0, -24.115427318801043) scale(0.4641016151377546)"
+            >
+              <circle
+                class="svg-40-b-circle"
+                fill="white"
+                r="45"
+              />
+            </g>
+            <g
+              class="svg-40-b-g"
+              transform="rotate(120) translate(0, -24.115427318801043) scale(0.4641016151377546)"
+            >
+              <circle
+                class="svg-40-b-circle"
+                fill="white"
+                r="45"
+              />
+            </g>
+            <g
+              class="svg-40-b-g"
+              transform="rotate(240) translate(0, -24.115427318801043) scale(0.4641016151377546)"
+            >
+              <circle
+                class="svg-40-b-circle"
+                fill="white"
+                r="45"
+              />
+            </g>
+          </g>
+        </g>
+      </g>
+    </g>
+    <g
+      class="svg-40-b-g"
+      transform="rotate(240) translate(0, -24.115427318801043) scale(0.4641016151377546)"
+    >
+      <circle
+        class="svg-40-b-circle"
+        fill="white"
+        r="45"
+      />
+      <g
+        class="svg-40-b-g svg-40-b-animation-group"
+      >
+        <g
+          class="svg-40-b-g"
+          transform="rotate(0) translate(0, -24.115427318801043) scale(0.4641016151377546)"
+        >
+          <circle
+            class="svg-40-b-circle"
+            fill="black"
+            r="45"
+          />
+          <g
+            class="svg-40-b-g svg-40-b-animation-group"
+          >
+            <g
+              class="svg-40-b-g"
+              transform="rotate(0) translate(0, -24.115427318801043) scale(0.4641016151377546)"
+            >
+              <circle
+                class="svg-40-b-circle"
+                fill="white"
+                r="45"
+              />
+            </g>
+            <g
+              class="svg-40-b-g"
+              transform="rotate(120) translate(0, -24.115427318801043) scale(0.4641016151377546)"
+            >
+              <circle
+                class="svg-40-b-circle"
+                fill="white"
+                r="45"
+              />
+            </g>
+            <g
+              class="svg-40-b-g"
+              transform="rotate(240) translate(0, -24.115427318801043) scale(0.4641016151377546)"
+            >
+              <circle
+                class="svg-40-b-circle"
+                fill="white"
+                r="45"
+              />
+            </g>
+          </g>
+        </g>
+        <g
+          class="svg-40-b-g"
+          transform="rotate(120) translate(0, -24.115427318801043) scale(0.4641016151377546)"
+        >
+          <circle
+            class="svg-40-b-circle"
+            fill="black"
+            r="45"
+          />
+          <g
+            class="svg-40-b-g svg-40-b-animation-group"
+          >
+            <g
+              class="svg-40-b-g"
+              transform="rotate(0) translate(0, -24.115427318801043) scale(0.4641016151377546)"
+            >
+              <circle
+                class="svg-40-b-circle"
+                fill="white"
+                r="45"
+              />
+            </g>
+            <g
+              class="svg-40-b-g"
+              transform="rotate(120) translate(0, -24.115427318801043) scale(0.4641016151377546)"
+            >
+              <circle
+                class="svg-40-b-circle"
+                fill="white"
+                r="45"
+              />
+            </g>
+            <g
+              class="svg-40-b-g"
+              transform="rotate(240) translate(0, -24.115427318801043) scale(0.4641016151377546)"
+            >
+              <circle
+                class="svg-40-b-circle"
+                fill="white"
+                r="45"
+              />
+            </g>
+          </g>
+        </g>
+        <g
+          class="svg-40-b-g"
+          transform="rotate(240) translate(0, -24.115427318801043) scale(0.4641016151377546)"
+        >
+          <circle
+            class="svg-40-b-circle"
+            fill="black"
+            r="45"
+          />
+          <g
+            class="svg-40-b-g svg-40-b-animation-group"
+          >
+            <g
+              class="svg-40-b-g"
+              transform="rotate(0) translate(0, -24.115427318801043) scale(0.4641016151377546)"
+            >
+              <circle
+                class="svg-40-b-circle"
+                fill="white"
+                r="45"
+              />
+            </g>
+            <g
+              class="svg-40-b-g"
+              transform="rotate(120) translate(0, -24.115427318801043) scale(0.4641016151377546)"
+            >
+              <circle
+                class="svg-40-b-circle"
+                fill="white"
+                r="45"
+              />
+            </g>
+            <g
+              class="svg-40-b-g"
+              transform="rotate(240) translate(0, -24.115427318801043) scale(0.4641016151377546)"
+            >
+              <circle
+                class="svg-40-b-circle"
+                fill="white"
+                r="45"
+              />
+            </g>
+          </g>
+        </g>
+      </g>
+    </g>
+  </g>
+</svg>

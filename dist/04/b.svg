@@ -1,0 +1,290 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE svg>
+<svg
+  data-animation-duration="1s"
+  viewBox="-100 -100 200 200"
+>
+  <title>
+    ANIMATION 04 - VARIATION B
+  </title>
+  <desc>
+    <p>See this animation in action here: <a href="https://andrew.wang-hoyer.com/experiments/svg-animations/04/b" target="_blank" rel="noopener">https://andrew.wang-hoyer.com/experiments/svg-animations/04/b</a>.</p>
+    <p>Generator source code : <a href="https://github.com/ndrwhr/svg-animation-src/tree/master/site/_svgs/generators/animations/04/b.js" target="_blank" rel="noopener">https://github.com/ndrwhr/svg-animation-src/tree/master/site/_svgs/generators/animations/04/b.js</a>.</p>
+    <p>All generated files and source code are released under the following license:</p>
+    <p>MIT License</p>
+    <p>Copyright (c) 2018-present Andrew Hoyer</p>
+    <p>Permission is hereby granted, free of charge, to any person obtaining a copy of this software and associated documentation files (the &quot;Software&quot;), to deal in the Software without restriction, including without limitation the rights to use, copy, modify, merge, publish, distribute, sublicense, and/or sell copies of the Software, and to permit persons to whom the Software is furnished to do so, subject to the following conditions:</p>
+    <p>The above copyright notice and this permission notice shall be included in all copies or substantial portions of the Software.</p>
+    <p>THE SOFTWARE IS PROVIDED &quot;AS IS&quot;, WITHOUT WARRANTY OF ANY KIND, EXPRESS OR IMPLIED, INCLUDING BUT NOT LIMITED TO THE WARRANTIES OF MERCHANTABILITY, FITNESS FOR A PARTICULAR PURPOSE AND NONINFRINGEMENT. IN NO EVENT SHALL THE AUTHORS OR COPYRIGHT HOLDERS BE LIABLE FOR ANY CLAIM, DAMAGES OR OTHER LIABILITY, WHETHER IN AN ACTION OF CONTRACT, TORT OR OTHERWISE, ARISING FROM, OUT OF OR IN CONNECTION WITH THE SOFTWARE OR THE USE OR OTHER DEALINGS IN THE SOFTWARE.</p>
+  </desc>
+  <style>
+    /* <![CDATA[ */
+      .svg-04-b-circle-0 {
+        stroke: black;
+        stroke-width: 2;
+        fill: none;
+        animation: svg-04-b-expand-0 1s ease-in-out -0s alternate infinite;
+      }
+      
+      @keyframes svg-04-b-expand-0 {
+        from {
+          stroke-width: 2;
+        }
+      
+        to {
+          stroke-width: .5;
+        }
+      }
+      
+    /* ]]> */
+  </style>
+  <circle
+    class="svg-04-b-circle svg-04-b-circle-0"
+    cx="0"
+    cy="0"
+    r="85"
+  />
+  <style>
+    /* <![CDATA[ */
+      .svg-04-b-circle-1 {
+        stroke: black;
+        stroke-width: 2;
+        fill: none;
+        animation: svg-04-b-expand-1 1s ease-in-out -0.2s alternate infinite;
+      }
+      
+      @keyframes svg-04-b-expand-1 {
+        from {
+          stroke-width: 2;
+        }
+      
+        to {
+          stroke-width: .5;
+        }
+      }
+      
+    /* ]]> */
+  </style>
+  <circle
+    class="svg-04-b-circle svg-04-b-circle-1"
+    cx="0"
+    cy="0"
+    r="76.11111111111111"
+  />
+  <style>
+    /* <![CDATA[ */
+      .svg-04-b-circle-2 {
+        stroke: black;
+        stroke-width: 2;
+        fill: none;
+        animation: svg-04-b-expand-2 1s ease-in-out -0.4s alternate infinite;
+      }
+      
+      @keyframes svg-04-b-expand-2 {
+        from {
+          stroke-width: 2;
+        }
+      
+        to {
+          stroke-width: .5;
+        }
+      }
+      
+    /* ]]> */
+  </style>
+  <circle
+    class="svg-04-b-circle svg-04-b-circle-2"
+    cx="0"
+    cy="0"
+    r="67.22222222222223"
+  />
+  <style>
+    /* <![CDATA[ */
+      .svg-04-b-circle-3 {
+        stroke: black;
+        stroke-width: 2;
+        fill: none;
+        animation: svg-04-b-expand-3 1s ease-in-out -0.6000000000000001s alternate infinite;
+      }
+      
+      @keyframes svg-04-b-expand-3 {
+        from {
+          stroke-width: 2;
+        }
+      
+        to {
+          stroke-width: .5;
+        }
+      }
+      
+    /* ]]> */
+  </style>
+  <circle
+    class="svg-04-b-circle svg-04-b-circle-3"
+    cx="0"
+    cy="0"
+    r="58.33333333333333"
+  />
+  <style>
+    /* <![CDATA[ */
+      .svg-04-b-circle-4 {
+        stroke: black;
+        stroke-width: 2;
+        fill: none;
+        animation: svg-04-b-expand-4 1s ease-in-out -0.8s alternate infinite;
+      }
+      
+      @keyframes svg-04-b-expand-4 {
+        from {
+          stroke-width: 2;
+        }
+      
+        to {
+          stroke-width: .5;
+        }
+      }
+      
+    /* ]]> */
+  </style>
+  <circle
+    class="svg-04-b-circle svg-04-b-circle-4"
+    cx="0"
+    cy="0"
+    r="49.44444444444444"
+  />
+  <style>
+    /* <![CDATA[ */
+      .svg-04-b-circle-5 {
+        stroke: black;
+        stroke-width: 2;
+        fill: none;
+        animation: svg-04-b-expand-5 1s ease-in-out -1s alternate infinite;
+      }
+      
+      @keyframes svg-04-b-expand-5 {
+        from {
+          stroke-width: 2;
+        }
+      
+        to {
+          stroke-width: .5;
+        }
+      }
+      
+    /* ]]> */
+  </style>
+  <circle
+    class="svg-04-b-circle svg-04-b-circle-5"
+    cx="0"
+    cy="0"
+    r="40.55555555555556"
+  />
+  <style>
+    /* <![CDATA[ */
+      .svg-04-b-circle-6 {
+        stroke: black;
+        stroke-width: 2;
+        fill: none;
+        animation: svg-04-b-expand-6 1s ease-in-out -1.2000000000000002s alternate infinite;
+      }
+      
+      @keyframes svg-04-b-expand-6 {
+        from {
+          stroke-width: 2;
+        }
+      
+        to {
+          stroke-width: .5;
+        }
+      }
+      
+    /* ]]> */
+  </style>
+  <circle
+    class="svg-04-b-circle svg-04-b-circle-6"
+    cx="0"
+    cy="0"
+    r="31.666666666666664"
+  />
+  <style>
+    /* <![CDATA[ */
+      .svg-04-b-circle-7 {
+        stroke: black;
+        stroke-width: 2;
+        fill: none;
+        animation: svg-04-b-expand-7 1s ease-in-out -1.4000000000000001s alternate infinite;
+      }
+      
+      @keyframes svg-04-b-expand-7 {
+        from {
+          stroke-width: 2;
+        }
+      
+        to {
+          stroke-width: .5;
+        }
+      }
+      
+    /* ]]> */
+  </style>
+  <circle
+    class="svg-04-b-circle svg-04-b-circle-7"
+    cx="0"
+    cy="0"
+    r="22.77777777777777"
+  />
+  <style>
+    /* <![CDATA[ */
+      .svg-04-b-circle-8 {
+        stroke: black;
+        stroke-width: 2;
+        fill: none;
+        animation: svg-04-b-expand-8 1s ease-in-out -1.6s alternate infinite;
+      }
+      
+      @keyframes svg-04-b-expand-8 {
+        from {
+          stroke-width: 2;
+        }
+      
+        to {
+          stroke-width: .5;
+        }
+      }
+      
+    /* ]]> */
+  </style>
+  <circle
+    class="svg-04-b-circle svg-04-b-circle-8"
+    cx="0"
+    cy="0"
+    r="13.888888888888886"
+  />
+  <style>
+    /* <![CDATA[ */
+      .svg-04-b-circle-9 {
+        stroke: black;
+        stroke-width: 2;
+        fill: none;
+        animation: svg-04-b-expand-9 1s ease-in-out -1.8s alternate infinite;
+      }
+      
+      @keyframes svg-04-b-expand-9 {
+        from {
+          stroke-width: 2;
+        }
+      
+        to {
+          stroke-width: .5;
+        }
+      }
+      
+    /* ]]> */
+  </style>
+  <circle
+    class="svg-04-b-circle svg-04-b-circle-9"
+    cx="0"
+    cy="0"
+    r="5"
+  />
+</svg>

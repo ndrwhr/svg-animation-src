@@ -1,0 +1,298 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE svg>
+<svg
+  data-animation-duration="10s"
+  viewBox="0 0 100 100"
+>
+  <title>
+    ANIMATION 06 - VARIATION A
+  </title>
+  <desc>
+    <p>See this animation in action here: <a href="https://andrew.wang-hoyer.com/experiments/svg-animations/06/a" target="_blank" rel="noopener">https://andrew.wang-hoyer.com/experiments/svg-animations/06/a</a>.</p>
+    <p>Generator source code : <a href="https://github.com/ndrwhr/svg-animation-src/tree/master/site/_svgs/generators/animations/06/a.js" target="_blank" rel="noopener">https://github.com/ndrwhr/svg-animation-src/tree/master/site/_svgs/generators/animations/06/a.js</a>.</p>
+    <p>All generated files and source code are released under the following license:</p>
+    <p>MIT License</p>
+    <p>Copyright (c) 2018-present Andrew Hoyer</p>
+    <p>Permission is hereby granted, free of charge, to any person obtaining a copy of this software and associated documentation files (the &quot;Software&quot;), to deal in the Software without restriction, including without limitation the rights to use, copy, modify, merge, publish, distribute, sublicense, and/or sell copies of the Software, and to permit persons to whom the Software is furnished to do so, subject to the following conditions:</p>
+    <p>The above copyright notice and this permission notice shall be included in all copies or substantial portions of the Software.</p>
+    <p>THE SOFTWARE IS PROVIDED &quot;AS IS&quot;, WITHOUT WARRANTY OF ANY KIND, EXPRESS OR IMPLIED, INCLUDING BUT NOT LIMITED TO THE WARRANTIES OF MERCHANTABILITY, FITNESS FOR A PARTICULAR PURPOSE AND NONINFRINGEMENT. IN NO EVENT SHALL THE AUTHORS OR COPYRIGHT HOLDERS BE LIABLE FOR ANY CLAIM, DAMAGES OR OTHER LIABILITY, WHETHER IN AN ACTION OF CONTRACT, TORT OR OTHERWISE, ARISING FROM, OUT OF OR IN CONNECTION WITH THE SOFTWARE OR THE USE OR OTHER DEALINGS IN THE SOFTWARE.</p>
+  </desc>
+  <style>
+    /* <![CDATA[ */
+      .svg-06-a-x-axis-group {
+        animation: svg-06-a-x-axis 10s ease-in-out infinite;
+      }
+      
+      @keyframes svg-06-a-x-axis {
+        0% {
+          transform: translate(-40%, 0);
+        }
+      
+        50% {
+          transform: translate(40%, 0);
+        }
+      
+        100% {
+          transform: translate(-40%, 0);
+        }
+      }
+      
+      .svg-06-a-y-axis-group {
+        animation: svg-06-a-y-axis 10s ease-in-out -2.5s infinite;
+      }
+      
+      @keyframes svg-06-a-y-axis {
+        0% {
+          transform: translate(0, -10%);
+        }
+      
+        50% {
+          transform: translate(0, 10%);
+        }
+      
+        100% {
+          transform: translate(0, -10%);
+        }
+      }
+      
+      .svg-06-a-circle {
+        animation: svg-06-a-shape 10s ease-in-out -2.5s infinite;
+      }
+      
+      @keyframes svg-06-a-shape {
+        0% {
+          transform: scale(.5);
+        }
+      
+        50% {
+          transform: scale(1);
+        }
+      
+        100% {
+          transform: scale(.5);
+        }
+      }
+      
+    /* ]]> */
+  </style>
+  <g
+    class="svg-06-a-g"
+    transform="translate(50, 15)"
+  >
+    <g
+      class="svg-06-a-g svg-06-a-x-axis-group"
+      style="animation-delay: -0s"
+    >
+      <g
+        class="svg-06-a-g svg-06-a-y-axis-group"
+        style="animation-delay: -2.5s"
+      >
+        <circle
+          class="svg-06-a-circle"
+          cx="0"
+          cy="0"
+          r="2"
+          style="animation-delay: -2.5s"
+        />
+      </g>
+    </g>
+  </g>
+  <g
+    class="svg-06-a-g"
+    transform="translate(50, 22.77777777777778)"
+  >
+    <g
+      class="svg-06-a-g svg-06-a-x-axis-group"
+      style="animation-delay: -1s"
+    >
+      <g
+        class="svg-06-a-g svg-06-a-y-axis-group"
+        style="animation-delay: -3.5s"
+      >
+        <circle
+          class="svg-06-a-circle"
+          cx="0"
+          cy="0"
+          r="2"
+          style="animation-delay: -3.5s"
+        />
+      </g>
+    </g>
+  </g>
+  <g
+    class="svg-06-a-g"
+    transform="translate(50, 30.555555555555557)"
+  >
+    <g
+      class="svg-06-a-g svg-06-a-x-axis-group"
+      style="animation-delay: -2s"
+    >
+      <g
+        class="svg-06-a-g svg-06-a-y-axis-group"
+        style="animation-delay: -4.5s"
+      >
+        <circle
+          class="svg-06-a-circle"
+          cx="0"
+          cy="0"
+          r="2"
+          style="animation-delay: -4.5s"
+        />
+      </g>
+    </g>
+  </g>
+  <g
+    class="svg-06-a-g"
+    transform="translate(50, 38.33333333333333)"
+  >
+    <g
+      class="svg-06-a-g svg-06-a-x-axis-group"
+      style="animation-delay: -3s"
+    >
+      <g
+        class="svg-06-a-g svg-06-a-y-axis-group"
+        style="animation-delay: -5.5s"
+      >
+        <circle
+          class="svg-06-a-circle"
+          cx="0"
+          cy="0"
+          r="2"
+          style="animation-delay: -5.5s"
+        />
+      </g>
+    </g>
+  </g>
+  <g
+    class="svg-06-a-g"
+    transform="translate(50, 46.111111111111114)"
+  >
+    <g
+      class="svg-06-a-g svg-06-a-x-axis-group"
+      style="animation-delay: -4s"
+    >
+      <g
+        class="svg-06-a-g svg-06-a-y-axis-group"
+        style="animation-delay: -6.5s"
+      >
+        <circle
+          class="svg-06-a-circle"
+          cx="0"
+          cy="0"
+          r="2"
+          style="animation-delay: -6.5s"
+        />
+      </g>
+    </g>
+  </g>
+  <g
+    class="svg-06-a-g"
+    transform="translate(50, 53.888888888888886)"
+  >
+    <g
+      class="svg-06-a-g svg-06-a-x-axis-group"
+      style="animation-delay: -5s"
+    >
+      <g
+        class="svg-06-a-g svg-06-a-y-axis-group"
+        style="animation-delay: -7.5s"
+      >
+        <circle
+          class="svg-06-a-circle"
+          cx="0"
+          cy="0"
+          r="2"
+          style="animation-delay: -7.5s"
+        />
+      </g>
+    </g>
+  </g>
+  <g
+    class="svg-06-a-g"
+    transform="translate(50, 61.666666666666664)"
+  >
+    <g
+      class="svg-06-a-g svg-06-a-x-axis-group"
+      style="animation-delay: -6s"
+    >
+      <g
+        class="svg-06-a-g svg-06-a-y-axis-group"
+        style="animation-delay: -8.5s"
+      >
+        <circle
+          class="svg-06-a-circle"
+          cx="0"
+          cy="0"
+          r="2"
+          style="animation-delay: -8.5s"
+        />
+      </g>
+    </g>
+  </g>
+  <g
+    class="svg-06-a-g"
+    transform="translate(50, 69.44444444444444)"
+  >
+    <g
+      class="svg-06-a-g svg-06-a-x-axis-group"
+      style="animation-delay: -7s"
+    >
+      <g
+        class="svg-06-a-g svg-06-a-y-axis-group"
+        style="animation-delay: -9.5s"
+      >
+        <circle
+          class="svg-06-a-circle"
+          cx="0"
+          cy="0"
+          r="2"
+          style="animation-delay: -9.5s"
+        />
+      </g>
+    </g>
+  </g>
+  <g
+    class="svg-06-a-g"
+    transform="translate(50, 77.22222222222223)"
+  >
+    <g
+      class="svg-06-a-g svg-06-a-x-axis-group"
+      style="animation-delay: -8s"
+    >
+      <g
+        class="svg-06-a-g svg-06-a-y-axis-group"
+        style="animation-delay: -10.5s"
+      >
+        <circle
+          class="svg-06-a-circle"
+          cx="0"
+          cy="0"
+          r="2"
+          style="animation-delay: -10.5s"
+        />
+      </g>
+    </g>
+  </g>
+  <g
+    class="svg-06-a-g"
+    transform="translate(50, 85)"
+  >
+    <g
+      class="svg-06-a-g svg-06-a-x-axis-group"
+      style="animation-delay: -9s"
+    >
+      <g
+        class="svg-06-a-g svg-06-a-y-axis-group"
+        style="animation-delay: -11.5s"
+      >
+        <circle
+          class="svg-06-a-circle"
+          cx="0"
+          cy="0"
+          r="2"
+          style="animation-delay: -11.5s"
+        />
+      </g>
+    </g>
+  </g>
+</svg>

@@ -1,0 +1,162 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE svg>
+<svg
+  data-animation-duration="30s"
+  viewBox="-50 -50 100 100"
+>
+  <title>
+    ANIMATION 13 - VARIATION D
+  </title>
+  <desc>
+    <p>See this animation in action here: <a href="https://andrew.wang-hoyer.com/experiments/svg-animations/13/d" target="_blank" rel="noopener">https://andrew.wang-hoyer.com/experiments/svg-animations/13/d</a>.</p>
+    <p>Generator source code : <a href="https://github.com/ndrwhr/svg-animation-src/tree/master/site/_svgs/generators/animations/13/d.js" target="_blank" rel="noopener">https://github.com/ndrwhr/svg-animation-src/tree/master/site/_svgs/generators/animations/13/d.js</a>.</p>
+    <p>All generated files and source code are released under the following license:</p>
+    <p>MIT License</p>
+    <p>Copyright (c) 2018-present Andrew Hoyer</p>
+    <p>Permission is hereby granted, free of charge, to any person obtaining a copy of this software and associated documentation files (the &quot;Software&quot;), to deal in the Software without restriction, including without limitation the rights to use, copy, modify, merge, publish, distribute, sublicense, and/or sell copies of the Software, and to permit persons to whom the Software is furnished to do so, subject to the following conditions:</p>
+    <p>The above copyright notice and this permission notice shall be included in all copies or substantial portions of the Software.</p>
+    <p>THE SOFTWARE IS PROVIDED &quot;AS IS&quot;, WITHOUT WARRANTY OF ANY KIND, EXPRESS OR IMPLIED, INCLUDING BUT NOT LIMITED TO THE WARRANTIES OF MERCHANTABILITY, FITNESS FOR A PARTICULAR PURPOSE AND NONINFRINGEMENT. IN NO EVENT SHALL THE AUTHORS OR COPYRIGHT HOLDERS BE LIABLE FOR ANY CLAIM, DAMAGES OR OTHER LIABILITY, WHETHER IN AN ACTION OF CONTRACT, TORT OR OTHERWISE, ARISING FROM, OUT OF OR IN CONNECTION WITH THE SOFTWARE OR THE USE OR OTHER DEALINGS IN THE SOFTWARE.</p>
+  </desc>
+  <defs>
+    <g
+      class="svg-13-d-g"
+      id="svg-13-d-circle-group"
+    >
+      <circle
+        class="svg-13-d-circle svg-13-d-circle-group__circle"
+        cx="0"
+        cy="0"
+        r="120"
+        style="animation-delay: -0s"
+      />
+      <circle
+        class="svg-13-d-circle svg-13-d-circle-group__circle"
+        cx="0"
+        cy="0"
+        r="120"
+        style="animation-delay: -3s"
+      />
+      <circle
+        class="svg-13-d-circle svg-13-d-circle-group__circle"
+        cx="0"
+        cy="0"
+        r="120"
+        style="animation-delay: -6s"
+      />
+      <circle
+        class="svg-13-d-circle svg-13-d-circle-group__circle"
+        cx="0"
+        cy="0"
+        r="120"
+        style="animation-delay: -9s"
+      />
+      <circle
+        class="svg-13-d-circle svg-13-d-circle-group__circle"
+        cx="0"
+        cy="0"
+        r="120"
+        style="animation-delay: -12s"
+      />
+      <circle
+        class="svg-13-d-circle svg-13-d-circle-group__circle"
+        cx="0"
+        cy="0"
+        r="120"
+        style="animation-delay: -15s"
+      />
+      <circle
+        class="svg-13-d-circle svg-13-d-circle-group__circle"
+        cx="0"
+        cy="0"
+        r="120"
+        style="animation-delay: -18s"
+      />
+      <circle
+        class="svg-13-d-circle svg-13-d-circle-group__circle"
+        cx="0"
+        cy="0"
+        r="120"
+        style="animation-delay: -21s"
+      />
+      <circle
+        class="svg-13-d-circle svg-13-d-circle-group__circle"
+        cx="0"
+        cy="0"
+        r="120"
+        style="animation-delay: -24s"
+      />
+      <circle
+        class="svg-13-d-circle svg-13-d-circle-group__circle"
+        cx="0"
+        cy="0"
+        r="120"
+        style="animation-delay: -27s"
+      />
+    </g>
+    <clipPath
+      id="svg-13-d-mask"
+    >
+      <circle
+        class="svg-13-d-circle"
+        cx="0"
+        cy="0"
+        r="40"
+      />
+    </clipPath>
+  </defs>
+  <style>
+    /* <![CDATA[ */
+      .svg-13-d-circle {
+        stroke: black;
+        stroke-width: 2;
+        fill: none;
+      }
+      
+      .svg-13-d-circle-group__circle {
+        animation: svg-13-d-moving-poly-anim 30s linear infinite;
+      }
+      
+      @keyframes svg-13-d-moving-poly-anim {
+        from {
+          r: 1;
+        }
+      
+        to {
+          r: 120;
+        }
+      }
+      
+    /* ]]> */
+  </style>
+  <g
+    class="svg-13-d-g"
+    clip-path="url(#svg-13-d-mask)"
+  >
+    <use
+      class="svg-13-d-use"
+      href="#svg-13-d-circle-group"
+      transform="rotate(0, 0, 0) translate(0, 80)"
+    />
+    <use
+      class="svg-13-d-use"
+      href="#svg-13-d-circle-group"
+      transform="rotate(120, 0, 0) translate(0, 80)"
+    />
+    <use
+      class="svg-13-d-use"
+      href="#svg-13-d-circle-group"
+      transform="rotate(240, 0, 0) translate(0, 80)"
+    />
+    <use
+      class="svg-13-d-use"
+      href="#svg-13-d-circle-group"
+      transform="rotate(360, 0, 0) translate(0, 80)"
+    />
+  </g>
+  <circle
+    class="svg-13-d-circle"
+    cx="0"
+    cy="0"
+    r="40"
+  />
+</svg>

@@ -1,0 +1,314 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE svg>
+<svg
+  data-animation-duration="5s"
+  viewBox="-50 -50 100 100"
+>
+  <title>
+    ANIMATION 14 - VARIATION C
+  </title>
+  <desc>
+    <p>See this animation in action here: <a href="https://andrew.wang-hoyer.com/experiments/svg-animations/14/c" target="_blank" rel="noopener">https://andrew.wang-hoyer.com/experiments/svg-animations/14/c</a>.</p>
+    <p>Generator source code : <a href="https://github.com/ndrwhr/svg-animation-src/tree/master/site/_svgs/generators/animations/14/c.js" target="_blank" rel="noopener">https://github.com/ndrwhr/svg-animation-src/tree/master/site/_svgs/generators/animations/14/c.js</a>.</p>
+    <p>All generated files and source code are released under the following license:</p>
+    <p>MIT License</p>
+    <p>Copyright (c) 2018-present Andrew Hoyer</p>
+    <p>Permission is hereby granted, free of charge, to any person obtaining a copy of this software and associated documentation files (the &quot;Software&quot;), to deal in the Software without restriction, including without limitation the rights to use, copy, modify, merge, publish, distribute, sublicense, and/or sell copies of the Software, and to permit persons to whom the Software is furnished to do so, subject to the following conditions:</p>
+    <p>The above copyright notice and this permission notice shall be included in all copies or substantial portions of the Software.</p>
+    <p>THE SOFTWARE IS PROVIDED &quot;AS IS&quot;, WITHOUT WARRANTY OF ANY KIND, EXPRESS OR IMPLIED, INCLUDING BUT NOT LIMITED TO THE WARRANTIES OF MERCHANTABILITY, FITNESS FOR A PARTICULAR PURPOSE AND NONINFRINGEMENT. IN NO EVENT SHALL THE AUTHORS OR COPYRIGHT HOLDERS BE LIABLE FOR ANY CLAIM, DAMAGES OR OTHER LIABILITY, WHETHER IN AN ACTION OF CONTRACT, TORT OR OTHERWISE, ARISING FROM, OUT OF OR IN CONNECTION WITH THE SOFTWARE OR THE USE OR OTHER DEALINGS IN THE SOFTWARE.</p>
+  </desc>
+  <style>
+    /* <![CDATA[ */
+      .svg-14-c-line {
+        stroke: black;
+        stroke-width: .2;
+        stroke-linecap: round;
+        stroke-dasharray: 34.64101563831344 6.928203127662688,
+                            34.64101563831344 6.928203127662688,
+                            34.64101563831344 6.928203127662688;
+        animation: svg-14-c-main-animation 5s linear infinite;
+      }
+      
+      @keyframes svg-14-c-main-animation {
+        from {
+          stroke-dashoffset: 124.70765629792841;
+        }
+      
+        to {
+          stroke-dashoffset: 0;
+        }
+      }
+      
+    /* ]]> */
+  </style>
+  <line
+    class="svg-14-c-line"
+    style="animation-delay: -0s"
+    transform="rotate(0, 0, 0)"
+    x1="0"
+    x2="34.641014099121094"
+    y1="-40"
+    y2="20"
+  />
+  <line
+    class="svg-14-c-line"
+    style="animation-delay: -0.16666666666666666s"
+    transform="rotate(12, 0, 0)"
+    x1="0"
+    x2="34.641014099121094"
+    y1="-40"
+    y2="20"
+  />
+  <line
+    class="svg-14-c-line"
+    style="animation-delay: -0.3333333333333333s"
+    transform="rotate(24, 0, 0)"
+    x1="0"
+    x2="34.641014099121094"
+    y1="-40"
+    y2="20"
+  />
+  <line
+    class="svg-14-c-line"
+    style="animation-delay: -0.5s"
+    transform="rotate(36, 0, 0)"
+    x1="0"
+    x2="34.641014099121094"
+    y1="-40"
+    y2="20"
+  />
+  <line
+    class="svg-14-c-line"
+    style="animation-delay: -0.6666666666666666s"
+    transform="rotate(48, 0, 0)"
+    x1="0"
+    x2="34.641014099121094"
+    y1="-40"
+    y2="20"
+  />
+  <line
+    class="svg-14-c-line"
+    style="animation-delay: -0.8333333333333334s"
+    transform="rotate(60, 0, 0)"
+    x1="0"
+    x2="34.641014099121094"
+    y1="-40"
+    y2="20"
+  />
+  <line
+    class="svg-14-c-line"
+    style="animation-delay: -1s"
+    transform="rotate(72, 0, 0)"
+    x1="0"
+    x2="34.641014099121094"
+    y1="-40"
+    y2="20"
+  />
+  <line
+    class="svg-14-c-line"
+    style="animation-delay: -1.1666666666666667s"
+    transform="rotate(84, 0, 0)"
+    x1="0"
+    x2="34.641014099121094"
+    y1="-40"
+    y2="20"
+  />
+  <line
+    class="svg-14-c-line"
+    style="animation-delay: -1.3333333333333333s"
+    transform="rotate(96, 0, 0)"
+    x1="0"
+    x2="34.641014099121094"
+    y1="-40"
+    y2="20"
+  />
+  <line
+    class="svg-14-c-line"
+    style="animation-delay: -1.5s"
+    transform="rotate(108, 0, 0)"
+    x1="0"
+    x2="34.641014099121094"
+    y1="-40"
+    y2="20"
+  />
+  <line
+    class="svg-14-c-line"
+    style="animation-delay: -1.6666666666666667s"
+    transform="rotate(120, 0, 0)"
+    x1="0"
+    x2="34.641014099121094"
+    y1="-40"
+    y2="20"
+  />
+  <line
+    class="svg-14-c-line"
+    style="animation-delay: -1.8333333333333333s"
+    transform="rotate(132, 0, 0)"
+    x1="0"
+    x2="34.641014099121094"
+    y1="-40"
+    y2="20"
+  />
+  <line
+    class="svg-14-c-line"
+    style="animation-delay: -2s"
+    transform="rotate(144, 0, 0)"
+    x1="0"
+    x2="34.641014099121094"
+    y1="-40"
+    y2="20"
+  />
+  <line
+    class="svg-14-c-line"
+    style="animation-delay: -2.1666666666666665s"
+    transform="rotate(156, 0, 0)"
+    x1="0"
+    x2="34.641014099121094"
+    y1="-40"
+    y2="20"
+  />
+  <line
+    class="svg-14-c-line"
+    style="animation-delay: -2.3333333333333335s"
+    transform="rotate(168, 0, 0)"
+    x1="0"
+    x2="34.641014099121094"
+    y1="-40"
+    y2="20"
+  />
+  <line
+    class="svg-14-c-line"
+    style="animation-delay: -2.5s"
+    transform="rotate(180, 0, 0)"
+    x1="0"
+    x2="34.641014099121094"
+    y1="-40"
+    y2="20"
+  />
+  <line
+    class="svg-14-c-line"
+    style="animation-delay: -2.6666666666666665s"
+    transform="rotate(192, 0, 0)"
+    x1="0"
+    x2="34.641014099121094"
+    y1="-40"
+    y2="20"
+  />
+  <line
+    class="svg-14-c-line"
+    style="animation-delay: -2.8333333333333335s"
+    transform="rotate(204, 0, 0)"
+    x1="0"
+    x2="34.641014099121094"
+    y1="-40"
+    y2="20"
+  />
+  <line
+    class="svg-14-c-line"
+    style="animation-delay: -3s"
+    transform="rotate(216, 0, 0)"
+    x1="0"
+    x2="34.641014099121094"
+    y1="-40"
+    y2="20"
+  />
+  <line
+    class="svg-14-c-line"
+    style="animation-delay: -3.1666666666666665s"
+    transform="rotate(228, 0, 0)"
+    x1="0"
+    x2="34.641014099121094"
+    y1="-40"
+    y2="20"
+  />
+  <line
+    class="svg-14-c-line"
+    style="animation-delay: -3.3333333333333335s"
+    transform="rotate(240, 0, 0)"
+    x1="0"
+    x2="34.641014099121094"
+    y1="-40"
+    y2="20"
+  />
+  <line
+    class="svg-14-c-line"
+    style="animation-delay: -3.5s"
+    transform="rotate(252, 0, 0)"
+    x1="0"
+    x2="34.641014099121094"
+    y1="-40"
+    y2="20"
+  />
+  <line
+    class="svg-14-c-line"
+    style="animation-delay: -3.6666666666666665s"
+    transform="rotate(264, 0, 0)"
+    x1="0"
+    x2="34.641014099121094"
+    y1="-40"
+    y2="20"
+  />
+  <line
+    class="svg-14-c-line"
+    style="animation-delay: -3.8333333333333335s"
+    transform="rotate(276, 0, 0)"
+    x1="0"
+    x2="34.641014099121094"
+    y1="-40"
+    y2="20"
+  />
+  <line
+    class="svg-14-c-line"
+    style="animation-delay: -4s"
+    transform="rotate(288, 0, 0)"
+    x1="0"
+    x2="34.641014099121094"
+    y1="-40"
+    y2="20"
+  />
+  <line
+    class="svg-14-c-line"
+    style="animation-delay: -4.166666666666667s"
+    transform="rotate(300, 0, 0)"
+    x1="0"
+    x2="34.641014099121094"
+    y1="-40"
+    y2="20"
+  />
+  <line
+    class="svg-14-c-line"
+    style="animation-delay: -4.333333333333333s"
+    transform="rotate(312, 0, 0)"
+    x1="0"
+    x2="34.641014099121094"
+    y1="-40"
+    y2="20"
+  />
+  <line
+    class="svg-14-c-line"
+    style="animation-delay: -4.5s"
+    transform="rotate(324, 0, 0)"
+    x1="0"
+    x2="34.641014099121094"
+    y1="-40"
+    y2="20"
+  />
+  <line
+    class="svg-14-c-line"
+    style="animation-delay: -4.666666666666667s"
+    transform="rotate(336, 0, 0)"
+    x1="0"
+    x2="34.641014099121094"
+    y1="-40"
+    y2="20"
+  />
+  <line
+    class="svg-14-c-line"
+    style="animation-delay: -4.833333333333333s"
+    transform="rotate(348, 0, 0)"
+    x1="0"
+    x2="34.641014099121094"
+    y1="-40"
+    y2="20"
+  />
+</svg>

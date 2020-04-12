@@ -1,0 +1,100 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE svg>
+<svg
+  data-animation-duration="10s"
+  viewBox="-50 -50 100 100"
+>
+  <title>
+    ANIMATION 08 - VARIATION C
+  </title>
+  <desc>
+    <p>See this animation in action here: <a href="https://andrew.wang-hoyer.com/experiments/svg-animations/08/c" target="_blank" rel="noopener">https://andrew.wang-hoyer.com/experiments/svg-animations/08/c</a>.</p>
+    <p>Generator source code : <a href="https://github.com/ndrwhr/svg-animation-src/tree/master/site/_svgs/generators/animations/08/c.js" target="_blank" rel="noopener">https://github.com/ndrwhr/svg-animation-src/tree/master/site/_svgs/generators/animations/08/c.js</a>.</p>
+    <p>All generated files and source code are released under the following license:</p>
+    <p>MIT License</p>
+    <p>Copyright (c) 2018-present Andrew Hoyer</p>
+    <p>Permission is hereby granted, free of charge, to any person obtaining a copy of this software and associated documentation files (the &quot;Software&quot;), to deal in the Software without restriction, including without limitation the rights to use, copy, modify, merge, publish, distribute, sublicense, and/or sell copies of the Software, and to permit persons to whom the Software is furnished to do so, subject to the following conditions:</p>
+    <p>The above copyright notice and this permission notice shall be included in all copies or substantial portions of the Software.</p>
+    <p>THE SOFTWARE IS PROVIDED &quot;AS IS&quot;, WITHOUT WARRANTY OF ANY KIND, EXPRESS OR IMPLIED, INCLUDING BUT NOT LIMITED TO THE WARRANTIES OF MERCHANTABILITY, FITNESS FOR A PARTICULAR PURPOSE AND NONINFRINGEMENT. IN NO EVENT SHALL THE AUTHORS OR COPYRIGHT HOLDERS BE LIABLE FOR ANY CLAIM, DAMAGES OR OTHER LIABILITY, WHETHER IN AN ACTION OF CONTRACT, TORT OR OTHERWISE, ARISING FROM, OUT OF OR IN CONNECTION WITH THE SOFTWARE OR THE USE OR OTHER DEALINGS IN THE SOFTWARE.</p>
+  </desc>
+  <style>
+    /* <![CDATA[ */
+      .svg-08-c-polygon {
+        stroke: none;
+      }
+      
+      .svg-08-c-polygon:nth-child(odd) {
+        fill: black;
+        animation: svg-08-c-poly-anim 10s linear infinite;
+      }
+      
+      .svg-08-c-polygon:nth-child(even) {
+        fill: white;
+      }
+      
+      .svg-08-c-polygon:nth-child(3n) {
+        animation-direction: reverse;
+      }
+      
+      @keyframes svg-08-c-poly-anim {
+        from {
+          transform: rotate(0);
+        }
+      
+        to {
+          transform: rotate(360deg);
+        }
+      }
+      
+    /* ]]> */
+  </style>
+  <g
+    class="svg-08-c-g"
+  >
+    <polygon
+      class="svg-08-c-polygon"
+      points="0,-50 43.30126953125,-25 43.30126953125,25 6.12323420998628e-15,50 -43.30126953125,25 -43.30126953125,-25"
+    />
+    <polygon
+      class="svg-08-c-polygon"
+      points="0,-46.5 40.270179748535156,-23.25 40.270179748535156,23.25 5.694608010104818e-15,46.5 -40.270179748535156,23.25 -40.270179748535156,-23.25"
+      transform="rotate(30)"
+    />
+    <polygon
+      class="svg-08-c-polygon"
+      points="0,-40 34.641014099121094,-20 34.641014099121094,20 4.8985871985824346e-15,40 -34.641014099121094,20 -34.641014099121094,-20"
+    />
+    <polygon
+      class="svg-08-c-polygon"
+      points="0,-37.20000076293945 32.21614456176758,-18.600000381469727 32.21614456176758,18.600000381469727 4.555686238677265e-15,37.20000076293945 -32.21614456176758,18.600000381469727 -32.21614456176758,-18.600000381469727"
+      transform="rotate(30)"
+    />
+    <polygon
+      class="svg-08-c-polygon"
+      points="0,-30 25.980762481689453,-15 25.980762481689453,15 3.673940610695063e-15,30 -25.980762481689453,15 -25.980762481689453,-15"
+    />
+    <polygon
+      class="svg-08-c-polygon"
+      points="0,-27.899999618530273 24.162107467651367,-13.949999809265137 24.162107467651367,13.949999809265137 3.416764679007949e-15,27.899999618530273 -24.162107467651367,13.949999809265137 -24.162107467651367,-13.949999809265137"
+      transform="rotate(30)"
+    />
+    <polygon
+      class="svg-08-c-polygon"
+      points="0,-20 17.320507049560547,-10 17.320507049560547,10 2.4492935992912173e-15,20 -17.320507049560547,10 -17.320507049560547,-10"
+    />
+    <polygon
+      class="svg-08-c-polygon"
+      points="0,-18.600000381469727 16.10807228088379,-9.300000190734863 16.10807228088379,9.300000190734863 2.2778431193386326e-15,18.600000381469727 -16.10807228088379,9.300000190734863 -16.10807228088379,-9.300000190734863"
+      transform="rotate(30)"
+    />
+    <polygon
+      class="svg-08-c-polygon"
+      points="0,-10 8.660253524780273,-5 8.660253524780273,5 1.2246467996456087e-15,10 -8.660253524780273,5 -8.660253524780273,-5"
+    />
+    <polygon
+      class="svg-08-c-polygon"
+      points="0,-9.300000190734863 8.054036140441895,-4.650000095367432 8.054036140441895,4.650000095367432 1.1389215596693163e-15,9.300000190734863 -8.054036140441895,4.650000095367432 -8.054036140441895,-4.650000095367432"
+      transform="rotate(30)"
+    />
+  </g>
+</svg>

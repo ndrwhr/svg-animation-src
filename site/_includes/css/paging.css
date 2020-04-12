@@ -1,0 +1,52 @@
+.paging {
+  display: flex;
+  list-style: none;
+  justify-content: center;
+}
+
+.paging:first-child {
+  margin-bottom: 5vw;
+}
+
+.paging__page {
+  height: 2em;
+  display: flex;
+  justify-content: center;
+  align-items: center;
+}
+
+.paging__page-link {
+  display: flex;
+  justify-content: center;
+  align-items: center;
+  height: 2em;
+  border: 1px solid transparent;
+  transition: border-color 150ms ease-out;
+}
+
+.paging__page:first-child .paging__page-link,
+.paging__page:last-child .paging__page-link {
+  padding: 0 1rem;
+}
+
+.paging__page:not(:last-child) {
+  margin-right: 1rem;
+}
+
+.paging__page:not(:first-child):not(:last-child) .paging__page-link {
+  width: 2em;
+}
+
+.paging__page-link:not(.paging__page-link--disabled):hover {
+  border-color: black;
+}
+
+.paging__page--selected {
+  color: white;
+  background: black;
+}
+
+.paging__page-link--disabled {
+  text-decoration: line-through;
+  cursor: not-allowed;
+}

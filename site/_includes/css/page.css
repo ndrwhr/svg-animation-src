@@ -1,0 +1,22 @@
+.page__section-header {
+  position: sticky;
+  z-index: 1;
+  top: 0;
+  font-size: calc(1vw + 2rem);
+  font-weight: normal;
+  padding: 1rem;
+  margin-bottom: 2vw;
+  background: rgba(255, 255, 255, 0.9);
+}
+
+.page__section-header a {
+  text-decoration: none;
+}
+
+.page__section-header a:hover {
+  text-decoration: underline;
+}
+
+.page__section {
+  margin-bottom: 10vw;
+}

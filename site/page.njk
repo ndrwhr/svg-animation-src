@@ -1,0 +1,33 @@
+---
+layout: layouts/base
+pagination:
+  data: svgs.animations.dirs
+  size: 10
+permalink: "/{% if pagination.pageNumber != 0 %}page-{{ pagination.pageNumber + 1 }}/{% endif %}"
+navLinks:
+  'source code': 'https://github.com/ndrwhr/svg-animation-src'
+  'more experiments': 'https://andrew.wang-hoyer.com'
+stylesheets:
+  - "css/page.css"
+---
+{% include "header.njk" %}
+
+<div class="page">
+  {% include "paging.njk" %}
+
+  {% for dir in pagination.items %}
+    <div class="page__section">
+      <h2 id="{{ dir.name }}" class="page__section-header">
+        ⦗<a href="{{ dir.url | url}}">{{ dir.name }} - {{ dir.list | length }} VARIATIONS</a>⦘
+      </h2>
+      {% set grid = ({dirIndex: dir.index}) %}
+      {% include "grid.njk" %}
+    </div>
+  {% endfor %}
+
+  {% include "paging.njk" %}
+</div>
+
+{% include "about.njk" %}
+
+{% include "nav.njk" %}

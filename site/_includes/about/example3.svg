@@ -1,0 +1,55 @@
+<svg
+  preserveAspectRatio="xMidYMid meet"
+  version="1.1"
+  viewBox="-50 -50 100 100"
+  xmlns:xlink="http://www.w3.org/1999/xlink"
+  xmlns="http://www.w3.org/2000/svg"
+>
+  <style>
+    /* <![CDATA[ */
+      .example3-rect {
+        stroke: black;
+        stroke-width: 1%;
+        stroke-dasharray: 10, 6;
+        fill: none;
+        animation:
+          example3-animation
+          2.5s
+          linear
+          infinite;
+      }
+      .example3-rect:nth-of-type(odd) {
+        animation-direction: reverse;
+      }
+      @keyframes example3-animation {
+        from {
+          stroke-dashoffset: 0;
+        }
+        to {
+          stroke-dashoffset: 16%;
+        }
+      }
+    /* ]]> */
+  </style>
+  <rect
+    class="example3-rect"
+    x="-8"
+    y="-8"
+    height="16"
+    width="16"
+  />
+  <rect
+    class="example3-rect"
+    x="-16"
+    y="-16"
+    height="32"
+    width="32"
+  />
+  <rect
+    class="example3-rect"
+    x="-24"
+    y="-24"
+    height="48"
+    width="48"
+  />
+</svg>

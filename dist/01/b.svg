@@ -1,0 +1,165 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE svg>
+<svg
+  data-animation-duration="15s"
+  viewBox="-50 -50 100 100"
+>
+  <title>
+    ANIMATION 01 - VARIATION B
+  </title>
+  <desc>
+    <p>See this animation in action here: <a href="https://andrew.wang-hoyer.com/experiments/svg-animations/01/b" target="_blank" rel="noopener">https://andrew.wang-hoyer.com/experiments/svg-animations/01/b</a>.</p>
+    <p>Generator source code : <a href="https://github.com/ndrwhr/svg-animation-src/tree/master/site/_svgs/generators/animations/01/b.js" target="_blank" rel="noopener">https://github.com/ndrwhr/svg-animation-src/tree/master/site/_svgs/generators/animations/01/b.js</a>.</p>
+    <p>All generated files and source code are released under the following license:</p>
+    <p>MIT License</p>
+    <p>Copyright (c) 2018-present Andrew Hoyer</p>
+    <p>Permission is hereby granted, free of charge, to any person obtaining a copy of this software and associated documentation files (the &quot;Software&quot;), to deal in the Software without restriction, including without limitation the rights to use, copy, modify, merge, publish, distribute, sublicense, and/or sell copies of the Software, and to permit persons to whom the Software is furnished to do so, subject to the following conditions:</p>
+    <p>The above copyright notice and this permission notice shall be included in all copies or substantial portions of the Software.</p>
+    <p>THE SOFTWARE IS PROVIDED &quot;AS IS&quot;, WITHOUT WARRANTY OF ANY KIND, EXPRESS OR IMPLIED, INCLUDING BUT NOT LIMITED TO THE WARRANTIES OF MERCHANTABILITY, FITNESS FOR A PARTICULAR PURPOSE AND NONINFRINGEMENT. IN NO EVENT SHALL THE AUTHORS OR COPYRIGHT HOLDERS BE LIABLE FOR ANY CLAIM, DAMAGES OR OTHER LIABILITY, WHETHER IN AN ACTION OF CONTRACT, TORT OR OTHERWISE, ARISING FROM, OUT OF OR IN CONNECTION WITH THE SOFTWARE OR THE USE OR OTHER DEALINGS IN THE SOFTWARE.</p>
+  </desc>
+  <style>
+    /* <![CDATA[ */
+      .svg-01-b-rect {
+        stroke-width: .2;
+        stroke: black;
+        fill: none;
+      }
+      
+      .svg-01-b-inner-group:nth-child(even) .svg-01-b-rect {
+        transform-origin: 0 0;
+        animation: svg-01-b-rect 5s linear infinite;
+      }
+      
+      .svg-01-b-inner-group:nth-child(odd) .svg-01-b-rect {
+        transform-origin: 0 0;
+        animation: svg-01-b-rect 5s linear reverse infinite;
+      }
+      
+      .svg-01-b-outer-group {
+        transform-origin: 0 0;
+        animation: svg-01-b-outer-group 15s linear infinite;
+      }
+      
+      @keyframes svg-01-b-outer-group {
+        from {
+          transform: rotate(360deg);
+        }
+      
+        to {
+          transform: rotate(0deg);
+        }
+      }
+      
+      @keyframes svg-01-b-rect {
+        to {
+          transform: rotate(360deg);
+        }
+      
+        from {
+          transform: rotate(0deg);
+        }
+      }
+      
+    /* ]]> */
+  </style>
+  <g
+    class="svg-01-b-g svg-01-b-outer-group"
+  >
+    <g
+      class="svg-01-b-g svg-01-b-inner-group"
+      transform="rotate(0) translate(0 18.75)"
+    >
+      <rect
+        class="svg-01-b-rect"
+        height="25"
+        width="25"
+        x="-12.5"
+        y="-12.5"
+      />
+    </g>
+    <g
+      class="svg-01-b-g svg-01-b-inner-group"
+      transform="rotate(45) translate(0 18.75)"
+    >
+      <rect
+        class="svg-01-b-rect"
+        height="25"
+        width="25"
+        x="-12.5"
+        y="-12.5"
+      />
+    </g>
+    <g
+      class="svg-01-b-g svg-01-b-inner-group"
+      transform="rotate(90) translate(0 18.75)"
+    >
+      <rect
+        class="svg-01-b-rect"
+        height="25"
+        width="25"
+        x="-12.5"
+        y="-12.5"
+      />
+    </g>
+    <g
+      class="svg-01-b-g svg-01-b-inner-group"
+      transform="rotate(135) translate(0 18.75)"
+    >
+      <rect
+        class="svg-01-b-rect"
+        height="25"
+        width="25"
+        x="-12.5"
+        y="-12.5"
+      />
+    </g>
+    <g
+      class="svg-01-b-g svg-01-b-inner-group"
+      transform="rotate(180) translate(0 18.75)"
+    >
+      <rect
+        class="svg-01-b-rect"
+        height="25"
+        width="25"
+        x="-12.5"
+        y="-12.5"
+      />
+    </g>
+    <g
+      class="svg-01-b-g svg-01-b-inner-group"
+      transform="rotate(225) translate(0 18.75)"
+    >
+      <rect
+        class="svg-01-b-rect"
+        height="25"
+        width="25"
+        x="-12.5"
+        y="-12.5"
+      />
+    </g>
+    <g
+      class="svg-01-b-g svg-01-b-inner-group"
+      transform="rotate(270) translate(0 18.75)"
+    >
+      <rect
+        class="svg-01-b-rect"
+        height="25"
+        width="25"
+        x="-12.5"
+        y="-12.5"
+      />
+    </g>
+    <g
+      class="svg-01-b-g svg-01-b-inner-group"
+      transform="rotate(315) translate(0 18.75)"
+    >
+      <rect
+        class="svg-01-b-rect"
+        height="25"
+        width="25"
+        x="-12.5"
+        y="-12.5"
+      />
+    </g>
+  </g>
+</svg>

@@ -1,0 +1,4036 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE svg>
+<svg
+  data-animation-duration="3s"
+  viewBox="-50 -50 100 100"
+>
+  <title>
+    ANIMATION 41 - VARIATION A
+  </title>
+  <desc>
+    <p>See this animation in action here: <a href="https://andrew.wang-hoyer.com/experiments/svg-animations/41/a" target="_blank" rel="noopener">https://andrew.wang-hoyer.com/experiments/svg-animations/41/a</a>.</p>
+    <p>Generator source code : <a href="https://github.com/ndrwhr/svg-animation-src/tree/master/site/_svgs/generators/animations/41/a.js" target="_blank" rel="noopener">https://github.com/ndrwhr/svg-animation-src/tree/master/site/_svgs/generators/animations/41/a.js</a>.</p>
+    <p>All generated files and source code are released under the following license:</p>
+    <p>MIT License</p>
+    <p>Copyright (c) 2018-present Andrew Hoyer</p>
+    <p>Permission is hereby granted, free of charge, to any person obtaining a copy of this software and associated documentation files (the &quot;Software&quot;), to deal in the Software without restriction, including without limitation the rights to use, copy, modify, merge, publish, distribute, sublicense, and/or sell copies of the Software, and to permit persons to whom the Software is furnished to do so, subject to the following conditions:</p>
+    <p>The above copyright notice and this permission notice shall be included in all copies or substantial portions of the Software.</p>
+    <p>THE SOFTWARE IS PROVIDED &quot;AS IS&quot;, WITHOUT WARRANTY OF ANY KIND, EXPRESS OR IMPLIED, INCLUDING BUT NOT LIMITED TO THE WARRANTIES OF MERCHANTABILITY, FITNESS FOR A PARTICULAR PURPOSE AND NONINFRINGEMENT. IN NO EVENT SHALL THE AUTHORS OR COPYRIGHT HOLDERS BE LIABLE FOR ANY CLAIM, DAMAGES OR OTHER LIABILITY, WHETHER IN AN ACTION OF CONTRACT, TORT OR OTHERWISE, ARISING FROM, OUT OF OR IN CONNECTION WITH THE SOFTWARE OR THE USE OR OTHER DEALINGS IN THE SOFTWARE.</p>
+  </desc>
+  <style>
+    /* <![CDATA[ */
+      .svg-41-a-circle {
+        stroke: none;
+        fill: black;
+        animation: svg-41-a-main-anim 3s ease-in-out alternate infinite;
+      }
+      
+      @keyframes svg-41-a-main-anim {
+        from {
+          transform: scale(.3);
+        }
+      
+        to {
+          transform: scale(1);
+        }
+      }
+      
+    /* ]]> */
+  </style>
+  <g
+    class="svg-41-a-g"
+    transform="translate(-44.16729736328125, 40.5)"
+  >
+    <circle
+      class="svg-41-a-circle"
+      cx="0"
+      cy="0"
+      r="2.5980780325403394"
+      style="animation-delay: 0s"
+    />
+  </g>
+  <g
+    class="svg-41-a-g"
+    transform="translate(-44.16729736328125, 31.5)"
+  >
+    <circle
+      class="svg-41-a-circle"
+      cx="0"
+      cy="0"
+      r="2.5980780325403394"
+      style="animation-delay: 0s"
+    />
+  </g>
+  <g
+    class="svg-41-a-g"
+    transform="translate(-41.569217681884766, 36)"
+  >
+    <circle
+      class="svg-41-a-circle"
+      cx="0"
+      cy="0"
+      r="2.5980780325403394"
+      style="animation-delay: 0s"
+    />
+  </g>
+  <g
+    class="svg-41-a-g"
+    transform="translate(-38.97114181518555, 40.5)"
+  >
+    <circle
+      class="svg-41-a-circle"
+      cx="0"
+      cy="0"
+      r="2.5980780325403394"
+      style="animation-delay: 0s"
+    />
+  </g>
+  <g
+    class="svg-41-a-g"
+    transform="translate(-44.16729736328125, 22.5)"
+  >
+    <circle
+      class="svg-41-a-circle"
+      cx="0"
+      cy="0"
+      r="2.5980780325403394"
+      style="animation-delay: 0s"
+    />
+  </g>
+  <g
+    class="svg-41-a-g"
+    transform="translate(-41.569217681884766, 27)"
+  >
+    <circle
+      class="svg-41-a-circle"
+      cx="0"
+      cy="0"
+      r="2.5980780325403394"
+      style="animation-delay: 0s"
+    />
+  </g>
+  <g
+    class="svg-41-a-g"
+    transform="translate(-38.97114181518555, 31.5)"
+  >
+    <circle
+      class="svg-41-a-circle"
+      cx="0"
+      cy="0"
+      r="2.5980780325403394"
+      style="animation-delay: 0s"
+    />
+  </g>
+  <g
+    class="svg-41-a-g"
+    transform="translate(-36.37306594848633, 36)"
+  >
+    <circle
+      class="svg-41-a-circle"
+      cx="0"
+      cy="0"
+      r="2.5980780325403394"
+      style="animation-delay: 0s"
+    />
+  </g>
+  <g
+    class="svg-41-a-g"
+    transform="translate(-33.77499008178711, 40.5)"
+  >
+    <circle
+      class="svg-41-a-circle"
+      cx="0"
+      cy="0"
+      r="2.5980780325403394"
+      style="animation-delay: 0s"
+    />
+  </g>
+  <g
+    class="svg-41-a-g"
+    transform="translate(-44.16729736328125, 13.5)"
+  >
+    <circle
+      class="svg-41-a-circle"
+      cx="0"
+      cy="0"
+      r="2.5980780325403394"
+      style="animation-delay: 0s"
+    />
+  </g>
+  <g
+    class="svg-41-a-g"
+    transform="translate(-41.569217681884766, 18)"
+  >
+    <circle
+      class="svg-41-a-circle"
+      cx="0"
+      cy="0"
+      r="2.5980780325403394"
+      style="animation-delay: 0s"
+    />
+  </g>
+  <g
+    class="svg-41-a-g"
+    transform="translate(-38.97114181518555, 22.5)"
+  >
+    <circle
+      class="svg-41-a-circle"
+      cx="0"
+      cy="0"
+      r="2.5980780325403394"
+      style="animation-delay: 0s"
+    />
+  </g>
+  <g
+    class="svg-41-a-g"
+    transform="translate(-36.37306594848633, 27)"
+  >
+    <circle
+      class="svg-41-a-circle"
+      cx="0"
+      cy="0"
+      r="2.5980780325403394"
+      style="animation-delay: 0s"
+    />
+  </g>
+  <g
+    class="svg-41-a-g"
+    transform="translate(-33.77499008178711, 31.5)"
+  >
+    <circle
+      class="svg-41-a-circle"
+      cx="0"
+      cy="0"
+      r="2.5980780325403394"
+      style="animation-delay: 0s"
+    />
+  </g>
+  <g
+    class="svg-41-a-g"
+    transform="translate(-31.17691421508789, 36)"
+  >
+    <circle
+      class="svg-41-a-circle"
+      cx="0"
+      cy="0"
+      r="2.5980780325403394"
+      style="animation-delay: 0s"
+    />
+  </g>
+  <g
+    class="svg-41-a-g"
+    transform="translate(-28.578838348388672, 40.5)"
+  >
+    <circle
+      class="svg-41-a-circle"
+      cx="0"
+      cy="0"
+      r="2.5980780325403394"
+      style="animation-delay: 0s"
+    />
+  </g>
+  <g
+    class="svg-41-a-g"
+    transform="translate(-44.16729736328125, 4.5)"
+  >
+    <circle
+      class="svg-41-a-circle"
+      cx="0"
+      cy="0"
+      r="2.5980780325403394"
+      style="animation-delay: 0s"
+    />
+  </g>
+  <g
+    class="svg-41-a-g"
+    transform="translate(-41.569217681884766, 9)"
+  >
+    <circle
+      class="svg-41-a-circle"
+      cx="0"
+      cy="0"
+      r="2.5980780325403394"
+      style="animation-delay: 0s"
+    />
+  </g>
+  <g
+    class="svg-41-a-g"
+    transform="translate(-38.97114181518555, 13.5)"
+  >
+    <circle
+      class="svg-41-a-circle"
+      cx="0"
+      cy="0"
+      r="2.5980780325403394"
+      style="animation-delay: 0s"
+    />
+  </g>
+  <g
+    class="svg-41-a-g"
+    transform="translate(-36.37306594848633, 18)"
+  >
+    <circle
+      class="svg-41-a-circle"
+      cx="0"
+      cy="0"
+      r="2.5980780325403394"
+      style="animation-delay: 0s"
+    />
+  </g>
+  <g
+    class="svg-41-a-g"
+    transform="translate(-33.77499008178711, 22.5)"
+  >
+    <circle
+      class="svg-41-a-circle"
+      cx="0"
+      cy="0"
+      r="2.5980780325403394"
+      style="animation-delay: 0s"
+    />
+  </g>
+  <g
+    class="svg-41-a-g"
+    transform="translate(-31.17691421508789, 27)"
+  >
+    <circle
+      class="svg-41-a-circle"
+      cx="0"
+      cy="0"
+      r="2.5980780325403394"
+      style="animation-delay: 0s"
+    />
+  </g>
+  <g
+    class="svg-41-a-g"
+    transform="translate(-28.578838348388672, 31.5)"
+  >
+    <circle
+      class="svg-41-a-circle"
+      cx="0"
+      cy="0"
+      r="2.5980780325403394"
+      style="animation-delay: 0s"
+    />
+  </g>
+  <g
+    class="svg-41-a-g"
+    transform="translate(-25.980762481689453, 36)"
+  >
+    <circle
+      class="svg-41-a-circle"
+      cx="0"
+      cy="0"
+      r="2.5980780325403394"
+      style="animation-delay: 0s"
+    />
+  </g>
+  <g
+    class="svg-41-a-g"
+    transform="translate(-23.382686614990234, 40.5)"
+  >
+    <circle
+      class="svg-41-a-circle"
+      cx="0"
+      cy="0"
+      r="2.5980780325403394"
+      style="animation-delay: 0s"
+    />
+  </g>
+  <g
+    class="svg-41-a-g"
+    transform="translate(-44.16729736328125, -4.5)"
+  >
+    <circle
+      class="svg-41-a-circle"
+      cx="0"
+      cy="0"
+      r="2.5980780325403394"
+      style="animation-delay: 0s"
+    />
+  </g>
+  <g
+    class="svg-41-a-g"
+    transform="translate(-41.569217681884766, 0)"
+  >
+    <circle
+      class="svg-41-a-circle"
+      cx="0"
+      cy="0"
+      r="2.5980780325403394"
+      style="animation-delay: 0s"
+    />
+  </g>
+  <g
+    class="svg-41-a-g"
+    transform="translate(-38.97114181518555, 4.5)"
+  >
+    <circle
+      class="svg-41-a-circle"
+      cx="0"
+      cy="0"
+      r="2.5980780325403394"
+      style="animation-delay: 0s"
+    />
+  </g>
+  <g
+    class="svg-41-a-g"
+    transform="translate(-36.37306594848633, 9)"
+  >
+    <circle
+      class="svg-41-a-circle"
+      cx="0"
+      cy="0"
+      r="2.5980780325403394"
+      style="animation-delay: 0s"
+    />
+  </g>
+  <g
+    class="svg-41-a-g"
+    transform="translate(-33.77499008178711, 13.5)"
+  >
+    <circle
+      class="svg-41-a-circle"
+      cx="0"
+      cy="0"
+      r="2.5980780325403394"
+      style="animation-delay: 0s"
+    />
+  </g>
+  <g
+    class="svg-41-a-g"
+    transform="translate(-31.17691421508789, 18)"
+  >
+    <circle
+      class="svg-41-a-circle"
+      cx="0"
+      cy="0"
+      r="2.5980780325403394"
+      style="animation-delay: 0s"
+    />
+  </g>
+  <g
+    class="svg-41-a-g"
+    transform="translate(-28.578838348388672, 22.5)"
+  >
+    <circle
+      class="svg-41-a-circle"
+      cx="0"
+      cy="0"
+      r="2.5980780325403394"
+      style="animation-delay: 0s"
+    />
+  </g>
+  <g
+    class="svg-41-a-g"
+    transform="translate(-25.980762481689453, 27)"
+  >
+    <circle
+      class="svg-41-a-circle"
+      cx="0"
+      cy="0"
+      r="2.5980780325403394"
+      style="animation-delay: 0s"
+    />
+  </g>
+  <g
+    class="svg-41-a-g"
+    transform="translate(-23.382686614990234, 31.5)"
+  >
+    <circle
+      class="svg-41-a-circle"
+      cx="0"
+      cy="0"
+      r="2.5980780325403394"
+      style="animation-delay: 0s"
+    />
+  </g>
+  <g
+    class="svg-41-a-g"
+    transform="translate(-20.784608840942383, 36)"
+  >
+    <circle
+      class="svg-41-a-circle"
+      cx="0"
+      cy="0"
+      r="2.5980780325403394"
+      style="animation-delay: 0s"
+    />
+  </g>
+  <g
+    class="svg-41-a-g"
+    transform="translate(-18.186532974243164, 40.5)"
+  >
+    <circle
+      class="svg-41-a-circle"
+      cx="0"
+      cy="0"
+      r="2.5980780325403394"
+      style="animation-delay: 0s"
+    />
+  </g>
+  <g
+    class="svg-41-a-g"
+    transform="translate(-44.16729736328125, -13.5)"
+  >
+    <circle
+      class="svg-41-a-circle"
+      cx="0"
+      cy="0"
+      r="2.5980780325403394"
+      style="animation-delay: 0s"
+    />
+  </g>
+  <g
+    class="svg-41-a-g"
+    transform="translate(-41.569217681884766, -9)"
+  >
+    <circle
+      class="svg-41-a-circle"
+      cx="0"
+      cy="0"
+      r="2.5980780325403394"
+      style="animation-delay: 0s"
+    />
+  </g>
+  <g
+    class="svg-41-a-g"
+    transform="translate(-38.97114181518555, -4.5)"
+  >
+    <circle
+      class="svg-41-a-circle"
+      cx="0"
+      cy="0"
+      r="2.5980780325403394"
+      style="animation-delay: 0s"
+    />
+  </g>
+  <g
+    class="svg-41-a-g"
+    transform="translate(-36.37306594848633, 0)"
+  >
+    <circle
+      class="svg-41-a-circle"
+      cx="0"
+      cy="0"
+      r="2.5980780325403394"
+      style="animation-delay: 0s"
+    />
+  </g>
+  <g
+    class="svg-41-a-g"
+    transform="translate(-33.77499008178711, 4.5)"
+  >
+    <circle
+      class="svg-41-a-circle"
+      cx="0"
+      cy="0"
+      r="2.5980780325403394"
+      style="animation-delay: 0s"
+    />
+  </g>
+  <g
+    class="svg-41-a-g"
+    transform="translate(-31.17691421508789, 9)"
+  >
+    <circle
+      class="svg-41-a-circle"
+      cx="0"
+      cy="0"
+      r="2.5980780325403394"
+      style="animation-delay: 0s"
+    />
+  </g>
+  <g
+    class="svg-41-a-g"
+    transform="translate(-28.578838348388672, 13.5)"
+  >
+    <circle
+      class="svg-41-a-circle"
+      cx="0"
+      cy="0"
+      r="2.5980780325403394"
+      style="animation-delay: 0s"
+    />
+  </g>
+  <g
+    class="svg-41-a-g"
+    transform="translate(-25.980762481689453, 18)"
+  >
+    <circle
+      class="svg-41-a-circle"
+      cx="0"
+      cy="0"
+      r="2.5980780325403394"
+      style="animation-delay: 0s"
+    />
+  </g>
+  <g
+    class="svg-41-a-g"
+    transform="translate(-23.382686614990234, 22.5)"
+  >
+    <circle
+      class="svg-41-a-circle"
+      cx="0"
+      cy="0"
+      r="2.5980780325403394"
+      style="animation-delay: 0s"
+    />
+  </g>
+  <g
+    class="svg-41-a-g"
+    transform="translate(-20.784608840942383, 27)"
+  >
+    <circle
+      class="svg-41-a-circle"
+      cx="0"
+      cy="0"
+      r="2.5980780325403394"
+      style="animation-delay: 0s"
+    />
+  </g>
+  <g
+    class="svg-41-a-g"
+    transform="translate(-18.186532974243164, 31.5)"
+  >
+    <circle
+      class="svg-41-a-circle"
+      cx="0"
+      cy="0"
+      r="2.5980780325403394"
+      style="animation-delay: 0s"
+    />
+  </g>
+  <g
+    class="svg-41-a-g"
+    transform="translate(-15.588457107543945, 36)"
+  >
+    <circle
+      class="svg-41-a-circle"
+      cx="0"
+      cy="0"
+      r="2.5980780325403394"
+      style="animation-delay: 0s"
+    />
+  </g>
+  <g
+    class="svg-41-a-g"
+    transform="translate(-12.990381240844727, 40.5)"
+  >
+    <circle
+      class="svg-41-a-circle"
+      cx="0"
+      cy="0"
+      r="2.5980780325403394"
+      style="animation-delay: 0s"
+    />
+  </g>
+  <g
+    class="svg-41-a-g"
+    transform="translate(-44.16729736328125, -22.5)"
+  >
+    <circle
+      class="svg-41-a-circle"
+      cx="0"
+      cy="0"
+      r="2.5980780325403394"
+      style="animation-delay: 0s"
+    />
+  </g>
+  <g
+    class="svg-41-a-g"
+    transform="translate(-41.569217681884766, -18)"
+  >
+    <circle
+      class="svg-41-a-circle"
+      cx="0"
+      cy="0"
+      r="2.5980780325403394"
+      style="animation-delay: 0s"
+    />
+  </g>
+  <g
+    class="svg-41-a-g"
+    transform="translate(-38.97114181518555, -13.5)"
+  >
+    <circle
+      class="svg-41-a-circle"
+      cx="0"
+      cy="0"
+      r="2.5980780325403394"
+      style="animation-delay: 0s"
+    />
+  </g>
+  <g
+    class="svg-41-a-g"
+    transform="translate(-36.37306594848633, -9)"
+  >
+    <circle
+      class="svg-41-a-circle"
+      cx="0"
+      cy="0"
+      r="2.5980780325403394"
+      style="animation-delay: 0s"
+    />
+  </g>
+  <g
+    class="svg-41-a-g"
+    transform="translate(-33.77499008178711, -4.5)"
+  >
+    <circle
+      class="svg-41-a-circle"
+      cx="0"
+      cy="0"
+      r="2.5980780325403394"
+      style="animation-delay: 0s"
+    />
+  </g>
+  <g
+    class="svg-41-a-g"
+    transform="translate(-31.17691421508789, 0)"
+  >
+    <circle
+      class="svg-41-a-circle"
+      cx="0"
+      cy="0"
+      r="2.5980780325403394"
+      style="animation-delay: 0s"
+    />
+  </g>
+  <g
+    class="svg-41-a-g"
+    transform="translate(-28.578838348388672, 4.5)"
+  >
+    <circle
+      class="svg-41-a-circle"
+      cx="0"
+      cy="0"
+      r="2.5980780325403394"
+      style="animation-delay: 0s"
+    />
+  </g>
+  <g
+    class="svg-41-a-g"
+    transform="translate(-25.980762481689453, 9)"
+  >
+    <circle
+      class="svg-41-a-circle"
+      cx="0"
+      cy="0"
+      r="2.5980780325403394"
+      style="animation-delay: 0s"
+    />
+  </g>
+  <g
+    class="svg-41-a-g"
+    transform="translate(-23.382686614990234, 13.5)"
+  >
+    <circle
+      class="svg-41-a-circle"
+      cx="0"
+      cy="0"
+      r="2.5980780325403394"
+      style="animation-delay: 0s"
+    />
+  </g>
+  <g
+    class="svg-41-a-g"
+    transform="translate(-20.784608840942383, 18)"
+  >
+    <circle
+      class="svg-41-a-circle"
+      cx="0"
+      cy="0"
+      r="2.5980780325403394"
+      style="animation-delay: 0s"
+    />
+  </g>
+  <g
+    class="svg-41-a-g"
+    transform="translate(-18.186532974243164, 22.5)"
+  >
+    <circle
+      class="svg-41-a-circle"
+      cx="0"
+      cy="0"
+      r="2.5980780325403394"
+      style="animation-delay: 0s"
+    />
+  </g>
+  <g
+    class="svg-41-a-g"
+    transform="translate(-15.588457107543945, 27)"
+  >
+    <circle
+      class="svg-41-a-circle"
+      cx="0"
+      cy="0"
+      r="2.5980780325403394"
+      style="animation-delay: 0s"
+    />
+  </g>
+  <g
+    class="svg-41-a-g"
+    transform="translate(-12.990381240844727, 31.5)"
+  >
+    <circle
+      class="svg-41-a-circle"
+      cx="0"
+      cy="0"
+      r="2.5980780325403394"
+      style="animation-delay: 0s"
+    />
+  </g>
+  <g
+    class="svg-41-a-g"
+    transform="translate(-10.392304420471191, 36)"
+  >
+    <circle
+      class="svg-41-a-circle"
+      cx="0"
+      cy="0"
+      r="2.5980780325403394"
+      style="animation-delay: 0s"
+    />
+  </g>
+  <g
+    class="svg-41-a-g"
+    transform="translate(-7.794228553771973, 40.5)"
+  >
+    <circle
+      class="svg-41-a-circle"
+      cx="0"
+      cy="0"
+      r="2.5980780325403394"
+      style="animation-delay: 0s"
+    />
+  </g>
+  <g
+    class="svg-41-a-g"
+    transform="translate(-44.16729736328125, -31.5)"
+  >
+    <circle
+      class="svg-41-a-circle"
+      cx="0"
+      cy="0"
+      r="2.5980780325403394"
+      style="animation-delay: 0s"
+    />
+  </g>
+  <g
+    class="svg-41-a-g"
+    transform="translate(-41.569217681884766, -27)"
+  >
+    <circle
+      class="svg-41-a-circle"
+      cx="0"
+      cy="0"
+      r="2.5980780325403394"
+      style="animation-delay: 0s"
+    />
+  </g>
+  <g
+    class="svg-41-a-g"
+    transform="translate(-38.97114181518555, -22.5)"
+  >
+    <circle
+      class="svg-41-a-circle"
+      cx="0"
+      cy="0"
+      r="2.5980780325403394"
+      style="animation-delay: 0s"
+    />
+  </g>
+  <g
+    class="svg-41-a-g"
+    transform="translate(-36.37306594848633, -18)"
+  >
+    <circle
+      class="svg-41-a-circle"
+      cx="0"
+      cy="0"
+      r="2.5980780325403394"
+      style="animation-delay: 0s"
+    />
+  </g>
+  <g
+    class="svg-41-a-g"
+    transform="translate(-33.77499008178711, -13.5)"
+  >
+    <circle
+      class="svg-41-a-circle"
+      cx="0"
+      cy="0"
+      r="2.5980780325403394"
+      style="animation-delay: 0s"
+    />
+  </g>
+  <g
+    class="svg-41-a-g"
+    transform="translate(-31.17691421508789, -9)"
+  >
+    <circle
+      class="svg-41-a-circle"
+      cx="0"
+      cy="0"
+      r="2.5980780325403394"
+      style="animation-delay: 0s"
+    />
+  </g>
+  <g
+    class="svg-41-a-g"
+    transform="translate(-28.578838348388672, -4.5)"
+  >
+    <circle
+      class="svg-41-a-circle"
+      cx="0"
+      cy="0"
+      r="2.5980780325403394"
+      style="animation-delay: 0s"
+    />
+  </g>
+  <g
+    class="svg-41-a-g"
+    transform="translate(-25.980762481689453, 0)"
+  >
+    <circle
+      class="svg-41-a-circle"
+      cx="0"
+      cy="0"
+      r="2.5980780325403394"
+      style="animation-delay: 0s"
+    />
+  </g>
+  <g
+    class="svg-41-a-g"
+    transform="translate(-23.382686614990234, 4.5)"
+  >
+    <circle
+      class="svg-41-a-circle"
+      cx="0"
+      cy="0"
+      r="2.5980780325403394"
+      style="animation-delay: 0s"
+    />
+  </g>
+  <g
+    class="svg-41-a-g"
+    transform="translate(-20.784608840942383, 9)"
+  >
+    <circle
+      class="svg-41-a-circle"
+      cx="0"
+      cy="0"
+      r="2.5980780325403394"
+      style="animation-delay: 0s"
+    />
+  </g>
+  <g
+    class="svg-41-a-g"
+    transform="translate(-18.186532974243164, 13.5)"
+  >
+    <circle
+      class="svg-41-a-circle"
+      cx="0"
+      cy="0"
+      r="2.5980780325403394"
+      style="animation-delay: 0s"
+    />
+  </g>
+  <g
+    class="svg-41-a-g"
+    transform="translate(-15.588457107543945, 18)"
+  >
+    <circle
+      class="svg-41-a-circle"
+      cx="0"
+      cy="0"
+      r="2.5980780325403394"
+      style="animation-delay: 0s"
+    />
+  </g>
+  <g
+    class="svg-41-a-g"
+    transform="translate(-12.990381240844727, 22.5)"
+  >
+    <circle
+      class="svg-41-a-circle"
+      cx="0"
+      cy="0"
+      r="2.5980780325403394"
+      style="animation-delay: 0s"
+    />
+  </g>
+  <g
+    class="svg-41-a-g"
+    transform="translate(-10.392304420471191, 27)"
+  >
+    <circle
+      class="svg-41-a-circle"
+      cx="0"
+      cy="0"
+      r="2.5980780325403394"
+      style="animation-delay: 0s"
+    />
+  </g>
+  <g
+    class="svg-41-a-g"
+    transform="translate(-7.794228553771973, 31.5)"
+  >
+    <circle
+      class="svg-41-a-circle"
+      cx="0"
+      cy="0"
+      r="2.5980780325403394"
+      style="animation-delay: 0s"
+    />
+  </g>
+  <g
+    class="svg-41-a-g"
+    transform="translate(-5.196152210235596, 36)"
+  >
+    <circle
+      class="svg-41-a-circle"
+      cx="0"
+      cy="0"
+      r="2.5980780325403394"
+      style="animation-delay: 0s"
+    />
+  </g>
+  <g
+    class="svg-41-a-g"
+    transform="translate(-2.598076105117798, 40.5)"
+  >
+    <circle
+      class="svg-41-a-circle"
+      cx="0"
+      cy="0"
+      r="2.5980780325403394"
+      style="animation-delay: 0s"
+    />
+  </g>
+  <g
+    class="svg-41-a-g"
+    transform="translate(-44.16729736328125, -40.5)"
+  >
+    <circle
+      class="svg-41-a-circle"
+      cx="0"
+      cy="0"
+      r="2.5980780325403394"
+      style="animation-delay: 0s"
+    />
+  </g>
+  <g
+    class="svg-41-a-g"
+    transform="translate(-41.569217681884766, -36)"
+  >
+    <circle
+      class="svg-41-a-circle"
+      cx="0"
+      cy="0"
+      r="2.5980780325403394"
+      style="animation-delay: 0s"
+    />
+  </g>
+  <g
+    class="svg-41-a-g"
+    transform="translate(-38.97114181518555, -31.5)"
+  >
+    <circle
+      class="svg-41-a-circle"
+      cx="0"
+      cy="0"
+      r="2.5980780325403394"
+      style="animation-delay: 0s"
+    />
+  </g>
+  <g
+    class="svg-41-a-g"
+    transform="translate(-36.37306594848633, -27)"
+  >
+    <circle
+      class="svg-41-a-circle"
+      cx="0"
+      cy="0"
+      r="2.5980780325403394"
+      style="animation-delay: 0s"
+    />
+  </g>
+  <g
+    class="svg-41-a-g"
+    transform="translate(-33.77499008178711, -22.5)"
+  >
+    <circle
+      class="svg-41-a-circle"
+      cx="0"
+      cy="0"
+      r="2.5980780325403394"
+      style="animation-delay: 0s"
+    />
+  </g>
+  <g
+    class="svg-41-a-g"
+    transform="translate(-31.17691421508789, -18)"
+  >
+    <circle
+      class="svg-41-a-circle"
+      cx="0"
+      cy="0"
+      r="2.5980780325403394"
+      style="animation-delay: 0s"
+    />
+  </g>
+  <g
+    class="svg-41-a-g"
+    transform="translate(-28.578838348388672, -13.5)"
+  >
+    <circle
+      class="svg-41-a-circle"
+      cx="0"
+      cy="0"
+      r="2.5980780325403394"
+      style="animation-delay: 0s"
+    />
+  </g>
+  <g
+    class="svg-41-a-g"
+    transform="translate(-25.980762481689453, -9)"
+  >
+    <circle
+      class="svg-41-a-circle"
+      cx="0"
+      cy="0"
+      r="2.5980780325403394"
+      style="animation-delay: 0s"
+    />
+  </g>
+  <g
+    class="svg-41-a-g"
+    transform="translate(-23.382686614990234, -4.5)"
+  >
+    <circle
+      class="svg-41-a-circle"
+      cx="0"
+      cy="0"
+      r="2.5980780325403394"
+      style="animation-delay: 0s"
+    />
+  </g>
+  <g
+    class="svg-41-a-g"
+    transform="translate(-20.784608840942383, 0)"
+  >
+    <circle
+      class="svg-41-a-circle"
+      cx="0"
+      cy="0"
+      r="2.5980780325403394"
+      style="animation-delay: 0s"
+    />
+  </g>
+  <g
+    class="svg-41-a-g"
+    transform="translate(-18.186532974243164, 4.5)"
+  >
+    <circle
+      class="svg-41-a-circle"
+      cx="0"
+      cy="0"
+      r="2.5980780325403394"
+      style="animation-delay: 0s"
+    />
+  </g>
+  <g
+    class="svg-41-a-g"
+    transform="translate(-15.588457107543945, 9)"
+  >
+    <circle
+      class="svg-41-a-circle"
+      cx="0"
+      cy="0"
+      r="2.5980780325403394"
+      style="animation-delay: 0s"
+    />
+  </g>
+  <g
+    class="svg-41-a-g"
+    transform="translate(-12.990381240844727, 13.5)"
+  >
+    <circle
+      class="svg-41-a-circle"
+      cx="0"
+      cy="0"
+      r="2.5980780325403394"
+      style="animation-delay: 0s"
+    />
+  </g>
+  <g
+    class="svg-41-a-g"
+    transform="translate(-10.392304420471191, 18)"
+  >
+    <circle
+      class="svg-41-a-circle"
+      cx="0"
+      cy="0"
+      r="2.5980780325403394"
+      style="animation-delay: 0s"
+    />
+  </g>
+  <g
+    class="svg-41-a-g"
+    transform="translate(-7.794228553771973, 22.5)"
+  >
+    <circle
+      class="svg-41-a-circle"
+      cx="0"
+      cy="0"
+      r="2.5980780325403394"
+      style="animation-delay: 0s"
+    />
+  </g>
+  <g
+    class="svg-41-a-g"
+    transform="translate(-5.196152210235596, 27)"
+  >
+    <circle
+      class="svg-41-a-circle"
+      cx="0"
+      cy="0"
+      r="2.5980780325403394"
+      style="animation-delay: 0s"
+    />
+  </g>
+  <g
+    class="svg-41-a-g"
+    transform="translate(-2.598076105117798, 31.5)"
+  >
+    <circle
+      class="svg-41-a-circle"
+      cx="0"
+      cy="0"
+      r="2.5980780325403394"
+      style="animation-delay: 0s"
+    />
+  </g>
+  <g
+    class="svg-41-a-g"
+    transform="translate(0, 36)"
+  >
+    <circle
+      class="svg-41-a-circle"
+      cx="0"
+      cy="0"
+      r="2.5980780325403394"
+      style="animation-delay: 0s"
+    />
+  </g>
+  <g
+    class="svg-41-a-g"
+    transform="translate(2.598076105117798, 40.5)"
+  >
+    <circle
+      class="svg-41-a-circle"
+      cx="0"
+      cy="0"
+      r="2.5980780325403394"
+      style="animation-delay: 0s"
+    />
+  </g>
+  <g
+    class="svg-41-a-g"
+    transform="translate(-38.97114181518555, -40.5)"
+  >
+    <circle
+      class="svg-41-a-circle"
+      cx="0"
+      cy="0"
+      r="2.5980780325403394"
+      style="animation-delay: 0s"
+    />
+  </g>
+  <g
+    class="svg-41-a-g"
+    transform="translate(-36.37306594848633, -36)"
+  >
+    <circle
+      class="svg-41-a-circle"
+      cx="0"
+      cy="0"
+      r="2.5980780325403394"
+      style="animation-delay: 0s"
+    />
+  </g>
+  <g
+    class="svg-41-a-g"
+    transform="translate(-33.77499008178711, -31.5)"
+  >
+    <circle
+      class="svg-41-a-circle"
+      cx="0"
+      cy="0"
+      r="2.5980780325403394"
+      style="animation-delay: 0s"
+    />
+  </g>
+  <g
+    class="svg-41-a-g"
+    transform="translate(-31.17691421508789, -27)"
+  >
+    <circle
+      class="svg-41-a-circle"
+      cx="0"
+      cy="0"
+      r="2.5980780325403394"
+      style="animation-delay: 0s"
+    />
+  </g>
+  <g
+    class="svg-41-a-g"
+    transform="translate(-28.578838348388672, -22.5)"
+  >
+    <circle
+      class="svg-41-a-circle"
+      cx="0"
+      cy="0"
+      r="2.5980780325403394"
+      style="animation-delay: 0s"
+    />
+  </g>
+  <g
+    class="svg-41-a-g"
+    transform="translate(-25.980762481689453, -18)"
+  >
+    <circle
+      class="svg-41-a-circle"
+      cx="0"
+      cy="0"
+      r="2.5980780325403394"
+      style="animation-delay: 0s"
+    />
+  </g>
+  <g
+    class="svg-41-a-g"
+    transform="translate(-23.382686614990234, -13.5)"
+  >
+    <circle
+      class="svg-41-a-circle"
+      cx="0"
+      cy="0"
+      r="2.5980780325403394"
+      style="animation-delay: 0s"
+    />
+  </g>
+  <g
+    class="svg-41-a-g"
+    transform="translate(-20.784608840942383, -9)"
+  >
+    <circle
+      class="svg-41-a-circle"
+      cx="0"
+      cy="0"
+      r="2.5980780325403394"
+      style="animation-delay: 0s"
+    />
+  </g>
+  <g
+    class="svg-41-a-g"
+    transform="translate(-18.186532974243164, -4.5)"
+  >
+    <circle
+      class="svg-41-a-circle"
+      cx="0"
+      cy="0"
+      r="2.5980780325403394"
+      style="animation-delay: 0s"
+    />
+  </g>
+  <g
+    class="svg-41-a-g"
+    transform="translate(-15.588457107543945, 0)"
+  >
+    <circle
+      class="svg-41-a-circle"
+      cx="0"
+      cy="0"
+      r="2.5980780325403394"
+      style="animation-delay: 0s"
+    />
+  </g>
+  <g
+    class="svg-41-a-g"
+    transform="translate(-12.990381240844727, 4.5)"
+  >
+    <circle
+      class="svg-41-a-circle"
+      cx="0"
+      cy="0"
+      r="2.5980780325403394"
+      style="animation-delay: 0s"
+    />
+  </g>
+  <g
+    class="svg-41-a-g"
+    transform="translate(-10.392304420471191, 9)"
+  >
+    <circle
+      class="svg-41-a-circle"
+      cx="0"
+      cy="0"
+      r="2.5980780325403394"
+      style="animation-delay: 0s"
+    />
+  </g>
+  <g
+    class="svg-41-a-g"
+    transform="translate(-7.794228553771973, 13.5)"
+  >
+    <circle
+      class="svg-41-a-circle"
+      cx="0"
+      cy="0"
+      r="2.5980780325403394"
+      style="animation-delay: 0s"
+    />
+  </g>
+  <g
+    class="svg-41-a-g"
+    transform="translate(-5.196152210235596, 18)"
+  >
+    <circle
+      class="svg-41-a-circle"
+      cx="0"
+      cy="0"
+      r="2.5980780325403394"
+      style="animation-delay: 0s"
+    />
+  </g>
+  <g
+    class="svg-41-a-g"
+    transform="translate(-2.598076105117798, 22.5)"
+  >
+    <circle
+      class="svg-41-a-circle"
+      cx="0"
+      cy="0"
+      r="2.5980780325403394"
+      style="animation-delay: 0s"
+    />
+  </g>
+  <g
+    class="svg-41-a-g"
+    transform="translate(0, 27)"
+  >
+    <circle
+      class="svg-41-a-circle"
+      cx="0"
+      cy="0"
+      r="2.5980780325403394"
+      style="animation-delay: 0s"
+    />
+  </g>
+  <g
+    class="svg-41-a-g"
+    transform="translate(2.598076105117798, 31.5)"
+  >
+    <circle
+      class="svg-41-a-circle"
+      cx="0"
+      cy="0"
+      r="2.5980780325403394"
+      style="animation-delay: 0s"
+    />
+  </g>
+  <g
+    class="svg-41-a-g"
+    transform="translate(5.196152210235596, 36)"
+  >
+    <circle
+      class="svg-41-a-circle"
+      cx="0"
+      cy="0"
+      r="2.5980780325403394"
+      style="animation-delay: 0s"
+    />
+  </g>
+  <g
+    class="svg-41-a-g"
+    transform="translate(7.794228553771973, 40.5)"
+  >
+    <circle
+      class="svg-41-a-circle"
+      cx="0"
+      cy="0"
+      r="2.5980780325403394"
+      style="animation-delay: 0s"
+    />
+  </g>
+  <g
+    class="svg-41-a-g"
+    transform="translate(-33.77499008178711, -40.5)"
+  >
+    <circle
+      class="svg-41-a-circle"
+      cx="0"
+      cy="0"
+      r="2.5980780325403394"
+      style="animation-delay: 0s"
+    />
+  </g>
+  <g
+    class="svg-41-a-g"
+    transform="translate(-31.17691421508789, -36)"
+  >
+    <circle
+      class="svg-41-a-circle"
+      cx="0"
+      cy="0"
+      r="2.5980780325403394"
+      style="animation-delay: 0s"
+    />
+  </g>
+  <g
+    class="svg-41-a-g"
+    transform="translate(-28.578838348388672, -31.5)"
+  >
+    <circle
+      class="svg-41-a-circle"
+      cx="0"
+      cy="0"
+      r="2.5980780325403394"
+      style="animation-delay: 0s"
+    />
+  </g>
+  <g
+    class="svg-41-a-g"
+    transform="translate(-25.980762481689453, -27)"
+  >
+    <circle
+      class="svg-41-a-circle"
+      cx="0"
+      cy="0"
+      r="2.5980780325403394"
+      style="animation-delay: 0s"
+    />
+  </g>
+  <g
+    class="svg-41-a-g"
+    transform="translate(-23.382686614990234, -22.5)"
+  >
+    <circle
+      class="svg-41-a-circle"
+      cx="0"
+      cy="0"
+      r="2.5980780325403394"
+      style="animation-delay: 0s"
+    />
+  </g>
+  <g
+    class="svg-41-a-g"
+    transform="translate(-20.784608840942383, -18)"
+  >
+    <circle
+      class="svg-41-a-circle"
+      cx="0"
+      cy="0"
+      r="2.5980780325403394"
+      style="animation-delay: 0s"
+    />
+  </g>
+  <g
+    class="svg-41-a-g"
+    transform="translate(-18.186532974243164, -13.5)"
+  >
+    <circle
+      class="svg-41-a-circle"
+      cx="0"
+      cy="0"
+      r="2.5980780325403394"
+      style="animation-delay: 0s"
+    />
+  </g>
+  <g
+    class="svg-41-a-g"
+    transform="translate(-15.588457107543945, -9)"
+  >
+    <circle
+      class="svg-41-a-circle"
+      cx="0"
+      cy="0"
+      r="2.5980780325403394"
+      style="animation-delay: 0s"
+    />
+  </g>
+  <g
+    class="svg-41-a-g"
+    transform="translate(-12.990381240844727, -4.5)"
+  >
+    <circle
+      class="svg-41-a-circle"
+      cx="0"
+      cy="0"
+      r="2.5980780325403394"
+      style="animation-delay: 0s"
+    />
+  </g>
+  <g
+    class="svg-41-a-g"
+    transform="translate(-10.392304420471191, 0)"
+  >
+    <circle
+      class="svg-41-a-circle"
+      cx="0"
+      cy="0"
+      r="2.5980780325403394"
+      style="animation-delay: 0s"
+    />
+  </g>
+  <g
+    class="svg-41-a-g"
+    transform="translate(-7.794228553771973, 4.5)"
+  >
+    <circle
+      class="svg-41-a-circle"
+      cx="0"
+      cy="0"
+      r="2.5980780325403394"
+      style="animation-delay: 0s"
+    />
+  </g>
+  <g
+    class="svg-41-a-g"
+    transform="translate(-5.196152210235596, 9)"
+  >
+    <circle
+      class="svg-41-a-circle"
+      cx="0"
+      cy="0"
+      r="2.5980780325403394"
+      style="animation-delay: 0s"
+    />
+  </g>
+  <g
+    class="svg-41-a-g"
+    transform="translate(-2.598076105117798, 13.5)"
+  >
+    <circle
+      class="svg-41-a-circle"
+      cx="0"
+      cy="0"
+      r="2.5980780325403394"
+      style="animation-delay: 0s"
+    />
+  </g>
+  <g
+    class="svg-41-a-g"
+    transform="translate(0, 18)"
+  >
+    <circle
+      class="svg-41-a-circle"
+      cx="0"
+      cy="0"
+      r="2.5980780325403394"
+      style="animation-delay: 0s"
+    />
+  </g>
+  <g
+    class="svg-41-a-g"
+    transform="translate(2.598076105117798, 22.5)"
+  >
+    <circle
+      class="svg-41-a-circle"
+      cx="0"
+      cy="0"
+      r="2.5980780325403394"
+      style="animation-delay: 0s"
+    />
+  </g>
+  <g
+    class="svg-41-a-g"
+    transform="translate(5.196152210235596, 27)"
+  >
+    <circle
+      class="svg-41-a-circle"
+      cx="0"
+      cy="0"
+      r="2.5980780325403394"
+      style="animation-delay: 0s"
+    />
+  </g>
+  <g
+    class="svg-41-a-g"
+    transform="translate(7.794228553771973, 31.5)"
+  >
+    <circle
+      class="svg-41-a-circle"
+      cx="0"
+      cy="0"
+      r="2.5980780325403394"
+      style="animation-delay: 0s"
+    />
+  </g>
+  <g
+    class="svg-41-a-g"
+    transform="translate(10.392304420471191, 36)"
+  >
+    <circle
+      class="svg-41-a-circle"
+      cx="0"
+      cy="0"
+      r="2.5980780325403394"
+      style="animation-delay: 0s"
+    />
+  </g>
+  <g
+    class="svg-41-a-g"
+    transform="translate(12.990381240844727, 40.5)"
+  >
+    <circle
+      class="svg-41-a-circle"
+      cx="0"
+      cy="0"
+      r="2.5980780325403394"
+      style="animation-delay: 0s"
+    />
+  </g>
+  <g
+    class="svg-41-a-g"
+    transform="translate(-28.578838348388672, -40.5)"
+  >
+    <circle
+      class="svg-41-a-circle"
+      cx="0"
+      cy="0"
+      r="2.5980780325403394"
+      style="animation-delay: 0s"
+    />
+  </g>
+  <g
+    class="svg-41-a-g"
+    transform="translate(-25.980762481689453, -36)"
+  >
+    <circle
+      class="svg-41-a-circle"
+      cx="0"
+      cy="0"
+      r="2.5980780325403394"
+      style="animation-delay: 0s"
+    />
+  </g>
+  <g
+    class="svg-41-a-g"
+    transform="translate(-23.382686614990234, -31.5)"
+  >
+    <circle
+      class="svg-41-a-circle"
+      cx="0"
+      cy="0"
+      r="2.5980780325403394"
+      style="animation-delay: 0s"
+    />
+  </g>
+  <g
+    class="svg-41-a-g"
+    transform="translate(-20.784608840942383, -27)"
+  >
+    <circle
+      class="svg-41-a-circle"
+      cx="0"
+      cy="0"
+      r="2.5980780325403394"
+      style="animation-delay: 0s"
+    />
+  </g>
+  <g
+    class="svg-41-a-g"
+    transform="translate(-18.186532974243164, -22.5)"
+  >
+    <circle
+      class="svg-41-a-circle"
+      cx="0"
+      cy="0"
+      r="2.5980780325403394"
+      style="animation-delay: 0s"
+    />
+  </g>
+  <g
+    class="svg-41-a-g"
+    transform="translate(-15.588457107543945, -18)"
+  >
+    <circle
+      class="svg-41-a-circle"
+      cx="0"
+      cy="0"
+      r="2.5980780325403394"
+      style="animation-delay: 0s"
+    />
+  </g>
+  <g
+    class="svg-41-a-g"
+    transform="translate(-12.990381240844727, -13.5)"
+  >
+    <circle
+      class="svg-41-a-circle"
+      cx="0"
+      cy="0"
+      r="2.5980780325403394"
+      style="animation-delay: 0s"
+    />
+  </g>
+  <g
+    class="svg-41-a-g"
+    transform="translate(-10.392304420471191, -9)"
+  >
+    <circle
+      class="svg-41-a-circle"
+      cx="0"
+      cy="0"
+      r="2.5980780325403394"
+      style="animation-delay: 0s"
+    />
+  </g>
+  <g
+    class="svg-41-a-g"
+    transform="translate(-7.794228553771973, -4.5)"
+  >
+    <circle
+      class="svg-41-a-circle"
+      cx="0"
+      cy="0"
+      r="2.5980780325403394"
+      style="animation-delay: 0s"
+    />
+  </g>
+  <g
+    class="svg-41-a-g"
+    transform="translate(-5.196152210235596, 0)"
+  >
+    <circle
+      class="svg-41-a-circle"
+      cx="0"
+      cy="0"
+      r="2.5980780325403394"
+      style="animation-delay: 0s"
+    />
+  </g>
+  <g
+    class="svg-41-a-g"
+    transform="translate(-2.598076105117798, 4.5)"
+  >
+    <circle
+      class="svg-41-a-circle"
+      cx="0"
+      cy="0"
+      r="2.5980780325403394"
+      style="animation-delay: 0s"
+    />
+  </g>
+  <g
+    class="svg-41-a-g"
+    transform="translate(0, 9)"
+  >
+    <circle
+      class="svg-41-a-circle"
+      cx="0"
+      cy="0"
+      r="2.5980780325403394"
+      style="animation-delay: 0s"
+    />
+  </g>
+  <g
+    class="svg-41-a-g"
+    transform="translate(2.598076105117798, 13.5)"
+  >
+    <circle
+      class="svg-41-a-circle"
+      cx="0"
+      cy="0"
+      r="2.5980780325403394"
+      style="animation-delay: 0s"
+    />
+  </g>
+  <g
+    class="svg-41-a-g"
+    transform="translate(5.196152210235596, 18)"
+  >
+    <circle
+      class="svg-41-a-circle"
+      cx="0"
+      cy="0"
+      r="2.5980780325403394"
+      style="animation-delay: 0s"
+    />
+  </g>
+  <g
+    class="svg-41-a-g"
+    transform="translate(7.794228553771973, 22.5)"
+  >
+    <circle
+      class="svg-41-a-circle"
+      cx="0"
+      cy="0"
+      r="2.5980780325403394"
+      style="animation-delay: 0s"
+    />
+  </g>
+  <g
+    class="svg-41-a-g"
+    transform="translate(10.392304420471191, 27)"
+  >
+    <circle
+      class="svg-41-a-circle"
+      cx="0"
+      cy="0"
+      r="2.5980780325403394"
+      style="animation-delay: 0s"
+    />
+  </g>
+  <g
+    class="svg-41-a-g"
+    transform="translate(12.990381240844727, 31.5)"
+  >
+    <circle
+      class="svg-41-a-circle"
+      cx="0"
+      cy="0"
+      r="2.5980780325403394"
+      style="animation-delay: 0s"
+    />
+  </g>
+  <g
+    class="svg-41-a-g"
+    transform="translate(15.588457107543945, 36)"
+  >
+    <circle
+      class="svg-41-a-circle"
+      cx="0"
+      cy="0"
+      r="2.5980780325403394"
+      style="animation-delay: 0s"
+    />
+  </g>
+  <g
+    class="svg-41-a-g"
+    transform="translate(18.186532974243164, 40.5)"
+  >
+    <circle
+      class="svg-41-a-circle"
+      cx="0"
+      cy="0"
+      r="2.5980780325403394"
+      style="animation-delay: 0s"
+    />
+  </g>
+  <g
+    class="svg-41-a-g"
+    transform="translate(-23.382686614990234, -40.5)"
+  >
+    <circle
+      class="svg-41-a-circle"
+      cx="0"
+      cy="0"
+      r="2.5980780325403394"
+      style="animation-delay: 0s"
+    />
+  </g>
+  <g
+    class="svg-41-a-g"
+    transform="translate(-20.784608840942383, -36)"
+  >
+    <circle
+      class="svg-41-a-circle"
+      cx="0"
+      cy="0"
+      r="2.5980780325403394"
+      style="animation-delay: 0s"
+    />
+  </g>
+  <g
+    class="svg-41-a-g"
+    transform="translate(-18.186532974243164, -31.5)"
+  >
+    <circle
+      class="svg-41-a-circle"
+      cx="0"
+      cy="0"
+      r="2.5980780325403394"
+      style="animation-delay: 0s"
+    />
+  </g>
+  <g
+    class="svg-41-a-g"
+    transform="translate(-15.588457107543945, -27)"
+  >
+    <circle
+      class="svg-41-a-circle"
+      cx="0"
+      cy="0"
+      r="2.5980780325403394"
+      style="animation-delay: 0s"
+    />
+  </g>
+  <g
+    class="svg-41-a-g"
+    transform="translate(-12.990381240844727, -22.5)"
+  >
+    <circle
+      class="svg-41-a-circle"
+      cx="0"
+      cy="0"
+      r="2.5980780325403394"
+      style="animation-delay: 0s"
+    />
+  </g>
+  <g
+    class="svg-41-a-g"
+    transform="translate(-10.392304420471191, -18)"
+  >
+    <circle
+      class="svg-41-a-circle"
+      cx="0"
+      cy="0"
+      r="2.5980780325403394"
+      style="animation-delay: 0s"
+    />
+  </g>
+  <g
+    class="svg-41-a-g"
+    transform="translate(-7.794228553771973, -13.5)"
+  >
+    <circle
+      class="svg-41-a-circle"
+      cx="0"
+      cy="0"
+      r="2.5980780325403394"
+      style="animation-delay: 0s"
+    />
+  </g>
+  <g
+    class="svg-41-a-g"
+    transform="translate(-5.196152210235596, -9)"
+  >
+    <circle
+      class="svg-41-a-circle"
+      cx="0"
+      cy="0"
+      r="2.5980780325403394"
+      style="animation-delay: 0s"
+    />
+  </g>
+  <g
+    class="svg-41-a-g"
+    transform="translate(-2.598076105117798, -4.5)"
+  >
+    <circle
+      class="svg-41-a-circle"
+      cx="0"
+      cy="0"
+      r="2.5980780325403394"
+      style="animation-delay: 0s"
+    />
+  </g>
+  <g
+    class="svg-41-a-g"
+    transform="translate(0, 0)"
+  >
+    <circle
+      class="svg-41-a-circle"
+      cx="0"
+      cy="0"
+      r="2.5980780325403394"
+      style="animation-delay: 0s"
+    />
+  </g>
+  <g
+    class="svg-41-a-g"
+    transform="translate(2.598076105117798, 4.5)"
+  >
+    <circle
+      class="svg-41-a-circle"
+      cx="0"
+      cy="0"
+      r="2.5980780325403394"
+      style="animation-delay: 0s"
+    />
+  </g>
+  <g
+    class="svg-41-a-g"
+    transform="translate(5.196152210235596, 9)"
+  >
+    <circle
+      class="svg-41-a-circle"
+      cx="0"
+      cy="0"
+      r="2.5980780325403394"
+      style="animation-delay: 0s"
+    />
+  </g>
+  <g
+    class="svg-41-a-g"
+    transform="translate(7.794228553771973, 13.5)"
+  >
+    <circle
+      class="svg-41-a-circle"
+      cx="0"
+      cy="0"
+      r="2.5980780325403394"
+      style="animation-delay: 0s"
+    />
+  </g>
+  <g
+    class="svg-41-a-g"
+    transform="translate(10.392304420471191, 18)"
+  >
+    <circle
+      class="svg-41-a-circle"
+      cx="0"
+      cy="0"
+      r="2.5980780325403394"
+      style="animation-delay: 0s"
+    />
+  </g>
+  <g
+    class="svg-41-a-g"
+    transform="translate(12.990381240844727, 22.5)"
+  >
+    <circle
+      class="svg-41-a-circle"
+      cx="0"
+      cy="0"
+      r="2.5980780325403394"
+      style="animation-delay: 0s"
+    />
+  </g>
+  <g
+    class="svg-41-a-g"
+    transform="translate(15.588457107543945, 27)"
+  >
+    <circle
+      class="svg-41-a-circle"
+      cx="0"
+      cy="0"
+      r="2.5980780325403394"
+      style="animation-delay: 0s"
+    />
+  </g>
+  <g
+    class="svg-41-a-g"
+    transform="translate(18.186532974243164, 31.5)"
+  >
+    <circle
+      class="svg-41-a-circle"
+      cx="0"
+      cy="0"
+      r="2.5980780325403394"
+      style="animation-delay: 0s"
+    />
+  </g>
+  <g
+    class="svg-41-a-g"
+    transform="translate(20.784608840942383, 36)"
+  >
+    <circle
+      class="svg-41-a-circle"
+      cx="0"
+      cy="0"
+      r="2.5980780325403394"
+      style="animation-delay: 0s"
+    />
+  </g>
+  <g
+    class="svg-41-a-g"
+    transform="translate(23.382686614990234, 40.5)"
+  >
+    <circle
+      class="svg-41-a-circle"
+      cx="0"
+      cy="0"
+      r="2.5980780325403394"
+      style="animation-delay: 0s"
+    />
+  </g>
+  <g
+    class="svg-41-a-g"
+    transform="translate(-18.186532974243164, -40.5)"
+  >
+    <circle
+      class="svg-41-a-circle"
+      cx="0"
+      cy="0"
+      r="2.5980780325403394"
+      style="animation-delay: 0s"
+    />
+  </g>
+  <g
+    class="svg-41-a-g"
+    transform="translate(-15.588457107543945, -36)"
+  >
+    <circle
+      class="svg-41-a-circle"
+      cx="0"
+      cy="0"
+      r="2.5980780325403394"
+      style="animation-delay: 0s"
+    />
+  </g>
+  <g
+    class="svg-41-a-g"
+    transform="translate(-12.990381240844727, -31.5)"
+  >
+    <circle
+      class="svg-41-a-circle"
+      cx="0"
+      cy="0"
+      r="2.5980780325403394"
+      style="animation-delay: 0s"
+    />
+  </g>
+  <g
+    class="svg-41-a-g"
+    transform="translate(-10.392304420471191, -27)"
+  >
+    <circle
+      class="svg-41-a-circle"
+      cx="0"
+      cy="0"
+      r="2.5980780325403394"
+      style="animation-delay: 0s"
+    />
+  </g>
+  <g
+    class="svg-41-a-g"
+    transform="translate(-7.794228553771973, -22.5)"
+  >
+    <circle
+      class="svg-41-a-circle"
+      cx="0"
+      cy="0"
+      r="2.5980780325403394"
+      style="animation-delay: 0s"
+    />
+  </g>
+  <g
+    class="svg-41-a-g"
+    transform="translate(-5.196152210235596, -18)"
+  >
+    <circle
+      class="svg-41-a-circle"
+      cx="0"
+      cy="0"
+      r="2.5980780325403394"
+      style="animation-delay: 0s"
+    />
+  </g>
+  <g
+    class="svg-41-a-g"
+    transform="translate(-2.598076105117798, -13.5)"
+  >
+    <circle
+      class="svg-41-a-circle"
+      cx="0"
+      cy="0"
+      r="2.5980780325403394"
+      style="animation-delay: 0s"
+    />
+  </g>
+  <g
+    class="svg-41-a-g"
+    transform="translate(0, -9)"
+  >
+    <circle
+      class="svg-41-a-circle"
+      cx="0"
+      cy="0"
+      r="2.5980780325403394"
+      style="animation-delay: 0s"
+    />
+  </g>
+  <g
+    class="svg-41-a-g"
+    transform="translate(2.598076105117798, -4.5)"
+  >
+    <circle
+      class="svg-41-a-circle"
+      cx="0"
+      cy="0"
+      r="2.5980780325403394"
+      style="animation-delay: 0s"
+    />
+  </g>
+  <g
+    class="svg-41-a-g"
+    transform="translate(5.196152210235596, 0)"
+  >
+    <circle
+      class="svg-41-a-circle"
+      cx="0"
+      cy="0"
+      r="2.5980780325403394"
+      style="animation-delay: 0s"
+    />
+  </g>
+  <g
+    class="svg-41-a-g"
+    transform="translate(7.794228553771973, 4.5)"
+  >
+    <circle
+      class="svg-41-a-circle"
+      cx="0"
+      cy="0"
+      r="2.5980780325403394"
+      style="animation-delay: 0s"
+    />
+  </g>
+  <g
+    class="svg-41-a-g"
+    transform="translate(10.392304420471191, 9)"
+  >
+    <circle
+      class="svg-41-a-circle"
+      cx="0"
+      cy="0"
+      r="2.5980780325403394"
+      style="animation-delay: 0s"
+    />
+  </g>
+  <g
+    class="svg-41-a-g"
+    transform="translate(12.990381240844727, 13.5)"
+  >
+    <circle
+      class="svg-41-a-circle"
+      cx="0"
+      cy="0"
+      r="2.5980780325403394"
+      style="animation-delay: 0s"
+    />
+  </g>
+  <g
+    class="svg-41-a-g"
+    transform="translate(15.588457107543945, 18)"
+  >
+    <circle
+      class="svg-41-a-circle"
+      cx="0"
+      cy="0"
+      r="2.5980780325403394"
+      style="animation-delay: 0s"
+    />
+  </g>
+  <g
+    class="svg-41-a-g"
+    transform="translate(18.186532974243164, 22.5)"
+  >
+    <circle
+      class="svg-41-a-circle"
+      cx="0"
+      cy="0"
+      r="2.5980780325403394"
+      style="animation-delay: 0s"
+    />
+  </g>
+  <g
+    class="svg-41-a-g"
+    transform="translate(20.784608840942383, 27)"
+  >
+    <circle
+      class="svg-41-a-circle"
+      cx="0"
+      cy="0"
+      r="2.5980780325403394"
+      style="animation-delay: 0s"
+    />
+  </g>
+  <g
+    class="svg-41-a-g"
+    transform="translate(23.382686614990234, 31.5)"
+  >
+    <circle
+      class="svg-41-a-circle"
+      cx="0"
+      cy="0"
+      r="2.5980780325403394"
+      style="animation-delay: 0s"
+    />
+  </g>
+  <g
+    class="svg-41-a-g"
+    transform="translate(25.980762481689453, 36)"
+  >
+    <circle
+      class="svg-41-a-circle"
+      cx="0"
+      cy="0"
+      r="2.5980780325403394"
+      style="animation-delay: 0s"
+    />
+  </g>
+  <g
+    class="svg-41-a-g"
+    transform="translate(28.578838348388672, 40.5)"
+  >
+    <circle
+      class="svg-41-a-circle"
+      cx="0"
+      cy="0"
+      r="2.5980780325403394"
+      style="animation-delay: 0s"
+    />
+  </g>
+  <g
+    class="svg-41-a-g"
+    transform="translate(-12.990381240844727, -40.5)"
+  >
+    <circle
+      class="svg-41-a-circle"
+      cx="0"
+      cy="0"
+      r="2.5980780325403394"
+      style="animation-delay: 0s"
+    />
+  </g>
+  <g
+    class="svg-41-a-g"
+    transform="translate(-10.392304420471191, -36)"
+  >
+    <circle
+      class="svg-41-a-circle"
+      cx="0"
+      cy="0"
+      r="2.5980780325403394"
+      style="animation-delay: 0s"
+    />
+  </g>
+  <g
+    class="svg-41-a-g"
+    transform="translate(-7.794228553771973, -31.5)"
+  >
+    <circle
+      class="svg-41-a-circle"
+      cx="0"
+      cy="0"
+      r="2.5980780325403394"
+      style="animation-delay: 0s"
+    />
+  </g>
+  <g
+    class="svg-41-a-g"
+    transform="translate(-5.196152210235596, -27)"
+  >
+    <circle
+      class="svg-41-a-circle"
+      cx="0"
+      cy="0"
+      r="2.5980780325403394"
+      style="animation-delay: 0s"
+    />
+  </g>
+  <g
+    class="svg-41-a-g"
+    transform="translate(-2.598076105117798, -22.5)"
+  >
+    <circle
+      class="svg-41-a-circle"
+      cx="0"
+      cy="0"
+      r="2.5980780325403394"
+      style="animation-delay: 0s"
+    />
+  </g>
+  <g
+    class="svg-41-a-g"
+    transform="translate(0, -18)"
+  >
+    <circle
+      class="svg-41-a-circle"
+      cx="0"
+      cy="0"
+      r="2.5980780325403394"
+      style="animation-delay: 0s"
+    />
+  </g>
+  <g
+    class="svg-41-a-g"
+    transform="translate(2.598076105117798, -13.5)"
+  >
+    <circle
+      class="svg-41-a-circle"
+      cx="0"
+      cy="0"
+      r="2.5980780325403394"
+      style="animation-delay: 0s"
+    />
+  </g>
+  <g
+    class="svg-41-a-g"
+    transform="translate(5.196152210235596, -9)"
+  >
+    <circle
+      class="svg-41-a-circle"
+      cx="0"
+      cy="0"
+      r="2.5980780325403394"
+      style="animation-delay: 0s"
+    />
+  </g>
+  <g
+    class="svg-41-a-g"
+    transform="translate(7.794228553771973, -4.5)"
+  >
+    <circle
+      class="svg-41-a-circle"
+      cx="0"
+      cy="0"
+      r="2.5980780325403394"
+      style="animation-delay: 0s"
+    />
+  </g>
+  <g
+    class="svg-41-a-g"
+    transform="translate(10.392304420471191, 0)"
+  >
+    <circle
+      class="svg-41-a-circle"
+      cx="0"
+      cy="0"
+      r="2.5980780325403394"
+      style="animation-delay: 0s"
+    />
+  </g>
+  <g
+    class="svg-41-a-g"
+    transform="translate(12.990381240844727, 4.5)"
+  >
+    <circle
+      class="svg-41-a-circle"
+      cx="0"
+      cy="0"
+      r="2.5980780325403394"
+      style="animation-delay: 0s"
+    />
+  </g>
+  <g
+    class="svg-41-a-g"
+    transform="translate(15.588457107543945, 9)"
+  >
+    <circle
+      class="svg-41-a-circle"
+      cx="0"
+      cy="0"
+      r="2.5980780325403394"
+      style="animation-delay: 0s"
+    />
+  </g>
+  <g
+    class="svg-41-a-g"
+    transform="translate(18.186532974243164, 13.5)"
+  >
+    <circle
+      class="svg-41-a-circle"
+      cx="0"
+      cy="0"
+      r="2.5980780325403394"
+      style="animation-delay: 0s"
+    />
+  </g>
+  <g
+    class="svg-41-a-g"
+    transform="translate(20.784608840942383, 18)"
+  >
+    <circle
+      class="svg-41-a-circle"
+      cx="0"
+      cy="0"
+      r="2.5980780325403394"
+      style="animation-delay: 0s"
+    />
+  </g>
+  <g
+    class="svg-41-a-g"
+    transform="translate(23.382686614990234, 22.5)"
+  >
+    <circle
+      class="svg-41-a-circle"
+      cx="0"
+      cy="0"
+      r="2.5980780325403394"
+      style="animation-delay: 0s"
+    />
+  </g>
+  <g
+    class="svg-41-a-g"
+    transform="translate(25.980762481689453, 27)"
+  >
+    <circle
+      class="svg-41-a-circle"
+      cx="0"
+      cy="0"
+      r="2.5980780325403394"
+      style="animation-delay: 0s"
+    />
+  </g>
+  <g
+    class="svg-41-a-g"
+    transform="translate(28.578838348388672, 31.5)"
+  >
+    <circle
+      class="svg-41-a-circle"
+      cx="0"
+      cy="0"
+      r="2.5980780325403394"
+      style="animation-delay: 0s"
+    />
+  </g>
+  <g
+    class="svg-41-a-g"
+    transform="translate(31.17691421508789, 36)"
+  >
+    <circle
+      class="svg-41-a-circle"
+      cx="0"
+      cy="0"
+      r="2.5980780325403394"
+      style="animation-delay: 0s"
+    />
+  </g>
+  <g
+    class="svg-41-a-g"
+    transform="translate(33.77499008178711, 40.5)"
+  >
+    <circle
+      class="svg-41-a-circle"
+      cx="0"
+      cy="0"
+      r="2.5980780325403394"
+      style="animation-delay: 0s"
+    />
+  </g>
+  <g
+    class="svg-41-a-g"
+    transform="translate(-7.794228553771973, -40.5)"
+  >
+    <circle
+      class="svg-41-a-circle"
+      cx="0"
+      cy="0"
+      r="2.5980780325403394"
+      style="animation-delay: 0s"
+    />
+  </g>
+  <g
+    class="svg-41-a-g"
+    transform="translate(-5.196152210235596, -36)"
+  >
+    <circle
+      class="svg-41-a-circle"
+      cx="0"
+      cy="0"
+      r="2.5980780325403394"
+      style="animation-delay: 0s"
+    />
+  </g>
+  <g
+    class="svg-41-a-g"
+    transform="translate(-2.598076105117798, -31.5)"
+  >
+    <circle
+      class="svg-41-a-circle"
+      cx="0"
+      cy="0"
+      r="2.5980780325403394"
+      style="animation-delay: 0s"
+    />
+  </g>
+  <g
+    class="svg-41-a-g"
+    transform="translate(0, -27)"
+  >
+    <circle
+      class="svg-41-a-circle"
+      cx="0"
+      cy="0"
+      r="2.5980780325403394"
+      style="animation-delay: 0s"
+    />
+  </g>
+  <g
+    class="svg-41-a-g"
+    transform="translate(2.598076105117798, -22.5)"
+  >
+    <circle
+      class="svg-41-a-circle"
+      cx="0"
+      cy="0"
+      r="2.5980780325403394"
+      style="animation-delay: 0s"
+    />
+  </g>
+  <g
+    class="svg-41-a-g"
+    transform="translate(5.196152210235596, -18)"
+  >
+    <circle
+      class="svg-41-a-circle"
+      cx="0"
+      cy="0"
+      r="2.5980780325403394"
+      style="animation-delay: 0s"
+    />
+  </g>
+  <g
+    class="svg-41-a-g"
+    transform="translate(7.794228553771973, -13.5)"
+  >
+    <circle
+      class="svg-41-a-circle"
+      cx="0"
+      cy="0"
+      r="2.5980780325403394"
+      style="animation-delay: 0s"
+    />
+  </g>
+  <g
+    class="svg-41-a-g"
+    transform="translate(10.392304420471191, -9)"
+  >
+    <circle
+      class="svg-41-a-circle"
+      cx="0"
+      cy="0"
+      r="2.5980780325403394"
+      style="animation-delay: 0s"
+    />
+  </g>
+  <g
+    class="svg-41-a-g"
+    transform="translate(12.990381240844727, -4.5)"
+  >
+    <circle
+      class="svg-41-a-circle"
+      cx="0"
+      cy="0"
+      r="2.5980780325403394"
+      style="animation-delay: 0s"
+    />
+  </g>
+  <g
+    class="svg-41-a-g"
+    transform="translate(15.588457107543945, 0)"
+  >
+    <circle
+      class="svg-41-a-circle"
+      cx="0"
+      cy="0"
+      r="2.5980780325403394"
+      style="animation-delay: 0s"
+    />
+  </g>
+  <g
+    class="svg-41-a-g"
+    transform="translate(18.186532974243164, 4.5)"
+  >
+    <circle
+      class="svg-41-a-circle"
+      cx="0"
+      cy="0"
+      r="2.5980780325403394"
+      style="animation-delay: 0s"
+    />
+  </g>
+  <g
+    class="svg-41-a-g"
+    transform="translate(20.784608840942383, 9)"
+  >
+    <circle
+      class="svg-41-a-circle"
+      cx="0"
+      cy="0"
+      r="2.5980780325403394"
+      style="animation-delay: 0s"
+    />
+  </g>
+  <g
+    class="svg-41-a-g"
+    transform="translate(23.382686614990234, 13.5)"
+  >
+    <circle
+      class="svg-41-a-circle"
+      cx="0"
+      cy="0"
+      r="2.5980780325403394"
+      style="animation-delay: 0s"
+    />
+  </g>
+  <g
+    class="svg-41-a-g"
+    transform="translate(25.980762481689453, 18)"
+  >
+    <circle
+      class="svg-41-a-circle"
+      cx="0"
+      cy="0"
+      r="2.5980780325403394"
+      style="animation-delay: 0s"
+    />
+  </g>
+  <g
+    class="svg-41-a-g"
+    transform="translate(28.578838348388672, 22.5)"
+  >
+    <circle
+      class="svg-41-a-circle"
+      cx="0"
+      cy="0"
+      r="2.5980780325403394"
+      style="animation-delay: 0s"
+    />
+  </g>
+  <g
+    class="svg-41-a-g"
+    transform="translate(31.17691421508789, 27)"
+  >
+    <circle
+      class="svg-41-a-circle"
+      cx="0"
+      cy="0"
+      r="2.5980780325403394"
+      style="animation-delay: 0s"
+    />
+  </g>
+  <g
+    class="svg-41-a-g"
+    transform="translate(33.77499008178711, 31.5)"
+  >
+    <circle
+      class="svg-41-a-circle"
+      cx="0"
+      cy="0"
+      r="2.5980780325403394"
+      style="animation-delay: 0s"
+    />
+  </g>
+  <g
+    class="svg-41-a-g"
+    transform="translate(36.37306594848633, 36)"
+  >
+    <circle
+      class="svg-41-a-circle"
+      cx="0"
+      cy="0"
+      r="2.5980780325403394"
+      style="animation-delay: 0s"
+    />
+  </g>
+  <g
+    class="svg-41-a-g"
+    transform="translate(38.97114181518555, 40.5)"
+  >
+    <circle
+      class="svg-41-a-circle"
+      cx="0"
+      cy="0"
+      r="2.5980780325403394"
+      style="animation-delay: 0s"
+    />
+  </g>
+  <g
+    class="svg-41-a-g"
+    transform="translate(-2.598076105117798, -40.5)"
+  >
+    <circle
+      class="svg-41-a-circle"
+      cx="0"
+      cy="0"
+      r="2.5980780325403394"
+      style="animation-delay: 0s"
+    />
+  </g>
+  <g
+    class="svg-41-a-g"
+    transform="translate(0, -36)"
+  >
+    <circle
+      class="svg-41-a-circle"
+      cx="0"
+      cy="0"
+      r="2.5980780325403394"
+      style="animation-delay: 0s"
+    />
+  </g>
+  <g
+    class="svg-41-a-g"
+    transform="translate(2.598076105117798, -31.5)"
+  >
+    <circle
+      class="svg-41-a-circle"
+      cx="0"
+      cy="0"
+      r="2.5980780325403394"
+      style="animation-delay: 0s"
+    />
+  </g>
+  <g
+    class="svg-41-a-g"
+    transform="translate(5.196152210235596, -27)"
+  >
+    <circle
+      class="svg-41-a-circle"
+      cx="0"
+      cy="0"
+      r="2.5980780325403394"
+      style="animation-delay: 0s"
+    />
+  </g>
+  <g
+    class="svg-41-a-g"
+    transform="translate(7.794228553771973, -22.5)"
+  >
+    <circle
+      class="svg-41-a-circle"
+      cx="0"
+      cy="0"
+      r="2.5980780325403394"
+      style="animation-delay: 0s"
+    />
+  </g>
+  <g
+    class="svg-41-a-g"
+    transform="translate(10.392304420471191, -18)"
+  >
+    <circle
+      class="svg-41-a-circle"
+      cx="0"
+      cy="0"
+      r="2.5980780325403394"
+      style="animation-delay: 0s"
+    />
+  </g>
+  <g
+    class="svg-41-a-g"
+    transform="translate(12.990381240844727, -13.5)"
+  >
+    <circle
+      class="svg-41-a-circle"
+      cx="0"
+      cy="0"
+      r="2.5980780325403394"
+      style="animation-delay: 0s"
+    />
+  </g>
+  <g
+    class="svg-41-a-g"
+    transform="translate(15.588457107543945, -9)"
+  >
+    <circle
+      class="svg-41-a-circle"
+      cx="0"
+      cy="0"
+      r="2.5980780325403394"
+      style="animation-delay: 0s"
+    />
+  </g>
+  <g
+    class="svg-41-a-g"
+    transform="translate(18.186532974243164, -4.5)"
+  >
+    <circle
+      class="svg-41-a-circle"
+      cx="0"
+      cy="0"
+      r="2.5980780325403394"
+      style="animation-delay: 0s"
+    />
+  </g>
+  <g
+    class="svg-41-a-g"
+    transform="translate(20.784608840942383, 0)"
+  >
+    <circle
+      class="svg-41-a-circle"
+      cx="0"
+      cy="0"
+      r="2.5980780325403394"
+      style="animation-delay: 0s"
+    />
+  </g>
+  <g
+    class="svg-41-a-g"
+    transform="translate(23.382686614990234, 4.5)"
+  >
+    <circle
+      class="svg-41-a-circle"
+      cx="0"
+      cy="0"
+      r="2.5980780325403394"
+      style="animation-delay: 0s"
+    />
+  </g>
+  <g
+    class="svg-41-a-g"
+    transform="translate(25.980762481689453, 9)"
+  >
+    <circle
+      class="svg-41-a-circle"
+      cx="0"
+      cy="0"
+      r="2.5980780325403394"
+      style="animation-delay: 0s"
+    />
+  </g>
+  <g
+    class="svg-41-a-g"
+    transform="translate(28.578838348388672, 13.5)"
+  >
+    <circle
+      class="svg-41-a-circle"
+      cx="0"
+      cy="0"
+      r="2.5980780325403394"
+      style="animation-delay: 0s"
+    />
+  </g>
+  <g
+    class="svg-41-a-g"
+    transform="translate(31.17691421508789, 18)"
+  >
+    <circle
+      class="svg-41-a-circle"
+      cx="0"
+      cy="0"
+      r="2.5980780325403394"
+      style="animation-delay: 0s"
+    />
+  </g>
+  <g
+    class="svg-41-a-g"
+    transform="translate(33.77499008178711, 22.5)"
+  >
+    <circle
+      class="svg-41-a-circle"
+      cx="0"
+      cy="0"
+      r="2.5980780325403394"
+      style="animation-delay: 0s"
+    />
+  </g>
+  <g
+    class="svg-41-a-g"
+    transform="translate(36.37306594848633, 27)"
+  >
+    <circle
+      class="svg-41-a-circle"
+      cx="0"
+      cy="0"
+      r="2.5980780325403394"
+      style="animation-delay: 0s"
+    />
+  </g>
+  <g
+    class="svg-41-a-g"
+    transform="translate(38.97114181518555, 31.5)"
+  >
+    <circle
+      class="svg-41-a-circle"
+      cx="0"
+      cy="0"
+      r="2.5980780325403394"
+      style="animation-delay: 0s"
+    />
+  </g>
+  <g
+    class="svg-41-a-g"
+    transform="translate(41.569217681884766, 36)"
+  >
+    <circle
+      class="svg-41-a-circle"
+      cx="0"
+      cy="0"
+      r="2.5980780325403394"
+      style="animation-delay: 0s"
+    />
+  </g>
+  <g
+    class="svg-41-a-g"
+    transform="translate(44.16729736328125, 40.5)"
+  >
+    <circle
+      class="svg-41-a-circle"
+      cx="0"
+      cy="0"
+      r="2.5980780325403394"
+      style="animation-delay: 0s"
+    />
+  </g>
+  <g
+    class="svg-41-a-g"
+    transform="translate(2.598076105117798, -40.5)"
+  >
+    <circle
+      class="svg-41-a-circle"
+      cx="0"
+      cy="0"
+      r="2.5980780325403394"
+      style="animation-delay: 0s"
+    />
+  </g>
+  <g
+    class="svg-41-a-g"
+    transform="translate(5.196152210235596, -36)"
+  >
+    <circle
+      class="svg-41-a-circle"
+      cx="0"
+      cy="0"
+      r="2.5980780325403394"
+      style="animation-delay: 0s"
+    />
+  </g>
+  <g
+    class="svg-41-a-g"
+    transform="translate(7.794228553771973, -31.5)"
+  >
+    <circle
+      class="svg-41-a-circle"
+      cx="0"
+      cy="0"
+      r="2.5980780325403394"
+      style="animation-delay: 0s"
+    />
+  </g>
+  <g
+    class="svg-41-a-g"
+    transform="translate(10.392304420471191, -27)"
+  >
+    <circle
+      class="svg-41-a-circle"
+      cx="0"
+      cy="0"
+      r="2.5980780325403394"
+      style="animation-delay: 0s"
+    />
+  </g>
+  <g
+    class="svg-41-a-g"
+    transform="translate(12.990381240844727, -22.5)"
+  >
+    <circle
+      class="svg-41-a-circle"
+      cx="0"
+      cy="0"
+      r="2.5980780325403394"
+      style="animation-delay: 0s"
+    />
+  </g>
+  <g
+    class="svg-41-a-g"
+    transform="translate(15.588457107543945, -18)"
+  >
+    <circle
+      class="svg-41-a-circle"
+      cx="0"
+      cy="0"
+      r="2.5980780325403394"
+      style="animation-delay: 0s"
+    />
+  </g>
+  <g
+    class="svg-41-a-g"
+    transform="translate(18.186532974243164, -13.5)"
+  >
+    <circle
+      class="svg-41-a-circle"
+      cx="0"
+      cy="0"
+      r="2.5980780325403394"
+      style="animation-delay: 0s"
+    />
+  </g>
+  <g
+    class="svg-41-a-g"
+    transform="translate(20.784608840942383, -9)"
+  >
+    <circle
+      class="svg-41-a-circle"
+      cx="0"
+      cy="0"
+      r="2.5980780325403394"
+      style="animation-delay: 0s"
+    />
+  </g>
+  <g
+    class="svg-41-a-g"
+    transform="translate(23.382686614990234, -4.5)"
+  >
+    <circle
+      class="svg-41-a-circle"
+      cx="0"
+      cy="0"
+      r="2.5980780325403394"
+      style="animation-delay: 0s"
+    />
+  </g>
+  <g
+    class="svg-41-a-g"
+    transform="translate(25.980762481689453, 0)"
+  >
+    <circle
+      class="svg-41-a-circle"
+      cx="0"
+      cy="0"
+      r="2.5980780325403394"
+      style="animation-delay: 0s"
+    />
+  </g>
+  <g
+    class="svg-41-a-g"
+    transform="translate(28.578838348388672, 4.5)"
+  >
+    <circle
+      class="svg-41-a-circle"
+      cx="0"
+      cy="0"
+      r="2.5980780325403394"
+      style="animation-delay: 0s"
+    />
+  </g>
+  <g
+    class="svg-41-a-g"
+    transform="translate(31.17691421508789, 9)"
+  >
+    <circle
+      class="svg-41-a-circle"
+      cx="0"
+      cy="0"
+      r="2.5980780325403394"
+      style="animation-delay: 0s"
+    />
+  </g>
+  <g
+    class="svg-41-a-g"
+    transform="translate(33.77499008178711, 13.5)"
+  >
+    <circle
+      class="svg-41-a-circle"
+      cx="0"
+      cy="0"
+      r="2.5980780325403394"
+      style="animation-delay: 0s"
+    />
+  </g>
+  <g
+    class="svg-41-a-g"
+    transform="translate(36.37306594848633, 18)"
+  >
+    <circle
+      class="svg-41-a-circle"
+      cx="0"
+      cy="0"
+      r="2.5980780325403394"
+      style="animation-delay: 0s"
+    />
+  </g>
+  <g
+    class="svg-41-a-g"
+    transform="translate(38.97114181518555, 22.5)"
+  >
+    <circle
+      class="svg-41-a-circle"
+      cx="0"
+      cy="0"
+      r="2.5980780325403394"
+      style="animation-delay: 0s"
+    />
+  </g>
+  <g
+    class="svg-41-a-g"
+    transform="translate(41.569217681884766, 27)"
+  >
+    <circle
+      class="svg-41-a-circle"
+      cx="0"
+      cy="0"
+      r="2.5980780325403394"
+      style="animation-delay: 0s"
+    />
+  </g>
+  <g
+    class="svg-41-a-g"
+    transform="translate(44.16729736328125, 31.5)"
+  >
+    <circle
+      class="svg-41-a-circle"
+      cx="0"
+      cy="0"
+      r="2.5980780325403394"
+      style="animation-delay: 0s"
+    />
+  </g>
+  <g
+    class="svg-41-a-g"
+    transform="translate(7.794228553771973, -40.5)"
+  >
+    <circle
+      class="svg-41-a-circle"
+      cx="0"
+      cy="0"
+      r="2.5980780325403394"
+      style="animation-delay: 0s"
+    />
+  </g>
+  <g
+    class="svg-41-a-g"
+    transform="translate(10.392304420471191, -36)"
+  >
+    <circle
+      class="svg-41-a-circle"
+      cx="0"
+      cy="0"
+      r="2.5980780325403394"
+      style="animation-delay: 0s"
+    />
+  </g>
+  <g
+    class="svg-41-a-g"
+    transform="translate(12.990381240844727, -31.5)"
+  >
+    <circle
+      class="svg-41-a-circle"
+      cx="0"
+      cy="0"
+      r="2.5980780325403394"
+      style="animation-delay: 0s"
+    />
+  </g>
+  <g
+    class="svg-41-a-g"
+    transform="translate(15.588457107543945, -27)"
+  >
+    <circle
+      class="svg-41-a-circle"
+      cx="0"
+      cy="0"
+      r="2.5980780325403394"
+      style="animation-delay: 0s"
+    />
+  </g>
+  <g
+    class="svg-41-a-g"
+    transform="translate(18.186532974243164, -22.5)"
+  >
+    <circle
+      class="svg-41-a-circle"
+      cx="0"
+      cy="0"
+      r="2.5980780325403394"
+      style="animation-delay: 0s"
+    />
+  </g>
+  <g
+    class="svg-41-a-g"
+    transform="translate(20.784608840942383, -18)"
+  >
+    <circle
+      class="svg-41-a-circle"
+      cx="0"
+      cy="0"
+      r="2.5980780325403394"
+      style="animation-delay: 0s"
+    />
+  </g>
+  <g
+    class="svg-41-a-g"
+    transform="translate(23.382686614990234, -13.5)"
+  >
+    <circle
+      class="svg-41-a-circle"
+      cx="0"
+      cy="0"
+      r="2.5980780325403394"
+      style="animation-delay: 0s"
+    />
+  </g>
+  <g
+    class="svg-41-a-g"
+    transform="translate(25.980762481689453, -9)"
+  >
+    <circle
+      class="svg-41-a-circle"
+      cx="0"
+      cy="0"
+      r="2.5980780325403394"
+      style="animation-delay: 0s"
+    />
+  </g>
+  <g
+    class="svg-41-a-g"
+    transform="translate(28.578838348388672, -4.5)"
+  >
+    <circle
+      class="svg-41-a-circle"
+      cx="0"
+      cy="0"
+      r="2.5980780325403394"
+      style="animation-delay: 0s"
+    />
+  </g>
+  <g
+    class="svg-41-a-g"
+    transform="translate(31.17691421508789, 0)"
+  >
+    <circle
+      class="svg-41-a-circle"
+      cx="0"
+      cy="0"
+      r="2.5980780325403394"
+      style="animation-delay: 0s"
+    />
+  </g>
+  <g
+    class="svg-41-a-g"
+    transform="translate(33.77499008178711, 4.5)"
+  >
+    <circle
+      class="svg-41-a-circle"
+      cx="0"
+      cy="0"
+      r="2.5980780325403394"
+      style="animation-delay: 0s"
+    />
+  </g>
+  <g
+    class="svg-41-a-g"
+    transform="translate(36.37306594848633, 9)"
+  >
+    <circle
+      class="svg-41-a-circle"
+      cx="0"
+      cy="0"
+      r="2.5980780325403394"
+      style="animation-delay: 0s"
+    />
+  </g>
+  <g
+    class="svg-41-a-g"
+    transform="translate(38.97114181518555, 13.5)"
+  >
+    <circle
+      class="svg-41-a-circle"
+      cx="0"
+      cy="0"
+      r="2.5980780325403394"
+      style="animation-delay: 0s"
+    />
+  </g>
+  <g
+    class="svg-41-a-g"
+    transform="translate(41.569217681884766, 18)"
+  >
+    <circle
+      class="svg-41-a-circle"
+      cx="0"
+      cy="0"
+      r="2.5980780325403394"
+      style="animation-delay: 0s"
+    />
+  </g>
+  <g
+    class="svg-41-a-g"
+    transform="translate(44.16729736328125, 22.5)"
+  >
+    <circle
+      class="svg-41-a-circle"
+      cx="0"
+      cy="0"
+      r="2.5980780325403394"
+      style="animation-delay: 0s"
+    />
+  </g>
+  <g
+    class="svg-41-a-g"
+    transform="translate(12.990381240844727, -40.5)"
+  >
+    <circle
+      class="svg-41-a-circle"
+      cx="0"
+      cy="0"
+      r="2.5980780325403394"
+      style="animation-delay: 0s"
+    />
+  </g>
+  <g
+    class="svg-41-a-g"
+    transform="translate(15.588457107543945, -36)"
+  >
+    <circle
+      class="svg-41-a-circle"
+      cx="0"
+      cy="0"
+      r="2.5980780325403394"
+      style="animation-delay: 0s"
+    />
+  </g>
+  <g
+    class="svg-41-a-g"
+    transform="translate(18.186532974243164, -31.5)"
+  >
+    <circle
+      class="svg-41-a-circle"
+      cx="0"
+      cy="0"
+      r="2.5980780325403394"
+      style="animation-delay: 0s"
+    />
+  </g>
+  <g
+    class="svg-41-a-g"
+    transform="translate(20.784608840942383, -27)"
+  >
+    <circle
+      class="svg-41-a-circle"
+      cx="0"
+      cy="0"
+      r="2.5980780325403394"
+      style="animation-delay: 0s"
+    />
+  </g>
+  <g
+    class="svg-41-a-g"
+    transform="translate(23.382686614990234, -22.5)"
+  >
+    <circle
+      class="svg-41-a-circle"
+      cx="0"
+      cy="0"
+      r="2.5980780325403394"
+      style="animation-delay: 0s"
+    />
+  </g>
+  <g
+    class="svg-41-a-g"
+    transform="translate(25.980762481689453, -18)"
+  >
+    <circle
+      class="svg-41-a-circle"
+      cx="0"
+      cy="0"
+      r="2.5980780325403394"
+      style="animation-delay: 0s"
+    />
+  </g>
+  <g
+    class="svg-41-a-g"
+    transform="translate(28.578838348388672, -13.5)"
+  >
+    <circle
+      class="svg-41-a-circle"
+      cx="0"
+      cy="0"
+      r="2.5980780325403394"
+      style="animation-delay: 0s"
+    />
+  </g>
+  <g
+    class="svg-41-a-g"
+    transform="translate(31.17691421508789, -9)"
+  >
+    <circle
+      class="svg-41-a-circle"
+      cx="0"
+      cy="0"
+      r="2.5980780325403394"
+      style="animation-delay: 0s"
+    />
+  </g>
+  <g
+    class="svg-41-a-g"
+    transform="translate(33.77499008178711, -4.5)"
+  >
+    <circle
+      class="svg-41-a-circle"
+      cx="0"
+      cy="0"
+      r="2.5980780325403394"
+      style="animation-delay: 0s"
+    />
+  </g>
+  <g
+    class="svg-41-a-g"
+    transform="translate(36.37306594848633, 0)"
+  >
+    <circle
+      class="svg-41-a-circle"
+      cx="0"
+      cy="0"
+      r="2.5980780325403394"
+      style="animation-delay: 0s"
+    />
+  </g>
+  <g
+    class="svg-41-a-g"
+    transform="translate(38.97114181518555, 4.5)"
+  >
+    <circle
+      class="svg-41-a-circle"
+      cx="0"
+      cy="0"
+      r="2.5980780325403394"
+      style="animation-delay: 0s"
+    />
+  </g>
+  <g
+    class="svg-41-a-g"
+    transform="translate(41.569217681884766, 9)"
+  >
+    <circle
+      class="svg-41-a-circle"
+      cx="0"
+      cy="0"
+      r="2.5980780325403394"
+      style="animation-delay: 0s"
+    />
+  </g>
+  <g
+    class="svg-41-a-g"
+    transform="translate(44.16729736328125, 13.5)"
+  >
+    <circle
+      class="svg-41-a-circle"
+      cx="0"
+      cy="0"
+      r="2.5980780325403394"
+      style="animation-delay: 0s"
+    />
+  </g>
+  <g
+    class="svg-41-a-g"
+    transform="translate(18.186532974243164, -40.5)"
+  >
+    <circle
+      class="svg-41-a-circle"
+      cx="0"
+      cy="0"
+      r="2.5980780325403394"
+      style="animation-delay: 0s"
+    />
+  </g>
+  <g
+    class="svg-41-a-g"
+    transform="translate(20.784608840942383, -36)"
+  >
+    <circle
+      class="svg-41-a-circle"
+      cx="0"
+      cy="0"
+      r="2.5980780325403394"
+      style="animation-delay: 0s"
+    />
+  </g>
+  <g
+    class="svg-41-a-g"
+    transform="translate(23.382686614990234, -31.5)"
+  >
+    <circle
+      class="svg-41-a-circle"
+      cx="0"
+      cy="0"
+      r="2.5980780325403394"
+      style="animation-delay: 0s"
+    />
+  </g>
+  <g
+    class="svg-41-a-g"
+    transform="translate(25.980762481689453, -27)"
+  >
+    <circle
+      class="svg-41-a-circle"
+      cx="0"
+      cy="0"
+      r="2.5980780325403394"
+      style="animation-delay: 0s"
+    />
+  </g>
+  <g
+    class="svg-41-a-g"
+    transform="translate(28.578838348388672, -22.5)"
+  >
+    <circle
+      class="svg-41-a-circle"
+      cx="0"
+      cy="0"
+      r="2.5980780325403394"
+      style="animation-delay: 0s"
+    />
+  </g>
+  <g
+    class="svg-41-a-g"
+    transform="translate(31.17691421508789, -18)"
+  >
+    <circle
+      class="svg-41-a-circle"
+      cx="0"
+      cy="0"
+      r="2.5980780325403394"
+      style="animation-delay: 0s"
+    />
+  </g>
+  <g
+    class="svg-41-a-g"
+    transform="translate(33.77499008178711, -13.5)"
+  >
+    <circle
+      class="svg-41-a-circle"
+      cx="0"
+      cy="0"
+      r="2.5980780325403394"
+      style="animation-delay: 0s"
+    />
+  </g>
+  <g
+    class="svg-41-a-g"
+    transform="translate(36.37306594848633, -9)"
+  >
+    <circle
+      class="svg-41-a-circle"
+      cx="0"
+      cy="0"
+      r="2.5980780325403394"
+      style="animation-delay: 0s"
+    />
+  </g>
+  <g
+    class="svg-41-a-g"
+    transform="translate(38.97114181518555, -4.5)"
+  >
+    <circle
+      class="svg-41-a-circle"
+      cx="0"
+      cy="0"
+      r="2.5980780325403394"
+      style="animation-delay: 0s"
+    />
+  </g>
+  <g
+    class="svg-41-a-g"
+    transform="translate(41.569217681884766, 0)"
+  >
+    <circle
+      class="svg-41-a-circle"
+      cx="0"
+      cy="0"
+      r="2.5980780325403394"
+      style="animation-delay: 0s"
+    />
+  </g>
+  <g
+    class="svg-41-a-g"
+    transform="translate(44.16729736328125, 4.5)"
+  >
+    <circle
+      class="svg-41-a-circle"
+      cx="0"
+      cy="0"
+      r="2.5980780325403394"
+      style="animation-delay: 0s"
+    />
+  </g>
+  <g
+    class="svg-41-a-g"
+    transform="translate(23.382686614990234, -40.5)"
+  >
+    <circle
+      class="svg-41-a-circle"
+      cx="0"
+      cy="0"
+      r="2.5980780325403394"
+      style="animation-delay: 0s"
+    />
+  </g>
+  <g
+    class="svg-41-a-g"
+    transform="translate(25.980762481689453, -36)"
+  >
+    <circle
+      class="svg-41-a-circle"
+      cx="0"
+      cy="0"
+      r="2.5980780325403394"
+      style="animation-delay: 0s"
+    />
+  </g>
+  <g
+    class="svg-41-a-g"
+    transform="translate(28.578838348388672, -31.5)"
+  >
+    <circle
+      class="svg-41-a-circle"
+      cx="0"
+      cy="0"
+      r="2.5980780325403394"
+      style="animation-delay: 0s"
+    />
+  </g>
+  <g
+    class="svg-41-a-g"
+    transform="translate(31.17691421508789, -27)"
+  >
+    <circle
+      class="svg-41-a-circle"
+      cx="0"
+      cy="0"
+      r="2.5980780325403394"
+      style="animation-delay: 0s"
+    />
+  </g>
+  <g
+    class="svg-41-a-g"
+    transform="translate(33.77499008178711, -22.5)"
+  >
+    <circle
+      class="svg-41-a-circle"
+      cx="0"
+      cy="0"
+      r="2.5980780325403394"
+      style="animation-delay: 0s"
+    />
+  </g>
+  <g
+    class="svg-41-a-g"
+    transform="translate(36.37306594848633, -18)"
+  >
+    <circle
+      class="svg-41-a-circle"
+      cx="0"
+      cy="0"
+      r="2.5980780325403394"
+      style="animation-delay: 0s"
+    />
+  </g>
+  <g
+    class="svg-41-a-g"
+    transform="translate(38.97114181518555, -13.5)"
+  >
+    <circle
+      class="svg-41-a-circle"
+      cx="0"
+      cy="0"
+      r="2.5980780325403394"
+      style="animation-delay: 0s"
+    />
+  </g>
+  <g
+    class="svg-41-a-g"
+    transform="translate(41.569217681884766, -9)"
+  >
+    <circle
+      class="svg-41-a-circle"
+      cx="0"
+      cy="0"
+      r="2.5980780325403394"
+      style="animation-delay: 0s"
+    />
+  </g>
+  <g
+    class="svg-41-a-g"
+    transform="translate(44.16729736328125, -4.5)"
+  >
+    <circle
+      class="svg-41-a-circle"
+      cx="0"
+      cy="0"
+      r="2.5980780325403394"
+      style="animation-delay: 0s"
+    />
+  </g>
+  <g
+    class="svg-41-a-g"
+    transform="translate(28.578838348388672, -40.5)"
+  >
+    <circle
+      class="svg-41-a-circle"
+      cx="0"
+      cy="0"
+      r="2.5980780325403394"
+      style="animation-delay: 0s"
+    />
+  </g>
+  <g
+    class="svg-41-a-g"
+    transform="translate(31.17691421508789, -36)"
+  >
+    <circle
+      class="svg-41-a-circle"
+      cx="0"
+      cy="0"
+      r="2.5980780325403394"
+      style="animation-delay: 0s"
+    />
+  </g>
+  <g
+    class="svg-41-a-g"
+    transform="translate(33.77499008178711, -31.5)"
+  >
+    <circle
+      class="svg-41-a-circle"
+      cx="0"
+      cy="0"
+      r="2.5980780325403394"
+      style="animation-delay: 0s"
+    />
+  </g>
+  <g
+    class="svg-41-a-g"
+    transform="translate(36.37306594848633, -27)"
+  >
+    <circle
+      class="svg-41-a-circle"
+      cx="0"
+      cy="0"
+      r="2.5980780325403394"
+      style="animation-delay: 0s"
+    />
+  </g>
+  <g
+    class="svg-41-a-g"
+    transform="translate(38.97114181518555, -22.5)"
+  >
+    <circle
+      class="svg-41-a-circle"
+      cx="0"
+      cy="0"
+      r="2.5980780325403394"
+      style="animation-delay: 0s"
+    />
+  </g>
+  <g
+    class="svg-41-a-g"
+    transform="translate(41.569217681884766, -18)"
+  >
+    <circle
+      class="svg-41-a-circle"
+      cx="0"
+      cy="0"
+      r="2.5980780325403394"
+      style="animation-delay: 0s"
+    />
+  </g>
+  <g
+    class="svg-41-a-g"
+    transform="translate(44.16729736328125, -13.5)"
+  >
+    <circle
+      class="svg-41-a-circle"
+      cx="0"
+      cy="0"
+      r="2.5980780325403394"
+      style="animation-delay: 0s"
+    />
+  </g>
+  <g
+    class="svg-41-a-g"
+    transform="translate(33.77499008178711, -40.5)"
+  >
+    <circle
+      class="svg-41-a-circle"
+      cx="0"
+      cy="0"
+      r="2.5980780325403394"
+      style="animation-delay: 0s"
+    />
+  </g>
+  <g
+    class="svg-41-a-g"
+    transform="translate(36.37306594848633, -36)"
+  >
+    <circle
+      class="svg-41-a-circle"
+      cx="0"
+      cy="0"
+      r="2.5980780325403394"
+      style="animation-delay: 0s"
+    />
+  </g>
+  <g
+    class="svg-41-a-g"
+    transform="translate(38.97114181518555, -31.5)"
+  >
+    <circle
+      class="svg-41-a-circle"
+      cx="0"
+      cy="0"
+      r="2.5980780325403394"
+      style="animation-delay: 0s"
+    />
+  </g>
+  <g
+    class="svg-41-a-g"
+    transform="translate(41.569217681884766, -27)"
+  >
+    <circle
+      class="svg-41-a-circle"
+      cx="0"
+      cy="0"
+      r="2.5980780325403394"
+      style="animation-delay: 0s"
+    />
+  </g>
+  <g
+    class="svg-41-a-g"
+    transform="translate(44.16729736328125, -22.5)"
+  >
+    <circle
+      class="svg-41-a-circle"
+      cx="0"
+      cy="0"
+      r="2.5980780325403394"
+      style="animation-delay: 0s"
+    />
+  </g>
+  <g
+    class="svg-41-a-g"
+    transform="translate(38.97114181518555, -40.5)"
+  >
+    <circle
+      class="svg-41-a-circle"
+      cx="0"
+      cy="0"
+      r="2.5980780325403394"
+      style="animation-delay: 0s"
+    />
+  </g>
+  <g
+    class="svg-41-a-g"
+    transform="translate(41.569217681884766, -36)"
+  >
+    <circle
+      class="svg-41-a-circle"
+      cx="0"
+      cy="0"
+      r="2.5980780325403394"
+      style="animation-delay: 0s"
+    />
+  </g>
+  <g
+    class="svg-41-a-g"
+    transform="translate(44.16729736328125, -31.5)"
+  >
+    <circle
+      class="svg-41-a-circle"
+      cx="0"
+      cy="0"
+      r="2.5980780325403394"
+      style="animation-delay: 0s"
+    />
+  </g>
+  <g
+    class="svg-41-a-g"
+    transform="translate(44.16729736328125, -40.5)"
+  >
+    <circle
+      class="svg-41-a-circle"
+      cx="0"
+      cy="0"
+      r="2.5980780325403394"
+      style="animation-delay: 0s"
+    />
+  </g>
+</svg>

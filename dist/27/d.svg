@@ -1,0 +1,468 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE svg>
+<svg
+  data-animation-duration="1s"
+  viewBox="-50 -50 100 100"
+>
+  <title>
+    ANIMATION 27 - VARIATION D
+  </title>
+  <desc>
+    <p>See this animation in action here: <a href="https://andrew.wang-hoyer.com/experiments/svg-animations/27/d" target="_blank" rel="noopener">https://andrew.wang-hoyer.com/experiments/svg-animations/27/d</a>.</p>
+    <p>Generator source code : <a href="https://github.com/ndrwhr/svg-animation-src/tree/master/site/_svgs/generators/animations/27/d.js" target="_blank" rel="noopener">https://github.com/ndrwhr/svg-animation-src/tree/master/site/_svgs/generators/animations/27/d.js</a>.</p>
+    <p>All generated files and source code are released under the following license:</p>
+    <p>MIT License</p>
+    <p>Copyright (c) 2018-present Andrew Hoyer</p>
+    <p>Permission is hereby granted, free of charge, to any person obtaining a copy of this software and associated documentation files (the &quot;Software&quot;), to deal in the Software without restriction, including without limitation the rights to use, copy, modify, merge, publish, distribute, sublicense, and/or sell copies of the Software, and to permit persons to whom the Software is furnished to do so, subject to the following conditions:</p>
+    <p>The above copyright notice and this permission notice shall be included in all copies or substantial portions of the Software.</p>
+    <p>THE SOFTWARE IS PROVIDED &quot;AS IS&quot;, WITHOUT WARRANTY OF ANY KIND, EXPRESS OR IMPLIED, INCLUDING BUT NOT LIMITED TO THE WARRANTIES OF MERCHANTABILITY, FITNESS FOR A PARTICULAR PURPOSE AND NONINFRINGEMENT. IN NO EVENT SHALL THE AUTHORS OR COPYRIGHT HOLDERS BE LIABLE FOR ANY CLAIM, DAMAGES OR OTHER LIABILITY, WHETHER IN AN ACTION OF CONTRACT, TORT OR OTHERWISE, ARISING FROM, OUT OF OR IN CONNECTION WITH THE SOFTWARE OR THE USE OR OTHER DEALINGS IN THE SOFTWARE.</p>
+  </desc>
+  <style>
+    /* <![CDATA[ */
+      .svg-27-d-polygon {
+        stroke: black;
+        stroke-width: .1;
+        fill: white;
+      }
+      
+      .svg-27-d-animation-parent {
+        animation: svg-27-d-main-anim 1s linear infinite;
+      }
+      
+      @keyframes svg-27-d-main-anim {
+        from {
+          transform: translate(0, 0) rotate(0);
+        }
+      
+        to {
+          transform: translate(2.2222222222222223%, 0) rotate(6.666666666666667deg);
+        }
+      }
+      
+    /* ]]> */
+  </style>
+  <g
+    class="svg-27-d-g"
+    transform="rotate(0) translate(20, 0)"
+  >
+    <g
+      class="svg-27-d-g"
+    >
+      <polygon
+        class="svg-27-d-polygon"
+        points="0,-20 17.320507049560547,10 -17.320507049560547,10"
+        transform="rotate(60)"
+      />
+    </g>
+  </g>
+  <g
+    class="svg-27-d-g"
+    transform="rotate(120) translate(20, 0)"
+  >
+    <g
+      class="svg-27-d-g"
+    >
+      <polygon
+        class="svg-27-d-polygon"
+        points="0,-20 17.320507049560547,10 -17.320507049560547,10"
+        transform="rotate(60)"
+      />
+    </g>
+  </g>
+  <g
+    class="svg-27-d-g"
+    transform="rotate(240) translate(20, 0)"
+  >
+    <g
+      class="svg-27-d-g"
+    >
+      <polygon
+        class="svg-27-d-polygon"
+        points="0,-20 17.320507049560547,10 -17.320507049560547,10"
+        transform="rotate(60)"
+      />
+    </g>
+  </g>
+  <g
+    class="svg-27-d-g"
+    transform="rotate(0) translate(17.77777777777778, 0)"
+  >
+    <g
+      class="svg-27-d-g svg-27-d-animation-parent"
+    >
+      <polygon
+        class="svg-27-d-polygon"
+        points="0,-20 17.320507049560547,10 -17.320507049560547,10"
+        transform="rotate(53.33333333333333)"
+      />
+    </g>
+  </g>
+  <g
+    class="svg-27-d-g"
+    transform="rotate(120) translate(17.77777777777778, 0)"
+  >
+    <g
+      class="svg-27-d-g svg-27-d-animation-parent"
+    >
+      <polygon
+        class="svg-27-d-polygon"
+        points="0,-20 17.320507049560547,10 -17.320507049560547,10"
+        transform="rotate(53.33333333333333)"
+      />
+    </g>
+  </g>
+  <g
+    class="svg-27-d-g"
+    transform="rotate(240) translate(17.77777777777778, 0)"
+  >
+    <g
+      class="svg-27-d-g svg-27-d-animation-parent"
+    >
+      <polygon
+        class="svg-27-d-polygon"
+        points="0,-20 17.320507049560547,10 -17.320507049560547,10"
+        transform="rotate(53.33333333333333)"
+      />
+    </g>
+  </g>
+  <g
+    class="svg-27-d-g"
+    transform="rotate(0) translate(15.555555555555555, 0)"
+  >
+    <g
+      class="svg-27-d-g svg-27-d-animation-parent"
+    >
+      <polygon
+        class="svg-27-d-polygon"
+        points="0,-20 17.320507049560547,10 -17.320507049560547,10"
+        transform="rotate(46.666666666666664)"
+      />
+    </g>
+  </g>
+  <g
+    class="svg-27-d-g"
+    transform="rotate(120) translate(15.555555555555555, 0)"
+  >
+    <g
+      class="svg-27-d-g svg-27-d-animation-parent"
+    >
+      <polygon
+        class="svg-27-d-polygon"
+        points="0,-20 17.320507049560547,10 -17.320507049560547,10"
+        transform="rotate(46.666666666666664)"
+      />
+    </g>
+  </g>
+  <g
+    class="svg-27-d-g"
+    transform="rotate(240) translate(15.555555555555555, 0)"
+  >
+    <g
+      class="svg-27-d-g svg-27-d-animation-parent"
+    >
+      <polygon
+        class="svg-27-d-polygon"
+        points="0,-20 17.320507049560547,10 -17.320507049560547,10"
+        transform="rotate(46.666666666666664)"
+      />
+    </g>
+  </g>
+  <g
+    class="svg-27-d-g"
+    transform="rotate(0) translate(13.333333333333332, 0)"
+  >
+    <g
+      class="svg-27-d-g svg-27-d-animation-parent"
+    >
+      <polygon
+        class="svg-27-d-polygon"
+        points="0,-20 17.320507049560547,10 -17.320507049560547,10"
+        transform="rotate(40)"
+      />
+    </g>
+  </g>
+  <g
+    class="svg-27-d-g"
+    transform="rotate(120) translate(13.333333333333332, 0)"
+  >
+    <g
+      class="svg-27-d-g svg-27-d-animation-parent"
+    >
+      <polygon
+        class="svg-27-d-polygon"
+        points="0,-20 17.320507049560547,10 -17.320507049560547,10"
+        transform="rotate(40)"
+      />
+    </g>
+  </g>
+  <g
+    class="svg-27-d-g"
+    transform="rotate(240) translate(13.333333333333332, 0)"
+  >
+    <g
+      class="svg-27-d-g svg-27-d-animation-parent"
+    >
+      <polygon
+        class="svg-27-d-polygon"
+        points="0,-20 17.320507049560547,10 -17.320507049560547,10"
+        transform="rotate(40)"
+      />
+    </g>
+  </g>
+  <g
+    class="svg-27-d-g"
+    transform="rotate(0) translate(11.11111111111111, 0)"
+  >
+    <g
+      class="svg-27-d-g svg-27-d-animation-parent"
+    >
+      <polygon
+        class="svg-27-d-polygon"
+        points="0,-20 17.320507049560547,10 -17.320507049560547,10"
+        transform="rotate(33.333333333333336)"
+      />
+    </g>
+  </g>
+  <g
+    class="svg-27-d-g"
+    transform="rotate(120) translate(11.11111111111111, 0)"
+  >
+    <g
+      class="svg-27-d-g svg-27-d-animation-parent"
+    >
+      <polygon
+        class="svg-27-d-polygon"
+        points="0,-20 17.320507049560547,10 -17.320507049560547,10"
+        transform="rotate(33.333333333333336)"
+      />
+    </g>
+  </g>
+  <g
+    class="svg-27-d-g"
+    transform="rotate(240) translate(11.11111111111111, 0)"
+  >
+    <g
+      class="svg-27-d-g svg-27-d-animation-parent"
+    >
+      <polygon
+        class="svg-27-d-polygon"
+        points="0,-20 17.320507049560547,10 -17.320507049560547,10"
+        transform="rotate(33.333333333333336)"
+      />
+    </g>
+  </g>
+  <g
+    class="svg-27-d-g"
+    transform="rotate(0) translate(8.88888888888889, 0)"
+  >
+    <g
+      class="svg-27-d-g svg-27-d-animation-parent"
+    >
+      <polygon
+        class="svg-27-d-polygon"
+        points="0,-20 17.320507049560547,10 -17.320507049560547,10"
+        transform="rotate(26.666666666666664)"
+      />
+    </g>
+  </g>
+  <g
+    class="svg-27-d-g"
+    transform="rotate(120) translate(8.88888888888889, 0)"
+  >
+    <g
+      class="svg-27-d-g svg-27-d-animation-parent"
+    >
+      <polygon
+        class="svg-27-d-polygon"
+        points="0,-20 17.320507049560547,10 -17.320507049560547,10"
+        transform="rotate(26.666666666666664)"
+      />
+    </g>
+  </g>
+  <g
+    class="svg-27-d-g"
+    transform="rotate(240) translate(8.88888888888889, 0)"
+  >
+    <g
+      class="svg-27-d-g svg-27-d-animation-parent"
+    >
+      <polygon
+        class="svg-27-d-polygon"
+        points="0,-20 17.320507049560547,10 -17.320507049560547,10"
+        transform="rotate(26.666666666666664)"
+      />
+    </g>
+  </g>
+  <g
+    class="svg-27-d-g"
+    transform="rotate(0) translate(6.666666666666666, 0)"
+  >
+    <g
+      class="svg-27-d-g svg-27-d-animation-parent"
+    >
+      <polygon
+        class="svg-27-d-polygon"
+        points="0,-20 17.320507049560547,10 -17.320507049560547,10"
+        transform="rotate(20)"
+      />
+    </g>
+  </g>
+  <g
+    class="svg-27-d-g"
+    transform="rotate(120) translate(6.666666666666666, 0)"
+  >
+    <g
+      class="svg-27-d-g svg-27-d-animation-parent"
+    >
+      <polygon
+        class="svg-27-d-polygon"
+        points="0,-20 17.320507049560547,10 -17.320507049560547,10"
+        transform="rotate(20)"
+      />
+    </g>
+  </g>
+  <g
+    class="svg-27-d-g"
+    transform="rotate(240) translate(6.666666666666666, 0)"
+  >
+    <g
+      class="svg-27-d-g svg-27-d-animation-parent"
+    >
+      <polygon
+        class="svg-27-d-polygon"
+        points="0,-20 17.320507049560547,10 -17.320507049560547,10"
+        transform="rotate(20)"
+      />
+    </g>
+  </g>
+  <g
+    class="svg-27-d-g"
+    transform="rotate(0) translate(4.444444444444445, 0)"
+  >
+    <g
+      class="svg-27-d-g svg-27-d-animation-parent"
+    >
+      <polygon
+        class="svg-27-d-polygon"
+        points="0,-20 17.320507049560547,10 -17.320507049560547,10"
+        transform="rotate(13.333333333333332)"
+      />
+    </g>
+  </g>
+  <g
+    class="svg-27-d-g"
+    transform="rotate(120) translate(4.444444444444445, 0)"
+  >
+    <g
+      class="svg-27-d-g svg-27-d-animation-parent"
+    >
+      <polygon
+        class="svg-27-d-polygon"
+        points="0,-20 17.320507049560547,10 -17.320507049560547,10"
+        transform="rotate(13.333333333333332)"
+      />
+    </g>
+  </g>
+  <g
+    class="svg-27-d-g"
+    transform="rotate(240) translate(4.444444444444445, 0)"
+  >
+    <g
+      class="svg-27-d-g svg-27-d-animation-parent"
+    >
+      <polygon
+        class="svg-27-d-polygon"
+        points="0,-20 17.320507049560547,10 -17.320507049560547,10"
+        transform="rotate(13.333333333333332)"
+      />
+    </g>
+  </g>
+  <g
+    class="svg-27-d-g"
+    transform="rotate(0) translate(2.2222222222222223, 0)"
+  >
+    <g
+      class="svg-27-d-g svg-27-d-animation-parent"
+    >
+      <polygon
+        class="svg-27-d-polygon"
+        points="0,-20 17.320507049560547,10 -17.320507049560547,10"
+        transform="rotate(6.666666666666666)"
+      />
+    </g>
+  </g>
+  <g
+    class="svg-27-d-g"
+    transform="rotate(120) translate(2.2222222222222223, 0)"
+  >
+    <g
+      class="svg-27-d-g svg-27-d-animation-parent"
+    >
+      <polygon
+        class="svg-27-d-polygon"
+        points="0,-20 17.320507049560547,10 -17.320507049560547,10"
+        transform="rotate(6.666666666666666)"
+      />
+    </g>
+  </g>
+  <g
+    class="svg-27-d-g"
+    transform="rotate(240) translate(2.2222222222222223, 0)"
+  >
+    <g
+      class="svg-27-d-g svg-27-d-animation-parent"
+    >
+      <polygon
+        class="svg-27-d-polygon"
+        points="0,-20 17.320507049560547,10 -17.320507049560547,10"
+        transform="rotate(6.666666666666666)"
+      />
+    </g>
+  </g>
+  <g
+    class="svg-27-d-g"
+    transform="rotate(0) translate(0, 0)"
+  >
+    <g
+      class="svg-27-d-g svg-27-d-animation-parent"
+    >
+      <polygon
+        class="svg-27-d-polygon"
+        points="0,-20 17.320507049560547,10 -17.320507049560547,10"
+        transform="rotate(0)"
+      />
+    </g>
+  </g>
+  <g
+    class="svg-27-d-g"
+    transform="rotate(120) translate(0, 0)"
+  >
+    <g
+      class="svg-27-d-g svg-27-d-animation-parent"
+    >
+      <polygon
+        class="svg-27-d-polygon"
+        points="0,-20 17.320507049560547,10 -17.320507049560547,10"
+        transform="rotate(0)"
+      />
+    </g>
+  </g>
+  <g
+    class="svg-27-d-g"
+    transform="rotate(240) translate(0, 0)"
+  >
+    <g
+      class="svg-27-d-g svg-27-d-animation-parent"
+    >
+      <polygon
+        class="svg-27-d-polygon"
+        points="0,-20 17.320507049560547,10 -17.320507049560547,10"
+        transform="rotate(0)"
+      />
+    </g>
+  </g>
+  <polygon
+    class="svg-27-d-polygon"
+    points="0,-20 17.320507049560547,10 -17.320507049560547,10"
+  />
+</svg>

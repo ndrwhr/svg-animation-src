@@ -1,0 +1,680 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE svg>
+<svg
+  data-animation-duration="1.5s"
+  viewBox="-50 -50 100 100"
+>
+  <title>
+    ANIMATION 33 - VARIATION A
+  </title>
+  <desc>
+    <p>See this animation in action here: <a href="https://andrew.wang-hoyer.com/experiments/svg-animations/33/a" target="_blank" rel="noopener">https://andrew.wang-hoyer.com/experiments/svg-animations/33/a</a>.</p>
+    <p>Generator source code : <a href="https://github.com/ndrwhr/svg-animation-src/tree/master/site/_svgs/generators/animations/33/a.js" target="_blank" rel="noopener">https://github.com/ndrwhr/svg-animation-src/tree/master/site/_svgs/generators/animations/33/a.js</a>.</p>
+    <p>All generated files and source code are released under the following license:</p>
+    <p>MIT License</p>
+    <p>Copyright (c) 2018-present Andrew Hoyer</p>
+    <p>Permission is hereby granted, free of charge, to any person obtaining a copy of this software and associated documentation files (the &quot;Software&quot;), to deal in the Software without restriction, including without limitation the rights to use, copy, modify, merge, publish, distribute, sublicense, and/or sell copies of the Software, and to permit persons to whom the Software is furnished to do so, subject to the following conditions:</p>
+    <p>The above copyright notice and this permission notice shall be included in all copies or substantial portions of the Software.</p>
+    <p>THE SOFTWARE IS PROVIDED &quot;AS IS&quot;, WITHOUT WARRANTY OF ANY KIND, EXPRESS OR IMPLIED, INCLUDING BUT NOT LIMITED TO THE WARRANTIES OF MERCHANTABILITY, FITNESS FOR A PARTICULAR PURPOSE AND NONINFRINGEMENT. IN NO EVENT SHALL THE AUTHORS OR COPYRIGHT HOLDERS BE LIABLE FOR ANY CLAIM, DAMAGES OR OTHER LIABILITY, WHETHER IN AN ACTION OF CONTRACT, TORT OR OTHERWISE, ARISING FROM, OUT OF OR IN CONNECTION WITH THE SOFTWARE OR THE USE OR OTHER DEALINGS IN THE SOFTWARE.</p>
+  </desc>
+  <style>
+    /* <![CDATA[ */
+      .svg-33-a-circle {
+        fill: black;
+        stroke: none;
+        animation: svg-33-a-main-anim 1.5s ease-in-out alternate infinite;
+      }
+      
+      @keyframes svg-33-a-main-anim {
+        from {
+          transform: translate(0, -4%);
+        }
+      
+        to {
+          transform: translate(0, 4%);
+        }
+      }
+      
+    /* ]]> */
+  </style>
+  <g
+    class="svg-33-a-g"
+    transform="translate(-31.11111068725586, -31.11111068725586)"
+  >
+    <circle
+      class="svg-33-a-circle"
+      r="2"
+      style="animation-delay: -1.3125s"
+    />
+  </g>
+  <g
+    class="svg-33-a-g"
+    transform="translate(-31.11111068725586, -22.22222137451172)"
+  >
+    <circle
+      class="svg-33-a-circle"
+      r="2"
+      style="animation-delay: -1.3125s"
+    />
+  </g>
+  <g
+    class="svg-33-a-g"
+    transform="translate(-31.11111068725586, -13.333333015441895)"
+  >
+    <circle
+      class="svg-33-a-circle"
+      r="2"
+      style="animation-delay: -1.3125s"
+    />
+  </g>
+  <g
+    class="svg-33-a-g"
+    transform="translate(-31.11111068725586, -4.44444465637207)"
+  >
+    <circle
+      class="svg-33-a-circle"
+      r="2"
+      style="animation-delay: -1.3125s"
+    />
+  </g>
+  <g
+    class="svg-33-a-g"
+    transform="translate(-31.11111068725586, 4.44444465637207)"
+  >
+    <circle
+      class="svg-33-a-circle"
+      r="2"
+      style="animation-delay: -1.3125s"
+    />
+  </g>
+  <g
+    class="svg-33-a-g"
+    transform="translate(-31.11111068725586, 13.333333015441895)"
+  >
+    <circle
+      class="svg-33-a-circle"
+      r="2"
+      style="animation-delay: -1.3125s"
+    />
+  </g>
+  <g
+    class="svg-33-a-g"
+    transform="translate(-31.11111068725586, 22.22222137451172)"
+  >
+    <circle
+      class="svg-33-a-circle"
+      r="2"
+      style="animation-delay: -1.3125s"
+    />
+  </g>
+  <g
+    class="svg-33-a-g"
+    transform="translate(-31.11111068725586, 31.11111068725586)"
+  >
+    <circle
+      class="svg-33-a-circle"
+      r="2"
+      style="animation-delay: -1.3125s"
+    />
+  </g>
+  <g
+    class="svg-33-a-g"
+    transform="translate(-22.22222137451172, -31.11111068725586)"
+  >
+    <circle
+      class="svg-33-a-circle"
+      r="2"
+      style="animation-delay: -1.125s"
+    />
+  </g>
+  <g
+    class="svg-33-a-g"
+    transform="translate(-22.22222137451172, -22.22222137451172)"
+  >
+    <circle
+      class="svg-33-a-circle"
+      r="2"
+      style="animation-delay: -1.125s"
+    />
+  </g>
+  <g
+    class="svg-33-a-g"
+    transform="translate(-22.22222137451172, -13.333333015441895)"
+  >
+    <circle
+      class="svg-33-a-circle"
+      r="2"
+      style="animation-delay: -1.125s"
+    />
+  </g>
+  <g
+    class="svg-33-a-g"
+    transform="translate(-22.22222137451172, -4.44444465637207)"
+  >
+    <circle
+      class="svg-33-a-circle"
+      r="2"
+      style="animation-delay: -1.125s"
+    />
+  </g>
+  <g
+    class="svg-33-a-g"
+    transform="translate(-22.22222137451172, 4.44444465637207)"
+  >
+    <circle
+      class="svg-33-a-circle"
+      r="2"
+      style="animation-delay: -1.125s"
+    />
+  </g>
+  <g
+    class="svg-33-a-g"
+    transform="translate(-22.22222137451172, 13.333333015441895)"
+  >
+    <circle
+      class="svg-33-a-circle"
+      r="2"
+      style="animation-delay: -1.125s"
+    />
+  </g>
+  <g
+    class="svg-33-a-g"
+    transform="translate(-22.22222137451172, 22.22222137451172)"
+  >
+    <circle
+      class="svg-33-a-circle"
+      r="2"
+      style="animation-delay: -1.125s"
+    />
+  </g>
+  <g
+    class="svg-33-a-g"
+    transform="translate(-22.22222137451172, 31.11111068725586)"
+  >
+    <circle
+      class="svg-33-a-circle"
+      r="2"
+      style="animation-delay: -1.125s"
+    />
+  </g>
+  <g
+    class="svg-33-a-g"
+    transform="translate(-13.333333015441895, -31.11111068725586)"
+  >
+    <circle
+      class="svg-33-a-circle"
+      r="2"
+      style="animation-delay: -0.9375s"
+    />
+  </g>
+  <g
+    class="svg-33-a-g"
+    transform="translate(-13.333333015441895, -22.22222137451172)"
+  >
+    <circle
+      class="svg-33-a-circle"
+      r="2"
+      style="animation-delay: -0.9375s"
+    />
+  </g>
+  <g
+    class="svg-33-a-g"
+    transform="translate(-13.333333015441895, -13.333333015441895)"
+  >
+    <circle
+      class="svg-33-a-circle"
+      r="2"
+      style="animation-delay: -0.9375s"
+    />
+  </g>
+  <g
+    class="svg-33-a-g"
+    transform="translate(-13.333333015441895, -4.44444465637207)"
+  >
+    <circle
+      class="svg-33-a-circle"
+      r="2"
+      style="animation-delay: -0.9375s"
+    />
+  </g>
+  <g
+    class="svg-33-a-g"
+    transform="translate(-13.333333015441895, 4.44444465637207)"
+  >
+    <circle
+      class="svg-33-a-circle"
+      r="2"
+      style="animation-delay: -0.9375s"
+    />
+  </g>
+  <g
+    class="svg-33-a-g"
+    transform="translate(-13.333333015441895, 13.333333015441895)"
+  >
+    <circle
+      class="svg-33-a-circle"
+      r="2"
+      style="animation-delay: -0.9375s"
+    />
+  </g>
+  <g
+    class="svg-33-a-g"
+    transform="translate(-13.333333015441895, 22.22222137451172)"
+  >
+    <circle
+      class="svg-33-a-circle"
+      r="2"
+      style="animation-delay: -0.9375s"
+    />
+  </g>
+  <g
+    class="svg-33-a-g"
+    transform="translate(-13.333333015441895, 31.11111068725586)"
+  >
+    <circle
+      class="svg-33-a-circle"
+      r="2"
+      style="animation-delay: -0.9375s"
+    />
+  </g>
+  <g
+    class="svg-33-a-g"
+    transform="translate(-4.44444465637207, -31.11111068725586)"
+  >
+    <circle
+      class="svg-33-a-circle"
+      r="2"
+      style="animation-delay: -0.75s"
+    />
+  </g>
+  <g
+    class="svg-33-a-g"
+    transform="translate(-4.44444465637207, -22.22222137451172)"
+  >
+    <circle
+      class="svg-33-a-circle"
+      r="2"
+      style="animation-delay: -0.75s"
+    />
+  </g>
+  <g
+    class="svg-33-a-g"
+    transform="translate(-4.44444465637207, -13.333333015441895)"
+  >
+    <circle
+      class="svg-33-a-circle"
+      r="2"
+      style="animation-delay: -0.75s"
+    />
+  </g>
+  <g
+    class="svg-33-a-g"
+    transform="translate(-4.44444465637207, -4.44444465637207)"
+  >
+    <circle
+      class="svg-33-a-circle"
+      r="2"
+      style="animation-delay: -0.75s"
+    />
+  </g>
+  <g
+    class="svg-33-a-g"
+    transform="translate(-4.44444465637207, 4.44444465637207)"
+  >
+    <circle
+      class="svg-33-a-circle"
+      r="2"
+      style="animation-delay: -0.75s"
+    />
+  </g>
+  <g
+    class="svg-33-a-g"
+    transform="translate(-4.44444465637207, 13.333333015441895)"
+  >
+    <circle
+      class="svg-33-a-circle"
+      r="2"
+      style="animation-delay: -0.75s"
+    />
+  </g>
+  <g
+    class="svg-33-a-g"
+    transform="translate(-4.44444465637207, 22.22222137451172)"
+  >
+    <circle
+      class="svg-33-a-circle"
+      r="2"
+      style="animation-delay: -0.75s"
+    />
+  </g>
+  <g
+    class="svg-33-a-g"
+    transform="translate(-4.44444465637207, 31.11111068725586)"
+  >
+    <circle
+      class="svg-33-a-circle"
+      r="2"
+      style="animation-delay: -0.75s"
+    />
+  </g>
+  <g
+    class="svg-33-a-g"
+    transform="translate(4.44444465637207, -31.11111068725586)"
+  >
+    <circle
+      class="svg-33-a-circle"
+      r="2"
+      style="animation-delay: -0.5625s"
+    />
+  </g>
+  <g
+    class="svg-33-a-g"
+    transform="translate(4.44444465637207, -22.22222137451172)"
+  >
+    <circle
+      class="svg-33-a-circle"
+      r="2"
+      style="animation-delay: -0.5625s"
+    />
+  </g>
+  <g
+    class="svg-33-a-g"
+    transform="translate(4.44444465637207, -13.333333015441895)"
+  >
+    <circle
+      class="svg-33-a-circle"
+      r="2"
+      style="animation-delay: -0.5625s"
+    />
+  </g>
+  <g
+    class="svg-33-a-g"
+    transform="translate(4.44444465637207, -4.44444465637207)"
+  >
+    <circle
+      class="svg-33-a-circle"
+      r="2"
+      style="animation-delay: -0.5625s"
+    />
+  </g>
+  <g
+    class="svg-33-a-g"
+    transform="translate(4.44444465637207, 4.44444465637207)"
+  >
+    <circle
+      class="svg-33-a-circle"
+      r="2"
+      style="animation-delay: -0.5625s"
+    />
+  </g>
+  <g
+    class="svg-33-a-g"
+    transform="translate(4.44444465637207, 13.333333015441895)"
+  >
+    <circle
+      class="svg-33-a-circle"
+      r="2"
+      style="animation-delay: -0.5625s"
+    />
+  </g>
+  <g
+    class="svg-33-a-g"
+    transform="translate(4.44444465637207, 22.22222137451172)"
+  >
+    <circle
+      class="svg-33-a-circle"
+      r="2"
+      style="animation-delay: -0.5625s"
+    />
+  </g>
+  <g
+    class="svg-33-a-g"
+    transform="translate(4.44444465637207, 31.11111068725586)"
+  >
+    <circle
+      class="svg-33-a-circle"
+      r="2"
+      style="animation-delay: -0.5625s"
+    />
+  </g>
+  <g
+    class="svg-33-a-g"
+    transform="translate(13.333333015441895, -31.11111068725586)"
+  >
+    <circle
+      class="svg-33-a-circle"
+      r="2"
+      style="animation-delay: -0.375s"
+    />
+  </g>
+  <g
+    class="svg-33-a-g"
+    transform="translate(13.333333015441895, -22.22222137451172)"
+  >
+    <circle
+      class="svg-33-a-circle"
+      r="2"
+      style="animation-delay: -0.375s"
+    />
+  </g>
+  <g
+    class="svg-33-a-g"
+    transform="translate(13.333333015441895, -13.333333015441895)"
+  >
+    <circle
+      class="svg-33-a-circle"
+      r="2"
+      style="animation-delay: -0.375s"
+    />
+  </g>
+  <g
+    class="svg-33-a-g"
+    transform="translate(13.333333015441895, -4.44444465637207)"
+  >
+    <circle
+      class="svg-33-a-circle"
+      r="2"
+      style="animation-delay: -0.375s"
+    />
+  </g>
+  <g
+    class="svg-33-a-g"
+    transform="translate(13.333333015441895, 4.44444465637207)"
+  >
+    <circle
+      class="svg-33-a-circle"
+      r="2"
+      style="animation-delay: -0.375s"
+    />
+  </g>
+  <g
+    class="svg-33-a-g"
+    transform="translate(13.333333015441895, 13.333333015441895)"
+  >
+    <circle
+      class="svg-33-a-circle"
+      r="2"
+      style="animation-delay: -0.375s"
+    />
+  </g>
+  <g
+    class="svg-33-a-g"
+    transform="translate(13.333333015441895, 22.22222137451172)"
+  >
+    <circle
+      class="svg-33-a-circle"
+      r="2"
+      style="animation-delay: -0.375s"
+    />
+  </g>
+  <g
+    class="svg-33-a-g"
+    transform="translate(13.333333015441895, 31.11111068725586)"
+  >
+    <circle
+      class="svg-33-a-circle"
+      r="2"
+      style="animation-delay: -0.375s"
+    />
+  </g>
+  <g
+    class="svg-33-a-g"
+    transform="translate(22.22222137451172, -31.11111068725586)"
+  >
+    <circle
+      class="svg-33-a-circle"
+      r="2"
+      style="animation-delay: -0.1875s"
+    />
+  </g>
+  <g
+    class="svg-33-a-g"
+    transform="translate(22.22222137451172, -22.22222137451172)"
+  >
+    <circle
+      class="svg-33-a-circle"
+      r="2"
+      style="animation-delay: -0.1875s"
+    />
+  </g>
+  <g
+    class="svg-33-a-g"
+    transform="translate(22.22222137451172, -13.333333015441895)"
+  >
+    <circle
+      class="svg-33-a-circle"
+      r="2"
+      style="animation-delay: -0.1875s"
+    />
+  </g>
+  <g
+    class="svg-33-a-g"
+    transform="translate(22.22222137451172, -4.44444465637207)"
+  >
+    <circle
+      class="svg-33-a-circle"
+      r="2"
+      style="animation-delay: -0.1875s"
+    />
+  </g>
+  <g
+    class="svg-33-a-g"
+    transform="translate(22.22222137451172, 4.44444465637207)"
+  >
+    <circle
+      class="svg-33-a-circle"
+      r="2"
+      style="animation-delay: -0.1875s"
+    />
+  </g>
+  <g
+    class="svg-33-a-g"
+    transform="translate(22.22222137451172, 13.333333015441895)"
+  >
+    <circle
+      class="svg-33-a-circle"
+      r="2"
+      style="animation-delay: -0.1875s"
+    />
+  </g>
+  <g
+    class="svg-33-a-g"
+    transform="translate(22.22222137451172, 22.22222137451172)"
+  >
+    <circle
+      class="svg-33-a-circle"
+      r="2"
+      style="animation-delay: -0.1875s"
+    />
+  </g>
+  <g
+    class="svg-33-a-g"
+    transform="translate(22.22222137451172, 31.11111068725586)"
+  >
+    <circle
+      class="svg-33-a-circle"
+      r="2"
+      style="animation-delay: -0.1875s"
+    />
+  </g>
+  <g
+    class="svg-33-a-g"
+    transform="translate(31.11111068725586, -31.11111068725586)"
+  >
+    <circle
+      class="svg-33-a-circle"
+      r="2"
+      style="animation-delay: -0s"
+    />
+  </g>
+  <g
+    class="svg-33-a-g"
+    transform="translate(31.11111068725586, -22.22222137451172)"
+  >
+    <circle
+      class="svg-33-a-circle"
+      r="2"
+      style="animation-delay: -0s"
+    />
+  </g>
+  <g
+    class="svg-33-a-g"
+    transform="translate(31.11111068725586, -13.333333015441895)"
+  >
+    <circle
+      class="svg-33-a-circle"
+      r="2"
+      style="animation-delay: -0s"
+    />
+  </g>
+  <g
+    class="svg-33-a-g"
+    transform="translate(31.11111068725586, -4.44444465637207)"
+  >
+    <circle
+      class="svg-33-a-circle"
+      r="2"
+      style="animation-delay: -0s"
+    />
+  </g>
+  <g
+    class="svg-33-a-g"
+    transform="translate(31.11111068725586, 4.44444465637207)"
+  >
+    <circle
+      class="svg-33-a-circle"
+      r="2"
+      style="animation-delay: -0s"
+    />
+  </g>
+  <g
+    class="svg-33-a-g"
+    transform="translate(31.11111068725586, 13.333333015441895)"
+  >
+    <circle
+      class="svg-33-a-circle"
+      r="2"
+      style="animation-delay: -0s"
+    />
+  </g>
+  <g
+    class="svg-33-a-g"
+    transform="translate(31.11111068725586, 22.22222137451172)"
+  >
+    <circle
+      class="svg-33-a-circle"
+      r="2"
+      style="animation-delay: -0s"
+    />
+  </g>
+  <g
+    class="svg-33-a-g"
+    transform="translate(31.11111068725586, 31.11111068725586)"
+  >
+    <circle
+      class="svg-33-a-circle"
+      r="2"
+      style="animation-delay: -0s"
+    />
+  </g>
+</svg>

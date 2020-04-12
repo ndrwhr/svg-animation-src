@@ -1,0 +1,44 @@
+<svg
+  preserveAspectRatio="xMidYMid meet"
+  version="1.1"
+  viewBox="-50 -50 100 100"
+  xmlns:xlink="http://www.w3.org/1999/xlink"
+  xmlns="http://www.w3.org/2000/svg"
+>
+  <style>
+    /* <![CDATA[ */
+      .example2-group {
+        animation:
+          example2-animation
+          10s
+          linear
+          infinite
+          reverse;
+      }
+      .example2-rect {
+        animation:
+          example2-animation
+          2.5s
+          linear
+          infinite;
+      }
+      @keyframes example2-animation {
+        from {
+          transform: rotate(360deg) translate(20%, 0);
+        }
+        to {
+          transform: rotate(0deg) translate(20%, 0);
+        }
+      }
+    /* ]]> */
+  </style>
+  <g class="example2-group">
+    <rect
+      class="example2-rect"
+      x="-7.5"
+      y="-7.5"
+      height="15"
+      width="15"
+    />
+  </g>
+</svg>

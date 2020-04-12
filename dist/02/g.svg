@@ -1,0 +1,510 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE svg>
+<svg
+  data-animation-duration="2s"
+  viewBox="-50 -50 100 100"
+>
+  <title>
+    ANIMATION 02 - VARIATION G
+  </title>
+  <desc>
+    <p>See this animation in action here: <a href="https://andrew.wang-hoyer.com/experiments/svg-animations/02/g" target="_blank" rel="noopener">https://andrew.wang-hoyer.com/experiments/svg-animations/02/g</a>.</p>
+    <p>Generator source code : <a href="https://github.com/ndrwhr/svg-animation-src/tree/master/site/_svgs/generators/animations/02/g.js" target="_blank" rel="noopener">https://github.com/ndrwhr/svg-animation-src/tree/master/site/_svgs/generators/animations/02/g.js</a>.</p>
+    <p>All generated files and source code are released under the following license:</p>
+    <p>MIT License</p>
+    <p>Copyright (c) 2018-present Andrew Hoyer</p>
+    <p>Permission is hereby granted, free of charge, to any person obtaining a copy of this software and associated documentation files (the &quot;Software&quot;), to deal in the Software without restriction, including without limitation the rights to use, copy, modify, merge, publish, distribute, sublicense, and/or sell copies of the Software, and to permit persons to whom the Software is furnished to do so, subject to the following conditions:</p>
+    <p>The above copyright notice and this permission notice shall be included in all copies or substantial portions of the Software.</p>
+    <p>THE SOFTWARE IS PROVIDED &quot;AS IS&quot;, WITHOUT WARRANTY OF ANY KIND, EXPRESS OR IMPLIED, INCLUDING BUT NOT LIMITED TO THE WARRANTIES OF MERCHANTABILITY, FITNESS FOR A PARTICULAR PURPOSE AND NONINFRINGEMENT. IN NO EVENT SHALL THE AUTHORS OR COPYRIGHT HOLDERS BE LIABLE FOR ANY CLAIM, DAMAGES OR OTHER LIABILITY, WHETHER IN AN ACTION OF CONTRACT, TORT OR OTHERWISE, ARISING FROM, OUT OF OR IN CONNECTION WITH THE SOFTWARE OR THE USE OR OTHER DEALINGS IN THE SOFTWARE.</p>
+  </desc>
+  <style>
+    /* <![CDATA[ */
+      .svg-02-g-polygon {
+        stroke: black;
+        stroke-width: .2;
+        fill: none;
+        animation: 2s linear infinite;
+      }
+      
+      .svg-02-g-polygon:nth-child(1) {
+        stroke-dasharray: 35.35533905932737%, 35.35533905932737%;
+        animation-name: svg-02-g-anim-1;
+      }
+      
+      @keyframes svg-02-g-anim-1 {
+        from {
+          stroke-dashoffset: 0;
+        }
+      
+        to {
+          stroke-dashoffset: -70.71067811865474%;
+        }
+      }
+      
+      .svg-02-g-polygon:nth-child(2) {
+        stroke-dasharray: 31.303391453905643%, 31.303391453905643%;
+        animation-name: svg-02-g-anim-2;
+      }
+      
+      @keyframes svg-02-g-anim-2 {
+        from {
+          stroke-dashoffset: 0;
+        }
+      
+        to {
+          stroke-dashoffset: -62.60678290781129%;
+        }
+      }
+      
+      .svg-02-g-polygon:nth-child(3) {
+        stroke-dasharray: 27.715822916367625%, 27.715822916367625%;
+        animation-name: svg-02-g-anim-3;
+      }
+      
+      @keyframes svg-02-g-anim-3 {
+        from {
+          stroke-dashoffset: 0;
+        }
+      
+        to {
+          stroke-dashoffset: -55.43164583273525%;
+        }
+      }
+      
+      .svg-02-g-polygon:nth-child(4) {
+        stroke-dasharray: 24.539412640402784%, 24.539412640402784%;
+        animation-name: svg-02-g-anim-4;
+      }
+      
+      @keyframes svg-02-g-anim-4 {
+        from {
+          stroke-dashoffset: 0;
+        }
+      
+        to {
+          stroke-dashoffset: -49.07882528080557%;
+        }
+      }
+      
+      .svg-02-g-polygon:nth-child(5) {
+        stroke-dasharray: 21.72703926392674%, 21.72703926392674%;
+        animation-name: svg-02-g-anim-5;
+      }
+      
+      @keyframes svg-02-g-anim-5 {
+        from {
+          stroke-dashoffset: 0;
+        }
+      
+        to {
+          stroke-dashoffset: -43.45407852785348%;
+        }
+      }
+      
+      .svg-02-g-polygon:nth-child(6) {
+        stroke-dasharray: 19.236981833827052%, 19.236981833827052%;
+        animation-name: svg-02-g-anim-6;
+      }
+      
+      @keyframes svg-02-g-anim-6 {
+        from {
+          stroke-dashoffset: 0;
+        }
+      
+        to {
+          stroke-dashoffset: -38.473963667654104%;
+        }
+      }
+      
+      .svg-02-g-polygon:nth-child(7) {
+        stroke-dasharray: 17.032300884612596%, 17.032300884612596%;
+        animation-name: svg-02-g-anim-7;
+      }
+      
+      @keyframes svg-02-g-anim-7 {
+        from {
+          stroke-dashoffset: 0;
+        }
+      
+        to {
+          stroke-dashoffset: -34.06460176922519%;
+        }
+      }
+      
+      .svg-02-g-polygon:nth-child(8) {
+        stroke-dasharray: 15.080290449401641%, 15.080290449401641%;
+        animation-name: svg-02-g-anim-8;
+      }
+      
+      @keyframes svg-02-g-anim-8 {
+        from {
+          stroke-dashoffset: 0;
+        }
+      
+        to {
+          stroke-dashoffset: -30.160580898803282%;
+        }
+      }
+      
+      .svg-02-g-polygon:nth-child(9) {
+        stroke-dasharray: 13.351992873949689%, 13.351992873949689%;
+        animation-name: svg-02-g-anim-9;
+      }
+      
+      @keyframes svg-02-g-anim-9 {
+        from {
+          stroke-dashoffset: 0;
+        }
+      
+        to {
+          stroke-dashoffset: -26.703985747899377%;
+        }
+      }
+      
+      .svg-02-g-polygon:nth-child(10) {
+        stroke-dasharray: 11.82176923608769%, 11.82176923608769%;
+        animation-name: svg-02-g-anim-10;
+      }
+      
+      @keyframes svg-02-g-anim-10 {
+        from {
+          stroke-dashoffset: 0;
+        }
+      
+        to {
+          stroke-dashoffset: -23.64353847217538%;
+        }
+      }
+      
+      .svg-02-g-polygon:nth-child(11) {
+        stroke-dasharray: 10.46691899783558%, 10.46691899783558%;
+        animation-name: svg-02-g-anim-11;
+      }
+      
+      @keyframes svg-02-g-anim-11 {
+        from {
+          stroke-dashoffset: 0;
+        }
+      
+        to {
+          stroke-dashoffset: -20.93383799567116%;
+        }
+      }
+      
+      .svg-02-g-polygon:nth-child(12) {
+        stroke-dasharray: 9.267343247812212%, 9.267343247812212%;
+        animation-name: svg-02-g-anim-12;
+      }
+      
+      @keyframes svg-02-g-anim-12 {
+        from {
+          stroke-dashoffset: 0;
+        }
+      
+        to {
+          stroke-dashoffset: -18.534686495624424%;
+        }
+      }
+      
+      .svg-02-g-polygon:nth-child(13) {
+        stroke-dasharray: 8.205246538215324%, 8.205246538215324%;
+        animation-name: svg-02-g-anim-13;
+      }
+      
+      @keyframes svg-02-g-anim-13 {
+        from {
+          stroke-dashoffset: 0;
+        }
+      
+        to {
+          stroke-dashoffset: -16.410493076430647%;
+        }
+      }
+      
+      .svg-02-g-polygon:nth-child(14) {
+        stroke-dasharray: 7.2648728931874365%, 7.2648728931874365%;
+        animation-name: svg-02-g-anim-14;
+      }
+      
+      @keyframes svg-02-g-anim-14 {
+        from {
+          stroke-dashoffset: 0;
+        }
+      
+        to {
+          stroke-dashoffset: -14.529745786374873%;
+        }
+      }
+      
+      .svg-02-g-polygon:nth-child(15) {
+        stroke-dasharray: 6.432272072308642%, 6.432272072308642%;
+        animation-name: svg-02-g-anim-15;
+      }
+      
+      @keyframes svg-02-g-anim-15 {
+        from {
+          stroke-dashoffset: 0;
+        }
+      
+        to {
+          stroke-dashoffset: -12.864544144617284%;
+        }
+      }
+      
+      .svg-02-g-polygon:nth-child(16) {
+        stroke-dasharray: 5.695092621785562%, 5.695092621785562%;
+        animation-name: svg-02-g-anim-16;
+      }
+      
+      @keyframes svg-02-g-anim-16 {
+        from {
+          stroke-dashoffset: 0;
+        }
+      
+        to {
+          stroke-dashoffset: -11.390185243571125%;
+        }
+      }
+      
+      .svg-02-g-polygon:nth-child(17) {
+        stroke-dasharray: 5.042398643295459%, 5.042398643295459%;
+        animation-name: svg-02-g-anim-17;
+      }
+      
+      @keyframes svg-02-g-anim-17 {
+        from {
+          stroke-dashoffset: 0;
+        }
+      
+        to {
+          stroke-dashoffset: -10.084797286590918%;
+        }
+      }
+      
+      .svg-02-g-polygon:nth-child(18) {
+        stroke-dasharray: 4.464507562290747%, 4.464507562290747%;
+        animation-name: svg-02-g-anim-18;
+      }
+      
+      @keyframes svg-02-g-anim-18 {
+        from {
+          stroke-dashoffset: 0;
+        }
+      
+        to {
+          stroke-dashoffset: -8.929015124581493%;
+        }
+      }
+      
+      .svg-02-g-polygon:nth-child(19) {
+        stroke-dasharray: 3.952846489091712%, 3.952846489091712%;
+        animation-name: svg-02-g-anim-19;
+      }
+      
+      @keyframes svg-02-g-anim-19 {
+        from {
+          stroke-dashoffset: 0;
+        }
+      
+        to {
+          stroke-dashoffset: -7.905692978183424%;
+        }
+      }
+      
+      .svg-02-g-polygon:nth-child(20) {
+        stroke-dasharray: 3.49982504191514%, 3.49982504191514%;
+        animation-name: svg-02-g-anim-20;
+      }
+      
+      @keyframes svg-02-g-anim-20 {
+        from {
+          stroke-dashoffset: 0;
+        }
+      
+        to {
+          stroke-dashoffset: -6.99965008383028%;
+        }
+      }
+      
+      .svg-02-g-polygon:nth-child(21) {
+        stroke-dasharray: 3.0987227451959174%, 3.0987227451959174%;
+        animation-name: svg-02-g-anim-21;
+      }
+      
+      @keyframes svg-02-g-anim-21 {
+        from {
+          stroke-dashoffset: 0;
+        }
+      
+        to {
+          stroke-dashoffset: -6.197445490391835%;
+        }
+      }
+      
+      .svg-02-g-polygon:nth-child(22) {
+        stroke-dasharray: 2.7435893327799503%, 2.7435893327799503%;
+        animation-name: svg-02-g-anim-22;
+      }
+      
+      @keyframes svg-02-g-anim-22 {
+        from {
+          stroke-dashoffset: 0;
+        }
+      
+        to {
+          stroke-dashoffset: -5.487178665559901%;
+        }
+      }
+      
+      .svg-02-g-polygon:nth-child(23) {
+        stroke-dasharray: 2.429156477007761%, 2.429156477007761%;
+        animation-name: svg-02-g-anim-23;
+      }
+      
+      @keyframes svg-02-g-anim-23 {
+        from {
+          stroke-dashoffset: 0;
+        }
+      
+        to {
+          stroke-dashoffset: -4.858312954015522%;
+        }
+      }
+      
+      .svg-02-g-polygon:nth-child(24) {
+        stroke-dasharray: 2.1507596342087223%, 2.1507596342087223%;
+        animation-name: svg-02-g-anim-24;
+      }
+      
+      @keyframes svg-02-g-anim-24 {
+        from {
+          stroke-dashoffset: 0;
+        }
+      
+        to {
+          stroke-dashoffset: -4.301519268417445%;
+        }
+      }
+      
+      .svg-02-g-polygon:nth-child(25) {
+        stroke-dasharray: 1.904268847200681%, 1.904268847200681%;
+        animation-name: svg-02-g-anim-25;
+      }
+      
+      @keyframes svg-02-g-anim-25 {
+        from {
+          stroke-dashoffset: 0;
+        }
+      
+        to {
+          stroke-dashoffset: -3.808537694401362%;
+        }
+      }
+      
+    /* ]]> */
+  </style>
+  <g
+    class="svg-02-g-g"
+  >
+    <polygon
+      class="svg-02-g-polygon"
+      points="35.35533905029297,-35.35533905029297 35.35533905029297,35.35533905029297 -35.35533905029297,35.35533905029297 -35.35533905029297,-35.35533905029297"
+    />
+    <polygon
+      class="svg-02-g-polygon"
+      points="35.35533905029297,-26.642160415649414 26.642160415649414,35.35533905029297 -35.35533905029297,26.642160415649414 -26.642160415649414,-35.35533905029297"
+    />
+    <polygon
+      class="svg-02-g-polygon"
+      points="34.28167724609375,-19.002643585205078 19.002643585205078,34.28167724609375 -34.28167724609375,19.002643585205078 -19.002643585205078,-34.28167724609375"
+    />
+    <polygon
+      class="svg-02-g-polygon"
+      points="32.398948669433594,-12.43679141998291 12.43679141998291,32.398948669433594 -32.398948669433594,12.43679141998291 -12.43679141998291,-32.398948669433594"
+    />
+    <polygon
+      class="svg-02-g-polygon"
+      points="29.939149856567383,-6.9119977951049805 6.9119977951049805,29.939149856567383 -29.939149856567383,6.9119977951049805 -6.9119977951049805,-29.939149856567383"
+    />
+    <polygon
+      class="svg-02-g-polygon"
+      points="27.10167694091797,-2.371089458465576 2.371089458465576,27.10167694091797 -27.10167694091797,2.371089458465576 -2.371089458465576,-27.10167694091797"
+    />
+    <polygon
+      class="svg-02-g-polygon"
+      points="24.05430030822754,1.2606323957443237 -1.2606323957443237,24.05430030822754 -24.05430030822754,-1.2606323957443237 1.2606323957443237,-24.05430030822754"
+    />
+    <polygon
+      class="svg-02-g-polygon"
+      points="20.934919357299805,4.0693359375 -4.0693359375,20.934919357299805 -20.934919357299805,-4.0693359375 4.0693359375,-20.934919357299805"
+    />
+    <polygon
+      class="svg-02-g-polygon"
+      points="17.85382080078125,6.147563934326172 -6.147563934326172,17.85382080078125 -17.85382080078125,-6.147563934326172 6.147563934326172,-17.85382080078125"
+    />
+    <polygon
+      class="svg-02-g-polygon"
+      points="14.896297454833984,7.590042591094971 -7.590042591094971,14.896297454833984 -14.896297454833984,-7.590042591094971 7.590042591094971,-14.896297454833984"
+    />
+    <polygon
+      class="svg-02-g-polygon"
+      points="12.12546443939209,8.490342140197754 -8.490342140197754,12.12546443939209 -12.12546443939209,-8.490342140197754 8.490342140197754,-12.12546443939209"
+    />
+    <polygon
+      class="svg-02-g-polygon"
+      points="9.585124015808105,8.938272476196289 -8.938272476196289,9.585124015808105 -9.585124015808105,-8.938272476196289 8.938272476196289,-9.585124015808105"
+    />
+    <polygon
+      class="svg-02-g-polygon"
+      points="7.302615165710449,9.01797866821289 -9.01797866821289,7.302615165710449 -7.302615165710449,-9.01797866821289 9.01797866821289,-7.302615165710449"
+    />
+    <polygon
+      class="svg-02-g-polygon"
+      points="5.291543483734131,8.806607246398926 -8.806607246398926,5.291543483734131 -5.291543483734131,-8.806607246398926 8.806607246398926,-5.291543483734131"
+    />
+    <polygon
+      class="svg-02-g-polygon"
+      points="3.5543272495269775,8.373470306396484 -8.373470306396484,3.5543272495269775 -3.5543272495269775,-8.373470306396484 8.373470306396484,-3.5543272495269775"
+    />
+    <polygon
+      class="svg-02-g-polygon"
+      points="2.0845484733581543,7.779641151428223 -7.779641151428223,2.0845484733581543 -2.0845484733581543,-7.779641151428223 7.779641151428223,-2.0845484733581543"
+    />
+    <polygon
+      class="svg-02-g-polygon"
+      points="0.8690537810325623,7.077875137329102 -7.077875137329102,0.8690537810325623 -0.8690537810325623,-7.077875137329102 7.077875137329102,-0.8690537810325623"
+    />
+    <polygon
+      class="svg-02-g-polygon"
+      points="-0.11019042134284973,6.312805652618408 -6.312805652618408,-0.11019042134284973 0.11019042134284973,-6.312805652618408 6.312805652618408,0.11019042134284973"
+    />
+    <polygon
+      class="svg-02-g-polygon"
+      points="-0.8744950890541077,5.5213446617126465 -5.5213446617126465,-0.8744950890541077 0.8744950890541077,-5.5213446617126465 5.5213446617126465,0.8744950890541077"
+    />
+    <polygon
+      class="svg-02-g-polygon"
+      points="-1.4470937252044678,4.733230113983154 -4.733230113983154,-1.4470937252044678 1.4470937252044678,-4.733230113983154 4.733230113983154,1.4470937252044678"
+    />
+    <polygon
+      class="svg-02-g-polygon"
+      points="-1.8520212173461914,3.971672534942627 -3.971672534942627,-1.8520212173461914 1.8520212173461914,-3.971672534942627 3.971672534942627,1.8520212173461914"
+    />
+    <polygon
+      class="svg-02-g-polygon"
+      points="-2.113211154937744,3.2540595531463623 -3.2540595531463623,-2.113211154937744 2.113211154937744,-3.2540595531463623 3.2540595531463623,2.113211154937744"
+    />
+    <polygon
+      class="svg-02-g-polygon"
+      points="-2.2537899017333984,2.592688798904419 -2.592688798904419,-2.2537899017333984 2.2537899017333984,-2.592688798904419 2.592688798904419,2.2537899017333984"
+    />
+    <polygon
+      class="svg-02-g-polygon"
+      points="-2.2955498695373535,1.9954910278320312 -1.9954910278320312,-2.2955498695373535 2.2955498695373535,-1.9954910278320312 1.9954910278320312,2.2955498695373535"
+    />
+    <polygon
+      class="svg-02-g-polygon"
+      points="-2.258575677871704,1.4667361974716187 -1.4667361974716187,-2.258575677871704 2.258575677871704,-1.4667361974716187 1.4667361974716187,2.258575677871704"
+    />
+  </g>
+</svg>

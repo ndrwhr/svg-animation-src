@@ -1,0 +1,973 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE svg>
+<svg
+  data-animation-duration="2.5714285714285716s"
+  viewBox="-50 -50 100 100"
+>
+  <title>
+    ANIMATION 49 - VARIATION E
+  </title>
+  <desc>
+    <p>See this animation in action here: <a href="https://andrew.wang-hoyer.com/experiments/svg-animations/49/e" target="_blank" rel="noopener">https://andrew.wang-hoyer.com/experiments/svg-animations/49/e</a>.</p>
+    <p>Generator source code : <a href="https://github.com/ndrwhr/svg-animation-src/tree/master/site/_svgs/generators/animations/49/e.js" target="_blank" rel="noopener">https://github.com/ndrwhr/svg-animation-src/tree/master/site/_svgs/generators/animations/49/e.js</a>.</p>
+    <p>All generated files and source code are released under the following license:</p>
+    <p>MIT License</p>
+    <p>Copyright (c) 2018-present Andrew Hoyer</p>
+    <p>Permission is hereby granted, free of charge, to any person obtaining a copy of this software and associated documentation files (the &quot;Software&quot;), to deal in the Software without restriction, including without limitation the rights to use, copy, modify, merge, publish, distribute, sublicense, and/or sell copies of the Software, and to permit persons to whom the Software is furnished to do so, subject to the following conditions:</p>
+    <p>The above copyright notice and this permission notice shall be included in all copies or substantial portions of the Software.</p>
+    <p>THE SOFTWARE IS PROVIDED &quot;AS IS&quot;, WITHOUT WARRANTY OF ANY KIND, EXPRESS OR IMPLIED, INCLUDING BUT NOT LIMITED TO THE WARRANTIES OF MERCHANTABILITY, FITNESS FOR A PARTICULAR PURPOSE AND NONINFRINGEMENT. IN NO EVENT SHALL THE AUTHORS OR COPYRIGHT HOLDERS BE LIABLE FOR ANY CLAIM, DAMAGES OR OTHER LIABILITY, WHETHER IN AN ACTION OF CONTRACT, TORT OR OTHERWISE, ARISING FROM, OUT OF OR IN CONNECTION WITH THE SOFTWARE OR THE USE OR OTHER DEALINGS IN THE SOFTWARE.</p>
+  </desc>
+  <style>
+    /* <![CDATA[ */
+      .svg-49-e-line {
+        stroke: black;
+        stroke-width: .15;
+      }
+      
+      .svg-49-e-circle {
+        fill: white;
+        stroke: black;
+        stroke-width: .15;
+      }
+      
+      .svg-49-e-animated-group {
+        animation: svg-49-e-anim 2.5714285714285716s ease-in-out alternate infinite;
+      }
+      
+      .svg-49-e-g:nth-child(even) .svg-49-e-animated-group {
+        animation-direction: alternate-reverse;
+      }
+      
+      @keyframes svg-49-e-anim {
+        from {
+          transform: rotate(45deg);
+        }
+      
+        to {
+          transform: rotate(-45deg);
+        }
+      }
+      
+    /* ]]> */
+  </style>
+  <defs>
+    <g
+      class="svg-49-e-g"
+      id="svg-49-e-main-shape"
+    >
+      <line
+        class="svg-49-e-line"
+        x1="0"
+        x2="0"
+        y1="0"
+        y2="-40"
+      />
+      <circle
+        class="svg-49-e-circle"
+        cx="0"
+        cy="-40"
+        r="2.5"
+      />
+    </g>
+  </defs>
+  <g
+    class="svg-49-e-g"
+    transform="translate(0 -5) scale(0.3)"
+  >
+    <g
+      class="svg-49-e-g svg-49-e-animated-group"
+      style="animation-delay: -0s"
+    >
+      <use
+        class="svg-49-e-use"
+        href="#svg-49-e-main-shape"
+        transform="rotate(90)"
+      />
+    </g>
+  </g>
+  <g
+    class="svg-49-e-g"
+    transform="translate(0 -5) scale(0.3)"
+  >
+    <g
+      class="svg-49-e-g svg-49-e-animated-group"
+      style="animation-delay: -0s"
+    >
+      <use
+        class="svg-49-e-use"
+        href="#svg-49-e-main-shape"
+        transform="rotate(-90)"
+      />
+    </g>
+  </g>
+  <g
+    class="svg-49-e-g"
+    transform="translate(0 -4.655172348022461) scale(0.32413793103448274)"
+  >
+    <g
+      class="svg-49-e-g svg-49-e-animated-group"
+      style="animation-delay: -0.08866995073891626s"
+    >
+      <use
+        class="svg-49-e-use"
+        href="#svg-49-e-main-shape"
+        transform="rotate(90)"
+      />
+    </g>
+  </g>
+  <g
+    class="svg-49-e-g"
+    transform="translate(0 -4.655172348022461) scale(0.32413793103448274)"
+  >
+    <g
+      class="svg-49-e-g svg-49-e-animated-group"
+      style="animation-delay: -0.08866995073891626s"
+    >
+      <use
+        class="svg-49-e-use"
+        href="#svg-49-e-main-shape"
+        transform="rotate(-90)"
+      />
+    </g>
+  </g>
+  <g
+    class="svg-49-e-g"
+    transform="translate(0 -4.310344696044922) scale(0.3482758620689655)"
+  >
+    <g
+      class="svg-49-e-g svg-49-e-animated-group"
+      style="animation-delay: -0.17733990147783252s"
+    >
+      <use
+        class="svg-49-e-use"
+        href="#svg-49-e-main-shape"
+        transform="rotate(90)"
+      />
+    </g>
+  </g>
+  <g
+    class="svg-49-e-g"
+    transform="translate(0 -4.310344696044922) scale(0.3482758620689655)"
+  >
+    <g
+      class="svg-49-e-g svg-49-e-animated-group"
+      style="animation-delay: -0.17733990147783252s"
+    >
+      <use
+        class="svg-49-e-use"
+        href="#svg-49-e-main-shape"
+        transform="rotate(-90)"
+      />
+    </g>
+  </g>
+  <g
+    class="svg-49-e-g"
+    transform="translate(0 -3.965517282485962) scale(0.37241379310344824)"
+  >
+    <g
+      class="svg-49-e-g svg-49-e-animated-group"
+      style="animation-delay: -0.2660098522167488s"
+    >
+      <use
+        class="svg-49-e-use"
+        href="#svg-49-e-main-shape"
+        transform="rotate(90)"
+      />
+    </g>
+  </g>
+  <g
+    class="svg-49-e-g"
+    transform="translate(0 -3.965517282485962) scale(0.37241379310344824)"
+  >
+    <g
+      class="svg-49-e-g svg-49-e-animated-group"
+      style="animation-delay: -0.2660098522167488s"
+    >
+      <use
+        class="svg-49-e-use"
+        href="#svg-49-e-main-shape"
+        transform="rotate(-90)"
+      />
+    </g>
+  </g>
+  <g
+    class="svg-49-e-g"
+    transform="translate(0 -3.620689630508423) scale(0.39655172413793105)"
+  >
+    <g
+      class="svg-49-e-g svg-49-e-animated-group"
+      style="animation-delay: -0.35467980295566504s"
+    >
+      <use
+        class="svg-49-e-use"
+        href="#svg-49-e-main-shape"
+        transform="rotate(90)"
+      />
+    </g>
+  </g>
+  <g
+    class="svg-49-e-g"
+    transform="translate(0 -3.620689630508423) scale(0.39655172413793105)"
+  >
+    <g
+      class="svg-49-e-g svg-49-e-animated-group"
+      style="animation-delay: -0.35467980295566504s"
+    >
+      <use
+        class="svg-49-e-use"
+        href="#svg-49-e-main-shape"
+        transform="rotate(-90)"
+      />
+    </g>
+  </g>
+  <g
+    class="svg-49-e-g"
+    transform="translate(0 -3.275861978530884) scale(0.4206896551724138)"
+  >
+    <g
+      class="svg-49-e-g svg-49-e-animated-group"
+      style="animation-delay: -0.44334975369458135s"
+    >
+      <use
+        class="svg-49-e-use"
+        href="#svg-49-e-main-shape"
+        transform="rotate(90)"
+      />
+    </g>
+  </g>
+  <g
+    class="svg-49-e-g"
+    transform="translate(0 -3.275861978530884) scale(0.4206896551724138)"
+  >
+    <g
+      class="svg-49-e-g svg-49-e-animated-group"
+      style="animation-delay: -0.44334975369458135s"
+    >
+      <use
+        class="svg-49-e-use"
+        href="#svg-49-e-main-shape"
+        transform="rotate(-90)"
+      />
+    </g>
+  </g>
+  <g
+    class="svg-49-e-g"
+    transform="translate(0 -2.931034564971924) scale(0.44482758620689655)"
+  >
+    <g
+      class="svg-49-e-g svg-49-e-animated-group"
+      style="animation-delay: -0.5320197044334976s"
+    >
+      <use
+        class="svg-49-e-use"
+        href="#svg-49-e-main-shape"
+        transform="rotate(90)"
+      />
+    </g>
+  </g>
+  <g
+    class="svg-49-e-g"
+    transform="translate(0 -2.931034564971924) scale(0.44482758620689655)"
+  >
+    <g
+      class="svg-49-e-g svg-49-e-animated-group"
+      style="animation-delay: -0.5320197044334976s"
+    >
+      <use
+        class="svg-49-e-use"
+        href="#svg-49-e-main-shape"
+        transform="rotate(-90)"
+      />
+    </g>
+  </g>
+  <g
+    class="svg-49-e-g"
+    transform="translate(0 -2.5862069129943848) scale(0.4689655172413793)"
+  >
+    <g
+      class="svg-49-e-g svg-49-e-animated-group"
+      style="animation-delay: -0.6206896551724138s"
+    >
+      <use
+        class="svg-49-e-use"
+        href="#svg-49-e-main-shape"
+        transform="rotate(90)"
+      />
+    </g>
+  </g>
+  <g
+    class="svg-49-e-g"
+    transform="translate(0 -2.5862069129943848) scale(0.4689655172413793)"
+  >
+    <g
+      class="svg-49-e-g svg-49-e-animated-group"
+      style="animation-delay: -0.6206896551724138s"
+    >
+      <use
+        class="svg-49-e-use"
+        href="#svg-49-e-main-shape"
+        transform="rotate(-90)"
+      />
+    </g>
+  </g>
+  <g
+    class="svg-49-e-g"
+    transform="translate(0 -2.2413792610168457) scale(0.49310344827586206)"
+  >
+    <g
+      class="svg-49-e-g svg-49-e-animated-group"
+      style="animation-delay: -0.7093596059113301s"
+    >
+      <use
+        class="svg-49-e-use"
+        href="#svg-49-e-main-shape"
+        transform="rotate(90)"
+      />
+    </g>
+  </g>
+  <g
+    class="svg-49-e-g"
+    transform="translate(0 -2.2413792610168457) scale(0.49310344827586206)"
+  >
+    <g
+      class="svg-49-e-g svg-49-e-animated-group"
+      style="animation-delay: -0.7093596059113301s"
+    >
+      <use
+        class="svg-49-e-use"
+        href="#svg-49-e-main-shape"
+        transform="rotate(-90)"
+      />
+    </g>
+  </g>
+  <g
+    class="svg-49-e-g"
+    transform="translate(0 -1.8965517282485962) scale(0.5172413793103448)"
+  >
+    <g
+      class="svg-49-e-g svg-49-e-animated-group"
+      style="animation-delay: -0.7980295566502464s"
+    >
+      <use
+        class="svg-49-e-use"
+        href="#svg-49-e-main-shape"
+        transform="rotate(90)"
+      />
+    </g>
+  </g>
+  <g
+    class="svg-49-e-g"
+    transform="translate(0 -1.8965517282485962) scale(0.5172413793103448)"
+  >
+    <g
+      class="svg-49-e-g svg-49-e-animated-group"
+      style="animation-delay: -0.7980295566502464s"
+    >
+      <use
+        class="svg-49-e-use"
+        href="#svg-49-e-main-shape"
+        transform="rotate(-90)"
+      />
+    </g>
+  </g>
+  <g
+    class="svg-49-e-g"
+    transform="translate(0 -1.5517241954803467) scale(0.5413793103448276)"
+  >
+    <g
+      class="svg-49-e-g svg-49-e-animated-group"
+      style="animation-delay: -0.8866995073891627s"
+    >
+      <use
+        class="svg-49-e-use"
+        href="#svg-49-e-main-shape"
+        transform="rotate(90)"
+      />
+    </g>
+  </g>
+  <g
+    class="svg-49-e-g"
+    transform="translate(0 -1.5517241954803467) scale(0.5413793103448276)"
+  >
+    <g
+      class="svg-49-e-g svg-49-e-animated-group"
+      style="animation-delay: -0.8866995073891627s"
+    >
+      <use
+        class="svg-49-e-use"
+        href="#svg-49-e-main-shape"
+        transform="rotate(-90)"
+      />
+    </g>
+  </g>
+  <g
+    class="svg-49-e-g"
+    transform="translate(0 -1.2068965435028076) scale(0.5655172413793104)"
+  >
+    <g
+      class="svg-49-e-g svg-49-e-animated-group"
+      style="animation-delay: -0.9753694581280788s"
+    >
+      <use
+        class="svg-49-e-use"
+        href="#svg-49-e-main-shape"
+        transform="rotate(90)"
+      />
+    </g>
+  </g>
+  <g
+    class="svg-49-e-g"
+    transform="translate(0 -1.2068965435028076) scale(0.5655172413793104)"
+  >
+    <g
+      class="svg-49-e-g svg-49-e-animated-group"
+      style="animation-delay: -0.9753694581280788s"
+    >
+      <use
+        class="svg-49-e-use"
+        href="#svg-49-e-main-shape"
+        transform="rotate(-90)"
+      />
+    </g>
+  </g>
+  <g
+    class="svg-49-e-g"
+    transform="translate(0 -0.8620689511299133) scale(0.5896551724137931)"
+  >
+    <g
+      class="svg-49-e-g svg-49-e-animated-group"
+      style="animation-delay: -1.064039408866995s"
+    >
+      <use
+        class="svg-49-e-use"
+        href="#svg-49-e-main-shape"
+        transform="rotate(90)"
+      />
+    </g>
+  </g>
+  <g
+    class="svg-49-e-g"
+    transform="translate(0 -0.8620689511299133) scale(0.5896551724137931)"
+  >
+    <g
+      class="svg-49-e-g svg-49-e-animated-group"
+      style="animation-delay: -1.064039408866995s"
+    >
+      <use
+        class="svg-49-e-use"
+        href="#svg-49-e-main-shape"
+        transform="rotate(-90)"
+      />
+    </g>
+  </g>
+  <g
+    class="svg-49-e-g"
+    transform="translate(0 -0.517241358757019) scale(0.6137931034482758)"
+  >
+    <g
+      class="svg-49-e-g svg-49-e-animated-group"
+      style="animation-delay: -1.1527093596059115s"
+    >
+      <use
+        class="svg-49-e-use"
+        href="#svg-49-e-main-shape"
+        transform="rotate(90)"
+      />
+    </g>
+  </g>
+  <g
+    class="svg-49-e-g"
+    transform="translate(0 -0.517241358757019) scale(0.6137931034482758)"
+  >
+    <g
+      class="svg-49-e-g svg-49-e-animated-group"
+      style="animation-delay: -1.1527093596059115s"
+    >
+      <use
+        class="svg-49-e-use"
+        href="#svg-49-e-main-shape"
+        transform="rotate(-90)"
+      />
+    </g>
+  </g>
+  <g
+    class="svg-49-e-g"
+    transform="translate(0 -0.17241379618644714) scale(0.6379310344827587)"
+  >
+    <g
+      class="svg-49-e-g svg-49-e-animated-group"
+      style="animation-delay: -1.2413793103448276s"
+    >
+      <use
+        class="svg-49-e-use"
+        href="#svg-49-e-main-shape"
+        transform="rotate(90)"
+      />
+    </g>
+  </g>
+  <g
+    class="svg-49-e-g"
+    transform="translate(0 -0.17241379618644714) scale(0.6379310344827587)"
+  >
+    <g
+      class="svg-49-e-g svg-49-e-animated-group"
+      style="animation-delay: -1.2413793103448276s"
+    >
+      <use
+        class="svg-49-e-use"
+        href="#svg-49-e-main-shape"
+        transform="rotate(-90)"
+      />
+    </g>
+  </g>
+  <g
+    class="svg-49-e-g"
+    transform="translate(0 0.17241379618644714) scale(0.6620689655172414)"
+  >
+    <g
+      class="svg-49-e-g svg-49-e-animated-group"
+      style="animation-delay: -1.330049261083744s"
+    >
+      <use
+        class="svg-49-e-use"
+        href="#svg-49-e-main-shape"
+        transform="rotate(90)"
+      />
+    </g>
+  </g>
+  <g
+    class="svg-49-e-g"
+    transform="translate(0 0.17241379618644714) scale(0.6620689655172414)"
+  >
+    <g
+      class="svg-49-e-g svg-49-e-animated-group"
+      style="animation-delay: -1.330049261083744s"
+    >
+      <use
+        class="svg-49-e-use"
+        href="#svg-49-e-main-shape"
+        transform="rotate(-90)"
+      />
+    </g>
+  </g>
+  <g
+    class="svg-49-e-g"
+    transform="translate(0 0.517241358757019) scale(0.6862068965517241)"
+  >
+    <g
+      class="svg-49-e-g svg-49-e-animated-group"
+      style="animation-delay: -1.4187192118226601s"
+    >
+      <use
+        class="svg-49-e-use"
+        href="#svg-49-e-main-shape"
+        transform="rotate(90)"
+      />
+    </g>
+  </g>
+  <g
+    class="svg-49-e-g"
+    transform="translate(0 0.517241358757019) scale(0.6862068965517241)"
+  >
+    <g
+      class="svg-49-e-g svg-49-e-animated-group"
+      style="animation-delay: -1.4187192118226601s"
+    >
+      <use
+        class="svg-49-e-use"
+        href="#svg-49-e-main-shape"
+        transform="rotate(-90)"
+      />
+    </g>
+  </g>
+  <g
+    class="svg-49-e-g"
+    transform="translate(0 0.8620689511299133) scale(0.7103448275862068)"
+  >
+    <g
+      class="svg-49-e-g svg-49-e-animated-group"
+      style="animation-delay: -1.5073891625615763s"
+    >
+      <use
+        class="svg-49-e-use"
+        href="#svg-49-e-main-shape"
+        transform="rotate(90)"
+      />
+    </g>
+  </g>
+  <g
+    class="svg-49-e-g"
+    transform="translate(0 0.8620689511299133) scale(0.7103448275862068)"
+  >
+    <g
+      class="svg-49-e-g svg-49-e-animated-group"
+      style="animation-delay: -1.5073891625615763s"
+    >
+      <use
+        class="svg-49-e-use"
+        href="#svg-49-e-main-shape"
+        transform="rotate(-90)"
+      />
+    </g>
+  </g>
+  <g
+    class="svg-49-e-g"
+    transform="translate(0 1.2068965435028076) scale(0.7344827586206897)"
+  >
+    <g
+      class="svg-49-e-g svg-49-e-animated-group"
+      style="animation-delay: -1.5960591133004929s"
+    >
+      <use
+        class="svg-49-e-use"
+        href="#svg-49-e-main-shape"
+        transform="rotate(90)"
+      />
+    </g>
+  </g>
+  <g
+    class="svg-49-e-g"
+    transform="translate(0 1.2068965435028076) scale(0.7344827586206897)"
+  >
+    <g
+      class="svg-49-e-g svg-49-e-animated-group"
+      style="animation-delay: -1.5960591133004929s"
+    >
+      <use
+        class="svg-49-e-use"
+        href="#svg-49-e-main-shape"
+        transform="rotate(-90)"
+      />
+    </g>
+  </g>
+  <g
+    class="svg-49-e-g"
+    transform="translate(0 1.5517241954803467) scale(0.7586206896551724)"
+  >
+    <g
+      class="svg-49-e-g svg-49-e-animated-group"
+      style="animation-delay: -1.684729064039409s"
+    >
+      <use
+        class="svg-49-e-use"
+        href="#svg-49-e-main-shape"
+        transform="rotate(90)"
+      />
+    </g>
+  </g>
+  <g
+    class="svg-49-e-g"
+    transform="translate(0 1.5517241954803467) scale(0.7586206896551724)"
+  >
+    <g
+      class="svg-49-e-g svg-49-e-animated-group"
+      style="animation-delay: -1.684729064039409s"
+    >
+      <use
+        class="svg-49-e-use"
+        href="#svg-49-e-main-shape"
+        transform="rotate(-90)"
+      />
+    </g>
+  </g>
+  <g
+    class="svg-49-e-g"
+    transform="translate(0 1.8965517282485962) scale(0.7827586206896552)"
+  >
+    <g
+      class="svg-49-e-g svg-49-e-animated-group"
+      style="animation-delay: -1.7733990147783254s"
+    >
+      <use
+        class="svg-49-e-use"
+        href="#svg-49-e-main-shape"
+        transform="rotate(90)"
+      />
+    </g>
+  </g>
+  <g
+    class="svg-49-e-g"
+    transform="translate(0 1.8965517282485962) scale(0.7827586206896552)"
+  >
+    <g
+      class="svg-49-e-g svg-49-e-animated-group"
+      style="animation-delay: -1.7733990147783254s"
+    >
+      <use
+        class="svg-49-e-use"
+        href="#svg-49-e-main-shape"
+        transform="rotate(-90)"
+      />
+    </g>
+  </g>
+  <g
+    class="svg-49-e-g"
+    transform="translate(0 2.2413792610168457) scale(0.806896551724138)"
+  >
+    <g
+      class="svg-49-e-g svg-49-e-animated-group"
+      style="animation-delay: -1.8620689655172415s"
+    >
+      <use
+        class="svg-49-e-use"
+        href="#svg-49-e-main-shape"
+        transform="rotate(90)"
+      />
+    </g>
+  </g>
+  <g
+    class="svg-49-e-g"
+    transform="translate(0 2.2413792610168457) scale(0.806896551724138)"
+  >
+    <g
+      class="svg-49-e-g svg-49-e-animated-group"
+      style="animation-delay: -1.8620689655172415s"
+    >
+      <use
+        class="svg-49-e-use"
+        href="#svg-49-e-main-shape"
+        transform="rotate(-90)"
+      />
+    </g>
+  </g>
+  <g
+    class="svg-49-e-g"
+    transform="translate(0 2.5862069129943848) scale(0.8310344827586207)"
+  >
+    <g
+      class="svg-49-e-g svg-49-e-animated-group"
+      style="animation-delay: -1.9507389162561577s"
+    >
+      <use
+        class="svg-49-e-use"
+        href="#svg-49-e-main-shape"
+        transform="rotate(90)"
+      />
+    </g>
+  </g>
+  <g
+    class="svg-49-e-g"
+    transform="translate(0 2.5862069129943848) scale(0.8310344827586207)"
+  >
+    <g
+      class="svg-49-e-g svg-49-e-animated-group"
+      style="animation-delay: -1.9507389162561577s"
+    >
+      <use
+        class="svg-49-e-use"
+        href="#svg-49-e-main-shape"
+        transform="rotate(-90)"
+      />
+    </g>
+  </g>
+  <g
+    class="svg-49-e-g"
+    transform="translate(0 2.931034564971924) scale(0.8551724137931034)"
+  >
+    <g
+      class="svg-49-e-g svg-49-e-animated-group"
+      style="animation-delay: -2.0394088669950743s"
+    >
+      <use
+        class="svg-49-e-use"
+        href="#svg-49-e-main-shape"
+        transform="rotate(90)"
+      />
+    </g>
+  </g>
+  <g
+    class="svg-49-e-g"
+    transform="translate(0 2.931034564971924) scale(0.8551724137931034)"
+  >
+    <g
+      class="svg-49-e-g svg-49-e-animated-group"
+      style="animation-delay: -2.0394088669950743s"
+    >
+      <use
+        class="svg-49-e-use"
+        href="#svg-49-e-main-shape"
+        transform="rotate(-90)"
+      />
+    </g>
+  </g>
+  <g
+    class="svg-49-e-g"
+    transform="translate(0 3.275861978530884) scale(0.8793103448275861)"
+  >
+    <g
+      class="svg-49-e-g svg-49-e-animated-group"
+      style="animation-delay: -2.12807881773399s"
+    >
+      <use
+        class="svg-49-e-use"
+        href="#svg-49-e-main-shape"
+        transform="rotate(90)"
+      />
+    </g>
+  </g>
+  <g
+    class="svg-49-e-g"
+    transform="translate(0 3.275861978530884) scale(0.8793103448275861)"
+  >
+    <g
+      class="svg-49-e-g svg-49-e-animated-group"
+      style="animation-delay: -2.12807881773399s"
+    >
+      <use
+        class="svg-49-e-use"
+        href="#svg-49-e-main-shape"
+        transform="rotate(-90)"
+      />
+    </g>
+  </g>
+  <g
+    class="svg-49-e-g"
+    transform="translate(0 3.620689630508423) scale(0.9034482758620688)"
+  >
+    <g
+      class="svg-49-e-g svg-49-e-animated-group"
+      style="animation-delay: -2.2167487684729066s"
+    >
+      <use
+        class="svg-49-e-use"
+        href="#svg-49-e-main-shape"
+        transform="rotate(90)"
+      />
+    </g>
+  </g>
+  <g
+    class="svg-49-e-g"
+    transform="translate(0 3.620689630508423) scale(0.9034482758620688)"
+  >
+    <g
+      class="svg-49-e-g svg-49-e-animated-group"
+      style="animation-delay: -2.2167487684729066s"
+    >
+      <use
+        class="svg-49-e-use"
+        href="#svg-49-e-main-shape"
+        transform="rotate(-90)"
+      />
+    </g>
+  </g>
+  <g
+    class="svg-49-e-g"
+    transform="translate(0 3.965517282485962) scale(0.9275862068965517)"
+  >
+    <g
+      class="svg-49-e-g svg-49-e-animated-group"
+      style="animation-delay: -2.305418719211823s"
+    >
+      <use
+        class="svg-49-e-use"
+        href="#svg-49-e-main-shape"
+        transform="rotate(90)"
+      />
+    </g>
+  </g>
+  <g
+    class="svg-49-e-g"
+    transform="translate(0 3.965517282485962) scale(0.9275862068965517)"
+  >
+    <g
+      class="svg-49-e-g svg-49-e-animated-group"
+      style="animation-delay: -2.305418719211823s"
+    >
+      <use
+        class="svg-49-e-use"
+        href="#svg-49-e-main-shape"
+        transform="rotate(-90)"
+      />
+    </g>
+  </g>
+  <g
+    class="svg-49-e-g"
+    transform="translate(0 4.310344696044922) scale(0.9517241379310344)"
+  >
+    <g
+      class="svg-49-e-g svg-49-e-animated-group"
+      style="animation-delay: -2.394088669950739s"
+    >
+      <use
+        class="svg-49-e-use"
+        href="#svg-49-e-main-shape"
+        transform="rotate(90)"
+      />
+    </g>
+  </g>
+  <g
+    class="svg-49-e-g"
+    transform="translate(0 4.310344696044922) scale(0.9517241379310344)"
+  >
+    <g
+      class="svg-49-e-g svg-49-e-animated-group"
+      style="animation-delay: -2.394088669950739s"
+    >
+      <use
+        class="svg-49-e-use"
+        href="#svg-49-e-main-shape"
+        transform="rotate(-90)"
+      />
+    </g>
+  </g>
+  <g
+    class="svg-49-e-g"
+    transform="translate(0 4.655172348022461) scale(0.9758620689655173)"
+  >
+    <g
+      class="svg-49-e-g svg-49-e-animated-group"
+      style="animation-delay: -2.4827586206896552s"
+    >
+      <use
+        class="svg-49-e-use"
+        href="#svg-49-e-main-shape"
+        transform="rotate(90)"
+      />
+    </g>
+  </g>
+  <g
+    class="svg-49-e-g"
+    transform="translate(0 4.655172348022461) scale(0.9758620689655173)"
+  >
+    <g
+      class="svg-49-e-g svg-49-e-animated-group"
+      style="animation-delay: -2.4827586206896552s"
+    >
+      <use
+        class="svg-49-e-use"
+        href="#svg-49-e-main-shape"
+        transform="rotate(-90)"
+      />
+    </g>
+  </g>
+  <g
+    class="svg-49-e-g"
+    transform="translate(0 5) scale(1)"
+  >
+    <g
+      class="svg-49-e-g svg-49-e-animated-group"
+      style="animation-delay: -2.5714285714285716s"
+    >
+      <use
+        class="svg-49-e-use"
+        href="#svg-49-e-main-shape"
+        transform="rotate(90)"
+      />
+    </g>
+  </g>
+  <g
+    class="svg-49-e-g"
+    transform="translate(0 5) scale(1)"
+  >
+    <g
+      class="svg-49-e-g svg-49-e-animated-group"
+      style="animation-delay: -2.5714285714285716s"
+    >
+      <use
+        class="svg-49-e-use"
+        href="#svg-49-e-main-shape"
+        transform="rotate(-90)"
+      />
+    </g>
+  </g>
+</svg>

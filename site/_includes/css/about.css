@@ -1,0 +1,53 @@
+.about {
+  padding-top: 10vw;
+}
+
+.about__example {
+  display: grid;
+  align-items: stretch;
+  grid-template-columns: 1fr 1fr;
+  border: 1px solid black;
+  margin-bottom: 3rem;
+}
+
+.about__example pre {
+  overflow: auto;
+  border-right: 1px solid black;
+  font-size: 1.5rem;
+  padding: 2rem;
+}
+
+@media screen and (max-width: 900px) {
+  .about__example {
+    grid-template-columns: 1fr;
+  }
+
+  .about__example pre {
+    border-right: none;
+    border-bottom: 1px solid black;
+  }
+}
+
+.about h2,
+.about h3 {
+  text-transform: uppercase;
+  margin-bottom: 3rem;
+}
+
+.about p {
+  margin-bottom: 3rem;
+  line-height: 1.75;
+}
+
+.about ul {
+  margin: 0 0 3rem 3rem;
+}
+
+.about ol {
+  margin-left: 6rem;
+}
+
+.about li {
+  line-height: 1.75;
+  margin-bottom: 0.5em;
+}

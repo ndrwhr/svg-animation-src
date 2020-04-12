@@ -1,0 +1,134 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE svg>
+<svg
+  data-animation-duration="1s"
+  viewBox="-50 -50 100 100"
+>
+  <title>
+    ANIMATION 09 - VARIATION A
+  </title>
+  <desc>
+    <p>See this animation in action here: <a href="https://andrew.wang-hoyer.com/experiments/svg-animations/09/a" target="_blank" rel="noopener">https://andrew.wang-hoyer.com/experiments/svg-animations/09/a</a>.</p>
+    <p>Generator source code : <a href="https://github.com/ndrwhr/svg-animation-src/tree/master/site/_svgs/generators/animations/09/a.js" target="_blank" rel="noopener">https://github.com/ndrwhr/svg-animation-src/tree/master/site/_svgs/generators/animations/09/a.js</a>.</p>
+    <p>All generated files and source code are released under the following license:</p>
+    <p>MIT License</p>
+    <p>Copyright (c) 2018-present Andrew Hoyer</p>
+    <p>Permission is hereby granted, free of charge, to any person obtaining a copy of this software and associated documentation files (the &quot;Software&quot;), to deal in the Software without restriction, including without limitation the rights to use, copy, modify, merge, publish, distribute, sublicense, and/or sell copies of the Software, and to permit persons to whom the Software is furnished to do so, subject to the following conditions:</p>
+    <p>The above copyright notice and this permission notice shall be included in all copies or substantial portions of the Software.</p>
+    <p>THE SOFTWARE IS PROVIDED &quot;AS IS&quot;, WITHOUT WARRANTY OF ANY KIND, EXPRESS OR IMPLIED, INCLUDING BUT NOT LIMITED TO THE WARRANTIES OF MERCHANTABILITY, FITNESS FOR A PARTICULAR PURPOSE AND NONINFRINGEMENT. IN NO EVENT SHALL THE AUTHORS OR COPYRIGHT HOLDERS BE LIABLE FOR ANY CLAIM, DAMAGES OR OTHER LIABILITY, WHETHER IN AN ACTION OF CONTRACT, TORT OR OTHERWISE, ARISING FROM, OUT OF OR IN CONNECTION WITH THE SOFTWARE OR THE USE OR OTHER DEALINGS IN THE SOFTWARE.</p>
+  </desc>
+  <style>
+    /* <![CDATA[ */
+      .svg-09-a-rect {
+        stroke: black;
+        stroke-width: 1;
+        fill: none;
+      }
+      
+      .svg-09-a-rect-group {
+        animation: svg-09-a-rect-group-anim 1s ease-in-out alternate infinite;
+      }
+      
+      @keyframes svg-09-a-rect-group-anim {
+        from {
+          transform: translate(0, 5%);
+        }
+      
+        to {
+          transform: translate(0, -5%);
+        }
+      }
+      
+    /* ]]> */
+  </style>
+  <g
+    class="svg-09-a-g"
+    transform="translate(-17.5, 0)"
+  >
+    <g
+      class="svg-09-a-g"
+      transform="translate(0, 0)"
+    >
+      <g
+        class="svg-09-a-g svg-09-a-rect-group"
+        style="animation-delay: -0.8s"
+      >
+        <rect
+          class="svg-09-a-rect"
+          height="22.652"
+          width="7"
+          x="-3.5"
+          y="-11.326"
+        />
+      </g>
+    </g>
+    <g
+      class="svg-09-a-g"
+      transform="translate(7, 0)"
+    >
+      <g
+        class="svg-09-a-g svg-09-a-rect-group"
+        style="animation-delay: -0.6000000000000001s"
+      >
+        <rect
+          class="svg-09-a-rect"
+          height="22.652"
+          width="7"
+          x="-3.5"
+          y="-11.326"
+        />
+      </g>
+    </g>
+    <g
+      class="svg-09-a-g"
+      transform="translate(14, 0)"
+    >
+      <g
+        class="svg-09-a-g svg-09-a-rect-group"
+        style="animation-delay: -0.4s"
+      >
+        <rect
+          class="svg-09-a-rect"
+          height="22.652"
+          width="7"
+          x="-3.5"
+          y="-11.326"
+        />
+      </g>
+    </g>
+    <g
+      class="svg-09-a-g"
+      transform="translate(21, 0)"
+    >
+      <g
+        class="svg-09-a-g svg-09-a-rect-group"
+        style="animation-delay: -0.2s"
+      >
+        <rect
+          class="svg-09-a-rect"
+          height="22.652"
+          width="7"
+          x="-3.5"
+          y="-11.326"
+        />
+      </g>
+    </g>
+    <g
+      class="svg-09-a-g"
+      transform="translate(28, 0)"
+    >
+      <g
+        class="svg-09-a-g svg-09-a-rect-group"
+        style="animation-delay: -0s"
+      >
+        <rect
+          class="svg-09-a-rect"
+          height="22.652"
+          width="7"
+          x="-3.5"
+          y="-11.326"
+        />
+      </g>
+    </g>
+  </g>
+</svg>

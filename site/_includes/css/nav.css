@@ -1,0 +1,17 @@
+.nav {
+  display: flex;
+  justify-content: center;
+  align-items: center;
+  padding: 3rem 3rem 0;
+}
+
+.nav ol {
+  list-style: none;
+  display: flex;
+  justify-content: center;
+  align-items: center;
+}
+
+.nav ol li:not(:last-child) {
+  margin-right: 2rem;
+}

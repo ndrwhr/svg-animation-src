@@ -1,0 +1,112 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE svg>
+<svg
+  data-animation-duration="10s"
+  viewBox="-50 -50 100 100"
+>
+  <title>
+    ANIMATION 12 - VARIATION A
+  </title>
+  <desc>
+    <p>See this animation in action here: <a href="https://andrew.wang-hoyer.com/experiments/svg-animations/12/a" target="_blank" rel="noopener">https://andrew.wang-hoyer.com/experiments/svg-animations/12/a</a>.</p>
+    <p>Generator source code : <a href="https://github.com/ndrwhr/svg-animation-src/tree/master/site/_svgs/generators/animations/12/a.js" target="_blank" rel="noopener">https://github.com/ndrwhr/svg-animation-src/tree/master/site/_svgs/generators/animations/12/a.js</a>.</p>
+    <p>All generated files and source code are released under the following license:</p>
+    <p>MIT License</p>
+    <p>Copyright (c) 2018-present Andrew Hoyer</p>
+    <p>Permission is hereby granted, free of charge, to any person obtaining a copy of this software and associated documentation files (the &quot;Software&quot;), to deal in the Software without restriction, including without limitation the rights to use, copy, modify, merge, publish, distribute, sublicense, and/or sell copies of the Software, and to permit persons to whom the Software is furnished to do so, subject to the following conditions:</p>
+    <p>The above copyright notice and this permission notice shall be included in all copies or substantial portions of the Software.</p>
+    <p>THE SOFTWARE IS PROVIDED &quot;AS IS&quot;, WITHOUT WARRANTY OF ANY KIND, EXPRESS OR IMPLIED, INCLUDING BUT NOT LIMITED TO THE WARRANTIES OF MERCHANTABILITY, FITNESS FOR A PARTICULAR PURPOSE AND NONINFRINGEMENT. IN NO EVENT SHALL THE AUTHORS OR COPYRIGHT HOLDERS BE LIABLE FOR ANY CLAIM, DAMAGES OR OTHER LIABILITY, WHETHER IN AN ACTION OF CONTRACT, TORT OR OTHERWISE, ARISING FROM, OUT OF OR IN CONNECTION WITH THE SOFTWARE OR THE USE OR OTHER DEALINGS IN THE SOFTWARE.</p>
+  </desc>
+  <defs>
+    <clipPath
+      id="svg-12-a-mask"
+    >
+      <polygon
+        class="svg-12-a-polygon"
+        points="0,-30 21.21320343017578,-21.21320343017578 30,-1.8369703053475314e-15 21.21320343017578,21.21320343017578 3.673940610695063e-15,30 -21.21320343017578,21.21320343017578 -30,5.510910280767884e-15 -21.21320343017578,-21.21320343017578"
+      />
+    </clipPath>
+  </defs>
+  <style>
+    /* <![CDATA[ */
+      .svg-12-a-polygon {
+        fill: none;
+        stroke: black;
+        stroke-width: 2;
+      }
+      
+      .svg-12-a-inner-polygon {
+        stroke-width: 2;
+        animation: svg-12-a-moving-poly-anim 10s linear infinite;
+      }
+      
+      @keyframes svg-12-a-moving-poly-anim {
+        0% {
+          transform: translate(0%, -15%);
+        }
+      
+        12.5% {
+          transform: translate(10.60660171508789%, -10.60660171508789%);
+        }
+      
+        25% {
+          transform: translate(15%, -9.184851526737656e-16%);
+        }
+      
+        37.5% {
+          transform: translate(10.60660171508789%, 10.60660171508789%);
+        }
+      
+        50% {
+          transform: translate(1.8369703053475315e-15%, 15%);
+        }
+      
+        62.5% {
+          transform: translate(-10.60660171508789%, 10.60660171508789%);
+        }
+      
+        75% {
+          transform: translate(-15%, 2.755455140383942e-15%);
+        }
+      
+        87.5% {
+          transform: translate(-10.60660171508789%, -10.60660171508789%);
+        }
+      
+        100% {
+          transform: translate(0%, -15%);
+        }
+      }
+      
+    /* ]]> */
+  </style>
+  <g
+    class="svg-12-a-g"
+    clip-path="url(#svg-12-a-mask)"
+  >
+    <polygon
+      class="svg-12-a-polygon svg-12-a-inner-polygon"
+      points="0,-30 21.21320343017578,-21.21320343017578 30,-1.8369703053475314e-15 21.21320343017578,21.21320343017578 3.673940610695063e-15,30 -21.21320343017578,21.21320343017578 -30,5.510910280767884e-15 -21.21320343017578,-21.21320343017578"
+      style="animation-delay: -0s"
+    />
+    <polygon
+      class="svg-12-a-polygon svg-12-a-inner-polygon"
+      points="0,-30 21.21320343017578,-21.21320343017578 30,-1.8369703053475314e-15 21.21320343017578,21.21320343017578 3.673940610695063e-15,30 -21.21320343017578,21.21320343017578 -30,5.510910280767884e-15 -21.21320343017578,-21.21320343017578"
+      style="animation-delay: -2.5s"
+    />
+    <polygon
+      class="svg-12-a-polygon svg-12-a-inner-polygon"
+      points="0,-30 21.21320343017578,-21.21320343017578 30,-1.8369703053475314e-15 21.21320343017578,21.21320343017578 3.673940610695063e-15,30 -21.21320343017578,21.21320343017578 -30,5.510910280767884e-15 -21.21320343017578,-21.21320343017578"
+      style="animation-delay: -5s"
+    />
+    <polygon
+      class="svg-12-a-polygon svg-12-a-inner-polygon"
+      points="0,-30 21.21320343017578,-21.21320343017578 30,-1.8369703053475314e-15 21.21320343017578,21.21320343017578 3.673940610695063e-15,30 -21.21320343017578,21.21320343017578 -30,5.510910280767884e-15 -21.21320343017578,-21.21320343017578"
+      style="animation-delay: -7.5s"
+    />
+  </g>
+  <polygon
+    class="svg-12-a-polygon svg-12-a-outer-polygon"
+    points="0,-30 21.21320343017578,-21.21320343017578 30,-1.8369703053475314e-15 21.21320343017578,21.21320343017578 3.673940610695063e-15,30 -21.21320343017578,21.21320343017578 -30,5.510910280767884e-15 -21.21320343017578,-21.21320343017578"
+  />
+</svg>

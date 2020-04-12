@@ -1,0 +1,233 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE svg>
+<svg
+  data-animation-duration="3s"
+  viewBox="-50 -50 100 100"
+>
+  <title>
+    ANIMATION 29 - VARIATION A
+  </title>
+  <desc>
+    <p>See this animation in action here: <a href="https://andrew.wang-hoyer.com/experiments/svg-animations/29/a" target="_blank" rel="noopener">https://andrew.wang-hoyer.com/experiments/svg-animations/29/a</a>.</p>
+    <p>Generator source code : <a href="https://github.com/ndrwhr/svg-animation-src/tree/master/site/_svgs/generators/animations/29/a.js" target="_blank" rel="noopener">https://github.com/ndrwhr/svg-animation-src/tree/master/site/_svgs/generators/animations/29/a.js</a>.</p>
+    <p>All generated files and source code are released under the following license:</p>
+    <p>MIT License</p>
+    <p>Copyright (c) 2018-present Andrew Hoyer</p>
+    <p>Permission is hereby granted, free of charge, to any person obtaining a copy of this software and associated documentation files (the &quot;Software&quot;), to deal in the Software without restriction, including without limitation the rights to use, copy, modify, merge, publish, distribute, sublicense, and/or sell copies of the Software, and to permit persons to whom the Software is furnished to do so, subject to the following conditions:</p>
+    <p>The above copyright notice and this permission notice shall be included in all copies or substantial portions of the Software.</p>
+    <p>THE SOFTWARE IS PROVIDED &quot;AS IS&quot;, WITHOUT WARRANTY OF ANY KIND, EXPRESS OR IMPLIED, INCLUDING BUT NOT LIMITED TO THE WARRANTIES OF MERCHANTABILITY, FITNESS FOR A PARTICULAR PURPOSE AND NONINFRINGEMENT. IN NO EVENT SHALL THE AUTHORS OR COPYRIGHT HOLDERS BE LIABLE FOR ANY CLAIM, DAMAGES OR OTHER LIABILITY, WHETHER IN AN ACTION OF CONTRACT, TORT OR OTHERWISE, ARISING FROM, OUT OF OR IN CONNECTION WITH THE SOFTWARE OR THE USE OR OTHER DEALINGS IN THE SOFTWARE.</p>
+  </desc>
+  <style>
+    /* <![CDATA[ */
+      .svg-29-a-rect {
+        stroke: white;
+        stroke-width: .3;
+        fill: black;
+        animation: svg-29-a-main-anim 3s ease-in-out alternate infinite;
+      }
+      
+      @keyframes svg-29-a-main-anim {
+        from {
+          transform: scale(.05, 1);
+        }
+      
+        to {
+          transform: scale(1, 1);
+        }
+      }
+      
+    /* ]]> */
+  </style>
+  <defs>
+    <g
+      class="svg-29-a-g"
+      id="svg-29-a-main-shape"
+    >
+      <rect
+        class="svg-29-a-rect"
+        height="1.5"
+        style="animation-delay: -0s"
+        width="30"
+        x="0"
+        y="0"
+      />
+      <rect
+        class="svg-29-a-rect"
+        height="1.5"
+        style="animation-delay: -0.225s"
+        width="30"
+        x="0"
+        y="1.5"
+      />
+      <rect
+        class="svg-29-a-rect"
+        height="1.5"
+        style="animation-delay: -0.45s"
+        width="30"
+        x="0"
+        y="3"
+      />
+      <rect
+        class="svg-29-a-rect"
+        height="1.5"
+        style="animation-delay: -0.675s"
+        width="30"
+        x="0"
+        y="4.5"
+      />
+      <rect
+        class="svg-29-a-rect"
+        height="1.5"
+        style="animation-delay: -0.9s"
+        width="30"
+        x="0"
+        y="6"
+      />
+      <rect
+        class="svg-29-a-rect"
+        height="1.5"
+        style="animation-delay: -1.125s"
+        width="30"
+        x="0"
+        y="7.5"
+      />
+      <rect
+        class="svg-29-a-rect"
+        height="1.5"
+        style="animation-delay: -1.35s"
+        width="30"
+        x="0"
+        y="9"
+      />
+      <rect
+        class="svg-29-a-rect"
+        height="1.5"
+        style="animation-delay: -1.575s"
+        width="30"
+        x="0"
+        y="10.5"
+      />
+      <rect
+        class="svg-29-a-rect"
+        height="1.5"
+        style="animation-delay: -1.8s"
+        width="30"
+        x="0"
+        y="12"
+      />
+      <rect
+        class="svg-29-a-rect"
+        height="1.5"
+        style="animation-delay: -2.025s"
+        width="30"
+        x="0"
+        y="13.5"
+      />
+      <rect
+        class="svg-29-a-rect"
+        height="1.5"
+        style="animation-delay: -2.25s"
+        width="30"
+        x="0"
+        y="15"
+      />
+      <rect
+        class="svg-29-a-rect"
+        height="1.5"
+        style="animation-delay: -2.475s"
+        width="30"
+        x="0"
+        y="16.5"
+      />
+      <rect
+        class="svg-29-a-rect"
+        height="1.5"
+        style="animation-delay: -2.7s"
+        width="30"
+        x="0"
+        y="18"
+      />
+      <rect
+        class="svg-29-a-rect"
+        height="1.5"
+        style="animation-delay: -2.925s"
+        width="30"
+        x="0"
+        y="19.5"
+      />
+      <rect
+        class="svg-29-a-rect"
+        height="1.5"
+        style="animation-delay: -3.15s"
+        width="30"
+        x="0"
+        y="21"
+      />
+      <rect
+        class="svg-29-a-rect"
+        height="1.5"
+        style="animation-delay: -3.375s"
+        width="30"
+        x="0"
+        y="22.5"
+      />
+      <rect
+        class="svg-29-a-rect"
+        height="1.5"
+        style="animation-delay: -3.6s"
+        width="30"
+        x="0"
+        y="24"
+      />
+      <rect
+        class="svg-29-a-rect"
+        height="1.5"
+        style="animation-delay: -3.825s"
+        width="30"
+        x="0"
+        y="25.5"
+      />
+      <rect
+        class="svg-29-a-rect"
+        height="1.5"
+        style="animation-delay: -4.05s"
+        width="30"
+        x="0"
+        y="27"
+      />
+      <rect
+        class="svg-29-a-rect"
+        height="1.5"
+        style="animation-delay: -4.275s"
+        width="30"
+        x="0"
+        y="28.5"
+      />
+    </g>
+  </defs>
+  <g
+    class="svg-29-a-g"
+    transform="translate(0, -15)"
+  >
+    <use
+      class="svg-29-a-use"
+      href="#svg-29-a-main-shape"
+      transform="scale(1, 1) skewY(30) translate(0, -17.32050807568877)"
+    />
+    <use
+      class="svg-29-a-use"
+      href="#svg-29-a-main-shape"
+      transform="scale(-1, 1) skewY(30) translate(0, -17.32050807568877)"
+    />
+    <use
+      class="svg-29-a-use"
+      href="#svg-29-a-main-shape"
+      transform="scale(1, 1) skewY(-30) translate(0, 17.32050807568877)"
+    />
+    <use
+      class="svg-29-a-use"
+      href="#svg-29-a-main-shape"
+      transform="scale(-1, 1) skewY(-30) translate(0, 17.32050807568877)"
+    />
+  </g>
+</svg>

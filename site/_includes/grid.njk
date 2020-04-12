@@ -1,0 +1,22 @@
+{% set variantCount = svgs
+  .animations
+  .dirs[grid.dirIndex]
+  .list
+  .length %}
+{% if grid.excludeFileName %}
+  {% set variantCount = variantCount - 1 %}
+{% endif %}
+
+<div class="grid grid--{{ variantCount | numColumns }}-col">
+  {% for svg in svgs
+    .animations
+    .dirs[grid.dirIndex]
+    .list %}
+
+    {% if svg.fileName != grid.excludeFileName %}
+      <a class="grid__cell {% if grid.showLabel %}grid__cell--show-label{% endif %}" href="{{ svg.url | url}}" data-label="{{svg.fileName | upper}}">
+        {{ svg.minXML | safe }}
+      </a>
+    {% endif %}
+  {% endfor %}
+</div>

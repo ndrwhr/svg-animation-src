@@ -1,0 +1,76 @@
+---
+layout: layouts/base
+pagination:
+  data: svgs.animations.list
+  size: 1
+  alias: svg
+permalink: "{{svg.url}}"
+navLinks:
+  'about': '/#about'
+  'source code': 'https://github.com/ndrwhr/svg-animation-src'
+  'more experiments': 'https://andrew.wang-hoyer.com'
+---
+{% set breadcrumbs = ([
+  {
+    text: 'HOME',
+    href: svg.homeUrl
+  }, {
+    text: 'ANIMATION ' + svg.dirName,
+    href: svg.dir.url
+  }, {
+    text: 'VARIANT ' + svg.fileName
+  }
+]) %}
+
+{% include "breadcrumbs.njk" %}
+
+<div class="variant">
+  <div class="variant__main">
+    {% if svg.previous %}
+      <a href="{{svg.previous.url | url}}" class="variant__nav">PREV</a>
+    {% else %}
+      <span class="variant__nav variant__nav--disabled">PREV</span>
+    {% endif %}
+
+    <div class="variant__anim">
+      {{svg.minXML | safe}}
+    </div>
+
+    {% if svg.next %}
+      <a href="{{svg.next.url | url}}" class="variant__nav">NEXT</a>
+    {% else %}
+      <span class="variant__nav variant__nav--disabled">NEXT</span>
+    {% endif %}
+  </div>
+
+  {% if svg.desc or svg.attribution %}
+    <h2 class="variant__sub-header">ABOUT {{svg.title}}</h2>
+  {% endif %}
+
+  {% if svg.desc %}
+    {{ svg.desc | safe }}
+  {% endif %}
+
+  {% if svg.attribution %}
+    <p>{{ svg.attribution | safe }}</p>
+  {% endif %}
+
+  <h2 class="variant__sub-header">LINKS</h2>
+
+  <ul class="variant__links">
+    <li>
+      DOWNLOAD: <a href="{{svg.svgUrl | url}}" download>SVG</a> | <a href="{{svg.gifUrl | url}}" download>GIF</a> | <a href="{{svg.mp4Url | url}}" download>MP4</a>
+    </li>
+    <li>
+      <a href="{{svg.sourceUrl}}">VARIANT SOURCE CODE</a>
+    </li>
+  </ul>
+
+  <h2 class="variant__sub-header">OTHER VARIANTS</h2>
+  <ul class="variant__variants">
+    {% set grid = ({dirIndex: svg.dir.index, excludeFileName: svg.fileName, showLabel: true}) %}
+    {% include "grid.njk" %}
+  </ul>
+</div>
+
+{% include "nav.njk" %}

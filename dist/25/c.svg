@@ -1,0 +1,190 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE svg>
+<svg
+  data-animation-duration="3s"
+  viewBox="0 0 100 100"
+>
+  <title>
+    ANIMATION 25 - VARIATION C
+  </title>
+  <desc>
+    <p>Inspired by <a href="https://pin.it/wiedw45nag5owj" target="_blank" rel="noopener">this pin</a> (original artist unknown).</p>
+    <p>See this animation in action here: <a href="https://andrew.wang-hoyer.com/experiments/svg-animations/25/c" target="_blank" rel="noopener">https://andrew.wang-hoyer.com/experiments/svg-animations/25/c</a>.</p>
+    <p>Generator source code : <a href="https://github.com/ndrwhr/svg-animation-src/tree/master/site/_svgs/generators/animations/25/c.js" target="_blank" rel="noopener">https://github.com/ndrwhr/svg-animation-src/tree/master/site/_svgs/generators/animations/25/c.js</a>.</p>
+    <p>All generated files and source code are released under the following license:</p>
+    <p>MIT License</p>
+    <p>Copyright (c) 2018-present Andrew Hoyer</p>
+    <p>Permission is hereby granted, free of charge, to any person obtaining a copy of this software and associated documentation files (the &quot;Software&quot;), to deal in the Software without restriction, including without limitation the rights to use, copy, modify, merge, publish, distribute, sublicense, and/or sell copies of the Software, and to permit persons to whom the Software is furnished to do so, subject to the following conditions:</p>
+    <p>The above copyright notice and this permission notice shall be included in all copies or substantial portions of the Software.</p>
+    <p>THE SOFTWARE IS PROVIDED &quot;AS IS&quot;, WITHOUT WARRANTY OF ANY KIND, EXPRESS OR IMPLIED, INCLUDING BUT NOT LIMITED TO THE WARRANTIES OF MERCHANTABILITY, FITNESS FOR A PARTICULAR PURPOSE AND NONINFRINGEMENT. IN NO EVENT SHALL THE AUTHORS OR COPYRIGHT HOLDERS BE LIABLE FOR ANY CLAIM, DAMAGES OR OTHER LIABILITY, WHETHER IN AN ACTION OF CONTRACT, TORT OR OTHERWISE, ARISING FROM, OUT OF OR IN CONNECTION WITH THE SOFTWARE OR THE USE OR OTHER DEALINGS IN THE SOFTWARE.</p>
+  </desc>
+  <style>
+    /* <![CDATA[ */
+      .svg-25-c-path {
+        stroke: black;
+        stroke-width: .2;
+        fill: white;
+        animation: svg-25-c-main-anim 3s ease-in-out alternate infinite;
+      }
+      
+      @keyframes svg-25-c-main-anim {
+        from {
+          transform: translate(-8%, 0);
+        }
+      
+        to {
+          transform: translate(8%, 0);
+        }
+      }
+      
+    /* ]]> */
+  </style>
+  <defs>
+    <clipPath
+      id="svg-25-c-mask"
+    >
+      <rect
+        class="svg-25-c-rect"
+        height="100"
+        width="100"
+        x="0"
+        y="0"
+      />
+    </clipPath>
+  </defs>
+  <g
+    class="svg-25-c-g"
+    clip-path="url(#svg-25-c-mask)"
+  >
+    <g
+      class="svg-25-c-g"
+      transform="translate(0, 44)"
+    >
+      <path
+        class="svg-25-c-path"
+        d="M-50,0 h50 h30 c16,0 12,-20 20,-20 c8,0 4,20 20,20 h30 h50"
+        style="animation-delay: -0s"
+      />
+    </g>
+    <g
+      class="svg-25-c-g"
+      transform="translate(0, 45)"
+    >
+      <path
+        class="svg-25-c-path"
+        d="M-50,0 h50 h28.46153846153846 c17.230769230769234,0 12.923076923076923,-18.53846153846154 21.53846153846154,-18.53846153846154 c8.615384615384617,0 4.307692307692307,18.53846153846154 21.53846153846154,18.53846153846154 h28.46153846153846 h50"
+        style="animation-delay: -0.46153846153846156s"
+      />
+    </g>
+    <g
+      class="svg-25-c-g"
+      transform="translate(0, 46)"
+    >
+      <path
+        class="svg-25-c-path"
+        d="M-50,0 h50 h26.923076923076923 c18.461538461538463,0 13.846153846153845,-17.076923076923077 23.076923076923077,-17.076923076923077 c9.230769230769232,0 4.615384615384613,17.076923076923077 23.076923076923077,17.076923076923077 h26.923076923076923 h50"
+        style="animation-delay: -0.9230769230769231s"
+      />
+    </g>
+    <g
+      class="svg-25-c-g"
+      transform="translate(0, 47)"
+    >
+      <path
+        class="svg-25-c-path"
+        d="M-50,0 h50 h25.384615384615387 c19.692307692307693,0 14.769230769230766,-15.615384615384615 24.615384615384613,-15.615384615384615 c9.846153846153847,0 4.92307692307692,15.615384615384615 24.615384615384613,15.615384615384615 h25.384615384615387 h50"
+        style="animation-delay: -1.3846153846153846s"
+      />
+    </g>
+    <g
+      class="svg-25-c-g"
+      transform="translate(0, 48)"
+    >
+      <path
+        class="svg-25-c-path"
+        d="M-50,0 h50 h23.846153846153847 c20.923076923076923,0 15.692307692307692,-14.153846153846153 26.153846153846153,-14.153846153846153 c10.461538461538462,0 5.23076923076923,14.153846153846153 26.153846153846153,14.153846153846153 h23.846153846153847 h50"
+        style="animation-delay: -1.8461538461538463s"
+      />
+    </g>
+    <g
+      class="svg-25-c-g"
+      transform="translate(0, 49)"
+    >
+      <path
+        class="svg-25-c-path"
+        d="M-50,0 h50 h22.307692307692307 c22.153846153846157,0 16.615384615384613,-12.692307692307692 27.692307692307693,-12.692307692307692 c11.076923076923078,0 5.5384615384615365,12.692307692307692 27.692307692307693,12.692307692307692 h22.307692307692307 h50"
+        style="animation-delay: -2.307692307692308s"
+      />
+    </g>
+    <g
+      class="svg-25-c-g"
+      transform="translate(0, 50)"
+    >
+      <path
+        class="svg-25-c-path"
+        d="M-50,0 h50 h20.76923076923077 c23.384615384615387,0 17.538461538461537,-11.23076923076923 29.23076923076923,-11.23076923076923 c11.692307692307693,0 5.846153846153843,11.23076923076923 29.23076923076923,11.23076923076923 h20.76923076923077 h50"
+        style="animation-delay: -2.769230769230769s"
+      />
+    </g>
+    <g
+      class="svg-25-c-g"
+      transform="translate(0, 51)"
+    >
+      <path
+        class="svg-25-c-path"
+        d="M-50,0 h50 h19.23076923076923 c24.615384615384617,0 18.46153846153846,-9.76923076923077 30.76923076923077,-9.76923076923077 c12.307692307692308,0 6.153846153846153,9.76923076923077 30.76923076923077,9.76923076923077 h19.23076923076923 h50"
+        style="animation-delay: -3.230769230769231s"
+      />
+    </g>
+    <g
+      class="svg-25-c-g"
+      transform="translate(0, 52)"
+    >
+      <path
+        class="svg-25-c-path"
+        d="M-50,0 h50 h17.692307692307693 c25.846153846153847,0 19.384615384615383,-8.307692307692307 32.30769230769231,-8.307692307692307 c12.923076923076923,0 6.46153846153846,8.307692307692307 32.30769230769231,8.307692307692307 h17.692307692307693 h50"
+        style="animation-delay: -3.6923076923076925s"
+      />
+    </g>
+    <g
+      class="svg-25-c-g"
+      transform="translate(0, 53)"
+    >
+      <path
+        class="svg-25-c-path"
+        d="M-50,0 h50 h16.153846153846153 c27.07692307692308,0 20.307692307692307,-6.846153846153846 33.84615384615385,-6.846153846153846 c13.53846153846154,0 6.7692307692307665,6.846153846153846 33.84615384615385,6.846153846153846 h16.153846153846153 h50"
+        style="animation-delay: -4.153846153846154s"
+      />
+    </g>
+    <g
+      class="svg-25-c-g"
+      transform="translate(0, 54)"
+    >
+      <path
+        class="svg-25-c-path"
+        d="M-50,0 h50 h14.615384615384613 c28.30769230769231,0 21.230769230769234,-5.384615384615385 35.38461538461539,-5.384615384615385 c14.153846153846155,0 7.076923076923077,5.384615384615385 35.38461538461539,5.384615384615385 h14.615384615384613 h50"
+        style="animation-delay: -4.615384615384616s"
+      />
+    </g>
+    <g
+      class="svg-25-c-g"
+      transform="translate(0, 55)"
+    >
+      <path
+        class="svg-25-c-path"
+        d="M-50,0 h50 h13.07692307692308 c29.538461538461537,0 22.153846153846153,-3.923076923076923 36.92307692307692,-3.923076923076923 c14.769230769230768,0 7.384615384615383,3.923076923076923 36.92307692307692,3.923076923076923 h13.07692307692308 h50"
+        style="animation-delay: -5.0769230769230775s"
+      />
+    </g>
+    <g
+      class="svg-25-c-g"
+      transform="translate(0, 56)"
+    >
+      <path
+        class="svg-25-c-path"
+        d="M-50,0 h50 h11.53846153846154 c30.76923076923077,0 23.076923076923073,-2.4615384615384617 38.46153846153846,-2.4615384615384617 c15.384615384615385,0 7.69230769230769,2.4615384615384617 38.46153846153846,2.4615384615384617 h11.53846153846154 h50"
+        style="animation-delay: -5.538461538461538s"
+      />
+    </g>
+  </g>
+</svg>

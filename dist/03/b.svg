@@ -1,0 +1,913 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE svg>
+<svg
+  data-animation-duration="10s"
+  viewBox="-100 -100 200 200"
+>
+  <title>
+    ANIMATION 03 - VARIATION B
+  </title>
+  <desc>
+    <p>See this animation in action here: <a href="https://andrew.wang-hoyer.com/experiments/svg-animations/03/b" target="_blank" rel="noopener">https://andrew.wang-hoyer.com/experiments/svg-animations/03/b</a>.</p>
+    <p>Generator source code : <a href="https://github.com/ndrwhr/svg-animation-src/tree/master/site/_svgs/generators/animations/03/b.js" target="_blank" rel="noopener">https://github.com/ndrwhr/svg-animation-src/tree/master/site/_svgs/generators/animations/03/b.js</a>.</p>
+    <p>All generated files and source code are released under the following license:</p>
+    <p>MIT License</p>
+    <p>Copyright (c) 2018-present Andrew Hoyer</p>
+    <p>Permission is hereby granted, free of charge, to any person obtaining a copy of this software and associated documentation files (the &quot;Software&quot;), to deal in the Software without restriction, including without limitation the rights to use, copy, modify, merge, publish, distribute, sublicense, and/or sell copies of the Software, and to permit persons to whom the Software is furnished to do so, subject to the following conditions:</p>
+    <p>The above copyright notice and this permission notice shall be included in all copies or substantial portions of the Software.</p>
+    <p>THE SOFTWARE IS PROVIDED &quot;AS IS&quot;, WITHOUT WARRANTY OF ANY KIND, EXPRESS OR IMPLIED, INCLUDING BUT NOT LIMITED TO THE WARRANTIES OF MERCHANTABILITY, FITNESS FOR A PARTICULAR PURPOSE AND NONINFRINGEMENT. IN NO EVENT SHALL THE AUTHORS OR COPYRIGHT HOLDERS BE LIABLE FOR ANY CLAIM, DAMAGES OR OTHER LIABILITY, WHETHER IN AN ACTION OF CONTRACT, TORT OR OTHERWISE, ARISING FROM, OUT OF OR IN CONNECTION WITH THE SOFTWARE OR THE USE OR OTHER DEALINGS IN THE SOFTWARE.</p>
+  </desc>
+  <style>
+    /* <![CDATA[ */
+      .svg-03-b-rect {
+        stroke: black;
+        stroke-width: .2;
+        fill: none;
+        animation: svg-03-b-rect-rotate 10s linear infinite;
+      }
+      
+      .svg-03-b-rect-group {
+        animation: svg-03-b-rect-group-move 5s ease-in-out alternate infinite;
+      }
+      
+      .svg-03-b-outer-group {
+        animation: svg-03-b-rect-rotate 10s ease-in-out alternate infinite;
+      }
+      
+      @keyframes svg-03-b-rect-group-move {
+        from {
+          transform: translate(0, -5%);
+        }
+      
+        to {
+          transform: translate(0, 5%);
+        }
+      }
+      
+      @keyframes svg-03-b-rect-rotate {
+        from {
+          transform: rotate(0);
+        }
+      
+        to {
+          transform: rotate(360deg);
+        }
+      }
+      
+    /* ]]> */
+  </style>
+  <g
+    class="svg-03-b-g svg-03-b-outer-group"
+  >
+    <g
+      class="svg-03-b-g"
+      transform="rotate(0) translate(0, -50)"
+    >
+      <g
+        class="svg-03-b-g svg-03-b-rect-group"
+      >
+        <rect
+          class="svg-03-b-rect"
+          height="10"
+          width="10"
+          x="-5"
+          y="-5"
+        />
+      </g>
+    </g>
+    <g
+      class="svg-03-b-g"
+      transform="rotate(14.4) translate(0, -50)"
+    >
+      <g
+        class="svg-03-b-g svg-03-b-rect-group"
+      >
+        <rect
+          class="svg-03-b-rect"
+          height="10"
+          width="10"
+          x="-5"
+          y="-5"
+        />
+      </g>
+    </g>
+    <g
+      class="svg-03-b-g"
+      transform="rotate(28.8) translate(0, -50)"
+    >
+      <g
+        class="svg-03-b-g svg-03-b-rect-group"
+      >
+        <rect
+          class="svg-03-b-rect"
+          height="10"
+          width="10"
+          x="-5"
+          y="-5"
+        />
+      </g>
+    </g>
+    <g
+      class="svg-03-b-g"
+      transform="rotate(43.2) translate(0, -50)"
+    >
+      <g
+        class="svg-03-b-g svg-03-b-rect-group"
+      >
+        <rect
+          class="svg-03-b-rect"
+          height="10"
+          width="10"
+          x="-5"
+          y="-5"
+        />
+      </g>
+    </g>
+    <g
+      class="svg-03-b-g"
+      transform="rotate(57.6) translate(0, -50)"
+    >
+      <g
+        class="svg-03-b-g svg-03-b-rect-group"
+      >
+        <rect
+          class="svg-03-b-rect"
+          height="10"
+          width="10"
+          x="-5"
+          y="-5"
+        />
+      </g>
+    </g>
+    <g
+      class="svg-03-b-g"
+      transform="rotate(72) translate(0, -50)"
+    >
+      <g
+        class="svg-03-b-g svg-03-b-rect-group"
+      >
+        <rect
+          class="svg-03-b-rect"
+          height="10"
+          width="10"
+          x="-5"
+          y="-5"
+        />
+      </g>
+    </g>
+    <g
+      class="svg-03-b-g"
+      transform="rotate(86.4) translate(0, -50)"
+    >
+      <g
+        class="svg-03-b-g svg-03-b-rect-group"
+      >
+        <rect
+          class="svg-03-b-rect"
+          height="10"
+          width="10"
+          x="-5"
+          y="-5"
+        />
+      </g>
+    </g>
+    <g
+      class="svg-03-b-g"
+      transform="rotate(100.8) translate(0, -50)"
+    >
+      <g
+        class="svg-03-b-g svg-03-b-rect-group"
+      >
+        <rect
+          class="svg-03-b-rect"
+          height="10"
+          width="10"
+          x="-5"
+          y="-5"
+        />
+      </g>
+    </g>
+    <g
+      class="svg-03-b-g"
+      transform="rotate(115.2) translate(0, -50)"
+    >
+      <g
+        class="svg-03-b-g svg-03-b-rect-group"
+      >
+        <rect
+          class="svg-03-b-rect"
+          height="10"
+          width="10"
+          x="-5"
+          y="-5"
+        />
+      </g>
+    </g>
+    <g
+      class="svg-03-b-g"
+      transform="rotate(129.6) translate(0, -50)"
+    >
+      <g
+        class="svg-03-b-g svg-03-b-rect-group"
+      >
+        <rect
+          class="svg-03-b-rect"
+          height="10"
+          width="10"
+          x="-5"
+          y="-5"
+        />
+      </g>
+    </g>
+    <g
+      class="svg-03-b-g"
+      transform="rotate(144) translate(0, -50)"
+    >
+      <g
+        class="svg-03-b-g svg-03-b-rect-group"
+      >
+        <rect
+          class="svg-03-b-rect"
+          height="10"
+          width="10"
+          x="-5"
+          y="-5"
+        />
+      </g>
+    </g>
+    <g
+      class="svg-03-b-g"
+      transform="rotate(158.4) translate(0, -50)"
+    >
+      <g
+        class="svg-03-b-g svg-03-b-rect-group"
+      >
+        <rect
+          class="svg-03-b-rect"
+          height="10"
+          width="10"
+          x="-5"
+          y="-5"
+        />
+      </g>
+    </g>
+    <g
+      class="svg-03-b-g"
+      transform="rotate(172.8) translate(0, -50)"
+    >
+      <g
+        class="svg-03-b-g svg-03-b-rect-group"
+      >
+        <rect
+          class="svg-03-b-rect"
+          height="10"
+          width="10"
+          x="-5"
+          y="-5"
+        />
+      </g>
+    </g>
+    <g
+      class="svg-03-b-g"
+      transform="rotate(187.20000000000002) translate(0, -50)"
+    >
+      <g
+        class="svg-03-b-g svg-03-b-rect-group"
+      >
+        <rect
+          class="svg-03-b-rect"
+          height="10"
+          width="10"
+          x="-5"
+          y="-5"
+        />
+      </g>
+    </g>
+    <g
+      class="svg-03-b-g"
+      transform="rotate(201.6) translate(0, -50)"
+    >
+      <g
+        class="svg-03-b-g svg-03-b-rect-group"
+      >
+        <rect
+          class="svg-03-b-rect"
+          height="10"
+          width="10"
+          x="-5"
+          y="-5"
+        />
+      </g>
+    </g>
+    <g
+      class="svg-03-b-g"
+      transform="rotate(216) translate(0, -50)"
+    >
+      <g
+        class="svg-03-b-g svg-03-b-rect-group"
+      >
+        <rect
+          class="svg-03-b-rect"
+          height="10"
+          width="10"
+          x="-5"
+          y="-5"
+        />
+      </g>
+    </g>
+    <g
+      class="svg-03-b-g"
+      transform="rotate(230.4) translate(0, -50)"
+    >
+      <g
+        class="svg-03-b-g svg-03-b-rect-group"
+      >
+        <rect
+          class="svg-03-b-rect"
+          height="10"
+          width="10"
+          x="-5"
+          y="-5"
+        />
+      </g>
+    </g>
+    <g
+      class="svg-03-b-g"
+      transform="rotate(244.8) translate(0, -50)"
+    >
+      <g
+        class="svg-03-b-g svg-03-b-rect-group"
+      >
+        <rect
+          class="svg-03-b-rect"
+          height="10"
+          width="10"
+          x="-5"
+          y="-5"
+        />
+      </g>
+    </g>
+    <g
+      class="svg-03-b-g"
+      transform="rotate(259.2) translate(0, -50)"
+    >
+      <g
+        class="svg-03-b-g svg-03-b-rect-group"
+      >
+        <rect
+          class="svg-03-b-rect"
+          height="10"
+          width="10"
+          x="-5"
+          y="-5"
+        />
+      </g>
+    </g>
+    <g
+      class="svg-03-b-g"
+      transform="rotate(273.6) translate(0, -50)"
+    >
+      <g
+        class="svg-03-b-g svg-03-b-rect-group"
+      >
+        <rect
+          class="svg-03-b-rect"
+          height="10"
+          width="10"
+          x="-5"
+          y="-5"
+        />
+      </g>
+    </g>
+    <g
+      class="svg-03-b-g"
+      transform="rotate(288) translate(0, -50)"
+    >
+      <g
+        class="svg-03-b-g svg-03-b-rect-group"
+      >
+        <rect
+          class="svg-03-b-rect"
+          height="10"
+          width="10"
+          x="-5"
+          y="-5"
+        />
+      </g>
+    </g>
+    <g
+      class="svg-03-b-g"
+      transform="rotate(302.40000000000003) translate(0, -50)"
+    >
+      <g
+        class="svg-03-b-g svg-03-b-rect-group"
+      >
+        <rect
+          class="svg-03-b-rect"
+          height="10"
+          width="10"
+          x="-5"
+          y="-5"
+        />
+      </g>
+    </g>
+    <g
+      class="svg-03-b-g"
+      transform="rotate(316.8) translate(0, -50)"
+    >
+      <g
+        class="svg-03-b-g svg-03-b-rect-group"
+      >
+        <rect
+          class="svg-03-b-rect"
+          height="10"
+          width="10"
+          x="-5"
+          y="-5"
+        />
+      </g>
+    </g>
+    <g
+      class="svg-03-b-g"
+      transform="rotate(331.2) translate(0, -50)"
+    >
+      <g
+        class="svg-03-b-g svg-03-b-rect-group"
+      >
+        <rect
+          class="svg-03-b-rect"
+          height="10"
+          width="10"
+          x="-5"
+          y="-5"
+        />
+      </g>
+    </g>
+    <g
+      class="svg-03-b-g"
+      transform="rotate(345.6) translate(0, -50)"
+    >
+      <g
+        class="svg-03-b-g svg-03-b-rect-group"
+      >
+        <rect
+          class="svg-03-b-rect"
+          height="10"
+          width="10"
+          x="-5"
+          y="-5"
+        />
+      </g>
+    </g>
+    <g
+      class="svg-03-b-g"
+      style="animation-delay: -5s"
+      transform="rotate(0) translate(0, -50)"
+    >
+      <g
+        class="svg-03-b-g svg-03-b-rect-group"
+        style="animation-delay: -2.5s"
+      >
+        <rect
+          class="svg-03-b-rect"
+          height="10"
+          width="10"
+          x="-5"
+          y="-5"
+        />
+      </g>
+    </g>
+    <g
+      class="svg-03-b-g"
+      style="animation-delay: -5s"
+      transform="rotate(14.4) translate(0, -50)"
+    >
+      <g
+        class="svg-03-b-g svg-03-b-rect-group"
+        style="animation-delay: -2.5s"
+      >
+        <rect
+          class="svg-03-b-rect"
+          height="10"
+          width="10"
+          x="-5"
+          y="-5"
+        />
+      </g>
+    </g>
+    <g
+      class="svg-03-b-g"
+      style="animation-delay: -5s"
+      transform="rotate(28.8) translate(0, -50)"
+    >
+      <g
+        class="svg-03-b-g svg-03-b-rect-group"
+        style="animation-delay: -2.5s"
+      >
+        <rect
+          class="svg-03-b-rect"
+          height="10"
+          width="10"
+          x="-5"
+          y="-5"
+        />
+      </g>
+    </g>
+    <g
+      class="svg-03-b-g"
+      style="animation-delay: -5s"
+      transform="rotate(43.2) translate(0, -50)"
+    >
+      <g
+        class="svg-03-b-g svg-03-b-rect-group"
+        style="animation-delay: -2.5s"
+      >
+        <rect
+          class="svg-03-b-rect"
+          height="10"
+          width="10"
+          x="-5"
+          y="-5"
+        />
+      </g>
+    </g>
+    <g
+      class="svg-03-b-g"
+      style="animation-delay: -5s"
+      transform="rotate(57.6) translate(0, -50)"
+    >
+      <g
+        class="svg-03-b-g svg-03-b-rect-group"
+        style="animation-delay: -2.5s"
+      >
+        <rect
+          class="svg-03-b-rect"
+          height="10"
+          width="10"
+          x="-5"
+          y="-5"
+        />
+      </g>
+    </g>
+    <g
+      class="svg-03-b-g"
+      style="animation-delay: -5s"
+      transform="rotate(72) translate(0, -50)"
+    >
+      <g
+        class="svg-03-b-g svg-03-b-rect-group"
+        style="animation-delay: -2.5s"
+      >
+        <rect
+          class="svg-03-b-rect"
+          height="10"
+          width="10"
+          x="-5"
+          y="-5"
+        />
+      </g>
+    </g>
+    <g
+      class="svg-03-b-g"
+      style="animation-delay: -5s"
+      transform="rotate(86.4) translate(0, -50)"
+    >
+      <g
+        class="svg-03-b-g svg-03-b-rect-group"
+        style="animation-delay: -2.5s"
+      >
+        <rect
+          class="svg-03-b-rect"
+          height="10"
+          width="10"
+          x="-5"
+          y="-5"
+        />
+      </g>
+    </g>
+    <g
+      class="svg-03-b-g"
+      style="animation-delay: -5s"
+      transform="rotate(100.8) translate(0, -50)"
+    >
+      <g
+        class="svg-03-b-g svg-03-b-rect-group"
+        style="animation-delay: -2.5s"
+      >
+        <rect
+          class="svg-03-b-rect"
+          height="10"
+          width="10"
+          x="-5"
+          y="-5"
+        />
+      </g>
+    </g>
+    <g
+      class="svg-03-b-g"
+      style="animation-delay: -5s"
+      transform="rotate(115.2) translate(0, -50)"
+    >
+      <g
+        class="svg-03-b-g svg-03-b-rect-group"
+        style="animation-delay: -2.5s"
+      >
+        <rect
+          class="svg-03-b-rect"
+          height="10"
+          width="10"
+          x="-5"
+          y="-5"
+        />
+      </g>
+    </g>
+    <g
+      class="svg-03-b-g"
+      style="animation-delay: -5s"
+      transform="rotate(129.6) translate(0, -50)"
+    >
+      <g
+        class="svg-03-b-g svg-03-b-rect-group"
+        style="animation-delay: -2.5s"
+      >
+        <rect
+          class="svg-03-b-rect"
+          height="10"
+          width="10"
+          x="-5"
+          y="-5"
+        />
+      </g>
+    </g>
+    <g
+      class="svg-03-b-g"
+      style="animation-delay: -5s"
+      transform="rotate(144) translate(0, -50)"
+    >
+      <g
+        class="svg-03-b-g svg-03-b-rect-group"
+        style="animation-delay: -2.5s"
+      >
+        <rect
+          class="svg-03-b-rect"
+          height="10"
+          width="10"
+          x="-5"
+          y="-5"
+        />
+      </g>
+    </g>
+    <g
+      class="svg-03-b-g"
+      style="animation-delay: -5s"
+      transform="rotate(158.4) translate(0, -50)"
+    >
+      <g
+        class="svg-03-b-g svg-03-b-rect-group"
+        style="animation-delay: -2.5s"
+      >
+        <rect
+          class="svg-03-b-rect"
+          height="10"
+          width="10"
+          x="-5"
+          y="-5"
+        />
+      </g>
+    </g>
+    <g
+      class="svg-03-b-g"
+      style="animation-delay: -5s"
+      transform="rotate(172.8) translate(0, -50)"
+    >
+      <g
+        class="svg-03-b-g svg-03-b-rect-group"
+        style="animation-delay: -2.5s"
+      >
+        <rect
+          class="svg-03-b-rect"
+          height="10"
+          width="10"
+          x="-5"
+          y="-5"
+        />
+      </g>
+    </g>
+    <g
+      class="svg-03-b-g"
+      style="animation-delay: -5s"
+      transform="rotate(187.20000000000002) translate(0, -50)"
+    >
+      <g
+        class="svg-03-b-g svg-03-b-rect-group"
+        style="animation-delay: -2.5s"
+      >
+        <rect
+          class="svg-03-b-rect"
+          height="10"
+          width="10"
+          x="-5"
+          y="-5"
+        />
+      </g>
+    </g>
+    <g
+      class="svg-03-b-g"
+      style="animation-delay: -5s"
+      transform="rotate(201.6) translate(0, -50)"
+    >
+      <g
+        class="svg-03-b-g svg-03-b-rect-group"
+        style="animation-delay: -2.5s"
+      >
+        <rect
+          class="svg-03-b-rect"
+          height="10"
+          width="10"
+          x="-5"
+          y="-5"
+        />
+      </g>
+    </g>
+    <g
+      class="svg-03-b-g"
+      style="animation-delay: -5s"
+      transform="rotate(216) translate(0, -50)"
+    >
+      <g
+        class="svg-03-b-g svg-03-b-rect-group"
+        style="animation-delay: -2.5s"
+      >
+        <rect
+          class="svg-03-b-rect"
+          height="10"
+          width="10"
+          x="-5"
+          y="-5"
+        />
+      </g>
+    </g>
+    <g
+      class="svg-03-b-g"
+      style="animation-delay: -5s"
+      transform="rotate(230.4) translate(0, -50)"
+    >
+      <g
+        class="svg-03-b-g svg-03-b-rect-group"
+        style="animation-delay: -2.5s"
+      >
+        <rect
+          class="svg-03-b-rect"
+          height="10"
+          width="10"
+          x="-5"
+          y="-5"
+        />
+      </g>
+    </g>
+    <g
+      class="svg-03-b-g"
+      style="animation-delay: -5s"
+      transform="rotate(244.8) translate(0, -50)"
+    >
+      <g
+        class="svg-03-b-g svg-03-b-rect-group"
+        style="animation-delay: -2.5s"
+      >
+        <rect
+          class="svg-03-b-rect"
+          height="10"
+          width="10"
+          x="-5"
+          y="-5"
+        />
+      </g>
+    </g>
+    <g
+      class="svg-03-b-g"
+      style="animation-delay: -5s"
+      transform="rotate(259.2) translate(0, -50)"
+    >
+      <g
+        class="svg-03-b-g svg-03-b-rect-group"
+        style="animation-delay: -2.5s"
+      >
+        <rect
+          class="svg-03-b-rect"
+          height="10"
+          width="10"
+          x="-5"
+          y="-5"
+        />
+      </g>
+    </g>
+    <g
+      class="svg-03-b-g"
+      style="animation-delay: -5s"
+      transform="rotate(273.6) translate(0, -50)"
+    >
+      <g
+        class="svg-03-b-g svg-03-b-rect-group"
+        style="animation-delay: -2.5s"
+      >
+        <rect
+          class="svg-03-b-rect"
+          height="10"
+          width="10"
+          x="-5"
+          y="-5"
+        />
+      </g>
+    </g>
+    <g
+      class="svg-03-b-g"
+      style="animation-delay: -5s"
+      transform="rotate(288) translate(0, -50)"
+    >
+      <g
+        class="svg-03-b-g svg-03-b-rect-group"
+        style="animation-delay: -2.5s"
+      >
+        <rect
+          class="svg-03-b-rect"
+          height="10"
+          width="10"
+          x="-5"
+          y="-5"
+        />
+      </g>
+    </g>
+    <g
+      class="svg-03-b-g"
+      style="animation-delay: -5s"
+      transform="rotate(302.40000000000003) translate(0, -50)"
+    >
+      <g
+        class="svg-03-b-g svg-03-b-rect-group"
+        style="animation-delay: -2.5s"
+      >
+        <rect
+          class="svg-03-b-rect"
+          height="10"
+          width="10"
+          x="-5"
+          y="-5"
+        />
+      </g>
+    </g>
+    <g
+      class="svg-03-b-g"
+      style="animation-delay: -5s"
+      transform="rotate(316.8) translate(0, -50)"
+    >
+      <g
+        class="svg-03-b-g svg-03-b-rect-group"
+        style="animation-delay: -2.5s"
+      >
+        <rect
+          class="svg-03-b-rect"
+          height="10"
+          width="10"
+          x="-5"
+          y="-5"
+        />
+      </g>
+    </g>
+    <g
+      class="svg-03-b-g"
+      style="animation-delay: -5s"
+      transform="rotate(331.2) translate(0, -50)"
+    >
+      <g
+        class="svg-03-b-g svg-03-b-rect-group"
+        style="animation-delay: -2.5s"
+      >
+        <rect
+          class="svg-03-b-rect"
+          height="10"
+          width="10"
+          x="-5"
+          y="-5"
+        />
+      </g>
+    </g>
+    <g
+      class="svg-03-b-g"
+      style="animation-delay: -5s"
+      transform="rotate(345.6) translate(0, -50)"
+    >
+      <g
+        class="svg-03-b-g svg-03-b-rect-group"
+        style="animation-delay: -2.5s"
+      >
+        <rect
+          class="svg-03-b-rect"
+          height="10"
+          width="10"
+          x="-5"
+          y="-5"
+        />
+      </g>
+    </g>
+  </g>
+</svg>

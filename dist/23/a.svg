@@ -1,0 +1,198 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE svg>
+<svg
+  data-animation-duration="20s"
+  viewBox="0 0 100 100"
+>
+  <title>
+    ANIMATION 23 - VARIATION A
+  </title>
+  <desc>
+    <p>See this animation in action here: <a href="https://andrew.wang-hoyer.com/experiments/svg-animations/23/a" target="_blank" rel="noopener">https://andrew.wang-hoyer.com/experiments/svg-animations/23/a</a>.</p>
+    <p>Generator source code : <a href="https://github.com/ndrwhr/svg-animation-src/tree/master/site/_svgs/generators/animations/23/a.js" target="_blank" rel="noopener">https://github.com/ndrwhr/svg-animation-src/tree/master/site/_svgs/generators/animations/23/a.js</a>.</p>
+    <p>All generated files and source code are released under the following license:</p>
+    <p>MIT License</p>
+    <p>Copyright (c) 2018-present Andrew Hoyer</p>
+    <p>Permission is hereby granted, free of charge, to any person obtaining a copy of this software and associated documentation files (the &quot;Software&quot;), to deal in the Software without restriction, including without limitation the rights to use, copy, modify, merge, publish, distribute, sublicense, and/or sell copies of the Software, and to permit persons to whom the Software is furnished to do so, subject to the following conditions:</p>
+    <p>The above copyright notice and this permission notice shall be included in all copies or substantial portions of the Software.</p>
+    <p>THE SOFTWARE IS PROVIDED &quot;AS IS&quot;, WITHOUT WARRANTY OF ANY KIND, EXPRESS OR IMPLIED, INCLUDING BUT NOT LIMITED TO THE WARRANTIES OF MERCHANTABILITY, FITNESS FOR A PARTICULAR PURPOSE AND NONINFRINGEMENT. IN NO EVENT SHALL THE AUTHORS OR COPYRIGHT HOLDERS BE LIABLE FOR ANY CLAIM, DAMAGES OR OTHER LIABILITY, WHETHER IN AN ACTION OF CONTRACT, TORT OR OTHERWISE, ARISING FROM, OUT OF OR IN CONNECTION WITH THE SOFTWARE OR THE USE OR OTHER DEALINGS IN THE SOFTWARE.</p>
+  </desc>
+  <defs>
+    <g
+      class="svg-23-a-g"
+      id="svg-23-a-stripes"
+    >
+      <rect
+        class="svg-23-a-rect svg-23-a-stripe"
+        height="2.413793103448276"
+        width="100"
+        x="0"
+        y="15"
+      />
+      <rect
+        class="svg-23-a-rect svg-23-a-stripe"
+        height="2.413793103448276"
+        width="100"
+        x="0"
+        y="19.82758620689655"
+      />
+      <rect
+        class="svg-23-a-rect svg-23-a-stripe"
+        height="2.413793103448276"
+        width="100"
+        x="0"
+        y="24.655172413793103"
+      />
+      <rect
+        class="svg-23-a-rect svg-23-a-stripe"
+        height="2.413793103448276"
+        width="100"
+        x="0"
+        y="29.482758620689655"
+      />
+      <rect
+        class="svg-23-a-rect svg-23-a-stripe"
+        height="2.413793103448276"
+        width="100"
+        x="0"
+        y="34.310344827586206"
+      />
+      <rect
+        class="svg-23-a-rect svg-23-a-stripe"
+        height="2.413793103448276"
+        width="100"
+        x="0"
+        y="39.13793103448276"
+      />
+      <rect
+        class="svg-23-a-rect svg-23-a-stripe"
+        height="2.413793103448276"
+        width="100"
+        x="0"
+        y="43.96551724137931"
+      />
+      <rect
+        class="svg-23-a-rect svg-23-a-stripe"
+        height="2.413793103448276"
+        width="100"
+        x="0"
+        y="48.79310344827586"
+      />
+      <rect
+        class="svg-23-a-rect svg-23-a-stripe"
+        height="2.413793103448276"
+        width="100"
+        x="0"
+        y="53.62068965517241"
+      />
+      <rect
+        class="svg-23-a-rect svg-23-a-stripe"
+        height="2.413793103448276"
+        width="100"
+        x="0"
+        y="58.44827586206897"
+      />
+      <rect
+        class="svg-23-a-rect svg-23-a-stripe"
+        height="2.413793103448276"
+        width="100"
+        x="0"
+        y="63.275862068965516"
+      />
+      <rect
+        class="svg-23-a-rect svg-23-a-stripe"
+        height="2.413793103448276"
+        width="100"
+        x="0"
+        y="68.10344827586206"
+      />
+      <rect
+        class="svg-23-a-rect svg-23-a-stripe"
+        height="2.413793103448276"
+        width="100"
+        x="0"
+        y="72.93103448275862"
+      />
+      <rect
+        class="svg-23-a-rect svg-23-a-stripe"
+        height="2.413793103448276"
+        width="100"
+        x="0"
+        y="77.75862068965517"
+      />
+      <rect
+        class="svg-23-a-rect svg-23-a-stripe"
+        height="2.413793103448276"
+        width="100"
+        x="0"
+        y="82.58620689655172"
+      />
+    </g>
+    <clipPath
+      id="svg-23-a-square-mask"
+    >
+      <path
+        class="svg-23-a-path"
+        d="M 50,50 m -30,0 a 30,30 0,1,1 60,0 a 30,30 0,1,1 -60,0 M 15,15 L 15,85 L 85,85 L 85,15Z"
+        fill-rule="evenodd"
+      />
+    </clipPath>
+    <clipPath
+      id="svg-23-a-circle-mask"
+    >
+      <circle
+        class="svg-23-a-circle"
+        cx="50"
+        cy="50"
+        r="30"
+      />
+    </clipPath>
+  </defs>
+  <style>
+    /* <![CDATA[ */
+      .svg-23-a-stripe {
+        fill: black;
+        stroke: none;
+      }
+      
+      .svg-23-a-circle-ref {
+        transform-origin: 50% 50%;
+        animation: svg-23-a-circle-anim 20s linear infinite;
+      }
+      
+      @keyframes svg-23-a-circle-anim {
+        from {
+          transform: rotate(0);
+        }
+      
+        to {
+          transform: rotate(180deg);
+        }
+      }
+      
+    /* ]]> */
+  </style>
+  <g
+    class="svg-23-a-g"
+    clip-path="url(#svg-23-a-square-mask)"
+  >
+    <use
+      class="svg-23-a-use"
+      href="#svg-23-a-stripes"
+    />
+  </g>
+  <g
+    class="svg-23-a-g"
+    clip-path="url(#svg-23-a-circle-mask)"
+  >
+    <g
+      class="svg-23-a-g"
+      transform="rotate(0, 50, 50)"
+    >
+      <use
+        class="svg-23-a-use svg-23-a-circle-ref"
+        href="#svg-23-a-stripes"
+      />
+    </g>
+  </g>
+</svg>

@@ -1,0 +1,1341 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE svg>
+<svg
+  data-animation-duration="2s"
+  viewBox="-50 -50 100 100"
+>
+  <title>
+    ANIMATION 42 - VARIATION D
+  </title>
+  <desc>
+    <p>See this animation in action here: <a href="https://andrew.wang-hoyer.com/experiments/svg-animations/42/d" target="_blank" rel="noopener">https://andrew.wang-hoyer.com/experiments/svg-animations/42/d</a>.</p>
+    <p>Generator source code : <a href="https://github.com/ndrwhr/svg-animation-src/tree/master/site/_svgs/generators/animations/42/d.js" target="_blank" rel="noopener">https://github.com/ndrwhr/svg-animation-src/tree/master/site/_svgs/generators/animations/42/d.js</a>.</p>
+    <p>All generated files and source code are released under the following license:</p>
+    <p>MIT License</p>
+    <p>Copyright (c) 2018-present Andrew Hoyer</p>
+    <p>Permission is hereby granted, free of charge, to any person obtaining a copy of this software and associated documentation files (the &quot;Software&quot;), to deal in the Software without restriction, including without limitation the rights to use, copy, modify, merge, publish, distribute, sublicense, and/or sell copies of the Software, and to permit persons to whom the Software is furnished to do so, subject to the following conditions:</p>
+    <p>The above copyright notice and this permission notice shall be included in all copies or substantial portions of the Software.</p>
+    <p>THE SOFTWARE IS PROVIDED &quot;AS IS&quot;, WITHOUT WARRANTY OF ANY KIND, EXPRESS OR IMPLIED, INCLUDING BUT NOT LIMITED TO THE WARRANTIES OF MERCHANTABILITY, FITNESS FOR A PARTICULAR PURPOSE AND NONINFRINGEMENT. IN NO EVENT SHALL THE AUTHORS OR COPYRIGHT HOLDERS BE LIABLE FOR ANY CLAIM, DAMAGES OR OTHER LIABILITY, WHETHER IN AN ACTION OF CONTRACT, TORT OR OTHERWISE, ARISING FROM, OUT OF OR IN CONNECTION WITH THE SOFTWARE OR THE USE OR OTHER DEALINGS IN THE SOFTWARE.</p>
+  </desc>
+  <style>
+    /* <![CDATA[ */
+      .svg-42-d-line {
+        stroke: black;
+        stroke-width: .3;
+        transform-origin: 0 0;
+        animation: svg-42-d-main-anim 2s cubic-bezier(.5, 0, .5, 1) alternate infinite;
+      }
+      
+      @keyframes svg-42-d-main-anim {
+        from {
+          transform: scaleX(.4);
+        }
+      
+        to {
+          transform: scaleX(1);
+        }
+      }
+      
+    /* ]]> */
+  </style>
+  <g
+    class="svg-42-d-g"
+    transform="rotate(-90) translate(20, 0)"
+  >
+    <line
+      class="svg-42-d-line"
+      style="animation-delay: -12s"
+      x1="0"
+      x2="20"
+      y1="0"
+      y2="0"
+    />
+  </g>
+  <g
+    class="svg-42-d-g"
+    transform="rotate(-86.4) translate(20, 0)"
+  >
+    <line
+      class="svg-42-d-line"
+      style="animation-delay: -11.88s"
+      x1="0"
+      x2="20"
+      y1="0"
+      y2="0"
+    />
+  </g>
+  <g
+    class="svg-42-d-g"
+    transform="rotate(-82.8) translate(20, 0)"
+  >
+    <line
+      class="svg-42-d-line"
+      style="animation-delay: -11.76s"
+      x1="0"
+      x2="20"
+      y1="0"
+      y2="0"
+    />
+  </g>
+  <g
+    class="svg-42-d-g"
+    transform="rotate(-79.2) translate(20, 0)"
+  >
+    <line
+      class="svg-42-d-line"
+      style="animation-delay: -11.64s"
+      x1="0"
+      x2="20"
+      y1="0"
+      y2="0"
+    />
+  </g>
+  <g
+    class="svg-42-d-g"
+    transform="rotate(-75.6) translate(20, 0)"
+  >
+    <line
+      class="svg-42-d-line"
+      style="animation-delay: -11.52s"
+      x1="0"
+      x2="20"
+      y1="0"
+      y2="0"
+    />
+  </g>
+  <g
+    class="svg-42-d-g"
+    transform="rotate(-72) translate(20, 0)"
+  >
+    <line
+      class="svg-42-d-line"
+      style="animation-delay: -11.4s"
+      x1="0"
+      x2="20"
+      y1="0"
+      y2="0"
+    />
+  </g>
+  <g
+    class="svg-42-d-g"
+    transform="rotate(-68.4) translate(20, 0)"
+  >
+    <line
+      class="svg-42-d-line"
+      style="animation-delay: -11.28s"
+      x1="0"
+      x2="20"
+      y1="0"
+      y2="0"
+    />
+  </g>
+  <g
+    class="svg-42-d-g"
+    transform="rotate(-64.8) translate(20, 0)"
+  >
+    <line
+      class="svg-42-d-line"
+      style="animation-delay: -11.16s"
+      x1="0"
+      x2="20"
+      y1="0"
+      y2="0"
+    />
+  </g>
+  <g
+    class="svg-42-d-g"
+    transform="rotate(-61.2) translate(20, 0)"
+  >
+    <line
+      class="svg-42-d-line"
+      style="animation-delay: -11.04s"
+      x1="0"
+      x2="20"
+      y1="0"
+      y2="0"
+    />
+  </g>
+  <g
+    class="svg-42-d-g"
+    transform="rotate(-57.6) translate(20, 0)"
+  >
+    <line
+      class="svg-42-d-line"
+      style="animation-delay: -10.92s"
+      x1="0"
+      x2="20"
+      y1="0"
+      y2="0"
+    />
+  </g>
+  <g
+    class="svg-42-d-g"
+    transform="rotate(-54) translate(20, 0)"
+  >
+    <line
+      class="svg-42-d-line"
+      style="animation-delay: -10.8s"
+      x1="0"
+      x2="20"
+      y1="0"
+      y2="0"
+    />
+  </g>
+  <g
+    class="svg-42-d-g"
+    transform="rotate(-50.4) translate(20, 0)"
+  >
+    <line
+      class="svg-42-d-line"
+      style="animation-delay: -10.68s"
+      x1="0"
+      x2="20"
+      y1="0"
+      y2="0"
+    />
+  </g>
+  <g
+    class="svg-42-d-g"
+    transform="rotate(-46.8) translate(20, 0)"
+  >
+    <line
+      class="svg-42-d-line"
+      style="animation-delay: -10.56s"
+      x1="0"
+      x2="20"
+      y1="0"
+      y2="0"
+    />
+  </g>
+  <g
+    class="svg-42-d-g"
+    transform="rotate(-43.199999999999996) translate(20, 0)"
+  >
+    <line
+      class="svg-42-d-line"
+      style="animation-delay: -10.44s"
+      x1="0"
+      x2="20"
+      y1="0"
+      y2="0"
+    />
+  </g>
+  <g
+    class="svg-42-d-g"
+    transform="rotate(-39.6) translate(20, 0)"
+  >
+    <line
+      class="svg-42-d-line"
+      style="animation-delay: -10.32s"
+      x1="0"
+      x2="20"
+      y1="0"
+      y2="0"
+    />
+  </g>
+  <g
+    class="svg-42-d-g"
+    transform="rotate(-36) translate(20, 0)"
+  >
+    <line
+      class="svg-42-d-line"
+      style="animation-delay: -10.2s"
+      x1="0"
+      x2="20"
+      y1="0"
+      y2="0"
+    />
+  </g>
+  <g
+    class="svg-42-d-g"
+    transform="rotate(-32.4) translate(20, 0)"
+  >
+    <line
+      class="svg-42-d-line"
+      style="animation-delay: -10.08s"
+      x1="0"
+      x2="20"
+      y1="0"
+      y2="0"
+    />
+  </g>
+  <g
+    class="svg-42-d-g"
+    transform="rotate(-28.799999999999997) translate(20, 0)"
+  >
+    <line
+      class="svg-42-d-line"
+      style="animation-delay: -9.96s"
+      x1="0"
+      x2="20"
+      y1="0"
+      y2="0"
+    />
+  </g>
+  <g
+    class="svg-42-d-g"
+    transform="rotate(-25.200000000000003) translate(20, 0)"
+  >
+    <line
+      class="svg-42-d-line"
+      style="animation-delay: -9.84s"
+      x1="0"
+      x2="20"
+      y1="0"
+      y2="0"
+    />
+  </g>
+  <g
+    class="svg-42-d-g"
+    transform="rotate(-21.599999999999994) translate(20, 0)"
+  >
+    <line
+      class="svg-42-d-line"
+      style="animation-delay: -9.72s"
+      x1="0"
+      x2="20"
+      y1="0"
+      y2="0"
+    />
+  </g>
+  <g
+    class="svg-42-d-g"
+    transform="rotate(-18) translate(20, 0)"
+  >
+    <line
+      class="svg-42-d-line"
+      style="animation-delay: -9.6s"
+      x1="0"
+      x2="20"
+      y1="0"
+      y2="0"
+    />
+  </g>
+  <g
+    class="svg-42-d-g"
+    transform="rotate(-14.399999999999991) translate(20, 0)"
+  >
+    <line
+      class="svg-42-d-line"
+      style="animation-delay: -9.48s"
+      x1="0"
+      x2="20"
+      y1="0"
+      y2="0"
+    />
+  </g>
+  <g
+    class="svg-42-d-g"
+    transform="rotate(-10.799999999999997) translate(20, 0)"
+  >
+    <line
+      class="svg-42-d-line"
+      style="animation-delay: -9.36s"
+      x1="0"
+      x2="20"
+      y1="0"
+      y2="0"
+    />
+  </g>
+  <g
+    class="svg-42-d-g"
+    transform="rotate(-7.200000000000003) translate(20, 0)"
+  >
+    <line
+      class="svg-42-d-line"
+      style="animation-delay: -9.24s"
+      x1="0"
+      x2="20"
+      y1="0"
+      y2="0"
+    />
+  </g>
+  <g
+    class="svg-42-d-g"
+    transform="rotate(-3.5999999999999943) translate(20, 0)"
+  >
+    <line
+      class="svg-42-d-line"
+      style="animation-delay: -9.12s"
+      x1="0"
+      x2="20"
+      y1="0"
+      y2="0"
+    />
+  </g>
+  <g
+    class="svg-42-d-g"
+    transform="rotate(0) translate(20, 0)"
+  >
+    <line
+      class="svg-42-d-line"
+      style="animation-delay: -9s"
+      x1="0"
+      x2="20"
+      y1="0"
+      y2="0"
+    />
+  </g>
+  <g
+    class="svg-42-d-g"
+    transform="rotate(3.6000000000000085) translate(20, 0)"
+  >
+    <line
+      class="svg-42-d-line"
+      style="animation-delay: -8.88s"
+      x1="0"
+      x2="20"
+      y1="0"
+      y2="0"
+    />
+  </g>
+  <g
+    class="svg-42-d-g"
+    transform="rotate(7.200000000000003) translate(20, 0)"
+  >
+    <line
+      class="svg-42-d-line"
+      style="animation-delay: -8.76s"
+      x1="0"
+      x2="20"
+      y1="0"
+      y2="0"
+    />
+  </g>
+  <g
+    class="svg-42-d-g"
+    transform="rotate(10.799999999999997) translate(20, 0)"
+  >
+    <line
+      class="svg-42-d-line"
+      style="animation-delay: -8.64s"
+      x1="0"
+      x2="20"
+      y1="0"
+      y2="0"
+    />
+  </g>
+  <g
+    class="svg-42-d-g"
+    transform="rotate(14.400000000000006) translate(20, 0)"
+  >
+    <line
+      class="svg-42-d-line"
+      style="animation-delay: -8.52s"
+      x1="0"
+      x2="20"
+      y1="0"
+      y2="0"
+    />
+  </g>
+  <g
+    class="svg-42-d-g"
+    transform="rotate(18) translate(20, 0)"
+  >
+    <line
+      class="svg-42-d-line"
+      style="animation-delay: -8.4s"
+      x1="0"
+      x2="20"
+      y1="0"
+      y2="0"
+    />
+  </g>
+  <g
+    class="svg-42-d-g"
+    transform="rotate(21.60000000000001) translate(20, 0)"
+  >
+    <line
+      class="svg-42-d-line"
+      style="animation-delay: -8.28s"
+      x1="0"
+      x2="20"
+      y1="0"
+      y2="0"
+    />
+  </g>
+  <g
+    class="svg-42-d-g"
+    transform="rotate(25.200000000000003) translate(20, 0)"
+  >
+    <line
+      class="svg-42-d-line"
+      style="animation-delay: -8.16s"
+      x1="0"
+      x2="20"
+      y1="0"
+      y2="0"
+    />
+  </g>
+  <g
+    class="svg-42-d-g"
+    transform="rotate(28.799999999999997) translate(20, 0)"
+  >
+    <line
+      class="svg-42-d-line"
+      style="animation-delay: -8.04s"
+      x1="0"
+      x2="20"
+      y1="0"
+      y2="0"
+    />
+  </g>
+  <g
+    class="svg-42-d-g"
+    transform="rotate(32.400000000000006) translate(20, 0)"
+  >
+    <line
+      class="svg-42-d-line"
+      style="animation-delay: -7.92s"
+      x1="0"
+      x2="20"
+      y1="0"
+      y2="0"
+    />
+  </g>
+  <g
+    class="svg-42-d-g"
+    transform="rotate(36) translate(20, 0)"
+  >
+    <line
+      class="svg-42-d-line"
+      style="animation-delay: -7.8s"
+      x1="0"
+      x2="20"
+      y1="0"
+      y2="0"
+    />
+  </g>
+  <g
+    class="svg-42-d-g"
+    transform="rotate(39.599999999999994) translate(20, 0)"
+  >
+    <line
+      class="svg-42-d-line"
+      style="animation-delay: -7.68s"
+      x1="0"
+      x2="20"
+      y1="0"
+      y2="0"
+    />
+  </g>
+  <g
+    class="svg-42-d-g"
+    transform="rotate(43.20000000000002) translate(20, 0)"
+  >
+    <line
+      class="svg-42-d-line"
+      style="animation-delay: -7.56s"
+      x1="0"
+      x2="20"
+      y1="0"
+      y2="0"
+    />
+  </g>
+  <g
+    class="svg-42-d-g"
+    transform="rotate(46.80000000000001) translate(20, 0)"
+  >
+    <line
+      class="svg-42-d-line"
+      style="animation-delay: -7.44s"
+      x1="0"
+      x2="20"
+      y1="0"
+      y2="0"
+    />
+  </g>
+  <g
+    class="svg-42-d-g"
+    transform="rotate(50.400000000000006) translate(20, 0)"
+  >
+    <line
+      class="svg-42-d-line"
+      style="animation-delay: -7.32s"
+      x1="0"
+      x2="20"
+      y1="0"
+      y2="0"
+    />
+  </g>
+  <g
+    class="svg-42-d-g"
+    transform="rotate(54) translate(20, 0)"
+  >
+    <line
+      class="svg-42-d-line"
+      style="animation-delay: -7.2s"
+      x1="0"
+      x2="20"
+      y1="0"
+      y2="0"
+    />
+  </g>
+  <g
+    class="svg-42-d-g"
+    transform="rotate(57.599999999999994) translate(20, 0)"
+  >
+    <line
+      class="svg-42-d-line"
+      style="animation-delay: -7.08s"
+      x1="0"
+      x2="20"
+      y1="0"
+      y2="0"
+    />
+  </g>
+  <g
+    class="svg-42-d-g"
+    transform="rotate(61.20000000000002) translate(20, 0)"
+  >
+    <line
+      class="svg-42-d-line"
+      style="animation-delay: -6.96s"
+      x1="0"
+      x2="20"
+      y1="0"
+      y2="0"
+    />
+  </g>
+  <g
+    class="svg-42-d-g"
+    transform="rotate(64.80000000000001) translate(20, 0)"
+  >
+    <line
+      class="svg-42-d-line"
+      style="animation-delay: -6.84s"
+      x1="0"
+      x2="20"
+      y1="0"
+      y2="0"
+    />
+  </g>
+  <g
+    class="svg-42-d-g"
+    transform="rotate(68.4) translate(20, 0)"
+  >
+    <line
+      class="svg-42-d-line"
+      style="animation-delay: -6.72s"
+      x1="0"
+      x2="20"
+      y1="0"
+      y2="0"
+    />
+  </g>
+  <g
+    class="svg-42-d-g"
+    transform="rotate(72) translate(20, 0)"
+  >
+    <line
+      class="svg-42-d-line"
+      style="animation-delay: -6.6s"
+      x1="0"
+      x2="20"
+      y1="0"
+      y2="0"
+    />
+  </g>
+  <g
+    class="svg-42-d-g"
+    transform="rotate(75.6) translate(20, 0)"
+  >
+    <line
+      class="svg-42-d-line"
+      style="animation-delay: -6.48s"
+      x1="0"
+      x2="20"
+      y1="0"
+      y2="0"
+    />
+  </g>
+  <g
+    class="svg-42-d-g"
+    transform="rotate(79.20000000000002) translate(20, 0)"
+  >
+    <line
+      class="svg-42-d-line"
+      style="animation-delay: -6.36s"
+      x1="0"
+      x2="20"
+      y1="0"
+      y2="0"
+    />
+  </g>
+  <g
+    class="svg-42-d-g"
+    transform="rotate(82.80000000000001) translate(20, 0)"
+  >
+    <line
+      class="svg-42-d-line"
+      style="animation-delay: -6.24s"
+      x1="0"
+      x2="20"
+      y1="0"
+      y2="0"
+    />
+  </g>
+  <g
+    class="svg-42-d-g"
+    transform="rotate(86.4) translate(20, 0)"
+  >
+    <line
+      class="svg-42-d-line"
+      style="animation-delay: -6.12s"
+      x1="0"
+      x2="20"
+      y1="0"
+      y2="0"
+    />
+  </g>
+  <g
+    class="svg-42-d-g"
+    transform="rotate(90) translate(20, 0)"
+  >
+    <line
+      class="svg-42-d-line"
+      style="animation-delay: -6s"
+      x1="0"
+      x2="20"
+      y1="0"
+      y2="0"
+    />
+  </g>
+  <g
+    class="svg-42-d-g"
+    transform="rotate(93.6) translate(20, 0)"
+  >
+    <line
+      class="svg-42-d-line"
+      style="animation-delay: -5.88s"
+      x1="0"
+      x2="20"
+      y1="0"
+      y2="0"
+    />
+  </g>
+  <g
+    class="svg-42-d-g"
+    transform="rotate(97.20000000000002) translate(20, 0)"
+  >
+    <line
+      class="svg-42-d-line"
+      style="animation-delay: -5.76s"
+      x1="0"
+      x2="20"
+      y1="0"
+      y2="0"
+    />
+  </g>
+  <g
+    class="svg-42-d-g"
+    transform="rotate(100.80000000000001) translate(20, 0)"
+  >
+    <line
+      class="svg-42-d-line"
+      style="animation-delay: -5.64s"
+      x1="0"
+      x2="20"
+      y1="0"
+      y2="0"
+    />
+  </g>
+  <g
+    class="svg-42-d-g"
+    transform="rotate(104.4) translate(20, 0)"
+  >
+    <line
+      class="svg-42-d-line"
+      style="animation-delay: -5.52s"
+      x1="0"
+      x2="20"
+      y1="0"
+      y2="0"
+    />
+  </g>
+  <g
+    class="svg-42-d-g"
+    transform="rotate(108) translate(20, 0)"
+  >
+    <line
+      class="svg-42-d-line"
+      style="animation-delay: -5.4s"
+      x1="0"
+      x2="20"
+      y1="0"
+      y2="0"
+    />
+  </g>
+  <g
+    class="svg-42-d-g"
+    transform="rotate(111.6) translate(20, 0)"
+  >
+    <line
+      class="svg-42-d-line"
+      style="animation-delay: -5.28s"
+      x1="0"
+      x2="20"
+      y1="0"
+      y2="0"
+    />
+  </g>
+  <g
+    class="svg-42-d-g"
+    transform="rotate(115.20000000000002) translate(20, 0)"
+  >
+    <line
+      class="svg-42-d-line"
+      style="animation-delay: -5.16s"
+      x1="0"
+      x2="20"
+      y1="0"
+      y2="0"
+    />
+  </g>
+  <g
+    class="svg-42-d-g"
+    transform="rotate(118.80000000000001) translate(20, 0)"
+  >
+    <line
+      class="svg-42-d-line"
+      style="animation-delay: -5.04s"
+      x1="0"
+      x2="20"
+      y1="0"
+      y2="0"
+    />
+  </g>
+  <g
+    class="svg-42-d-g"
+    transform="rotate(122.4) translate(20, 0)"
+  >
+    <line
+      class="svg-42-d-line"
+      style="animation-delay: -4.92s"
+      x1="0"
+      x2="20"
+      y1="0"
+      y2="0"
+    />
+  </g>
+  <g
+    class="svg-42-d-g"
+    transform="rotate(126) translate(20, 0)"
+  >
+    <line
+      class="svg-42-d-line"
+      style="animation-delay: -4.8s"
+      x1="0"
+      x2="20"
+      y1="0"
+      y2="0"
+    />
+  </g>
+  <g
+    class="svg-42-d-g"
+    transform="rotate(129.6) translate(20, 0)"
+  >
+    <line
+      class="svg-42-d-line"
+      style="animation-delay: -4.68s"
+      x1="0"
+      x2="20"
+      y1="0"
+      y2="0"
+    />
+  </g>
+  <g
+    class="svg-42-d-g"
+    transform="rotate(133.20000000000002) translate(20, 0)"
+  >
+    <line
+      class="svg-42-d-line"
+      style="animation-delay: -4.56s"
+      x1="0"
+      x2="20"
+      y1="0"
+      y2="0"
+    />
+  </g>
+  <g
+    class="svg-42-d-g"
+    transform="rotate(136.8) translate(20, 0)"
+  >
+    <line
+      class="svg-42-d-line"
+      style="animation-delay: -4.44s"
+      x1="0"
+      x2="20"
+      y1="0"
+      y2="0"
+    />
+  </g>
+  <g
+    class="svg-42-d-g"
+    transform="rotate(140.4) translate(20, 0)"
+  >
+    <line
+      class="svg-42-d-line"
+      style="animation-delay: -4.32s"
+      x1="0"
+      x2="20"
+      y1="0"
+      y2="0"
+    />
+  </g>
+  <g
+    class="svg-42-d-g"
+    transform="rotate(144) translate(20, 0)"
+  >
+    <line
+      class="svg-42-d-line"
+      style="animation-delay: -4.2s"
+      x1="0"
+      x2="20"
+      y1="0"
+      y2="0"
+    />
+  </g>
+  <g
+    class="svg-42-d-g"
+    transform="rotate(147.6) translate(20, 0)"
+  >
+    <line
+      class="svg-42-d-line"
+      style="animation-delay: -4.08s"
+      x1="0"
+      x2="20"
+      y1="0"
+      y2="0"
+    />
+  </g>
+  <g
+    class="svg-42-d-g"
+    transform="rotate(151.20000000000002) translate(20, 0)"
+  >
+    <line
+      class="svg-42-d-line"
+      style="animation-delay: -3.96s"
+      x1="0"
+      x2="20"
+      y1="0"
+      y2="0"
+    />
+  </g>
+  <g
+    class="svg-42-d-g"
+    transform="rotate(154.8) translate(20, 0)"
+  >
+    <line
+      class="svg-42-d-line"
+      style="animation-delay: -3.84s"
+      x1="0"
+      x2="20"
+      y1="0"
+      y2="0"
+    />
+  </g>
+  <g
+    class="svg-42-d-g"
+    transform="rotate(158.4) translate(20, 0)"
+  >
+    <line
+      class="svg-42-d-line"
+      style="animation-delay: -3.72s"
+      x1="0"
+      x2="20"
+      y1="0"
+      y2="0"
+    />
+  </g>
+  <g
+    class="svg-42-d-g"
+    transform="rotate(162) translate(20, 0)"
+  >
+    <line
+      class="svg-42-d-line"
+      style="animation-delay: -3.6s"
+      x1="0"
+      x2="20"
+      y1="0"
+      y2="0"
+    />
+  </g>
+  <g
+    class="svg-42-d-g"
+    transform="rotate(165.6) translate(20, 0)"
+  >
+    <line
+      class="svg-42-d-line"
+      style="animation-delay: -3.48s"
+      x1="0"
+      x2="20"
+      y1="0"
+      y2="0"
+    />
+  </g>
+  <g
+    class="svg-42-d-g"
+    transform="rotate(169.2) translate(20, 0)"
+  >
+    <line
+      class="svg-42-d-line"
+      style="animation-delay: -3.36s"
+      x1="0"
+      x2="20"
+      y1="0"
+      y2="0"
+    />
+  </g>
+  <g
+    class="svg-42-d-g"
+    transform="rotate(172.8) translate(20, 0)"
+  >
+    <line
+      class="svg-42-d-line"
+      style="animation-delay: -3.24s"
+      x1="0"
+      x2="20"
+      y1="0"
+      y2="0"
+    />
+  </g>
+  <g
+    class="svg-42-d-g"
+    transform="rotate(176.40000000000003) translate(20, 0)"
+  >
+    <line
+      class="svg-42-d-line"
+      style="animation-delay: -3.12s"
+      x1="0"
+      x2="20"
+      y1="0"
+      y2="0"
+    />
+  </g>
+  <g
+    class="svg-42-d-g"
+    transform="rotate(180) translate(20, 0)"
+  >
+    <line
+      class="svg-42-d-line"
+      style="animation-delay: -3s"
+      x1="0"
+      x2="20"
+      y1="0"
+      y2="0"
+    />
+  </g>
+  <g
+    class="svg-42-d-g"
+    transform="rotate(183.60000000000002) translate(20, 0)"
+  >
+    <line
+      class="svg-42-d-line"
+      style="animation-delay: -2.88s"
+      x1="0"
+      x2="20"
+      y1="0"
+      y2="0"
+    />
+  </g>
+  <g
+    class="svg-42-d-g"
+    transform="rotate(187.2) translate(20, 0)"
+  >
+    <line
+      class="svg-42-d-line"
+      style="animation-delay: -2.76s"
+      x1="0"
+      x2="20"
+      y1="0"
+      y2="0"
+    />
+  </g>
+  <g
+    class="svg-42-d-g"
+    transform="rotate(190.8) translate(20, 0)"
+  >
+    <line
+      class="svg-42-d-line"
+      style="animation-delay: -2.64s"
+      x1="0"
+      x2="20"
+      y1="0"
+      y2="0"
+    />
+  </g>
+  <g
+    class="svg-42-d-g"
+    transform="rotate(194.40000000000003) translate(20, 0)"
+  >
+    <line
+      class="svg-42-d-line"
+      style="animation-delay: -2.52s"
+      x1="0"
+      x2="20"
+      y1="0"
+      y2="0"
+    />
+  </g>
+  <g
+    class="svg-42-d-g"
+    transform="rotate(198) translate(20, 0)"
+  >
+    <line
+      class="svg-42-d-line"
+      style="animation-delay: -2.4s"
+      x1="0"
+      x2="20"
+      y1="0"
+      y2="0"
+    />
+  </g>
+  <g
+    class="svg-42-d-g"
+    transform="rotate(201.60000000000002) translate(20, 0)"
+  >
+    <line
+      class="svg-42-d-line"
+      style="animation-delay: -2.28s"
+      x1="0"
+      x2="20"
+      y1="0"
+      y2="0"
+    />
+  </g>
+  <g
+    class="svg-42-d-g"
+    transform="rotate(205.2) translate(20, 0)"
+  >
+    <line
+      class="svg-42-d-line"
+      style="animation-delay: -2.16s"
+      x1="0"
+      x2="20"
+      y1="0"
+      y2="0"
+    />
+  </g>
+  <g
+    class="svg-42-d-g"
+    transform="rotate(208.8) translate(20, 0)"
+  >
+    <line
+      class="svg-42-d-line"
+      style="animation-delay: -2.04s"
+      x1="0"
+      x2="20"
+      y1="0"
+      y2="0"
+    />
+  </g>
+  <g
+    class="svg-42-d-g"
+    transform="rotate(212.40000000000003) translate(20, 0)"
+  >
+    <line
+      class="svg-42-d-line"
+      style="animation-delay: -1.92s"
+      x1="0"
+      x2="20"
+      y1="0"
+      y2="0"
+    />
+  </g>
+  <g
+    class="svg-42-d-g"
+    transform="rotate(216) translate(20, 0)"
+  >
+    <line
+      class="svg-42-d-line"
+      style="animation-delay: -1.8s"
+      x1="0"
+      x2="20"
+      y1="0"
+      y2="0"
+    />
+  </g>
+  <g
+    class="svg-42-d-g"
+    transform="rotate(219.60000000000002) translate(20, 0)"
+  >
+    <line
+      class="svg-42-d-line"
+      style="animation-delay: -1.68s"
+      x1="0"
+      x2="20"
+      y1="0"
+      y2="0"
+    />
+  </g>
+  <g
+    class="svg-42-d-g"
+    transform="rotate(223.2) translate(20, 0)"
+  >
+    <line
+      class="svg-42-d-line"
+      style="animation-delay: -1.56s"
+      x1="0"
+      x2="20"
+      y1="0"
+      y2="0"
+    />
+  </g>
+  <g
+    class="svg-42-d-g"
+    transform="rotate(226.8) translate(20, 0)"
+  >
+    <line
+      class="svg-42-d-line"
+      style="animation-delay: -1.44s"
+      x1="0"
+      x2="20"
+      y1="0"
+      y2="0"
+    />
+  </g>
+  <g
+    class="svg-42-d-g"
+    transform="rotate(230.40000000000003) translate(20, 0)"
+  >
+    <line
+      class="svg-42-d-line"
+      style="animation-delay: -1.32s"
+      x1="0"
+      x2="20"
+      y1="0"
+      y2="0"
+    />
+  </g>
+  <g
+    class="svg-42-d-g"
+    transform="rotate(234) translate(20, 0)"
+  >
+    <line
+      class="svg-42-d-line"
+      style="animation-delay: -1.2s"
+      x1="0"
+      x2="20"
+      y1="0"
+      y2="0"
+    />
+  </g>
+  <g
+    class="svg-42-d-g"
+    transform="rotate(237.60000000000002) translate(20, 0)"
+  >
+    <line
+      class="svg-42-d-line"
+      style="animation-delay: -1.08s"
+      x1="0"
+      x2="20"
+      y1="0"
+      y2="0"
+    />
+  </g>
+  <g
+    class="svg-42-d-g"
+    transform="rotate(241.2) translate(20, 0)"
+  >
+    <line
+      class="svg-42-d-line"
+      style="animation-delay: -0.96s"
+      x1="0"
+      x2="20"
+      y1="0"
+      y2="0"
+    />
+  </g>
+  <g
+    class="svg-42-d-g"
+    transform="rotate(244.8) translate(20, 0)"
+  >
+    <line
+      class="svg-42-d-line"
+      style="animation-delay: -0.84s"
+      x1="0"
+      x2="20"
+      y1="0"
+      y2="0"
+    />
+  </g>
+  <g
+    class="svg-42-d-g"
+    transform="rotate(248.40000000000003) translate(20, 0)"
+  >
+    <line
+      class="svg-42-d-line"
+      style="animation-delay: -0.72s"
+      x1="0"
+      x2="20"
+      y1="0"
+      y2="0"
+    />
+  </g>
+  <g
+    class="svg-42-d-g"
+    transform="rotate(252) translate(20, 0)"
+  >
+    <line
+      class="svg-42-d-line"
+      style="animation-delay: -0.6s"
+      x1="0"
+      x2="20"
+      y1="0"
+      y2="0"
+    />
+  </g>
+  <g
+    class="svg-42-d-g"
+    transform="rotate(255.60000000000002) translate(20, 0)"
+  >
+    <line
+      class="svg-42-d-line"
+      style="animation-delay: -0.48s"
+      x1="0"
+      x2="20"
+      y1="0"
+      y2="0"
+    />
+  </g>
+  <g
+    class="svg-42-d-g"
+    transform="rotate(259.2) translate(20, 0)"
+  >
+    <line
+      class="svg-42-d-line"
+      style="animation-delay: -0.36s"
+      x1="0"
+      x2="20"
+      y1="0"
+      y2="0"
+    />
+  </g>
+  <g
+    class="svg-42-d-g"
+    transform="rotate(262.8) translate(20, 0)"
+  >
+    <line
+      class="svg-42-d-line"
+      style="animation-delay: -0.24s"
+      x1="0"
+      x2="20"
+      y1="0"
+      y2="0"
+    />
+  </g>
+  <g
+    class="svg-42-d-g"
+    transform="rotate(266.40000000000003) translate(20, 0)"
+  >
+    <line
+      class="svg-42-d-line"
+      style="animation-delay: -0.12s"
+      x1="0"
+      x2="20"
+      y1="0"
+      y2="0"
+    />
+  </g>
+</svg>

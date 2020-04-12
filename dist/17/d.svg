@@ -1,0 +1,99 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE svg>
+<svg
+  data-animation-duration="2s"
+  viewBox="-50 -50 100 100"
+>
+  <title>
+    ANIMATION 17 - VARIATION D
+  </title>
+  <desc>
+    <p>See this animation in action here: <a href="https://andrew.wang-hoyer.com/experiments/svg-animations/17/d" target="_blank" rel="noopener">https://andrew.wang-hoyer.com/experiments/svg-animations/17/d</a>.</p>
+    <p>Generator source code : <a href="https://github.com/ndrwhr/svg-animation-src/tree/master/site/_svgs/generators/animations/17/d.js" target="_blank" rel="noopener">https://github.com/ndrwhr/svg-animation-src/tree/master/site/_svgs/generators/animations/17/d.js</a>.</p>
+    <p>All generated files and source code are released under the following license:</p>
+    <p>MIT License</p>
+    <p>Copyright (c) 2018-present Andrew Hoyer</p>
+    <p>Permission is hereby granted, free of charge, to any person obtaining a copy of this software and associated documentation files (the &quot;Software&quot;), to deal in the Software without restriction, including without limitation the rights to use, copy, modify, merge, publish, distribute, sublicense, and/or sell copies of the Software, and to permit persons to whom the Software is furnished to do so, subject to the following conditions:</p>
+    <p>The above copyright notice and this permission notice shall be included in all copies or substantial portions of the Software.</p>
+    <p>THE SOFTWARE IS PROVIDED &quot;AS IS&quot;, WITHOUT WARRANTY OF ANY KIND, EXPRESS OR IMPLIED, INCLUDING BUT NOT LIMITED TO THE WARRANTIES OF MERCHANTABILITY, FITNESS FOR A PARTICULAR PURPOSE AND NONINFRINGEMENT. IN NO EVENT SHALL THE AUTHORS OR COPYRIGHT HOLDERS BE LIABLE FOR ANY CLAIM, DAMAGES OR OTHER LIABILITY, WHETHER IN AN ACTION OF CONTRACT, TORT OR OTHERWISE, ARISING FROM, OUT OF OR IN CONNECTION WITH THE SOFTWARE OR THE USE OR OTHER DEALINGS IN THE SOFTWARE.</p>
+  </desc>
+  <defs>
+    <clipPath
+      id="svg-17-d-clip-path"
+    >
+      <rect
+        class="svg-17-d-rect"
+        height="45"
+        width="90"
+        x="-45"
+        y="-45"
+      />
+    </clipPath>
+  </defs>
+  <style>
+    /* <![CDATA[ */
+      .svg-17-d-circle {
+        stroke: black;
+        stroke-width: 5;
+        fill: none;
+        animation: svg-17-d-main-anim 2s ease-in-out alternate infinite;
+      }
+      
+      .svg-17-d-center-dot {
+        fill: black;
+      }
+      
+      @keyframes svg-17-d-main-anim {
+        from {
+          transform: rotate(-110deg);
+        }
+      
+        to {
+          transform: rotate(110deg);
+        }
+      }
+      
+    /* ]]> */
+  </style>
+  <g
+    class="svg-17-d-g"
+    transform="rotate(0 0 0)"
+  >
+    <circle
+      class="svg-17-d-circle"
+      clip-path="url(#svg-17-d-clip-path)"
+      r="40"
+      style="animation-delay: -0s"
+    />
+    <circle
+      class="svg-17-d-circle"
+      clip-path="url(#svg-17-d-clip-path)"
+      r="33"
+      style="animation-delay: -0.2s"
+    />
+    <circle
+      class="svg-17-d-circle"
+      clip-path="url(#svg-17-d-clip-path)"
+      r="26"
+      style="animation-delay: -0.4s"
+    />
+    <circle
+      class="svg-17-d-circle"
+      clip-path="url(#svg-17-d-clip-path)"
+      r="19"
+      style="animation-delay: -0.6s"
+    />
+    <circle
+      class="svg-17-d-circle"
+      clip-path="url(#svg-17-d-clip-path)"
+      r="12"
+      style="animation-delay: -0.8s"
+    />
+    <circle
+      class="svg-17-d-circle svg-17-d-center-dot"
+      clip-path="url(#svg-17-d-clip-path)"
+      r="5"
+      style="animation-delay: -1s"
+    />
+  </g>
+</svg>

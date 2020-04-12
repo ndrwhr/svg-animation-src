@@ -1,0 +1,321 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE svg>
+<svg
+  data-animation-duration="20s"
+  viewBox="0 0 100 100"
+>
+  <title>
+    ANIMATION 11 - VARIATION B
+  </title>
+  <desc>
+    <p>See this animation in action here: <a href="https://andrew.wang-hoyer.com/experiments/svg-animations/11/b" target="_blank" rel="noopener">https://andrew.wang-hoyer.com/experiments/svg-animations/11/b</a>.</p>
+    <p>Generator source code : <a href="https://github.com/ndrwhr/svg-animation-src/tree/master/site/_svgs/generators/animations/11/b.js" target="_blank" rel="noopener">https://github.com/ndrwhr/svg-animation-src/tree/master/site/_svgs/generators/animations/11/b.js</a>.</p>
+    <p>All generated files and source code are released under the following license:</p>
+    <p>MIT License</p>
+    <p>Copyright (c) 2018-present Andrew Hoyer</p>
+    <p>Permission is hereby granted, free of charge, to any person obtaining a copy of this software and associated documentation files (the &quot;Software&quot;), to deal in the Software without restriction, including without limitation the rights to use, copy, modify, merge, publish, distribute, sublicense, and/or sell copies of the Software, and to permit persons to whom the Software is furnished to do so, subject to the following conditions:</p>
+    <p>The above copyright notice and this permission notice shall be included in all copies or substantial portions of the Software.</p>
+    <p>THE SOFTWARE IS PROVIDED &quot;AS IS&quot;, WITHOUT WARRANTY OF ANY KIND, EXPRESS OR IMPLIED, INCLUDING BUT NOT LIMITED TO THE WARRANTIES OF MERCHANTABILITY, FITNESS FOR A PARTICULAR PURPOSE AND NONINFRINGEMENT. IN NO EVENT SHALL THE AUTHORS OR COPYRIGHT HOLDERS BE LIABLE FOR ANY CLAIM, DAMAGES OR OTHER LIABILITY, WHETHER IN AN ACTION OF CONTRACT, TORT OR OTHERWISE, ARISING FROM, OUT OF OR IN CONNECTION WITH THE SOFTWARE OR THE USE OR OTHER DEALINGS IN THE SOFTWARE.</p>
+  </desc>
+  <defs>
+    <clipPath
+      id="svg-11-b-mask"
+    >
+      <circle
+        class="svg-11-b-circle"
+        cx="50"
+        cy="50"
+        r="30"
+      />
+    </clipPath>
+  </defs>
+  <style>
+    /* <![CDATA[ */
+      .svg-11-b-line-group {
+        animation: svg-11-b-move-anim 20s ease-in-out infinite;
+      }
+      
+      @keyframes svg-11-b-move-anim {
+        0% {
+          transform: translate(0, 20%);
+        }
+      
+        100% {
+          transform: translate(0, 80%);
+        }
+      }
+      
+      .svg-11-b-rect {
+        transform-origin: 0 0;
+        animation: svg-11-b-scale-anim 20s ease-in-out infinite;
+      }
+      
+      @keyframes svg-11-b-scale-anim {
+        0% {
+          transform: scaleY(.001);
+        }
+      
+        50% {
+          transform: scaleY(1);
+        }
+      
+        100% {
+          transform: scaleY(.001);
+        }
+      }
+      
+    /* ]]> */
+  </style>
+  <g
+    class="svg-11-b-g"
+    clip-path="url(#svg-11-b-mask)"
+  >
+    <g
+      class="svg-11-b-g svg-11-b-line-group"
+      style="animation-delay: -0s"
+    >
+      <rect
+        class="svg-11-b-rect"
+        height="5"
+        style="animation-delay: -0s"
+        width="100"
+        x="0"
+        y="-2.5"
+      />
+    </g>
+    <g
+      class="svg-11-b-g svg-11-b-line-group"
+      style="animation-delay: -1.0526315789473684s"
+    >
+      <rect
+        class="svg-11-b-rect"
+        height="5"
+        style="animation-delay: -1.0526315789473684s"
+        width="100"
+        x="0"
+        y="-2.5"
+      />
+    </g>
+    <g
+      class="svg-11-b-g svg-11-b-line-group"
+      style="animation-delay: -2.1052631578947367s"
+    >
+      <rect
+        class="svg-11-b-rect"
+        height="5"
+        style="animation-delay: -2.1052631578947367s"
+        width="100"
+        x="0"
+        y="-2.5"
+      />
+    </g>
+    <g
+      class="svg-11-b-g svg-11-b-line-group"
+      style="animation-delay: -3.1578947368421053s"
+    >
+      <rect
+        class="svg-11-b-rect"
+        height="5"
+        style="animation-delay: -3.1578947368421053s"
+        width="100"
+        x="0"
+        y="-2.5"
+      />
+    </g>
+    <g
+      class="svg-11-b-g svg-11-b-line-group"
+      style="animation-delay: -4.2105263157894735s"
+    >
+      <rect
+        class="svg-11-b-rect"
+        height="5"
+        style="animation-delay: -4.2105263157894735s"
+        width="100"
+        x="0"
+        y="-2.5"
+      />
+    </g>
+    <g
+      class="svg-11-b-g svg-11-b-line-group"
+      style="animation-delay: -5.2631578947368425s"
+    >
+      <rect
+        class="svg-11-b-rect"
+        height="5"
+        style="animation-delay: -5.2631578947368425s"
+        width="100"
+        x="0"
+        y="-2.5"
+      />
+    </g>
+    <g
+      class="svg-11-b-g svg-11-b-line-group"
+      style="animation-delay: -6.315789473684211s"
+    >
+      <rect
+        class="svg-11-b-rect"
+        height="5"
+        style="animation-delay: -6.315789473684211s"
+        width="100"
+        x="0"
+        y="-2.5"
+      />
+    </g>
+    <g
+      class="svg-11-b-g svg-11-b-line-group"
+      style="animation-delay: -7.368421052631579s"
+    >
+      <rect
+        class="svg-11-b-rect"
+        height="5"
+        style="animation-delay: -7.368421052631579s"
+        width="100"
+        x="0"
+        y="-2.5"
+      />
+    </g>
+    <g
+      class="svg-11-b-g svg-11-b-line-group"
+      style="animation-delay: -8.421052631578947s"
+    >
+      <rect
+        class="svg-11-b-rect"
+        height="5"
+        style="animation-delay: -8.421052631578947s"
+        width="100"
+        x="0"
+        y="-2.5"
+      />
+    </g>
+    <g
+      class="svg-11-b-g svg-11-b-line-group"
+      style="animation-delay: -9.473684210526315s"
+    >
+      <rect
+        class="svg-11-b-rect"
+        height="5"
+        style="animation-delay: -9.473684210526315s"
+        width="100"
+        x="0"
+        y="-2.5"
+      />
+    </g>
+    <g
+      class="svg-11-b-g svg-11-b-line-group"
+      style="animation-delay: -10.526315789473685s"
+    >
+      <rect
+        class="svg-11-b-rect"
+        height="5"
+        style="animation-delay: -10.526315789473685s"
+        width="100"
+        x="0"
+        y="-2.5"
+      />
+    </g>
+    <g
+      class="svg-11-b-g svg-11-b-line-group"
+      style="animation-delay: -11.578947368421053s"
+    >
+      <rect
+        class="svg-11-b-rect"
+        height="5"
+        style="animation-delay: -11.578947368421053s"
+        width="100"
+        x="0"
+        y="-2.5"
+      />
+    </g>
+    <g
+      class="svg-11-b-g svg-11-b-line-group"
+      style="animation-delay: -12.631578947368421s"
+    >
+      <rect
+        class="svg-11-b-rect"
+        height="5"
+        style="animation-delay: -12.631578947368421s"
+        width="100"
+        x="0"
+        y="-2.5"
+      />
+    </g>
+    <g
+      class="svg-11-b-g svg-11-b-line-group"
+      style="animation-delay: -13.68421052631579s"
+    >
+      <rect
+        class="svg-11-b-rect"
+        height="5"
+        style="animation-delay: -13.68421052631579s"
+        width="100"
+        x="0"
+        y="-2.5"
+      />
+    </g>
+    <g
+      class="svg-11-b-g svg-11-b-line-group"
+      style="animation-delay: -14.736842105263158s"
+    >
+      <rect
+        class="svg-11-b-rect"
+        height="5"
+        style="animation-delay: -14.736842105263158s"
+        width="100"
+        x="0"
+        y="-2.5"
+      />
+    </g>
+    <g
+      class="svg-11-b-g svg-11-b-line-group"
+      style="animation-delay: -15.789473684210526s"
+    >
+      <rect
+        class="svg-11-b-rect"
+        height="5"
+        style="animation-delay: -15.789473684210526s"
+        width="100"
+        x="0"
+        y="-2.5"
+      />
+    </g>
+    <g
+      class="svg-11-b-g svg-11-b-line-group"
+      style="animation-delay: -16.842105263157894s"
+    >
+      <rect
+        class="svg-11-b-rect"
+        height="5"
+        style="animation-delay: -16.842105263157894s"
+        width="100"
+        x="0"
+        y="-2.5"
+      />
+    </g>
+    <g
+      class="svg-11-b-g svg-11-b-line-group"
+      style="animation-delay: -17.894736842105264s"
+    >
+      <rect
+        class="svg-11-b-rect"
+        height="5"
+        style="animation-delay: -17.894736842105264s"
+        width="100"
+        x="0"
+        y="-2.5"
+      />
+    </g>
+    <g
+      class="svg-11-b-g svg-11-b-line-group"
+      style="animation-delay: -18.94736842105263s"
+    >
+      <rect
+        class="svg-11-b-rect"
+        height="5"
+        style="animation-delay: -18.94736842105263s"
+        width="100"
+        x="0"
+        y="-2.5"
+      />
+    </g>
+  </g>
+</svg>

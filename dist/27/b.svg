@@ -1,0 +1,328 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE svg>
+<svg
+  data-animation-duration="1s"
+  viewBox="-50 -50 100 100"
+>
+  <title>
+    ANIMATION 27 - VARIATION B
+  </title>
+  <desc>
+    <p>See this animation in action here: <a href="https://andrew.wang-hoyer.com/experiments/svg-animations/27/b" target="_blank" rel="noopener">https://andrew.wang-hoyer.com/experiments/svg-animations/27/b</a>.</p>
+    <p>Generator source code : <a href="https://github.com/ndrwhr/svg-animation-src/tree/master/site/_svgs/generators/animations/27/b.js" target="_blank" rel="noopener">https://github.com/ndrwhr/svg-animation-src/tree/master/site/_svgs/generators/animations/27/b.js</a>.</p>
+    <p>All generated files and source code are released under the following license:</p>
+    <p>MIT License</p>
+    <p>Copyright (c) 2018-present Andrew Hoyer</p>
+    <p>Permission is hereby granted, free of charge, to any person obtaining a copy of this software and associated documentation files (the &quot;Software&quot;), to deal in the Software without restriction, including without limitation the rights to use, copy, modify, merge, publish, distribute, sublicense, and/or sell copies of the Software, and to permit persons to whom the Software is furnished to do so, subject to the following conditions:</p>
+    <p>The above copyright notice and this permission notice shall be included in all copies or substantial portions of the Software.</p>
+    <p>THE SOFTWARE IS PROVIDED &quot;AS IS&quot;, WITHOUT WARRANTY OF ANY KIND, EXPRESS OR IMPLIED, INCLUDING BUT NOT LIMITED TO THE WARRANTIES OF MERCHANTABILITY, FITNESS FOR A PARTICULAR PURPOSE AND NONINFRINGEMENT. IN NO EVENT SHALL THE AUTHORS OR COPYRIGHT HOLDERS BE LIABLE FOR ANY CLAIM, DAMAGES OR OTHER LIABILITY, WHETHER IN AN ACTION OF CONTRACT, TORT OR OTHERWISE, ARISING FROM, OUT OF OR IN CONNECTION WITH THE SOFTWARE OR THE USE OR OTHER DEALINGS IN THE SOFTWARE.</p>
+  </desc>
+  <style>
+    /* <![CDATA[ */
+      .svg-27-b-polygon {
+        stroke: black;
+        stroke-width: .1;
+        fill: white;
+      }
+      
+      .svg-27-b-animation-parent {
+        animation: svg-27-b-main-anim 1s linear infinite;
+      }
+      
+      @keyframes svg-27-b-main-anim {
+        from {
+          transform: translate(0, 0) rotate(0);
+        }
+      
+        to {
+          transform: translate(2.6666666666666665%, 0) rotate(15deg);
+        }
+      }
+      
+    /* ]]> */
+  </style>
+  <g
+    class="svg-27-b-g"
+    transform="scale(1, 1) translate(24, 0)"
+  >
+    <g
+      class="svg-27-b-g"
+    >
+      <polygon
+        class="svg-27-b-polygon"
+        points="0,-20 20,-1.2246467996456087e-15 2.4492935992912173e-15,20 -20,3.673940187178589e-15"
+        transform="rotate(135)"
+      />
+    </g>
+  </g>
+  <g
+    class="svg-27-b-g"
+    transform="scale(-1, 1) translate(24, 0)"
+  >
+    <g
+      class="svg-27-b-g"
+    >
+      <polygon
+        class="svg-27-b-polygon"
+        points="0,-20 20,-1.2246467996456087e-15 2.4492935992912173e-15,20 -20,3.673940187178589e-15"
+        transform="rotate(135)"
+      />
+    </g>
+  </g>
+  <g
+    class="svg-27-b-g"
+    transform="scale(1, 1) translate(21.333333333333332, 0)"
+  >
+    <g
+      class="svg-27-b-g svg-27-b-animation-parent"
+    >
+      <polygon
+        class="svg-27-b-polygon"
+        points="0,-20 20,-1.2246467996456087e-15 2.4492935992912173e-15,20 -20,3.673940187178589e-15"
+        transform="rotate(120)"
+      />
+    </g>
+  </g>
+  <g
+    class="svg-27-b-g"
+    transform="scale(-1, 1) translate(21.333333333333332, 0)"
+  >
+    <g
+      class="svg-27-b-g svg-27-b-animation-parent"
+    >
+      <polygon
+        class="svg-27-b-polygon"
+        points="0,-20 20,-1.2246467996456087e-15 2.4492935992912173e-15,20 -20,3.673940187178589e-15"
+        transform="rotate(120)"
+      />
+    </g>
+  </g>
+  <g
+    class="svg-27-b-g"
+    transform="scale(1, 1) translate(18.666666666666668, 0)"
+  >
+    <g
+      class="svg-27-b-g svg-27-b-animation-parent"
+    >
+      <polygon
+        class="svg-27-b-polygon"
+        points="0,-20 20,-1.2246467996456087e-15 2.4492935992912173e-15,20 -20,3.673940187178589e-15"
+        transform="rotate(105)"
+      />
+    </g>
+  </g>
+  <g
+    class="svg-27-b-g"
+    transform="scale(-1, 1) translate(18.666666666666668, 0)"
+  >
+    <g
+      class="svg-27-b-g svg-27-b-animation-parent"
+    >
+      <polygon
+        class="svg-27-b-polygon"
+        points="0,-20 20,-1.2246467996456087e-15 2.4492935992912173e-15,20 -20,3.673940187178589e-15"
+        transform="rotate(105)"
+      />
+    </g>
+  </g>
+  <g
+    class="svg-27-b-g"
+    transform="scale(1, 1) translate(16, 0)"
+  >
+    <g
+      class="svg-27-b-g svg-27-b-animation-parent"
+    >
+      <polygon
+        class="svg-27-b-polygon"
+        points="0,-20 20,-1.2246467996456087e-15 2.4492935992912173e-15,20 -20,3.673940187178589e-15"
+        transform="rotate(90)"
+      />
+    </g>
+  </g>
+  <g
+    class="svg-27-b-g"
+    transform="scale(-1, 1) translate(16, 0)"
+  >
+    <g
+      class="svg-27-b-g svg-27-b-animation-parent"
+    >
+      <polygon
+        class="svg-27-b-polygon"
+        points="0,-20 20,-1.2246467996456087e-15 2.4492935992912173e-15,20 -20,3.673940187178589e-15"
+        transform="rotate(90)"
+      />
+    </g>
+  </g>
+  <g
+    class="svg-27-b-g"
+    transform="scale(1, 1) translate(13.333333333333334, 0)"
+  >
+    <g
+      class="svg-27-b-g svg-27-b-animation-parent"
+    >
+      <polygon
+        class="svg-27-b-polygon"
+        points="0,-20 20,-1.2246467996456087e-15 2.4492935992912173e-15,20 -20,3.673940187178589e-15"
+        transform="rotate(75)"
+      />
+    </g>
+  </g>
+  <g
+    class="svg-27-b-g"
+    transform="scale(-1, 1) translate(13.333333333333334, 0)"
+  >
+    <g
+      class="svg-27-b-g svg-27-b-animation-parent"
+    >
+      <polygon
+        class="svg-27-b-polygon"
+        points="0,-20 20,-1.2246467996456087e-15 2.4492935992912173e-15,20 -20,3.673940187178589e-15"
+        transform="rotate(75)"
+      />
+    </g>
+  </g>
+  <g
+    class="svg-27-b-g"
+    transform="scale(1, 1) translate(10.666666666666666, 0)"
+  >
+    <g
+      class="svg-27-b-g svg-27-b-animation-parent"
+    >
+      <polygon
+        class="svg-27-b-polygon"
+        points="0,-20 20,-1.2246467996456087e-15 2.4492935992912173e-15,20 -20,3.673940187178589e-15"
+        transform="rotate(60)"
+      />
+    </g>
+  </g>
+  <g
+    class="svg-27-b-g"
+    transform="scale(-1, 1) translate(10.666666666666666, 0)"
+  >
+    <g
+      class="svg-27-b-g svg-27-b-animation-parent"
+    >
+      <polygon
+        class="svg-27-b-polygon"
+        points="0,-20 20,-1.2246467996456087e-15 2.4492935992912173e-15,20 -20,3.673940187178589e-15"
+        transform="rotate(60)"
+      />
+    </g>
+  </g>
+  <g
+    class="svg-27-b-g"
+    transform="scale(1, 1) translate(8, 0)"
+  >
+    <g
+      class="svg-27-b-g svg-27-b-animation-parent"
+    >
+      <polygon
+        class="svg-27-b-polygon"
+        points="0,-20 20,-1.2246467996456087e-15 2.4492935992912173e-15,20 -20,3.673940187178589e-15"
+        transform="rotate(45)"
+      />
+    </g>
+  </g>
+  <g
+    class="svg-27-b-g"
+    transform="scale(-1, 1) translate(8, 0)"
+  >
+    <g
+      class="svg-27-b-g svg-27-b-animation-parent"
+    >
+      <polygon
+        class="svg-27-b-polygon"
+        points="0,-20 20,-1.2246467996456087e-15 2.4492935992912173e-15,20 -20,3.673940187178589e-15"
+        transform="rotate(45)"
+      />
+    </g>
+  </g>
+  <g
+    class="svg-27-b-g"
+    transform="scale(1, 1) translate(5.333333333333333, 0)"
+  >
+    <g
+      class="svg-27-b-g svg-27-b-animation-parent"
+    >
+      <polygon
+        class="svg-27-b-polygon"
+        points="0,-20 20,-1.2246467996456087e-15 2.4492935992912173e-15,20 -20,3.673940187178589e-15"
+        transform="rotate(30)"
+      />
+    </g>
+  </g>
+  <g
+    class="svg-27-b-g"
+    transform="scale(-1, 1) translate(5.333333333333333, 0)"
+  >
+    <g
+      class="svg-27-b-g svg-27-b-animation-parent"
+    >
+      <polygon
+        class="svg-27-b-polygon"
+        points="0,-20 20,-1.2246467996456087e-15 2.4492935992912173e-15,20 -20,3.673940187178589e-15"
+        transform="rotate(30)"
+      />
+    </g>
+  </g>
+  <g
+    class="svg-27-b-g"
+    transform="scale(1, 1) translate(2.6666666666666665, 0)"
+  >
+    <g
+      class="svg-27-b-g svg-27-b-animation-parent"
+    >
+      <polygon
+        class="svg-27-b-polygon"
+        points="0,-20 20,-1.2246467996456087e-15 2.4492935992912173e-15,20 -20,3.673940187178589e-15"
+        transform="rotate(15)"
+      />
+    </g>
+  </g>
+  <g
+    class="svg-27-b-g"
+    transform="scale(-1, 1) translate(2.6666666666666665, 0)"
+  >
+    <g
+      class="svg-27-b-g svg-27-b-animation-parent"
+    >
+      <polygon
+        class="svg-27-b-polygon"
+        points="0,-20 20,-1.2246467996456087e-15 2.4492935992912173e-15,20 -20,3.673940187178589e-15"
+        transform="rotate(15)"
+      />
+    </g>
+  </g>
+  <g
+    class="svg-27-b-g"
+    transform="scale(1, 1) translate(0, 0)"
+  >
+    <g
+      class="svg-27-b-g svg-27-b-animation-parent"
+    >
+      <polygon
+        class="svg-27-b-polygon"
+        points="0,-20 20,-1.2246467996456087e-15 2.4492935992912173e-15,20 -20,3.673940187178589e-15"
+        transform="rotate(0)"
+      />
+    </g>
+  </g>
+  <g
+    class="svg-27-b-g"
+    transform="scale(-1, 1) translate(0, 0)"
+  >
+    <g
+      class="svg-27-b-g svg-27-b-animation-parent"
+    >
+      <polygon
+        class="svg-27-b-polygon"
+        points="0,-20 20,-1.2246467996456087e-15 2.4492935992912173e-15,20 -20,3.673940187178589e-15"
+        transform="rotate(0)"
+      />
+    </g>
+  </g>
+  <polygon
+    class="svg-27-b-polygon"
+    points="0,-20 20,-1.2246467996456087e-15 2.4492935992912173e-15,20 -20,3.673940187178589e-15"
+  />
+</svg>
