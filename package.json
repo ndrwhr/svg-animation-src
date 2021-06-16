@@ -23,7 +23,7 @@
     "markdown-it-sup": "^1.0.0",
     "mkdirp": "^1.0.3",
     "perfectionist": "^2.4.0",
-    "postcss": "^7.0.23",
+    "postcss": "^7.0.36",
     "postcss-csso": "^4.0.0",
     "prettier": "^1.16.4",
     "puppeteer": "^2.1.1",
